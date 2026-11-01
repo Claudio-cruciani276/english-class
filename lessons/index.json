@@ -7,5 +7,41 @@
   "goal_it": "Parlare di routine e fatti e usare at, on e in con il tempo.",
   "minutes": 25,
   "exercises": 15
+ },
+ {
+  "id": "reading-2026-11-02-airport",
+  "kind": "reading",
+  "week": "2026-11-02",
+  "order": 1,
+  "title": "Reading: At the airport",
+  "title_it": "Lettura: All'aeroporto",
+  "goal": "Check in, pass security and find your gate.",
+  "goal_it": "Fare il check-in e trovare il gate.",
+  "minutes": 15,
+  "exercises": 8
+ },
+ {
+  "id": "reading-2026-11-02-directions",
+  "kind": "reading",
+  "week": "2026-11-02",
+  "order": 3,
+  "title": "Reading: Asking for directions",
+  "title_it": "Lettura: Chiedere e dare indicazioni",
+  "goal": "Ask the way and understand the answer.",
+  "goal_it": "Chiedere la strada e capire la risposta.",
+  "minutes": 15,
+  "exercises": 8
+ },
+ {
+  "id": "reading-2026-11-02-restaurant",
+  "kind": "reading",
+  "week": "2026-11-02",
+  "order": 2,
+  "title": "Reading: At a restaurant",
+  "title_it": "Lettura: Al ristorante",
+  "goal": "Book a table, order food and ask for the bill.",
+  "goal_it": "Prenotare, ordinare e chiedere il conto.",
+  "minutes": 15,
+  "exercises": 8
  }
 ]

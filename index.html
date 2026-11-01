@@ -115,7 +115,7 @@ const T={
   show:'Show answer',got:'Got it',againBtn:'Again',lang:'IT',langTitle:'Traduci in italiano',cardsAdded:n=>n+' new cards added to your review.',
   reviewDone:'Review complete',typeHere:'Type your answer',hint:'Hint: ',noDb:'This app needs you to be signed in to Claude. Open the link while signed in.',
   rolesNote:'Progress could not be saved. Ask the course admin to share the app with edit access.',
-  exercise:'Exercise',exN:n=>n+(n===1?' exercise':' exercises'),learn:'Learn',leave:'Leave',points:'points',yes:'You',build:'Tap the words to build the sentence'},
+  exercise:'Exercise',go:'Start',readingTitle:'Reading of the week',readingNote:'Three real-life situations. Finish them any day before Sunday.',readingTag:'Reading',partN:(a,b)=>a+' of '+b,exN:n=>n+(n===1?' exercise':' exercises'),learn:'Learn',leave:'Leave',points:'points',yes:'You',build:'Tap the words to build the sentence'},
  it:{hello:n=>'Ciao, '+n,streak:'giorni di fila',xp:'XP',today:'Lezione di oggi',start:'Inizia la lezione',again:'Rifai',done:'Completata',preview:'Anteprima',min:'min',
   cardsDue:'Carte da ripassare',noCards:'Nessuna carta da ripassare oggi.',review:'Ripassa',cardsN:n=>n+(n===1?' carta':' carte'),thisWeek:'Questa settimana',everyone:'La classe',past:'Lezioni precedenti',
   nolesson:'Ancora nessuna lezione. La prima sta arrivando.',loading:'Caricamento...',cant:'Impossibile raggiungere le lezioni. Controlla la connessione.',
@@ -126,7 +126,7 @@ const T={
   show:'Mostra la risposta',got:'Lo so',againBtn:'Ancora',lang:'EN',langTitle:'Back to English',cardsAdded:n=>n+(n===1?' nuova carta aggiunta':' nuove carte aggiunte')+' al ripasso.',
   reviewDone:'Ripasso completato',typeHere:'Scrivi la risposta',hint:'Suggerimento: ',noDb:'Questa app richiede di essere connessi a Claude. Apri il link dopo aver fatto l\'accesso.',
   rolesNote:'Non sono riuscito a salvare i progressi. Chiedi all\'admin di condividere l\'app con permesso di modifica.',
-  exercise:'Esercizio',exN:n=>n+(n===1?' esercizio':' esercizi'),learn:'Impara',leave:'Esci',points:'punti',yes:'Tu',build:'Tocca le parole per formare la frase'}
+  exercise:'Esercizio',go:'Inizia',readingTitle:'Lettura della settimana',readingNote:'Tre situazioni di vita reale. Falle quando vuoi, entro domenica.',readingTag:'Lettura',partN:(a,b)=>a+' di '+b,exN:n=>n+(n===1?' esercizio':' esercizi'),learn:'Impara',leave:'Esci',points:'punti',yes:'Tu',build:'Tocca le parole per formare la frase'}
 };
 
 /* ---------- state ---------- */
@@ -235,7 +235,11 @@ async function autoLogin(){
 /* ---------- lessons ---------- */
 function visibleLessons(){
   const td=todayStr();
-  return S.lessons.filter(l=>l.id<=td||PREVIEW).map(l=>({...l,future:l.id>td}));
+  return S.lessons.filter(l=>l.kind!=='reading').filter(l=>l.id<=td||PREVIEW).map(l=>({...l,future:l.id>td}));
+}
+function weekReadings(){
+  const td=todayStr(),ws=addDays(td,-dow(td));
+  return S.lessons.filter(l=>l.kind==='reading'&&(l.week===ws||(PREVIEW&&l.week>ws))).sort((a,b)=>(a.week+(a.order||0))<(b.week+(b.order||0))?-1:1);
 }
 function todaysLesson(){
   const v=visibleLessons();const td=todayStr();
@@ -315,6 +319,23 @@ function homeView(){
   }
   wrap.append(lc);
 
+  /* weekly readings */
+  const rd=weekReadings();
+  if(rd.length){
+    wrap.append(h('div',{class:'card'},
+      h('span',{class:'label'},t().readingTitle),
+      h('p',{class:'muted small'},t().readingNote),
+      h('ul',{class:'list'},rd.map((l,i)=>{
+        const dn=p.done&&p.done[l.id];
+        return h('li',null,
+          h('div',null,
+            h('div',{class:'row'},h('span',{style:'font-weight:600'},S.lang==='it'&&l.title_it?l.title_it:l.title),dn?h('span',{class:'tag good'},t().done):null),
+            h('div',{class:'small muted'},t().partN(i+1,rd.length)+' \u00B7 '+(l.minutes||15)+' '+t().min+' \u00B7 '+t().exN(exCount(l))),
+            S.lang==='it'&&l.goal_it?h('div',{class:'small it'},l.goal_it):(l.goal?h('div',{class:'small muted'},l.goal):null)),
+          h('button',{class:dn?'pill':'primary',onclick:()=>startLesson(l)},dn?t().again:t().go));
+      }))));
+  }
+
   /* cards */
   const due=dueCards();
   wrap.append(h('div',{class:'card'},
@@ -331,11 +352,14 @@ function homeView(){
   }
 
   /* past */
-  const past=visibleLessons().filter(l=>L&&l.id!==L.id).reverse();
+  const ws0=addDays(td,-dow(td));
+  const pastReadings=S.lessons.filter(l=>l.kind==='reading'&&l.week<ws0);
+  const past=visibleLessons().filter(l=>L&&l.id!==L.id).concat(pastReadings)
+    .sort((a,b)=>((b.week||b.id)+(b.order||0))<((a.week||a.id)+(a.order||0))?-1:1);
   if(past.length){
     wrap.append(h('div',{class:'card'},h('span',{class:'label'},t().past),
       h('ul',{class:'list'},past.map(l=>h('li',null,
-        h('div',null,h('div',{style:'font-weight:600'},l.title),h('div',{class:'small muted'},longDate(l.id))),
+        h('div',null,h('div',{style:'font-weight:600'},l.title),h('div',{class:'small muted'},l.kind==='reading'?t().readingTag:longDate(l.id))),
         h('button',{class:'pill',onclick:()=>startLesson(l)},p.done&&p.done[l.id]?t().again:t().start))))));
   }
   return wrap;

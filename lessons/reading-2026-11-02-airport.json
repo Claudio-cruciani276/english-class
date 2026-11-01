@@ -1,0 +1,250 @@
+{
+ "kind": "reading",
+ "week": "2026-11-02",
+ "order": 1,
+ "situation": "At the airport",
+ "situation_it": "All'aeroporto",
+ "title": "Reading: At the airport",
+ "title_it": "Lettura: All'aeroporto",
+ "goal": "Check in, pass security and find your gate.",
+ "goal_it": "Fare il check-in e trovare il gate.",
+ "minutes": 15,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Learn these phrases first. You will meet them in the dialogue."
+   ],
+   "it": [
+    "Impara prima queste frasi. Le ritroverai nel dialogo."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "Where is the check-in desk for flight BA 612?",
+      "Dov'è il banco check-in per il volo BA 612?"
+     ],
+     [
+      "I'd like to check in, please.",
+      "Vorrei fare il check-in, per favore."
+     ],
+     [
+      "Do you have any bags to check in?",
+      "Ha bagagli da imbarcare?"
+     ],
+     [
+      "Can I take this as hand luggage?",
+      "Posso portarlo come bagaglio a mano?"
+     ],
+     [
+      "Would you like a window seat or an aisle seat?",
+      "Preferisce il posto finestrino o corridoio?"
+     ],
+     [
+      "Which gate is it?",
+      "Qual è il gate?"
+     ],
+     [
+      "The flight is delayed.",
+      "Il volo è in ritardo."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "At the check-in desk",
+   "title_it": "Al banco del check-in",
+   "en": [
+    "Read the conversation between Anna and the airline agent.",
+    "Agent: Good morning. Where are you flying to today?",
+    "Anna: Good morning. I'm flying to Edinburgh.",
+    "Agent: May I see your passport, please?",
+    "Anna: Yes, here you are.",
+    "Agent: Do you have any bags to check in?",
+    "Anna: Just this suitcase. I'd like to take the small bag as hand luggage.",
+    "Agent: That's fine. Would you like a window seat or an aisle seat?",
+    "Anna: A window seat, please.",
+    "Agent: Here is your boarding card. Your gate is 14, and boarding starts at ten past nine.",
+    "Anna: Thank you. Is the flight on time?",
+    "Agent: Yes, it is. Have a good flight!"
+   ],
+   "it": [
+    "Leggi la conversazione tra Anna e l'addetto della compagnia aerea.",
+    "Addetto: Buongiorno. Dove vola oggi?",
+    "Anna: Buongiorno. Vado a Edimburgo.",
+    "Addetto: Posso vedere il passaporto, per favore?",
+    "Anna: Sì, ecco.",
+    "Addetto: Ha bagagli da imbarcare?",
+    "Anna: Solo questa valigia. Vorrei portare la borsa piccola come bagaglio a mano.",
+    "Addetto: Va bene. Preferisce il posto finestrino o corridoio?",
+    "Anna: Finestrino, per favore.",
+    "Addetto: Ecco la carta d'imbarco. Il gate è il 14 e l'imbarco inizia alle nove e dieci.",
+    "Anna: Grazie. Il volo è in orario?",
+    "Addetto: Sì. Buon volo!"
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Where is Anna flying to?",
+   "q_it": "Dove va Anna?",
+   "options": [
+    "London",
+    "Edinburgh",
+    "Dublin",
+    "Manchester"
+   ],
+   "answer": 1,
+   "why": "She says: I'm flying to Edinburgh.",
+   "why_it": "Dice: I'm flying to Edinburgh."
+  },
+  {
+   "type": "mcq",
+   "q": "What does Anna check in?",
+   "q_it": "Cosa imbarca Anna?",
+   "options": [
+    "Nothing",
+    "One suitcase",
+    "Two suitcases",
+    "The small bag"
+   ],
+   "answer": 1,
+   "why": "She checks in the suitcase. The small bag is hand luggage.",
+   "why_it": "Imbarca la valigia. La borsa piccola è bagaglio a mano."
+  },
+  {
+   "type": "mcq",
+   "q": "What time does boarding start?",
+   "q_it": "A che ora inizia l'imbarco?",
+   "options": [
+    "9.00",
+    "9.10",
+    "9.40",
+    "10.10"
+   ],
+   "answer": 1,
+   "why": "Ten past nine means 9.10.",
+   "why_it": "Ten past nine significa 9.10."
+  },
+  {
+   "type": "fill",
+   "q": "Excuse me, where is the ___ desk for flight BA 612?",
+   "q_it": "Scusi, dov'è il banco per il volo BA 612?",
+   "answers": [
+    "check-in",
+    "check in",
+    "checkin"
+   ],
+   "hint": "you go there first",
+   "why": "The check-in desk is where you leave your bags and get your boarding card.",
+   "why_it": "Il banco check-in è dove lasci i bagagli e ricevi la carta d'imbarco."
+  },
+  {
+   "type": "fill",
+   "q": "Can I take this bag ___ hand luggage?",
+   "q_it": "Posso portare questa borsa come bagaglio a mano?",
+   "answers": [
+    "as"
+   ],
+   "hint": "one small word",
+   "why": "We say as hand luggage.",
+   "why_it": "Si dice as hand luggage."
+  },
+  {
+   "type": "fill",
+   "q": "Would you like a window seat ___ an aisle seat?",
+   "q_it": "Preferisce il posto finestrino o corridoio?",
+   "answers": [
+    "or"
+   ],
+   "hint": "a choice between two things",
+   "why": "We use or to offer a choice.",
+   "why_it": "Usiamo or per offrire una scelta."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "Which",
+    "gate",
+    "is",
+    "it"
+   ],
+   "answers": [
+    "Which gate is it"
+   ],
+   "why": "Question word + noun + is + it.",
+   "why_it": "Parola interrogativa + nome + is + it."
+  },
+  {
+   "type": "order",
+   "q": "Make a polite question.",
+   "q_it": "Forma una domanda gentile.",
+   "words": [
+    "Can",
+    "I",
+    "take",
+    "this",
+    "as",
+    "hand",
+    "luggage"
+   ],
+   "answers": [
+    "Can I take this as hand luggage"
+   ],
+   "why": "Can I + base verb is a polite way to ask permission.",
+   "why_it": "Can I + verbo base è un modo gentile per chiedere il permesso."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "check-in desk",
+   "it": "banco del check-in",
+   "ex": "Where is the check-in desk?"
+  },
+  {
+   "id": "c2",
+   "en": "boarding card",
+   "it": "carta d'imbarco",
+   "ex": "Here is your boarding card."
+  },
+  {
+   "id": "c3",
+   "en": "hand luggage",
+   "it": "bagaglio a mano",
+   "ex": "I only have hand luggage."
+  },
+  {
+   "id": "c4",
+   "en": "gate",
+   "it": "uscita d'imbarco",
+   "ex": "Your gate is number 14."
+  },
+  {
+   "id": "c5",
+   "en": "delayed",
+   "it": "in ritardo",
+   "ex": "The flight is delayed by an hour."
+  },
+  {
+   "id": "c6",
+   "en": "window seat",
+   "it": "posto finestrino",
+   "ex": "I'd like a window seat, please."
+  },
+  {
+   "id": "c7",
+   "en": "aisle seat",
+   "it": "posto corridoio",
+   "ex": "Do you prefer an aisle seat?"
+  }
+ ]
+}

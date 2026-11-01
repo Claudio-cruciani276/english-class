@@ -1,0 +1,249 @@
+{
+ "kind": "reading",
+ "week": "2026-11-02",
+ "order": 2,
+ "situation": "At a restaurant",
+ "situation_it": "Al ristorante",
+ "title": "Reading: At a restaurant",
+ "title_it": "Lettura: Al ristorante",
+ "goal": "Book a table, order food and ask for the bill.",
+ "goal_it": "Prenotare, ordinare e chiedere il conto.",
+ "minutes": 15,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Useful phrases for eating out in an English-speaking country."
+   ],
+   "it": [
+    "Frasi utili per mangiare fuori in un paese di lingua inglese."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "I'd like a table for two, please.",
+      "Vorrei un tavolo per due, per favore."
+     ],
+     [
+      "Could we see the menu, please?",
+      "Possiamo vedere il menù, per favore?"
+     ],
+     [
+      "What do you recommend?",
+      "Cosa consiglia?"
+     ],
+     [
+      "I'll have the fish, please.",
+      "Prendo il pesce, per favore."
+     ],
+     [
+      "Is it vegetarian?",
+      "È vegetariano?"
+     ],
+     [
+      "Could we have the bill, please?",
+      "Possiamo avere il conto, per favore?"
+     ],
+     [
+      "Is service included?",
+      "Il servizio è incluso?"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "A table for two",
+   "title_it": "Un tavolo per due",
+   "en": [
+    "Marco and Giulia arrive at a restaurant. Read the conversation.",
+    "Waiter: Good evening. Do you have a reservation?",
+    "Marco: Yes, a table for two under the name Rossi.",
+    "Waiter: Of course. Please follow me. Here is the menu.",
+    "Giulia: Thank you. What do you recommend?",
+    "Waiter: The fish of the day is very good tonight.",
+    "Giulia: I'll have the fish, please. And a glass of water.",
+    "Marco: I'd like the lasagne. Is it vegetarian?",
+    "Waiter: No, it has meat in it. We have a vegetarian pizza.",
+    "Marco: Then I'll have the pizza, please.",
+    "Marco: Could we have the bill, please?",
+    "Waiter: Certainly. Was everything all right?",
+    "Giulia: It was delicious, thank you."
+   ],
+   "it": [
+    "Marco e Giulia arrivano in un ristorante. Leggi la conversazione.",
+    "Cameriere: Buonasera. Avete una prenotazione?",
+    "Marco: Sì, un tavolo per due a nome Rossi.",
+    "Cameriere: Certo. Prego, seguitemi. Ecco il menù.",
+    "Giulia: Grazie. Cosa consiglia?",
+    "Cameriere: Il pesce del giorno è molto buono stasera.",
+    "Giulia: Prendo il pesce, per favore. E un bicchiere d'acqua.",
+    "Marco: Vorrei le lasagne. Sono vegetariane?",
+    "Cameriere: No, c'è la carne. Abbiamo una pizza vegetariana.",
+    "Marco: Allora prendo la pizza, per favore.",
+    "Marco: Possiamo avere il conto, per favore?",
+    "Cameriere: Certamente. Era tutto a posto?",
+    "Giulia: Era delizioso, grazie."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Under which name is the table booked?",
+   "q_it": "A che nome è prenotato il tavolo?",
+   "options": [
+    "Rossi",
+    "Marco",
+    "Giulia",
+    "Waiter"
+   ],
+   "answer": 0,
+   "why": "Marco says: under the name Rossi.",
+   "why_it": "Marco dice: under the name Rossi."
+  },
+  {
+   "type": "mcq",
+   "q": "What does the waiter recommend?",
+   "q_it": "Cosa consiglia il cameriere?",
+   "options": [
+    "The lasagne",
+    "The fish of the day",
+    "The pizza",
+    "A glass of water"
+   ],
+   "answer": 1,
+   "why": "He says the fish of the day is very good tonight.",
+   "why_it": "Dice che il pesce del giorno è molto buono stasera."
+  },
+  {
+   "type": "mcq",
+   "q": "Why does Marco choose the pizza?",
+   "q_it": "Perché Marco sceglie la pizza?",
+   "options": [
+    "It is cheaper",
+    "The lasagne has meat in it, and he wants a vegetarian dish",
+    "The waiter orders it for him",
+    "Giulia has the pizza too"
+   ],
+   "answer": 1,
+   "why": "He asks if the lasagne is vegetarian. It is not, so he chooses the vegetarian pizza.",
+   "why_it": "Chiede se le lasagne sono vegetariane. Non lo sono, quindi sceglie la pizza vegetariana."
+  },
+  {
+   "type": "fill",
+   "q": "I'd ___ the lasagne, please.",
+   "q_it": "Vorrei le lasagne, per favore.",
+   "answers": [
+    "like"
+   ],
+   "hint": "I would ...",
+   "why": "I'd like is a polite way to order.",
+   "why_it": "I'd like è un modo gentile per ordinare."
+  },
+  {
+   "type": "fill",
+   "q": "Could we have the ___, please? We would like to pay.",
+   "q_it": "Possiamo avere il conto? Vorremmo pagare.",
+   "answers": [
+    "bill"
+   ],
+   "hint": "in British English it is not check",
+   "why": "In British English we say the bill. In American English: the check.",
+   "why_it": "In inglese britannico si dice the bill. In americano: the check."
+  },
+  {
+   "type": "fill",
+   "q": "Is it ___? I don't eat meat.",
+   "q_it": "È vegetariano? Non mangio carne.",
+   "answers": [
+    "vegetarian"
+   ],
+   "hint": "a food word",
+   "why": "Vegetarian means without meat.",
+   "why_it": "Vegetarian significa senza carne."
+  },
+  {
+   "type": "order",
+   "q": "Ask for a recommendation.",
+   "q_it": "Chiedi un consiglio.",
+   "words": [
+    "What",
+    "do",
+    "you",
+    "recommend"
+   ],
+   "answers": [
+    "What do you recommend"
+   ],
+   "why": "Question word + do + subject + base verb.",
+   "why_it": "Parola interrogativa + do + soggetto + verbo base."
+  },
+  {
+   "type": "order",
+   "q": "Book a table.",
+   "q_it": "Prenota un tavolo.",
+   "words": [
+    "I'd",
+    "like",
+    "a",
+    "table",
+    "for",
+    "two"
+   ],
+   "answers": [
+    "I'd like a table for two"
+   ],
+   "why": "I'd like + noun is a polite request.",
+   "why_it": "I'd like + nome è una richiesta gentile."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "reservation",
+   "it": "prenotazione",
+   "ex": "We have a reservation for eight o'clock."
+  },
+  {
+   "id": "c2",
+   "en": "menu",
+   "it": "menù",
+   "ex": "Could we see the menu, please?"
+  },
+  {
+   "id": "c3",
+   "en": "starter",
+   "it": "antipasto",
+   "ex": "I'll have soup as a starter."
+  },
+  {
+   "id": "c4",
+   "en": "main course",
+   "it": "secondo piatto",
+   "ex": "For the main course I'd like the fish."
+  },
+  {
+   "id": "c5",
+   "en": "bill",
+   "it": "conto (inglese britannico)",
+   "ex": "Could we have the bill, please?"
+  },
+  {
+   "id": "c6",
+   "en": "tip",
+   "it": "mancia",
+   "ex": "Is service included, or do we leave a tip?"
+  },
+  {
+   "id": "c7",
+   "en": "to recommend",
+   "it": "consigliare",
+   "ex": "What do you recommend?"
+  }
+ ]
+}

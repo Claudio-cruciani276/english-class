@@ -1,0 +1,245 @@
+{
+ "kind": "reading",
+ "week": "2026-11-02",
+ "order": 3,
+ "situation": "Asking for directions",
+ "situation_it": "Chiedere e dare indicazioni",
+ "title": "Reading: Asking for directions",
+ "title_it": "Lettura: Chiedere e dare indicazioni",
+ "goal": "Ask the way and understand the answer.",
+ "goal_it": "Chiedere la strada e capire la risposta.",
+ "minutes": 15,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Learn the language for asking and giving directions."
+   ],
+   "it": [
+    "Impara le frasi per chiedere e dare indicazioni."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "Excuse me, how do I get to the station?",
+      "Scusi, come arrivo alla stazione?"
+     ],
+     [
+      "Is it far from here?",
+      "È lontano da qui?"
+     ],
+     [
+      "Go straight on.",
+      "Vada dritto."
+     ],
+     [
+      "Turn left at the traffic lights.",
+      "Giri a sinistra al semaforo."
+     ],
+     [
+      "Take the second street on the right.",
+      "Prenda la seconda strada a destra."
+     ],
+     [
+      "It's opposite the post office.",
+      "È di fronte all'ufficio postale."
+     ],
+     [
+      "You can't miss it.",
+      "Non può sbagliare."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "On the street",
+   "title_it": "Per strada",
+   "en": [
+    "A tourist asks a local for help. Read the conversation.",
+    "Tourist: Excuse me, could you tell me how to get to the train station?",
+    "Local: Of course. Go straight on for two hundred metres.",
+    "Tourist: Is it far from here?",
+    "Local: No, it's about five minutes on foot.",
+    "Local: At the traffic lights, turn left. Then take the second street on the right.",
+    "Tourist: Left at the lights, then second on the right. Got it.",
+    "Local: The station is opposite the post office. You can't miss it.",
+    "Tourist: Thank you very much!",
+    "Local: You're welcome. Have a nice day."
+   ],
+   "it": [
+    "Un turista chiede aiuto a una persona del posto. Leggi la conversazione.",
+    "Turista: Scusi, può dirmi come arrivare alla stazione?",
+    "Persona del posto: Certo. Vada dritto per duecento metri.",
+    "Turista: È lontano da qui?",
+    "Persona del posto: No, sono circa cinque minuti a piedi.",
+    "Persona del posto: Al semaforo giri a sinistra. Poi prenda la seconda strada a destra.",
+    "Turista: Sinistra al semaforo, poi la seconda a destra. Capito.",
+    "Persona del posto: La stazione è di fronte all'ufficio postale. Non può sbagliare.",
+    "Turista: Grazie mille!",
+    "Persona del posto: Prego. Buona giornata."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "How long does it take to walk to the station?",
+   "q_it": "Quanto ci vuole a piedi fino alla stazione?",
+   "options": [
+    "Two minutes",
+    "Five minutes",
+    "Twenty minutes",
+    "Two hundred minutes"
+   ],
+   "answer": 1,
+   "why": "The local says: about five minutes on foot.",
+   "why_it": "La persona dice: about five minutes on foot."
+  },
+  {
+   "type": "mcq",
+   "q": "What must the tourist do at the traffic lights?",
+   "q_it": "Cosa deve fare il turista al semaforo?",
+   "options": [
+    "Turn right",
+    "Turn left",
+    "Go straight on",
+    "Stop and wait"
+   ],
+   "answer": 1,
+   "why": "The local says: At the traffic lights, turn left.",
+   "why_it": "La persona dice: At the traffic lights, turn left."
+  },
+  {
+   "type": "mcq",
+   "q": "Where is the station?",
+   "q_it": "Dov'è la stazione?",
+   "options": [
+    "Next to the bank",
+    "Opposite the post office",
+    "Behind the church",
+    "On the corner of a park"
+   ],
+   "answer": 1,
+   "why": "The local says it is opposite the post office.",
+   "why_it": "La persona dice che è di fronte all'ufficio postale."
+  },
+  {
+   "type": "fill",
+   "q": "Excuse me, how do I ___ to the station?",
+   "q_it": "Scusi, come arrivo alla stazione?",
+   "answers": [
+    "get"
+   ],
+   "hint": "get to a place",
+   "why": "We say get to + place.",
+   "why_it": "Si dice get to + luogo."
+  },
+  {
+   "type": "fill",
+   "q": "Go ___ on for two hundred metres.",
+   "q_it": "Vada dritto per duecento metri.",
+   "answers": [
+    "straight"
+   ],
+   "hint": "not left, not right",
+   "why": "Go straight on means keep going forward.",
+   "why_it": "Go straight on significa continuare dritto."
+  },
+  {
+   "type": "fill",
+   "q": "At the traffic lights, turn ___. It is the opposite of right.",
+   "q_it": "Al semaforo giri a sinistra. È il contrario di right.",
+   "answers": [
+    "left"
+   ],
+   "hint": "opposite of right",
+   "why": "Left is the opposite of right.",
+   "why_it": "Left è il contrario di right."
+  },
+  {
+   "type": "order",
+   "q": "Ask about the distance.",
+   "q_it": "Chiedi la distanza.",
+   "words": [
+    "Is",
+    "it",
+    "far",
+    "from",
+    "here"
+   ],
+   "answers": [
+    "Is it far from here"
+   ],
+   "why": "Is + it + adjective + place.",
+   "why_it": "Is + it + aggettivo + luogo."
+  },
+  {
+   "type": "order",
+   "q": "Say where the station is.",
+   "q_it": "Di' dov'è la stazione.",
+   "words": [
+    "The",
+    "station",
+    "is",
+    "opposite",
+    "the",
+    "post",
+    "office"
+   ],
+   "answers": [
+    "The station is opposite the post office"
+   ],
+   "why": "Opposite = di fronte a.",
+   "why_it": "Opposite = di fronte a."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "traffic lights",
+   "it": "semaforo",
+   "ex": "Turn left at the traffic lights."
+  },
+  {
+   "id": "c2",
+   "en": "corner",
+   "it": "angolo",
+   "ex": "The bank is on the corner."
+  },
+  {
+   "id": "c3",
+   "en": "opposite",
+   "it": "di fronte a",
+   "ex": "The station is opposite the post office."
+  },
+  {
+   "id": "c4",
+   "en": "next to",
+   "it": "accanto a",
+   "ex": "The cafe is next to the bank."
+  },
+  {
+   "id": "c5",
+   "en": "straight on",
+   "it": "dritto",
+   "ex": "Go straight on for two hundred metres."
+  },
+  {
+   "id": "c6",
+   "en": "on foot",
+   "it": "a piedi",
+   "ex": "It's five minutes on foot."
+  },
+  {
+   "id": "c7",
+   "en": "You can't miss it.",
+   "it": "Non può sbagliare.",
+   "ex": "The station is opposite the post office. You can't miss it."
+  }
+ ]
+}
