@@ -1,0 +1,431 @@
+{
+ "title": "Present simple + in / on / at",
+ "title_it": "Present simple e in / on / at",
+ "goal": "Talk about routines and facts, and use at, on and in with time.",
+ "goal_it": "Parlare di routine e fatti e usare at, on e in con il tempo.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Present simple: habits and facts",
+   "title_it": "Present simple: abitudini e fatti",
+   "en": [
+    "We use the present simple for habits, routines, facts and timetables.",
+    "With I, you, we and they the verb does not change. With he, she and it we add -s."
+   ],
+   "it": [
+    "Usiamo il present simple per abitudini, routine, fatti e orari.",
+    "Con I, you, we e they il verbo non cambia. Con he, she e it si aggiunge -s."
+   ],
+   "examples": [
+    {
+     "en": "I walk to work every day.",
+     "it": "Vado al lavoro a piedi ogni giorno."
+    },
+    {
+     "en": "She works in a bank.",
+     "it": "Lei lavora in una banca."
+    },
+    {
+     "en": "The train leaves at 8.15.",
+     "it": "Il treno parte alle 8.15."
+    },
+    {
+     "en": "Water boils at 100 degrees.",
+     "it": "L'acqua bolle a 100 gradi."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "The -s ending: spelling",
+   "title_it": "La -s della terza persona: ortografia",
+   "en": [
+    "For he, she and it, most verbs just add -s. Some verbs change a little."
+   ],
+   "it": [
+    "Per he, she e it la maggior parte dei verbi prende solo -s. Alcuni cambiano un po'."
+   ],
+   "table": {
+    "head": [
+     "Rule",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Most verbs: add -s",
+      "work → works, play → plays"
+     ],
+     [
+      "Verbs ending in -s, -sh, -ch, -x, -o: add -es",
+      "watch → watches, finish → finishes, go → goes"
+     ],
+     [
+      "Consonant + y: change y to -ies",
+      "study → studies, fly → flies"
+     ],
+     [
+      "Irregular",
+      "have → has"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "Negatives and questions",
+   "title_it": "Frasi negative e domande",
+   "en": [
+    "We use do / does for negatives and questions. After does or doesn't the verb has no -s: the -s is already in does."
+   ],
+   "it": [
+    "Per negative e domande usiamo do / does. Dopo does o doesn't il verbo non ha la -s: la -s è già in does."
+   ],
+   "table": {
+    "head": [
+     "Positive",
+     "Negative",
+     "Question"
+    ],
+    "rows": [
+     [
+      "I work",
+      "I don't work",
+      "Do I work?"
+     ],
+     [
+      "You work",
+      "You don't work",
+      "Do you work?"
+     ],
+     [
+      "She works",
+      "She doesn't work",
+      "Does she work?"
+     ],
+     [
+      "They work",
+      "They don't work",
+      "Do they work?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "He doesn't like tea.",
+     "it": "Non gli piace il tè."
+    },
+    {
+     "en": "Does your sister live in Rome?",
+     "it": "Tua sorella vive a Roma?"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "My brother ___ football on Saturdays.",
+   "q_it": "Mio fratello gioca a calcio il sabato.",
+   "options": [
+    "plays",
+    "play",
+    "is play",
+    "playing"
+   ],
+   "answer": 0,
+   "why": "My brother = he, so we add -s: plays.",
+   "why_it": "My brother = he, quindi aggiungiamo -s: plays."
+  },
+  {
+   "type": "mcq",
+   "q": "They ___ in Pescara.",
+   "q_it": "Loro vivono a Pescara.",
+   "options": [
+    "live",
+    "lives",
+    "living",
+    "does live"
+   ],
+   "answer": 0,
+   "why": "They does not take -s. We say: they live.",
+   "why_it": "They non vuole la -s. Si dice: they live."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ (watch) TV every evening.",
+   "q_it": "Lei guarda la TV ogni sera.",
+   "answers": [
+    "watches"
+   ],
+   "hint": "the verb ends in -ch",
+   "why": "Verbs ending in -ch take -es: watches.",
+   "why_it": "I verbi che finiscono in -ch prendono -es: watches."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (not like) coffee in the evening.",
+   "q_it": "Non mi piace il caffè la sera.",
+   "answers": [
+    "don't like",
+    "do not like"
+   ],
+   "hint": "use do + not",
+   "why": "With I we use don't + the base verb: don't like.",
+   "why_it": "Con I si usa don't + verbo base: don't like."
+  },
+  {
+   "type": "mcq",
+   "q": "___ your sister work on Sundays?",
+   "q_it": "Tua sorella lavora la domenica?",
+   "options": [
+    "Do",
+    "Does",
+    "Is",
+    "Are"
+   ],
+   "answer": 1,
+   "why": "Your sister = she, so we use Does.",
+   "why_it": "Your sister = she, quindi si usa Does."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (study) English at night.",
+   "q_it": "Lui studia inglese di sera.",
+   "answers": [
+    "studies"
+   ],
+   "hint": "consonant + y",
+   "why": "Consonant + y: change y to -ies. Studies.",
+   "why_it": "Consonante + y: la y diventa -ies. Studies."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "She",
+    "doesn't",
+    "eat",
+    "meat"
+   ],
+   "answers": [
+    "She doesn't eat meat"
+   ],
+   "why": "Subject + doesn't + base verb + object.",
+   "why_it": "Soggetto + doesn't + verbo base + complemento."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "He don't like tea.",
+    "He doesn't likes tea.",
+    "He doesn't like tea.",
+    "He not like tea."
+   ],
+   "answer": 2,
+   "why": "Doesn't already carries the -s, so the verb stays like: doesn't like.",
+   "why_it": "Doesn't contiene già la -s, quindi il verbo resta like: doesn't like."
+  },
+  {
+   "type": "order",
+   "q": "Make a question.",
+   "q_it": "Forma una domanda.",
+   "words": [
+    "Do",
+    "you",
+    "speak",
+    "English",
+    "at",
+    "home"
+   ],
+   "answers": [
+    "Do you speak English at home"
+   ],
+   "why": "Do + subject + base verb + the rest.",
+   "why_it": "Do + soggetto + verbo base + il resto."
+  },
+  {
+   "type": "explain",
+   "title": "Time with at, on and in",
+   "title_it": "Il tempo con at, on e in",
+   "en": [
+    "Three small words, three jobs. At is for clock times and fixed points. On is for days and dates. In is for longer periods."
+   ],
+   "it": [
+    "Tre parole piccole, tre usi. At per le ore e i momenti fissi. On per i giorni e le date. In per i periodi più lunghi."
+   ],
+   "table": {
+    "head": [
+     "Word",
+     "Use",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "at",
+      "clock times, fixed points",
+      "at 7 o'clock, at night, at the weekend, at Christmas"
+     ],
+     [
+      "on",
+      "days and dates",
+      "on Monday, on 5 November, on Friday morning"
+     ],
+     [
+      "in",
+      "months, years, seasons, parts of the day",
+      "in November, in 2026, in winter, in the morning"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "The lesson starts at 8.",
+     "it": "La lezione inizia alle 8."
+    },
+    {
+     "en": "I see my friends on Saturday.",
+     "it": "Vedo i miei amici il sabato."
+    },
+    {
+     "en": "We go on holiday in August.",
+     "it": "Andiamo in vacanza ad agosto."
+    },
+    {
+     "en": "I never drink coffee at night.",
+     "it": "Non bevo mai caffè di notte."
+    }
+   ]
+  },
+  {
+   "type": "fill",
+   "q": "The train leaves ___ 7.30.",
+   "q_it": "Il treno parte alle 7.30.",
+   "answers": [
+    "at"
+   ],
+   "hint": "a clock time",
+   "why": "Clock times take at.",
+   "why_it": "Le ore vogliono at."
+  },
+  {
+   "type": "fill",
+   "q": "My birthday is ___ March.",
+   "q_it": "Il mio compleanno è a marzo.",
+   "answers": [
+    "in"
+   ],
+   "hint": "a month",
+   "why": "Months take in.",
+   "why_it": "I mesi vogliono in."
+  },
+  {
+   "type": "fill",
+   "q": "We have dinner together ___ Sunday.",
+   "q_it": "Cena insieme la domenica.",
+   "answers": [
+    "on"
+   ],
+   "hint": "a day",
+   "why": "Days take on.",
+   "why_it": "I giorni vogliono on."
+  },
+  {
+   "type": "mcq",
+   "q": "I usually study ___ the morning.",
+   "q_it": "Di solito studio la mattina.",
+   "options": [
+    "at",
+    "on",
+    "in"
+   ],
+   "answer": 2,
+   "why": "Parts of the day take in: in the morning, in the afternoon, in the evening.",
+   "why_it": "Le parti del giorno vogliono in: in the morning, in the afternoon, in the evening."
+  },
+  {
+   "type": "mcq",
+   "q": "The shop opens ___ 9 o'clock ___ weekdays.",
+   "q_it": "Il negozio apre alle 9 nei giorni feriali.",
+   "options": [
+    "at / on",
+    "in / on",
+    "on / at",
+    "at / in"
+   ],
+   "answer": 0,
+   "why": "At for the clock time, on for days: at 9 o'clock on weekdays.",
+   "why_it": "At per l'ora, on per i giorni: at 9 o'clock on weekdays."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "I",
+    "get",
+    "up",
+    "at",
+    "seven",
+    "on",
+    "weekdays"
+   ],
+   "answers": [
+    "I get up at seven on weekdays"
+   ],
+   "why": "Clock time with at, days with on.",
+   "why_it": "Ora con at, giorni con on."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "always",
+   "it": "sempre",
+   "ex": "She always drinks tea in the morning."
+  },
+  {
+   "id": "c2",
+   "en": "usually",
+   "it": "di solito",
+   "ex": "I usually get up at seven."
+  },
+  {
+   "id": "c3",
+   "en": "often",
+   "it": "spesso",
+   "ex": "We often eat out on Fridays."
+  },
+  {
+   "id": "c4",
+   "en": "sometimes",
+   "it": "a volte",
+   "ex": "He sometimes works at the weekend."
+  },
+  {
+   "id": "c5",
+   "en": "never",
+   "it": "mai",
+   "ex": "They never drink coffee at night."
+  },
+  {
+   "id": "c6",
+   "en": "every day",
+   "it": "ogni giorno",
+   "ex": "I walk to work every day."
+  },
+  {
+   "id": "c7",
+   "en": "at the weekend",
+   "it": "nel fine settimana",
+   "ex": "What do you do at the weekend?"
+  },
+  {
+   "id": "c8",
+   "en": "timetable",
+   "it": "orario (di treni, lezioni)",
+   "ex": "The timetable says the bus leaves at ten."
+  }
+ ]
+}
