@@ -1,0 +1,538 @@
+{
+ "title": "Listening: A phone call at the station",
+ "title_it": "Ascolto: una telefonata alla stazione",
+ "goal": "Understand a short phone call, and practise telling the time and the present continuous.",
+ "goal_it": "Capire una breve telefonata ed esercitare l'ora e il present continuous.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Today's situation",
+   "title_it": "La situazione di oggi",
+   "en": [
+    "You will hear a short phone call between two friends. Sara is at the station. Tom is late.",
+    "Listen for two things: what they are doing now, and the times. First, learn the words and the time expressions below."
+   ],
+   "it": [
+    "Sentirai una breve telefonata tra due amici. Sara è alla stazione. Tom è in ritardo.",
+    "Ascolta due cose: cosa stanno facendo adesso e gli orari. Prima impara le parole e le espressioni dell'ora qui sotto."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Words you need",
+   "title_it": "Le parole che servono",
+   "en": [
+    "Learn these words before you listen."
+   ],
+   "it": [
+    "Impara queste parole prima di ascoltare."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "stuck in traffic",
+      "bloccato nel traffico"
+     ],
+     [
+      "running late",
+      "in ritardo"
+     ],
+     [
+      "to get off (the bus)",
+      "scendere (dall'autobus)"
+     ],
+     [
+      "to cross the bridge",
+      "attraversare il ponte"
+     ],
+     [
+      "ticket office",
+      "biglietteria"
+     ],
+     [
+      "coffee shop",
+      "bar, caffetteria"
+     ],
+     [
+      "Hurry up!",
+      "Sbrigati!"
+     ],
+     [
+      "nearly there",
+      "quasi arrivato"
+     ],
+     [
+      "opposite",
+      "di fronte a"
+     ],
+     [
+      "next to",
+      "accanto a"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "Telling the time and the present continuous",
+   "title_it": "Dire l'ora e il present continuous",
+   "en": [
+    "In English we say past for the first half of the hour and to for the second half.",
+    "For actions happening now we use am / is / are + verb-ing: I'm walking, he's waiting, they're crossing."
+   ],
+   "it": [
+    "In inglese si usa past per la prima mezz'ora e to per la seconda.",
+    "Per azioni che succedono adesso si usa am / is / are + verbo-ing: I'm walking, he's waiting, they're crossing."
+   ],
+   "table": {
+    "head": [
+     "Time",
+     "We say"
+    ],
+    "rows": [
+     [
+      "9.10",
+      "ten past nine"
+     ],
+     [
+      "9.15",
+      "quarter past nine"
+     ],
+     [
+      "9.30",
+      "half past nine"
+     ],
+     [
+      "8.55",
+      "five to nine"
+     ],
+     [
+      "9.45",
+      "quarter to ten"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "It's quarter past nine.",
+     "it": "Sono le nove e un quarto."
+    },
+    {
+     "en": "I'm waiting for the bus.",
+     "it": "Sto aspettando l'autobus."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "What does 'stuck in traffic' mean?",
+   "q_it": "Cosa significa 'stuck in traffic'?",
+   "options": [
+    "The road is full of cars and you cannot move",
+    "You are driving very fast",
+    "You are walking in the street",
+    "You are waiting for a taxi"
+   ],
+   "answer": 0,
+   "why": "Stuck means you cannot move.",
+   "why_it": "Stuck significa che non puoi muoverti."
+  },
+  {
+   "type": "fill",
+   "q": "Sorry, I'm ___ late. The bus is slow.",
+   "q_it": "Scusa, sono in ritardo. L'autobus è lento.",
+   "answers": [
+    "running"
+   ],
+   "hint": "run + ing",
+   "why": "We say running late for being late.",
+   "why_it": "Si dice running late per essere in ritardo."
+  },
+  {
+   "type": "mcq",
+   "q": "Which time is 'ten past nine'?",
+   "q_it": "Quale ora è 'ten past nine'?",
+   "options": [
+    "9.10",
+    "9.50",
+    "10.09",
+    "8.50"
+   ],
+   "answer": 0,
+   "why": "Past means minutes after the hour: 9.10.",
+   "why_it": "Past significa minuti dopo l'ora: 9.10."
+  },
+  {
+   "type": "mcq",
+   "q": "Which time is 'quarter to ten'?",
+   "q_it": "Quale ora è 'quarter to ten'?",
+   "options": [
+    "9.15",
+    "9.45",
+    "10.15",
+    "9.40"
+   ],
+   "answer": 1,
+   "why": "Quarter to ten is fifteen minutes before ten: 9.45.",
+   "why_it": "Quarter to ten sono quindici minuti prima delle dieci: 9.45."
+  },
+  {
+   "type": "fill",
+   "q": "Tom is ___ (cross) the bridge now.",
+   "q_it": "Tom sta attraversando il ponte.",
+   "answers": [
+    "crossing"
+   ],
+   "hint": "verb + ing",
+   "why": "Present continuous: is + verb-ing. Cross becomes crossing.",
+   "why_it": "Present continuous: is + verbo-ing. Cross diventa crossing."
+  },
+  {
+   "type": "listen",
+   "title": "Listen to the phone call",
+   "title_it": "Ascolta la telefonata",
+   "en": [
+    "Press Listen. You can listen as many times as you like. Try to find out: Where is Sara? Why is Tom late? What time does the train leave?"
+   ],
+   "it": [
+    "Premi Ascolta. Puoi riascoltare quante volte vuoi. Cerca di capire: dov'è Sara? Perché Tom è in ritardo? A che ora parte il treno?"
+   ],
+   "showText": false,
+   "script": [
+    {
+     "speaker": "Sara",
+     "text": "Hi Tom, it's Sara. Where are you?",
+     "it": "Ciao Tom, sono Sara. Dove sei?"
+    },
+    {
+     "speaker": "Tom",
+     "text": "Hi Sara. I'm on the bus, but it's stuck in traffic. I'm getting off now and walking the rest.",
+     "it": "Ciao Sara. Sono sull'autobus, ma è bloccato nel traffico. Scendo adesso e faccio il resto a piedi."
+    },
+    {
+     "speaker": "Sara",
+     "text": "Oh no! I'm already at the station. The train leaves at ten past nine.",
+     "it": "Oh no! Io sono già alla stazione. Il treno parte alle nove e dieci."
+    },
+    {
+     "speaker": "Tom",
+     "text": "What time is it now?",
+     "it": "Che ore sono adesso?"
+    },
+    {
+     "speaker": "Sara",
+     "text": "It's five to nine. You have fifteen minutes.",
+     "it": "Sono le nove meno cinque. Hai quindici minuti."
+    },
+    {
+     "speaker": "Tom",
+     "text": "OK. I'm crossing the bridge now, so I'm nearly there.",
+     "it": "Va bene. Sto attraversando il ponte, quindi sono quasi arrivato."
+    },
+    {
+     "speaker": "Sara",
+     "text": "Great. I'm standing next to the coffee shop, opposite the ticket office.",
+     "it": "Bene. Sono accanto al bar, di fronte alla biglietteria."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Perfect. I can see the station. I'm arriving in two minutes.",
+     "it": "Perfetto. Vedo la stazione. Arrivo tra due minuti."
+    },
+    {
+     "speaker": "Sara",
+     "text": "Hurry up! I'm waiting for you.",
+     "it": "Sbrigati! Ti aspetto."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Where is Sara?",
+   "q_it": "Dov'è Sara?",
+   "options": [
+    "At the station",
+    "On the bus",
+    "At home",
+    "In a taxi"
+   ],
+   "answer": 0,
+   "why": "Sara says: I'm already at the station.",
+   "why_it": "Sara dice: I'm already at the station."
+  },
+  {
+   "type": "mcq",
+   "q": "Why is Tom late?",
+   "q_it": "Perché Tom è in ritardo?",
+   "options": [
+    "His bus is stuck in traffic",
+    "He missed the train",
+    "He is at the wrong station",
+    "He is having breakfast"
+   ],
+   "answer": 0,
+   "why": "Tom says the bus is stuck in traffic.",
+   "why_it": "Tom dice che l'autobus è bloccato nel traffico."
+  },
+  {
+   "type": "mcq",
+   "q": "What time does the train leave?",
+   "q_it": "A che ora parte il treno?",
+   "options": [
+    "9.00",
+    "9.10",
+    "9.15",
+    "9.50"
+   ],
+   "answer": 1,
+   "why": "Sara says: ten past nine, that is 9.10.",
+   "why_it": "Sara dice: ten past nine, cioè 9.10."
+  },
+  {
+   "type": "mcq",
+   "q": "What time is it during the call?",
+   "q_it": "Che ore sono durante la telefonata?",
+   "options": [
+    "Five to nine",
+    "Ten past nine",
+    "Quarter to nine",
+    "Nine o'clock"
+   ],
+   "answer": 0,
+   "why": "Sara says: It's five to nine.",
+   "why_it": "Sara dice: It's five to nine."
+  },
+  {
+   "type": "mcq",
+   "q": "Where is Sara standing?",
+   "q_it": "Dov'è Sara?",
+   "options": [
+    "Next to the coffee shop",
+    "Next to the bridge",
+    "On the bus",
+    "Inside the ticket office"
+   ],
+   "answer": 0,
+   "why": "She says: next to the coffee shop, opposite the ticket office.",
+   "why_it": "Dice: next to the coffee shop, opposite the ticket office."
+  },
+  {
+   "type": "listen",
+   "title": "Listen again with the text",
+   "title_it": "Riascolta con il testo",
+   "en": [
+    "Now read and listen at the same time. Notice the present continuous and the times."
+   ],
+   "it": [
+    "Ora leggi e ascolta insieme. Nota il present continuous e gli orari."
+   ],
+   "showText": true,
+   "script": [
+    {
+     "speaker": "Sara",
+     "text": "Hi Tom, it's Sara. Where are you?",
+     "it": "Ciao Tom, sono Sara. Dove sei?"
+    },
+    {
+     "speaker": "Tom",
+     "text": "Hi Sara. I'm on the bus, but it's stuck in traffic. I'm getting off now and walking the rest.",
+     "it": "Ciao Sara. Sono sull'autobus, ma è bloccato nel traffico. Scendo adesso e faccio il resto a piedi."
+    },
+    {
+     "speaker": "Sara",
+     "text": "Oh no! I'm already at the station. The train leaves at ten past nine.",
+     "it": "Oh no! Io sono già alla stazione. Il treno parte alle nove e dieci."
+    },
+    {
+     "speaker": "Tom",
+     "text": "What time is it now?",
+     "it": "Che ore sono adesso?"
+    },
+    {
+     "speaker": "Sara",
+     "text": "It's five to nine. You have fifteen minutes.",
+     "it": "Sono le nove meno cinque. Hai quindici minuti."
+    },
+    {
+     "speaker": "Tom",
+     "text": "OK. I'm crossing the bridge now, so I'm nearly there.",
+     "it": "Va bene. Sto attraversando il ponte, quindi sono quasi arrivato."
+    },
+    {
+     "speaker": "Sara",
+     "text": "Great. I'm standing next to the coffee shop, opposite the ticket office.",
+     "it": "Bene. Sono accanto al bar, di fronte alla biglietteria."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Perfect. I can see the station. I'm arriving in two minutes.",
+     "it": "Perfetto. Vedo la stazione. Arrivo tra due minuti."
+    },
+    {
+     "speaker": "Sara",
+     "text": "Hurry up! I'm waiting for you.",
+     "it": "Sbrigati! Ti aspetto."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "What time is it?",
+   "q_it": "Che ore sono?",
+   "options": [
+    "8.55",
+    "9.05",
+    "9.55",
+    "8.45"
+   ],
+   "answer": 0,
+   "why": "Five to nine is 8.55.",
+   "why_it": "Five to nine è 8.55.",
+   "audio": "It's five to nine."
+  },
+  {
+   "type": "mcq",
+   "q": "What is Tom doing?",
+   "q_it": "Cosa sta facendo Tom?",
+   "options": [
+    "Getting off the bus",
+    "Getting on the bus",
+    "Crossing the street",
+    "Waiting at the station"
+   ],
+   "answer": 0,
+   "why": "He says: I'm getting off the bus.",
+   "why_it": "Dice: I'm getting off the bus.",
+   "audio": "I'm getting off the bus."
+  },
+  {
+   "type": "fill",
+   "q": "Type what you hear.",
+   "q_it": "Scrivi ciò che senti.",
+   "answers": [
+    "I'm crossing the bridge now"
+   ],
+   "hint": "four or five words",
+   "why": "Present continuous: I'm + verb-ing.",
+   "why_it": "Present continuous: I'm + verbo-ing.",
+   "audio": "I'm crossing the bridge now."
+  },
+  {
+   "type": "fill",
+   "q": "Type what you hear.",
+   "q_it": "Scrivi ciò che senti.",
+   "answers": [
+    "The train leaves at ten past nine"
+   ],
+   "hint": "it is a timetable sentence",
+   "why": "Timetables use the present simple: leaves.",
+   "why_it": "Gli orari usano il present simple: leaves.",
+   "audio": "The train leaves at ten past nine."
+  },
+  {
+   "type": "fill",
+   "q": "Type what you hear.",
+   "q_it": "Scrivi ciò che senti.",
+   "answers": [
+    "I'm standing next to the coffee shop"
+   ],
+   "hint": "a place",
+   "why": "Next to means accanto a.",
+   "why_it": "Next to significa accanto a.",
+   "audio": "I'm standing next to the coffee shop."
+  },
+  {
+   "type": "fill",
+   "q": "Type what you hear.",
+   "q_it": "Scrivi ciò che senti.",
+   "answers": [
+    "Hurry up, I'm waiting for you",
+    "Hurry up I'm waiting for you"
+   ],
+   "hint": "two short sentences",
+   "why": "Hurry up! is what we say to tell someone to go faster.",
+   "why_it": "Hurry up! si dice per far sbrigare qualcuno.",
+   "audio": "Hurry up, I'm waiting for you."
+  },
+  {
+   "type": "explain",
+   "title": "Keep listening this week",
+   "title_it": "Continua ad ascoltare questa settimana",
+   "en": [
+    "Choose one short recording at B1 level and listen twice. The first time, listen without help. The second time, read the transcript if there is one.",
+    "BBC Learning English also has the programme 6 Minute English: you can find it in your podcast app."
+   ],
+   "it": [
+    "Scegli una breve registrazione di livello B1 e ascoltala due volte. La prima volta senza aiuti. La seconda leggi la trascrizione, se c'è.",
+    "Anche BBC Learning English ha il programma 6 Minute English: lo trovi nella tua app di podcast."
+   ],
+   "links": [
+    {
+     "label": "British Council LearnEnglish: B1 listening",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/listening/b1",
+     "note": "short recordings at B1 level with exercises"
+    },
+    {
+     "label": "British Council LearnEnglish: Big City Small World",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/general/audio-series/bcsw",
+     "note": "an audio series about everyday life"
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "stuck in traffic",
+   "it": "bloccato nel traffico",
+   "ex": "The bus is stuck in traffic."
+  },
+  {
+   "id": "c2",
+   "en": "running late",
+   "it": "essere in ritardo",
+   "ex": "Sorry, I'm running late."
+  },
+  {
+   "id": "c3",
+   "en": "to get off",
+   "it": "scendere (da un mezzo)",
+   "ex": "I get off at the next stop."
+  },
+  {
+   "id": "c4",
+   "en": "ticket office",
+   "it": "biglietteria",
+   "ex": "The ticket office is opposite the cafe."
+  },
+  {
+   "id": "c5",
+   "en": "Hurry up!",
+   "it": "Sbrigati!",
+   "ex": "Hurry up! We're late."
+  },
+  {
+   "id": "c6",
+   "en": "nearly there",
+   "it": "quasi arrivato",
+   "ex": "Wait, I'm nearly there."
+  },
+  {
+   "id": "c7",
+   "en": "quarter past",
+   "it": "e un quarto",
+   "ex": "It's quarter past nine."
+  },
+  {
+   "id": "c8",
+   "en": "half past",
+   "it": "e mezza",
+   "ex": "It's half past nine."
+  }
+ ]
+}

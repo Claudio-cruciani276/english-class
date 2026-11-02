@@ -89,6 +89,9 @@ th{background:var(--soft)}
 .built{min-height:52px;border:1px dashed var(--line);border-radius:10px;padding:8px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .big{font-family:var(--f-display);font-size:2rem;text-align:center;padding:18px 0;text-wrap:balance}
 .err{color:var(--bad);font-weight:600}
+a{color:var(--accent)}
+.tline{padding:6px 10px;border-radius:8px}.tline.now{background:var(--soft)}.tline b{margin-right:6px}
+.audio{display:flex;gap:8px;flex-wrap:wrap}
 .center{text-align:center}
 .chips{display:flex;gap:8px;flex-wrap:wrap}
 </style>
@@ -115,7 +118,7 @@ const T={
   show:'Show answer',got:'Got it',againBtn:'Again',lang:'IT',langTitle:'Traduci in italiano',cardsAdded:n=>n+' new cards added to your review.',
   reviewDone:'Review complete',typeHere:'Type your answer',hint:'Hint: ',noDb:'This app needs you to be signed in to Claude. Open the link while signed in.',
   rolesNote:'Progress could not be saved. Ask the course admin to share the app with edit access.',
-  exercise:'Exercise',go:'Start',readingTitle:'Reading of the week',readingNote:'Three real-life situations. Finish them any day before Sunday.',readingTag:'Reading',partN:(a,b)=>a+' of '+b,exN:n=>n+(n===1?' exercise':' exercises'),learn:'Learn',leave:'Leave',points:'points',yes:'You',build:'Tap the words to build the sentence'},
+  exercise:'Exercise',play:'Listen',stop:'Stop',slow:'Slow',normalSp:'Normal',showText:'Show text',hideText:'Hide text',listenTag:'Listening',noAudio:'Audio is not available on this device. Read the text instead.',listenTip:'Listen first without the text. Then show it and listen again.',go:'Start',readingTitle:'Reading of the week',readingNote:'Three real-life situations. Finish them any day before Sunday.',readingTag:'Reading',partN:(a,b)=>a+' of '+b,exN:n=>n+(n===1?' exercise':' exercises'),learn:'Learn',leave:'Leave',points:'points',yes:'You',build:'Tap the words to build the sentence'},
  it:{hello:n=>'Ciao, '+n,streak:'giorni di fila',xp:'XP',today:'Lezione di oggi',start:'Inizia la lezione',again:'Rifai',done:'Completata',preview:'Anteprima',min:'min',
   cardsDue:'Carte da ripassare',noCards:'Nessuna carta da ripassare oggi.',review:'Ripassa',cardsN:n=>n+(n===1?' carta':' carte'),thisWeek:'Questa settimana',everyone:'La classe',past:'Lezioni precedenti',
   nolesson:'Ancora nessuna lezione. La prima sta arrivando.',loading:'Caricamento...',cant:'Impossibile raggiungere le lezioni. Controlla la connessione.',
@@ -126,7 +129,7 @@ const T={
   show:'Mostra la risposta',got:'Lo so',againBtn:'Ancora',lang:'EN',langTitle:'Back to English',cardsAdded:n=>n+(n===1?' nuova carta aggiunta':' nuove carte aggiunte')+' al ripasso.',
   reviewDone:'Ripasso completato',typeHere:'Scrivi la risposta',hint:'Suggerimento: ',noDb:'Questa app richiede di essere connessi a Claude. Apri il link dopo aver fatto l\'accesso.',
   rolesNote:'Non sono riuscito a salvare i progressi. Chiedi all\'admin di condividere l\'app con permesso di modifica.',
-  exercise:'Esercizio',go:'Inizia',readingTitle:'Lettura della settimana',readingNote:'Tre situazioni di vita reale. Falle quando vuoi, entro domenica.',readingTag:'Lettura',partN:(a,b)=>a+' di '+b,exN:n=>n+(n===1?' esercizio':' esercizi'),learn:'Impara',leave:'Esci',points:'punti',yes:'Tu',build:'Tocca le parole per formare la frase'}
+  exercise:'Esercizio',play:'Ascolta',stop:'Ferma',slow:'Lento',normalSp:'Normale',showText:'Mostra il testo',hideText:'Nascondi il testo',listenTag:'Ascolto',noAudio:'L\'audio non è disponibile su questo dispositivo. Leggi il testo.',listenTip:'Ascolta prima senza il testo. Poi mostralo e riascolta.',go:'Inizia',readingTitle:'Lettura della settimana',readingNote:'Tre situazioni di vita reale. Falle quando vuoi, entro domenica.',readingTag:'Lettura',partN:(a,b)=>a+' di '+b,exN:n=>n+(n===1?' esercizio':' esercizi'),learn:'Impara',leave:'Esci',points:'punti',yes:'Tu',build:'Tocca le parole per formare la frase'}
 };
 
 /* ---------- state ---------- */
@@ -155,6 +158,41 @@ const todayStr=()=>dfmt.format(new Date());
 const addDays=(s,n)=>{const d=new Date(s+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10);};
 const dow=s=>(new Date(s+'T12:00:00Z').getUTCDay()+6)%7;
 const longDate=s=>new Date(s+'T12:00:00Z').toLocaleDateString(S.lang==='it'?'it-IT':'en-GB',{weekday:'long',day:'numeric',month:'long',timeZone:'UTC'});
+
+/* ---------- audio (device voice, only used when a step has audio) ---------- */
+const TTS={ok:('speechSynthesis' in window)&&('SpeechSynthesisUtterance' in window),voices:[],token:0};
+function loadVoices(){
+  if(!TTS.ok)return;
+  const v=speechSynthesis.getVoices();
+  let g=v.filter(x=>/^en[-_]GB/i.test(x.lang));
+  if(!g.length)g=v.filter(x=>/^en/i.test(x.lang));
+  TTS.voices=g;
+}
+if(TTS.ok){loadVoices();try{speechSynthesis.onvoiceschanged=loadVoices;}catch(e){}}
+function stopSpeech(){TTS.token++;if(TTS.ok){try{speechSynthesis.cancel();}catch(e){}}}
+function speakLines(lines,rate,onLine,onEnd){
+  if(!TTS.ok){onEnd&&onEnd();return;}
+  stopSpeech();const my=TTS.token;const speakers=[];let i=0;
+  const go=()=>{
+    if(my!==TTS.token)return;
+    if(i>=lines.length){onEnd&&onEnd();return;}
+    const L=lines[i];if(onLine)onLine(i);
+    const u=new SpeechSynthesisUtterance(L.text);u.lang='en-GB';u.rate=rate;
+    let si=speakers.indexOf(L.speaker);if(si<0){speakers.push(L.speaker);si=speakers.length-1;}
+    if(TTS.voices.length)u.voice=TTS.voices[si%TTS.voices.length];
+    if(TTS.voices.length<2)u.pitch=si%2?0.8:1.1;
+    const done=()=>{if(my!==TTS.token)return;i++;setTimeout(go,300);};
+    u.onend=done;u.onerror=done;
+    try{speechSynthesis.speak(u);}catch(e){done();}
+  };
+  setTimeout(go,50);
+}
+function audioBtn(text){
+  if(!TTS.ok)return h('p',{class:'small muted'},t().noAudio);
+  return h('div',{class:'audio'},
+    h('button',{class:'pill',onclick:()=>speakLines([{text,speaker:'A'}],0.9)},'\u25B6 '+t().play),
+    h('button',{class:'pill',onclick:()=>speakLines([{text,speaker:'A'}],0.62)},'\u25B6 '+t().slow));
+}
 
 /* ---------- storage (Supabase REST) ---------- */
 const SBH={apikey:SB_KEY,'Content-Type':'application/json'};
@@ -245,7 +283,7 @@ function todaysLesson(){
   const v=visibleLessons();const td=todayStr();
   return v.find(l=>l.id===td)||[...v].reverse().find(l=>!l.future)||v.find(l=>l.future)||null;
 }
-const exCount=l=>l.exercises!=null?l.exercises:(l.steps||[]).filter(s=>s.type!=='explain').length;
+const exCount=l=>l.exercises!=null?l.exercises:(l.steps||[]).filter(s=>s.type!=='explain'&&s.type!=='listen').length;
 
 /* ---------- render: shell ---------- */
 function topBar(){
@@ -375,7 +413,7 @@ async function startLesson(L){
     const r=await fetch('lessons/'+L.id+'.json',{cache:'no-store'});
     if(!r.ok)throw new Error(r.status);
     const full=await r.json();
-    S.run={kind:'lesson',lesson:{...L,...full,id:L.id},steps:full.steps||[],i:0,correct:0,total:(full.steps||[]).filter(x=>x.type!=='explain').length,st:{},finished:false};
+    S.run={kind:'lesson',lesson:{...L,...full,id:L.id},steps:full.steps||[],i:0,correct:0,total:(full.steps||[]).filter(x=>x.type!=='explain'&&x.type!=='listen').length,st:{},finished:false};
     S.view='lesson';render();
   }catch(e){S.cant=true;render();}
 }
@@ -383,7 +421,7 @@ function startReview(keys){
   S.run={kind:'review',queue:[...keys],i:0,shown:false,got:0,requeued:{},finished:false};
   S.view='review';render();
 }
-function leave(){S.run=null;S.view='home';render();}
+function leave(){stopSpeech();S.run=null;S.view='home';render();}
 function shell(progress,body){
   $app.replaceChildren(
     h('div',{class:'top'},
@@ -403,10 +441,12 @@ function renderRun(){
   else if(step.type==='mcq')body=viewMcq(step);
   else if(step.type==='fill')body=viewFill(step);
   else if(step.type==='order')body=viewOrder(step);
+  else if(step.type==='listen')body=viewListen(step);
   else body=h('div',{class:'card'},h('p',null,'Unknown step'),h('button',{class:'primary',onclick:next},t().cont));
   shell(prog,body);
 }
 function next(){
+  stopSpeech();
   const r=S.run;r.i++;r.st={};
   if(r.i>=r.steps.length){finishLesson();return;}
   renderRun();window.scrollTo(0,0);
@@ -422,6 +462,7 @@ function viewExplain(s){
       h('tbody',null,s.table.rows.map(r=>h('tr',null,r.map(x=>h('td',null,x))))))));
   }
   (s.examples||[]).forEach(e=>c.append(h('div',{class:'ex'},h('span',{class:'en'},e.en),it&&e.it?h('span',{class:'it'},e.it):null)));
+  (s.links||[]).forEach(l=>c.append(h('p',{class:'small'},h('a',{href:l.url,target:'_blank',rel:'noopener'},l.label),l.note?': '+l.note:'')));
   c.append(h('button',{class:'primary',onclick:next},t().cont));
   return c;
 }
@@ -435,7 +476,7 @@ function feedback(ok,s,extra){
 }
 function qBlock(s){
   const it=S.lang==='it';
-  return [h('span',{class:'tag'},t().exercise),h('p',{class:'q'},qWithBlank(s.q)),it&&s.q_it?h('p',{class:'it'},s.q_it):null];
+  return [h('span',{class:'tag'},s.audio?t().listenTag:t().exercise),s.audio?audioBtn(s.audio):null,h('p',{class:'q'},qWithBlank(s.q)),it&&s.q_it?h('p',{class:'it'},s.q_it):null];
 }
 function qWithBlank(q){
   const parts=String(q).split('___');
@@ -460,6 +501,8 @@ function viewMcq(s){
   if(st.done){c.append(feedback(st.ok,s),h('button',{class:'primary',onclick:next},t().cont));}
   return c;
 }
+const nzAudio=x=>String(x).toLowerCase().replace(/[\u2018\u2019]/g,"'").replace(/[^a-z0-9' ]/g,' ').replace(/\s+/g,' ').trim();
+const ansList=s=>s.answers&&s.answers.length?s.answers:(s.audio?[s.audio]:[]);
 const norm=x=>String(x).toLowerCase().replace(/[‘’]/g,"'").replace(/[.!?]+$/,'').replace(/\s+/g,' ').trim();
 function viewFill(s){
   const r=S.run,st=r.st;
@@ -468,7 +511,8 @@ function viewFill(s){
   const check=()=>{
     if(!inp.value.trim())return;
     st.typed=inp.value;st.done=true;
-    st.ok=(s.answers||[]).some(a=>norm(a)===norm(inp.value));
+    const nf=s.audio?nzAudio:norm;
+    st.ok=ansList(s).some(a=>nf(a)===nf(inp.value));
     record(st.ok);renderRun();
   };
   inp.onkeydown=e=>{if(e.key==='Enter'&&!st.done)check();};
@@ -477,9 +521,36 @@ function viewFill(s){
   if(s.hint&&!st.done)c.append(h('p',{class:'small muted'},t().hint+s.hint));
   if(!st.done)c.append(h('button',{class:'primary',onclick:check},t().check));
   else{
-    c.append(feedback(st.ok,s,st.ok?null:h('p',null,t().answer+(s.answers||[])[0])),h('button',{class:'primary',onclick:next},t().cont));
+    c.append(feedback(st.ok,s,st.ok?null:h('p',null,t().answer+ansList(s)[0])),h('button',{class:'primary',onclick:next},t().cont));
   }
   if(!st.done)setTimeout(()=>{try{inp.focus();}catch(e){}},0);
+  return c;
+}
+function viewListen(s){
+  const r=S.run,st=r.st,it=S.lang==='it';
+  if(st.rate==null){st.rate=0.9;st.show=!!s.showText||!TTS.ok;st.cur=-1;st.playing=false;}
+  const lines=s.script||[];
+  const c=h('div',{class:'card'},h('span',{class:'tag'},t().listenTag),h('h2',null,s.title));
+  if(it&&s.title_it)c.append(h('p',{class:'it'},s.title_it));
+  (s.en||[]).forEach((para,i)=>{c.append(h('p',null,para));if(it&&s.it&&s.it[i])c.append(h('p',{class:'it'},s.it[i]));});
+  if(!TTS.ok){c.append(h('p',{class:'fb no'},t().noAudio));}
+  else{
+    c.append(h('p',{class:'small muted'},t().listenTip));
+    const hl=i=>document.querySelectorAll('.tline').forEach((e,k)=>e.classList.toggle('now',k===i));
+    const btn=h('button',{class:'primary',id:'play-btn',onclick:()=>{
+      if(st.playing){stopSpeech();st.playing=false;btn.textContent='\u25B6 '+t().play;hl(-1);return;}
+      st.playing=true;btn.textContent='\u25A0 '+t().stop;
+      speakLines(lines.map(l=>({text:l.text,speaker:l.speaker})),st.rate,i=>{st.cur=i;hl(i);},()=>{st.playing=false;btn.textContent='\u25B6 '+t().play;hl(-1);});
+    }},st.playing?'\u25A0 '+t().stop:'\u25B6 '+t().play);
+    c.append(h('div',{class:'audio'},btn,
+      h('button',{class:'pill',onclick:()=>{st.rate=st.rate>0.8?0.62:0.9;renderRun();}},t().slow+(st.rate>0.8?'':' \u2713')),
+      h('button',{class:'pill',onclick:()=>{st.show=!st.show;renderRun();}},st.show?t().hideText:t().showText)));
+  }
+  if(st.show){
+    c.append(h('div',null,lines.map((l,i)=>h('div',{class:'tline'+(st.cur===i&&st.playing?' now':'')},
+      h('b',null,l.speaker+':'),l.text,it&&l.it?h('div',{class:'it'},l.it):null))));
+  }
+  c.append(h('button',{class:'primary',onclick:next},t().cont));
   return c;
 }
 function shuffle(a,seed){const b=[...a];let x=seed||7;for(let i=b.length-1;i>0;i--){x=(x*9301+49297)%233280;const j=Math.floor(x/233280*(i+1));[b[i],b[j]]=[b[j],b[i]];}return b;}
