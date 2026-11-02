@@ -1,0 +1,435 @@
+{
+ "title": "Present continuous",
+ "title_it": "Present continuous",
+ "goal": "Talk about what is happening now and use the -ing form correctly.",
+ "goal_it": "Parlare di ciò che sta accadendo adesso e usare correttamente la forma -ing.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Present continuous: what is happening now",
+   "title_it": "Present continuous: cosa sta succedendo adesso",
+   "en": [
+    "We use the present continuous for actions happening now, at the moment, and for temporary situations around now.",
+    "Form: am / is / are + verb + -ing. Typical time words: now, at the moment, today, this week."
+   ],
+   "it": [
+    "Usiamo il present continuous per azioni che avvengono adesso, in questo momento, e per situazioni temporanee.",
+    "Forma: am / is / are + verbo + -ing. Parole tipiche: now, at the moment, today, this week."
+   ],
+   "table": {
+    "head": [
+     "Subject",
+     "Verb to be",
+     "Example"
+    ],
+    "rows": [
+     [
+      "I",
+      "am",
+      "I am studying. (I'm studying.)"
+     ],
+     [
+      "he / she / it",
+      "is",
+      "She is cooking. (She's cooking.)"
+     ],
+     [
+      "you / we / they",
+      "are",
+      "They are waiting. (They're waiting.)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I'm reading a book at the moment.",
+     "it": "In questo momento sto leggendo un libro."
+    },
+    {
+     "en": "It's raining, so we are staying at home.",
+     "it": "Sta piovendo, quindi stiamo a casa."
+    },
+    {
+     "en": "My sister is working in Milan this month.",
+     "it": "Mia sorella lavora a Milano questo mese."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "The -ing ending: spelling",
+   "title_it": "La desinenza -ing: ortografia",
+   "en": [
+    "Most verbs just add -ing. Some verbs change a little before -ing."
+   ],
+   "it": [
+    "La maggior parte dei verbi prende solo -ing. Alcuni cambiano un po' prima di -ing."
+   ],
+   "table": {
+    "head": [
+     "Rule",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Most verbs: add -ing",
+      "work → working, play → playing"
+     ],
+     [
+      "Verb ending in silent -e: drop the -e",
+      "write → writing, make → making"
+     ],
+     [
+      "One short syllable, vowel + consonant: double the consonant",
+      "run → running, swim → swimming, stop → stopping"
+     ],
+     [
+      "Verb ending in -ie: change to -ying",
+      "lie → lying"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "He is making a coffee.",
+     "it": "Sta preparando un caffè."
+    },
+    {
+     "en": "The children are running in the garden.",
+     "it": "I bambini stanno correndo in giardino."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Negatives, questions and stative verbs",
+   "title_it": "Negative, domande e verbi di stato",
+   "en": [
+    "For the negative we add not after am / is / are. For questions we put am / is / are before the subject.",
+    "Some verbs describe states, not actions, and we do not usually use them in the continuous: like, love, want, need, know, understand, believe. We say 'I understand', not 'I am understanding'."
+   ],
+   "it": [
+    "Per il negativo si aggiunge not dopo am / is / are. Per le domande si mette am / is / are prima del soggetto.",
+    "Alcuni verbi descrivono stati, non azioni, e di solito non si usano al continuous: like, love, want, need, know, understand, believe. Si dice 'I understand', non 'I am understanding'."
+   ],
+   "table": {
+    "head": [
+     "Positive",
+     "Negative",
+     "Question"
+    ],
+    "rows": [
+     [
+      "I am working",
+      "I'm not working",
+      "Am I working?"
+     ],
+     [
+      "She is working",
+      "She isn't working",
+      "Is she working?"
+     ],
+     [
+      "They are working",
+      "They aren't working",
+      "Are they working?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "What are you doing?",
+     "it": "Cosa stai facendo?"
+    },
+    {
+     "en": "I don't know the answer.",
+     "it": "Non so la risposta."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "She ___ a book at the moment.",
+   "q_it": "In questo momento lei sta leggendo un libro.",
+   "options": [
+    "is reading",
+    "reads",
+    "are reading",
+    "read"
+   ],
+   "answer": 0,
+   "why": "At the moment shows an action happening now, and she takes is: is reading.",
+   "why_it": "At the moment indica un'azione in corso e she vuole is: is reading."
+  },
+  {
+   "type": "mcq",
+   "q": "They ___ football in the park now.",
+   "q_it": "Adesso stanno giocando a calcio nel parco.",
+   "options": [
+    "is playing",
+    "are playing",
+    "plays",
+    "playing"
+   ],
+   "answer": 1,
+   "why": "They takes are: are playing.",
+   "why_it": "They vuole are: are playing."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (study) English now.",
+   "q_it": "Adesso sto studiando inglese.",
+   "answers": [
+    "am studying",
+    "'m studying",
+    "m studying"
+   ],
+   "hint": "am + verb + -ing",
+   "why": "With I we use am + -ing: am studying.",
+   "why_it": "Con I si usa am + -ing: am studying."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (watch) a film at the moment.",
+   "q_it": "In questo momento sta guardando un film.",
+   "answers": [
+    "is watching",
+    "'s watching",
+    "s watching"
+   ],
+   "hint": "is + verb + -ing",
+   "why": "With he we use is + -ing: is watching.",
+   "why_it": "Con he si usa is + -ing: is watching."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the -ing form of 'write'?",
+   "q_it": "Qual è la forma -ing di 'write'?",
+   "options": [
+    "writing",
+    "writeing",
+    "writting",
+    "writeting"
+   ],
+   "answer": 0,
+   "why": "Verbs ending in silent -e lose the -e: writing.",
+   "why_it": "I verbi che finiscono in -e muta perdono la -e: writing."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (run) in the park today.",
+   "q_it": "Oggi stiamo correndo nel parco.",
+   "answers": [
+    "are running",
+    "'re running",
+    "re running"
+   ],
+   "hint": "run has one short syllable: double the n",
+   "why": "Run doubles the final consonant: running. With we we use are.",
+   "why_it": "Run raddoppia la consonante finale: running. Con we si usa are."
+  },
+  {
+   "type": "fill",
+   "q": "Look! Anna is ___ (swim) in the sea.",
+   "q_it": "Guarda! Anna sta nuotando in mare.",
+   "answers": [
+    "swimming"
+   ],
+   "hint": "double the m",
+   "why": "Swim doubles the m: swimming.",
+   "why_it": "Swim raddoppia la m: swimming."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "They",
+    "aren't",
+    "working",
+    "today"
+   ],
+   "answers": [
+    "They aren't working today",
+    "They are not working today"
+   ],
+   "why": "Subject + aren't + verb with -ing + time word.",
+   "why_it": "Soggetto + aren't + verbo con -ing + parola di tempo."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I not listening.",
+    "I'm not listening.",
+    "I don't listening.",
+    "I amn't listening."
+   ],
+   "answer": 1,
+   "why": "The negative is am + not + -ing: I'm not listening.",
+   "why_it": "Il negativo è am + not + -ing: I'm not listening."
+  },
+  {
+   "type": "order",
+   "q": "Make a question.",
+   "q_it": "Forma una domanda.",
+   "words": [
+    "Is",
+    "she",
+    "sleeping",
+    "now"
+   ],
+   "answers": [
+    "Is she sleeping now"
+   ],
+   "why": "Is + subject + verb with -ing + the rest.",
+   "why_it": "Is + soggetto + verbo con -ing + il resto."
+  },
+  {
+   "type": "mcq",
+   "q": "___ you waiting for the bus?",
+   "q_it": "Stai aspettando l'autobus?",
+   "options": [
+    "Do",
+    "Does",
+    "Are",
+    "Is"
+   ],
+   "answer": 2,
+   "why": "You takes are in the present continuous: Are you waiting?",
+   "why_it": "You vuole are al present continuous: Are you waiting?"
+  },
+  {
+   "type": "order",
+   "q": "Make a question with a question word.",
+   "q_it": "Forma una domanda con una parola interrogativa.",
+   "words": [
+    "What",
+    "are",
+    "you",
+    "doing",
+    "now"
+   ],
+   "answers": [
+    "What are you doing now"
+   ],
+   "why": "Question word + are + subject + verb with -ing.",
+   "why_it": "Parola interrogativa + are + soggetto + verbo con -ing."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I am understanding you.",
+    "I understand you.",
+    "I am understand you.",
+    "I understanding you."
+   ],
+   "answer": 1,
+   "why": "Understand is a stative verb, so we use the present simple: I understand you.",
+   "why_it": "Understand è un verbo di stato, quindi si usa il present simple: I understand you."
+  },
+  {
+   "type": "fill",
+   "q": "Listen! The children ___ (sing).",
+   "q_it": "Ascolta! I bambini stanno cantando.",
+   "answers": [
+    "are singing",
+    "'re singing",
+    "re singing"
+   ],
+   "hint": "children = they",
+   "why": "Children = they, so we use are + singing.",
+   "why_it": "Children = they, quindi si usa are + singing."
+  },
+  {
+   "type": "mcq",
+   "q": "Where is Marco? He ___ a shower.",
+   "q_it": "Dov'è Marco? Sta facendo la doccia.",
+   "options": [
+    "has",
+    "have",
+    "is having",
+    "having"
+   ],
+   "answer": 2,
+   "why": "Here have is an action (have a shower), so we can use the continuous: is having.",
+   "why_it": "Qui have è un'azione (fare la doccia), quindi si può usare il continuous: is having."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "She",
+    "is",
+    "talking",
+    "on",
+    "the",
+    "phone",
+    "at",
+    "the",
+    "moment"
+   ],
+   "answers": [
+    "She is talking on the phone at the moment",
+    "She's talking on the phone at the moment"
+   ],
+   "why": "Subject + is + verb with -ing + the rest.",
+   "why_it": "Soggetto + is + verbo con -ing + il resto."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "now",
+   "it": "adesso",
+   "ex": "I'm studying English now."
+  },
+  {
+   "id": "c2",
+   "en": "at the moment",
+   "it": "in questo momento",
+   "ex": "She is working at the moment."
+  },
+  {
+   "id": "c3",
+   "en": "today",
+   "it": "oggi",
+   "ex": "We are staying at home today."
+  },
+  {
+   "id": "c4",
+   "en": "this week",
+   "it": "questa settimana",
+   "ex": "He is learning to drive this week."
+  },
+  {
+   "id": "c5",
+   "en": "wait for",
+   "it": "aspettare",
+   "ex": "They are waiting for the bus."
+  },
+  {
+   "id": "c6",
+   "en": "have a shower",
+   "it": "fare la doccia",
+   "ex": "Marco is having a shower."
+  },
+  {
+   "id": "c7",
+   "en": "listen to",
+   "it": "ascoltare",
+   "ex": "I'm listening to a podcast."
+  },
+  {
+   "id": "c8",
+   "en": "look at",
+   "it": "guardare",
+   "ex": "Look at the sky: it's getting dark."
+  }
+ ]
+}
