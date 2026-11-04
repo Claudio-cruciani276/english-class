@@ -1,0 +1,441 @@
+{
+  "title": "Present simple vs continuous + adverbs of frequency",
+  "title_it": "Present simple vs continuous + avverbi di frequenza",
+  "goal": "Choose between present simple and continuous and place adverbs of frequency correctly.",
+  "goal_it": "Scegliere tra present simple e continuous e collocare correttamente gli avverbi di frequenza.",
+  "minutes": 25,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Present simple or present continuous?",
+      "title_it": "Present simple o present continuous?",
+      "en": [
+        "We use the present simple for habits, routines and facts. We use the present continuous for actions happening now or around now.",
+        "Present simple: every day, on Mondays, at the weekend. Present continuous: now, at the moment, today, this week."
+      ],
+      "it": [
+        "Usiamo il present simple per abitudini, routine e fatti. Usiamo il present continuous per azioni che avvengono adesso o in questo periodo.",
+        "Present simple: every day, on Mondays, at the weekend. Present continuous: now, at the moment, today, this week."
+      ],
+      "table": {
+        "head": [
+          "",
+          "Present simple",
+          "Present continuous"
+        ],
+        "rows": [
+          [
+            "Use",
+            "habits, routines, facts",
+            "now, temporary situations"
+          ],
+          [
+            "Form",
+            "I work / she works",
+            "I am working / she is working"
+          ],
+          [
+            "Time words",
+            "every day, usually, on Fridays",
+            "now, at the moment, today"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I drink tea every morning.",
+          "it": "Bevo il tè ogni mattina."
+        },
+        {
+          "en": "I'm drinking coffee today.",
+          "it": "Oggi sto bevendo il caffè."
+        },
+        {
+          "en": "She works in a bank, but she's on holiday this week.",
+          "it": "Lavora in banca, ma questa settimana è in vacanza."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Adverbs of frequency",
+      "title_it": "Avverbi di frequenza",
+      "en": [
+        "Adverbs of frequency say how often something happens. They usually go before the main verb, but after the verb to be.",
+        "Use How often ...? to ask the question. We use them with the present simple."
+      ],
+      "it": [
+        "Gli avverbi di frequenza dicono quanto spesso accade qualcosa. Di solito vanno prima del verbo principale, ma dopo il verbo to be.",
+        "Per chiedere si usa How often ...? Si usano con il present simple."
+      ],
+      "table": {
+        "head": [
+          "Adverb",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "always",
+            "100%",
+            "I always have breakfast."
+          ],
+          [
+            "usually",
+            "about 80%",
+            "She usually walks to work."
+          ],
+          [
+            "often",
+            "about 60%",
+            "We often go out on Friday."
+          ],
+          [
+            "sometimes",
+            "about 40%",
+            "He sometimes plays tennis."
+          ],
+          [
+            "hardly ever",
+            "about 10%",
+            "I hardly ever eat fast food."
+          ],
+          [
+            "never",
+            "0%",
+            "They never watch the news."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "He is always late.",
+          "it": "È sempre in ritardo."
+        },
+        {
+          "en": "How often do you visit your grandparents?",
+          "it": "Quanto spesso vai a trovare i nonni?"
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Stative verbs and mixed sentences",
+      "title_it": "Verbi di stato e frasi miste",
+      "en": [
+        "Verbs like like, love, want, need, know, understand and believe describe states, so we use them in the present simple, even with now.",
+        "Many sentences use both tenses: the present simple for the usual routine, and the present continuous for what is different today."
+      ],
+      "it": [
+        "Verbi come like, love, want, need, know, understand e believe descrivono stati, quindi si usano al present simple, anche con now.",
+        "Molte frasi usano entrambi i tempi: il present simple per la routine abituale e il present continuous per ciò che oggi è diverso."
+      ],
+      "examples": [
+        {
+          "en": "I like this song. I don't like the video.",
+          "it": "Mi piace questa canzone. Non mi piace il video."
+        },
+        {
+          "en": "Anna usually takes the bus, but today she is walking.",
+          "it": "Anna di solito prende l'autobus, ma oggi va a piedi."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "I ___ to work by bus every day.",
+      "q_it": "Vado al lavoro in autobus ogni giorno.",
+      "options": [
+        "go",
+        "am going",
+        "goes",
+        "going"
+      ],
+      "answer": 0,
+      "why": "Every day shows a routine, so we use the present simple: go.",
+      "why_it": "Every day indica una routine, quindi si usa il present simple: go."
+    },
+    {
+      "type": "mcq",
+      "q": "Look! It ___ outside.",
+      "q_it": "Guarda! Fuori sta piovendo.",
+      "options": [
+        "is raining",
+        "rains",
+        "rain",
+        "raining"
+      ],
+      "answer": 0,
+      "why": "Look! shows something happening now: is raining.",
+      "why_it": "Look! indica qualcosa che accade adesso: is raining."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "I always am tired on Monday.",
+        "I am always tired on Monday.",
+        "Always I am tired on Monday.",
+        "I am tired always on Monday."
+      ],
+      "answer": 1,
+      "why": "Adverbs of frequency go after the verb to be: am always.",
+      "why_it": "Gli avverbi di frequenza vanno dopo il verbo to be: am always."
+    },
+    {
+      "type": "mcq",
+      "q": "How often ___ you go to the gym?",
+      "q_it": "Quanto spesso vai in palestra?",
+      "options": [
+        "do",
+        "are",
+        "does",
+        "is"
+      ],
+      "answer": 0,
+      "why": "Go is a normal verb, so the present simple question uses do: How often do you go?",
+      "why_it": "Go è un verbo normale, quindi la domanda al present simple usa do: How often do you go?"
+    },
+    {
+      "type": "mcq",
+      "q": "Marco usually ___ coffee, but today he ___ tea.",
+      "q_it": "Marco di solito beve caffè, ma oggi beve tè.",
+      "options": [
+        "drinks / is drinking",
+        "is drinking / drinks",
+        "drink / drinks",
+        "drinks / drinks"
+      ],
+      "answer": 0,
+      "why": "Usually shows a habit (drinks); today shows what is different now (is drinking).",
+      "why_it": "Usually indica un'abitudine (drinks); today indica ciò che è diverso adesso (is drinking)."
+    },
+    {
+      "type": "mcq",
+      "q": "I ___ this song. It's great!",
+      "q_it": "Questa canzone mi piace. È bellissima!",
+      "options": [
+        "like",
+        "am liking",
+        "likes",
+        "liking"
+      ],
+      "answer": 0,
+      "why": "Like is a stative verb, so we use the present simple: like.",
+      "why_it": "Like è un verbo di stato, quindi si usa il present simple: like."
+    },
+    {
+      "type": "fill",
+      "q": "My sister never ___ (eat) meat.",
+      "q_it": "Mia sorella non mangia mai carne.",
+      "answers": [
+        "eats"
+      ],
+      "hint": "eat",
+      "why": "With she and a habit we use the present simple: eats.",
+      "why_it": "Con she e un'abitudine si usa il present simple: eats."
+    },
+    {
+      "type": "fill",
+      "q": "Be quiet! The baby ___ (sleep).",
+      "q_it": "Fai silenzio! Il bambino sta dormendo.",
+      "answers": [
+        "is sleeping",
+        "'s sleeping"
+      ],
+      "hint": "sleep",
+      "why": "The baby is sleeping now: is + sleeping.",
+      "why_it": "Il bambino sta dormendo adesso: is + sleeping."
+    },
+    {
+      "type": "fill",
+      "q": "We ___ (not / watch) TV in the evening. We usually read.",
+      "q_it": "Non guardiamo la TV la sera. Di solito leggiamo.",
+      "answers": [
+        "don't watch",
+        "do not watch"
+      ],
+      "hint": "not watch",
+      "why": "A routine in the negative: do not (don't) + watch.",
+      "why_it": "Una routine al negativo: do not (don't) + watch."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la frase.",
+      "words": [
+        "She",
+        "never",
+        "drinks",
+        "coffee",
+        "in",
+        "the",
+        "evening"
+      ],
+      "answers": [
+        "She never drinks coffee in the evening"
+      ],
+      "why": "The adverb never goes before the main verb: never drinks.",
+      "why_it": "L'avverbio never va prima del verbo principale: never drinks."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la domanda.",
+      "words": [
+        "Are",
+        "they",
+        "watching",
+        "a",
+        "film",
+        "at",
+        "the",
+        "moment"
+      ],
+      "answers": [
+        "Are they watching a film at the moment"
+      ],
+      "why": "Question in the continuous: Are + subject + verb with -ing.",
+      "why_it": "Domanda al continuous: Are + soggetto + verbo con -ing."
+    },
+    {
+      "type": "fill",
+      "q": "He ___ (not / understand) the question.",
+      "q_it": "Non capisce la domanda.",
+      "answers": [
+        "doesn't understand",
+        "does not understand"
+      ],
+      "hint": "not understand",
+      "why": "Understand is a stative verb: present simple negative, doesn't understand.",
+      "why_it": "Understand è un verbo di stato: negativo del present simple, doesn't understand."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la frase.",
+      "words": [
+        "He",
+        "often",
+        "plays",
+        "football",
+        "with",
+        "his",
+        "friends"
+      ],
+      "answers": [
+        "He often plays football with his friends"
+      ],
+      "why": "Often goes before the main verb: often plays.",
+      "why_it": "Often va prima del verbo principale: often plays."
+    },
+    {
+      "type": "fill",
+      "q": "Julia ___ (have) a shower now, so she can't answer the phone.",
+      "q_it": "Julia sta facendo la doccia adesso, quindi non può rispondere.",
+      "answers": [
+        "is having",
+        "'s having"
+      ],
+      "hint": "have",
+      "why": "Here have a shower is an action happening now: is having.",
+      "why_it": "Qui have a shower è un'azione in corso: is having."
+    },
+    {
+      "type": "mcq",
+      "q": "Tom is usually very quiet, but today he ___ a lot.",
+      "q_it": "Tom di solito è molto silenzioso, ma oggi parla molto.",
+      "options": [
+        "talks",
+        "is talking",
+        "talk",
+        "is talk"
+      ],
+      "answer": 1,
+      "why": "But today shows a difference from the usual: is talking.",
+      "why_it": "But today indica una differenza rispetto al solito: is talking."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la domanda.",
+      "words": [
+        "Do",
+        "you",
+        "often",
+        "go",
+        "to",
+        "the",
+        "cinema",
+        "at",
+        "the",
+        "weekend"
+      ],
+      "answers": [
+        "Do you often go to the cinema at the weekend",
+        "At the weekend do you often go to the cinema"
+      ],
+      "why": "Do + you + adverb + base verb. The time phrase can also come first.",
+      "why_it": "Do + you + avverbio + verbo base. L'espressione di tempo può anche stare all'inizio."
+    },
+    {
+      "type": "mcq",
+      "q": "Choose the correct sentence.",
+      "q_it": "Scegli la frase corretta.",
+      "options": [
+        "I'm knowing the answer.",
+        "I know the answer.",
+        "I am know the answer.",
+        "I knowing the answer."
+      ],
+      "answer": 1,
+      "why": "Know is a stative verb, so we use the present simple: I know.",
+      "why_it": "Know è un verbo di stato, quindi si usa il present simple: I know."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "always",
+      "it": "sempre",
+      "ex": "She always drinks water."
+    },
+    {
+      "id": "c2",
+      "en": "usually",
+      "it": "di solito",
+      "ex": "I usually get up at seven."
+    },
+    {
+      "id": "c3",
+      "en": "often",
+      "it": "spesso",
+      "ex": "We often eat out at the weekend."
+    },
+    {
+      "id": "c4",
+      "en": "sometimes",
+      "it": "a volte",
+      "ex": "He sometimes works from home."
+    },
+    {
+      "id": "c5",
+      "en": "hardly ever",
+      "it": "quasi mai",
+      "ex": "They hardly ever go to the cinema."
+    },
+    {
+      "id": "c6",
+      "en": "never",
+      "it": "mai",
+      "ex": "I never drink coffee at night."
+    },
+    {
+      "id": "c7",
+      "en": "How often ...?",
+      "it": "Quanto spesso ...?",
+      "ex": "How often do you call your mum?"
+    }
+  ]
+}
