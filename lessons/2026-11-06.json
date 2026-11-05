@@ -1,0 +1,401 @@
+{
+ "title": "Writing: A typical day",
+ "title_it": "Scrittura: una giornata tipica",
+ "goal": "Write about your daily routine with the present simple, frequency adverbs and the present continuous.",
+ "goal_it": "Scrivere della tua routine con present simple, avverbi di frequenza e present continuous.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Today: writing about your typical day",
+   "title_it": "Oggi: scrivere della tua giornata tipica",
+   "en": [
+    "Today you will learn the words for a daily routine, read a model text, and then write your own.",
+    "You will use the present simple for routines, frequency adverbs like usually and never, and the present continuous for what you are doing now."
+   ],
+   "it": [
+    "Oggi impari le parole della routine quotidiana, leggi un testo modello e poi scrivi il tuo.",
+    "Userai il present simple per le routine, gli avverbi di frequenza come usually e never, e il present continuous per ciò che stai facendo adesso."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Daily routine words",
+   "title_it": "Le parole della routine",
+   "en": [
+    "Learn these ten expressions. They are in your flashcards too."
+   ],
+   "it": [
+    "Impara queste dieci espressioni. Le trovi anche nelle flashcard."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "get up",
+      "alzarsi"
+     ],
+     [
+      "have breakfast",
+      "fare colazione"
+     ],
+     [
+      "commute",
+      "fare il pendolare"
+     ],
+     [
+      "start work",
+      "iniziare a lavorare"
+     ],
+     [
+      "have lunch",
+      "pranzare"
+     ],
+     [
+      "finish work",
+      "finire di lavorare"
+     ],
+     [
+      "cook dinner",
+      "preparare la cena"
+     ],
+     [
+      "go for a walk",
+      "fare una passeggiata"
+     ],
+     [
+      "go to bed",
+      "andare a letto"
+     ],
+     [
+      "set an alarm",
+      "mettere la sveglia"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "A model text",
+   "title_it": "Un testo modello",
+   "en": [
+    "I'm Marta and I live in Pescara. I usually get up at seven, and I have breakfast at half past seven. I start work at nine and I finish at five. In the evening I often cook dinner, and I sometimes go for a walk. At the weekend I never set an alarm. Right now I'm writing about my day."
+   ],
+   "it": [
+    "Sono Marta e vivo a Pescara. Di solito mi alzo alle sette e faccio colazione alle sette e mezza. Inizio a lavorare alle nove e finisco alle cinque. La sera spesso preparo la cena e a volte faccio una passeggiata. Nel fine settimana non metto mai la sveglia. In questo momento sto scrivendo della mia giornata."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Checklist before you write",
+   "title_it": "Controlla prima di scrivere",
+   "en": [
+    "Use this list to check every sentence."
+   ],
+   "it": [
+    "Usa questa lista per controllare ogni frase."
+   ],
+   "table": {
+    "head": [
+     "Check",
+     "Example"
+    ],
+    "rows": [
+     [
+      "He, she, it: add -s",
+      "She gets up at six."
+     ],
+     [
+      "Negative and question: does / doesn't, no -s on the verb",
+      "He doesn't have lunch at home."
+     ],
+     [
+      "Frequency adverb before the main verb, after am / is / are",
+      "I usually walk. I am always tired."
+     ],
+     [
+      "Times: at, on, in",
+      "at seven, on Monday, in the evening"
+     ],
+     [
+      "Now: am / is / are + verb-ing",
+      "I'm writing."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "q": "Which verb goes with 'breakfast'?",
+   "q_it": "Quale verbo va con 'breakfast'?",
+   "options": [
+    "have",
+    "do",
+    "make",
+    "play"
+   ],
+   "answer": 0,
+   "why": "We say have breakfast, have lunch, have dinner.",
+   "why_it": "Si dice have breakfast, have lunch, have dinner."
+  },
+  {
+   "type": "mcq",
+   "q": "I ___ to work by bus every day.",
+   "q_it": "Vado al lavoro in autobus ogni giorno.",
+   "options": [
+    "go",
+    "goes",
+    "am going",
+    "gone"
+   ],
+   "answer": 0,
+   "why": "Every day shows a routine, so we use the present simple. With I: go.",
+   "why_it": "Every day indica una routine, quindi present simple. Con I: go."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ (get) up at six every day.",
+   "q_it": "Lei si alza alle sei ogni giorno.",
+   "answers": [
+    "gets"
+   ],
+   "hint": "she + verb",
+   "why": "With she we add -s: gets.",
+   "why_it": "Con she si aggiunge -s: gets."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (not / have) lunch at home.",
+   "q_it": "Lui non pranza a casa.",
+   "answers": [
+    "doesn't have",
+    "does not have"
+   ],
+   "hint": "does + not",
+   "why": "Negative: doesn't + base verb. No -s on have.",
+   "why_it": "Negativa: doesn't + verbo base. Niente -s su have."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "I",
+    "usually",
+    "start",
+    "work",
+    "at",
+    "nine"
+   ],
+   "answers": [
+    "I usually start work at nine"
+   ],
+   "why": "The adverb usually goes before the main verb.",
+   "why_it": "L'avverbio usually va prima del verbo principale."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "She",
+    "never",
+    "goes",
+    "to",
+    "bed",
+    "before",
+    "midnight"
+   ],
+   "answers": [
+    "She never goes to bed before midnight"
+   ],
+   "why": "Never goes before the main verb. With she: goes.",
+   "why_it": "Never va prima del verbo principale. Con she: goes."
+  },
+  {
+   "type": "mcq",
+   "q": "Choose the correct sentence.",
+   "q_it": "Scegli la frase corretta.",
+   "options": [
+    "I always am tired on Monday.",
+    "I am always tired on Monday.",
+    "Always I am tired on Monday.",
+    "I am tired always on Monday."
+   ],
+   "answer": 1,
+   "why": "With am / is / are the adverb goes after the verb: I am always.",
+   "why_it": "Con am / is / are l'avverbio va dopo il verbo: I am always."
+  },
+  {
+   "type": "fill",
+   "q": "I finish work ___ five o'clock.",
+   "q_it": "Finisco di lavorare alle cinque.",
+   "answers": [
+    "at"
+   ],
+   "hint": "a clock time",
+   "why": "Clock times take at.",
+   "why_it": "Le ore vogliono at."
+  },
+  {
+   "type": "fill",
+   "q": "We have a big lunch ___ Sunday.",
+   "q_it": "Facciamo un grande pranzo la domenica.",
+   "answers": [
+    "on"
+   ],
+   "hint": "a day",
+   "why": "Days take on.",
+   "why_it": "I giorni vogliono on."
+  },
+  {
+   "type": "fill",
+   "q": "I read a book ___ the evening.",
+   "q_it": "Leggo un libro la sera.",
+   "answers": [
+    "in"
+   ],
+   "hint": "part of the day",
+   "why": "Parts of the day take in: in the evening.",
+   "why_it": "Le parti del giorno vogliono in: in the evening."
+  },
+  {
+   "type": "mcq",
+   "q": "Right now I ___ a text about my day.",
+   "q_it": "In questo momento sto scrivendo un testo sulla mia giornata.",
+   "options": [
+    "write",
+    "am writing",
+    "writes",
+    "wrote"
+   ],
+   "answer": 1,
+   "why": "Right now means at this moment: present continuous.",
+   "why_it": "Right now significa in questo momento: present continuous."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ work on Sundays. (negative)",
+   "q_it": "Lei non lavora la domenica.",
+   "answers": [
+    "doesn't",
+    "does not"
+   ],
+   "hint": "does + not",
+   "why": "Negative with she: doesn't + base verb.",
+   "why_it": "Negativa con she: doesn't + verbo base."
+  },
+  {
+   "type": "order",
+   "q": "Make a question.",
+   "q_it": "Forma una domanda.",
+   "words": [
+    "Does",
+    "he",
+    "usually",
+    "walk",
+    "to",
+    "work"
+   ],
+   "answers": [
+    "Does he usually walk to work"
+   ],
+   "why": "Does + subject + adverb + base verb.",
+   "why_it": "Does + soggetto + avverbio + verbo base."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence has a mistake?",
+   "q_it": "Quale frase ha un errore?",
+   "options": [
+    "He gets up at seven.",
+    "She have breakfast at eight.",
+    "They start work at nine.",
+    "I'm having lunch now."
+   ],
+   "answer": 1,
+   "why": "With she we say has, not have: She has breakfast at eight.",
+   "why_it": "Con she si dice has, non have: She has breakfast at eight."
+  },
+  {
+   "type": "explain",
+   "title": "Your writing task",
+   "title_it": "Il tuo compito di scrittura",
+   "en": [
+    "Write six sentences about your typical day. Use at least three frequency adverbs, two times with at, and one sentence in the present continuous.",
+    "Write on paper or in your notes app. This app does not correct your text, so read it again with the checklist and check each sentence.",
+    "If you want, share your text with a friend from the class and compare."
+   ],
+   "it": [
+    "Scrivi sei frasi sulla tua giornata tipica. Usa almeno tre avverbi di frequenza, due orari con at e una frase al present continuous.",
+    "Scrivi su carta o nell'app note. L'app non corregge il testo, quindi rileggilo con la checklist e controlla ogni frase.",
+    "Se vuoi, condividi il testo con un amico della classe e confrontatelo."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "get up",
+   "it": "alzarsi",
+   "ex": "I get up at seven."
+  },
+  {
+   "id": "c2",
+   "en": "have breakfast",
+   "it": "fare colazione",
+   "ex": "We have breakfast together."
+  },
+  {
+   "id": "c3",
+   "en": "commute",
+   "it": "fare il pendolare",
+   "ex": "She commutes by train."
+  },
+  {
+   "id": "c4",
+   "en": "start work",
+   "it": "iniziare a lavorare",
+   "ex": "I start work at nine."
+  },
+  {
+   "id": "c5",
+   "en": "have lunch",
+   "it": "pranzare",
+   "ex": "He has lunch at one."
+  },
+  {
+   "id": "c6",
+   "en": "finish work",
+   "it": "finire di lavorare",
+   "ex": "I finish work at five."
+  },
+  {
+   "id": "c7",
+   "en": "cook dinner",
+   "it": "preparare la cena",
+   "ex": "They cook dinner every evening."
+  },
+  {
+   "id": "c8",
+   "en": "go for a walk",
+   "it": "fare una passeggiata",
+   "ex": "I sometimes go for a walk."
+  },
+  {
+   "id": "c9",
+   "en": "go to bed",
+   "it": "andare a letto",
+   "ex": "She goes to bed at eleven."
+  },
+  {
+   "id": "c10",
+   "en": "set an alarm",
+   "it": "mettere la sveglia",
+   "ex": "I never set an alarm at the weekend."
+  }
+ ]
+}
