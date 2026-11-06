@@ -45,6 +45,15 @@
   "exercises": 14
  },
  {
+  "id": "2026-11-07",
+  "title": "Weekly check: present simple and continuous",
+  "title_it": "Verifica della settimana: present simple e continuous",
+  "goal": "Check the week: present simple, present continuous, in / on / at and adverbs of frequency, plus a short reading.",
+  "goal_it": "Verificare la settimana: present simple, present continuous, in / on / at e avverbi di frequenza, più una breve lettura.",
+  "minutes": 60,
+  "exercises": 20
+ },
+ {
   "id": "reading-2026-11-02-airport",
   "kind": "reading",
   "week": "2026-11-02",

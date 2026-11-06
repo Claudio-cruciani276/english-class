@@ -1,0 +1,353 @@
+{
+ "title": "Weekly check: present simple and continuous",
+ "title_it": "Verifica della settimana: present simple e continuous",
+ "goal": "Check the week: present simple, present continuous, in / on / at and adverbs of frequency, plus a short reading.",
+ "goal_it": "Verificare la settimana: present simple, present continuous, in / on / at e avverbi di frequenza, più una breve lettura.",
+ "minutes": 60,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Weekly check",
+   "title_it": "Verifica della settimana",
+   "en": [
+    "Well done for working all week! This check has 20 points: 16 grammar questions and 4 reading questions. Take your time, answer on your own and read each explanation afterwards.",
+    "Topics: present simple, in / on / at with time, present continuous, and adverbs of frequency."
+   ],
+   "it": [
+    "Bravi per il lavoro di tutta la settimana! Questa verifica vale 20 punti: 16 domande di grammatica e 4 di comprensione. Prenditi il tuo tempo, rispondi da solo e leggi ogni spiegazione dopo.",
+    "Argomenti: present simple, in / on / at con il tempo, present continuous e avverbi di frequenza."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "She ___ in a bank.",
+   "q_it": "Lavora in una banca.",
+   "options": [
+    "works",
+    "work",
+    "is working",
+    "working"
+   ],
+   "answer": 0,
+   "why": "A fact about her job: present simple, and with she we add -s.",
+   "why_it": "Un fatto sul suo lavoro: present simple, e con she si aggiunge -s."
+  },
+  {
+   "type": "mcq",
+   "q": "I get up ___ seven o'clock.",
+   "q_it": "Mi alzo alle sette.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer": 2,
+   "why": "We use at with clock times: at seven o'clock.",
+   "why_it": "Con gli orari si usa at: at seven o'clock."
+  },
+  {
+   "type": "fill",
+   "q": "They ___ TV at the moment.",
+   "q_it": "In questo momento stanno guardando la tv.",
+   "answers": [
+    "are watching",
+    "'re watching"
+   ],
+   "hint": "are + watch + ing",
+   "why": "At the moment means now, so we use the present continuous: are watching.",
+   "why_it": "At the moment significa adesso, quindi si usa il present continuous: are watching."
+  },
+  {
+   "type": "mcq",
+   "q": "We have lunch with my grandparents ___ Sundays.",
+   "q_it": "Pranziamo dai nonni la domenica.",
+   "options": [
+    "at",
+    "in",
+    "by",
+    "on"
+   ],
+   "answer": 3,
+   "why": "We use on with days: on Sundays.",
+   "why_it": "Con i giorni si usa on: on Sundays."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "My",
+    "sister",
+    "is",
+    "cooking",
+    "dinner",
+    "now"
+   ],
+   "answers": [
+    "My sister is cooking dinner now"
+   ],
+   "why": "Now needs the present continuous: is cooking.",
+   "why_it": "Now richiede il present continuous: is cooking."
+  },
+  {
+   "type": "fill",
+   "q": "My brother ___ fish. He prefers meat.",
+   "q_it": "A mio fratello non piace il pesce. Preferisce la carne.",
+   "answers": [
+    "doesn't like",
+    "does not like"
+   ],
+   "hint": "negative, he/she/it",
+   "why": "A habit or taste: present simple negative. With he we use doesn't + base verb.",
+   "why_it": "Un gusto: present simple negativo. Con he si usa doesn't + verbo base."
+  },
+  {
+   "type": "mcq",
+   "q": "How often ___ you go to the gym?",
+   "q_it": "Quanto spesso vai in palestra?",
+   "options": [
+    "are",
+    "do",
+    "does",
+    "have"
+   ],
+   "answer": 1,
+   "why": "A question about a habit uses do + subject + base verb.",
+   "why_it": "Una domanda su un'abitudine usa do + soggetto + verbo base."
+  },
+  {
+   "type": "fill",
+   "q": "I usually study ___ the evening.",
+   "q_it": "Di solito studio la sera.",
+   "answers": [
+    "in"
+   ],
+   "hint": "in / on / at",
+   "why": "We say in the morning, in the afternoon, in the evening.",
+   "why_it": "Si dice in the morning, in the afternoon, in the evening."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "We",
+    "often",
+    "eat",
+    "out",
+    "on",
+    "Saturdays"
+   ],
+   "answers": [
+    "We often eat out on Saturdays"
+   ],
+   "why": "The adverb often goes before the main verb, and we use on with days.",
+   "why_it": "L'avverbio often va prima del verbo principale e con i giorni si usa on."
+  },
+  {
+   "type": "mcq",
+   "q": "Be quiet! The baby ___.",
+   "q_it": "Fai silenzio! Il bambino sta dormendo.",
+   "options": [
+    "sleeps",
+    "sleep",
+    "does sleeping",
+    "is sleeping"
+   ],
+   "answer": 3,
+   "why": "The action is happening now: is sleeping.",
+   "why_it": "L'azione avviene adesso: is sleeping."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "She is usually going to school by bus.",
+    "She goes usually to school by bus.",
+    "She usually goes to school by bus.",
+    "Usually she go to school by bus."
+   ],
+   "answer": 2,
+   "why": "A routine uses the present simple, and usually goes before the main verb.",
+   "why_it": "Una routine usa il present simple e usually va prima del verbo principale."
+  },
+  {
+   "type": "fill",
+   "q": "Mum ___ dinner every evening, but tonight Dad is cooking.",
+   "q_it": "La mamma cucina la cena ogni sera, ma stasera cucina papà.",
+   "answers": [
+    "cooks"
+   ],
+   "hint": "cook, she",
+   "why": "Every evening shows a habit: present simple, cooks.",
+   "why_it": "Every evening indica un'abitudine: present simple, cooks."
+  },
+  {
+   "type": "mcq",
+   "q": "Sorry, I can't talk. I ___ a meeting at the moment.",
+   "q_it": "Scusa, non posso parlare. Ho una riunione in questo momento.",
+   "options": [
+    "have",
+    "am having",
+    "has",
+    "having"
+   ],
+   "answer": 1,
+   "why": "At the moment shows now, and have a meeting is an action: am having.",
+   "why_it": "At the moment indica adesso e have a meeting è un'azione: am having."
+  },
+  {
+   "type": "fill",
+   "q": "The film starts ___ half past eight.",
+   "q_it": "Il film inizia alle otto e mezza.",
+   "answers": [
+    "at"
+   ],
+   "hint": "in / on / at",
+   "why": "We use at with clock times: at half past eight.",
+   "why_it": "Con gli orari si usa at: at half past eight."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la domanda.",
+   "words": [
+    "Why",
+    "are",
+    "you",
+    "wearing",
+    "a",
+    "coat",
+    "today"
+   ],
+   "answers": [
+    "Why are you wearing a coat today"
+   ],
+   "why": "A present continuous question: question word + are + subject + verb + ing.",
+   "why_it": "Una domanda al present continuous: parola interrogativa + are + soggetto + verbo + ing."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence has a mistake?",
+   "q_it": "Quale frase contiene un errore?",
+   "options": [
+    "Tom is reading a book now.",
+    "They live in London.",
+    "She doesn't work on Sundays.",
+    "I never am late for school."
+   ],
+   "answer": 3,
+   "why": "Adverbs of frequency go after the verb to be: I am never late, not I never am late.",
+   "why_it": "Gli avverbi di frequenza vanno dopo il verbo to be: I am never late, non I never am late."
+  },
+  {
+   "type": "explain",
+   "title": "Read the text",
+   "title_it": "Leggi il testo",
+   "en": [
+    "Anna lives in a small flat in Bristol. She usually works from Monday to Friday, but on Saturdays she meets her friends. This Saturday she is not at home. She is at the market with her sister Lucy. They are buying vegetables for a big dinner tonight. Lucy always cooks the main dish, and Anna makes the dessert. At the moment Anna is looking for strawberries, but they are very expensive today. She decides to buy apples and make a cake. The dinner starts at eight o'clock, and six friends are coming.",
+    "Now answer the four questions."
+   ],
+   "it": [
+    "Anna vive in un piccolo appartamento a Bristol. Di solito lavora dal lunedì al venerdì, ma il sabato incontra gli amici. Questo sabato non è a casa. È al mercato con la sorella Lucy. Stanno comprando verdure per una grande cena di stasera. Lucy cucina sempre il piatto principale e Anna prepara il dolce. In questo momento Anna cerca le fragole, ma oggi sono molto care. Decide di comprare delle mele e fare una torta. La cena inizia alle otto e vengono sei amici.",
+    "Ora rispondi alle quattro domande."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Where is Anna now?",
+   "q_it": "Dov'è Anna adesso?",
+   "options": [
+    "At home",
+    "At the market",
+    "At work",
+    "In a restaurant"
+   ],
+   "answer": 1,
+   "why": "The text says she is at the market with her sister Lucy.",
+   "why_it": "Il testo dice che è al mercato con la sorella Lucy."
+  },
+  {
+   "type": "mcq",
+   "q": "What does Lucy always do?",
+   "q_it": "Che cosa fa sempre Lucy?",
+   "options": [
+    "Makes the dessert",
+    "Buys the fruit",
+    "Cooks the main dish",
+    "Invites the friends"
+   ],
+   "answer": 2,
+   "why": "Lucy always cooks the main dish. Anna makes the dessert.",
+   "why_it": "Lucy cucina sempre il piatto principale. Il dolce lo fa Anna."
+  },
+  {
+   "type": "mcq",
+   "q": "Why does Anna not buy strawberries?",
+   "q_it": "Perché Anna non compra le fragole?",
+   "options": [
+    "They are too expensive today",
+    "She does not like them",
+    "The market has none",
+    "Lucy prefers apples"
+   ],
+   "answer": 0,
+   "why": "The text says they are very expensive today.",
+   "why_it": "Il testo dice che oggi sono molto care."
+  },
+  {
+   "type": "mcq",
+   "q": "What time does the dinner start?",
+   "q_it": "A che ora inizia la cena?",
+   "options": [
+    "At seven o'clock",
+    "At half past seven",
+    "At nine o'clock",
+    "At eight o'clock"
+   ],
+   "answer": 3,
+   "why": "The dinner starts at eight o'clock.",
+   "why_it": "La cena inizia alle otto."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "at the moment",
+   "it": "in questo momento",
+   "ex": "I'm working at the moment."
+  },
+  {
+   "id": "c2",
+   "en": "on + day",
+   "it": "on con i giorni",
+   "ex": "We meet on Fridays."
+  },
+  {
+   "id": "c3",
+   "en": "at + clock time",
+   "it": "at con gli orari",
+   "ex": "The train leaves at six."
+  },
+  {
+   "id": "c4",
+   "en": "in the morning",
+   "it": "la mattina",
+   "ex": "I run in the morning."
+  },
+  {
+   "id": "c5",
+   "en": "never",
+   "it": "mai (prima del verbo)",
+   "ex": "He never eats breakfast."
+  },
+  {
+   "id": "c6",
+   "en": "doesn't + base verb",
+   "it": "forma negativa con he/she/it",
+   "ex": "She doesn't like tea."
+  }
+ ]
+}
