@@ -79,5 +79,31 @@
   "goal_it": "Prenotare, ordinare e chiedere il conto.",
   "minutes": 15,
   "exercises": 8
+ },
+ {
+  "id": "song-2026-11-02-yellow",
+  "kind": "song",
+  "week": "2026-11-02",
+  "order": 2,
+  "artist": "Coldplay",
+  "title": "Yellow",
+  "title_it": "Yellow",
+  "goal": "Listen, notice the nature images and practise the imperative.",
+  "goal_it": "Ascolta, nota le immagini della natura ed esercita l'imperativo.",
+  "minutes": 20,
+  "exercises": 10
+ },
+ {
+  "id": "song-2026-11-02-young-and-beautiful",
+  "kind": "song",
+  "week": "2026-11-02",
+  "order": 1,
+  "artist": "Lana Del Rey",
+  "title": "Young and Beautiful",
+  "title_it": "Young and Beautiful",
+  "goal": "Listen, talk about the topic and notice will for the future.",
+  "goal_it": "Ascolta, parla dell'argomento e nota will per il futuro.",
+  "minutes": 20,
+  "exercises": 9
  }
 ]

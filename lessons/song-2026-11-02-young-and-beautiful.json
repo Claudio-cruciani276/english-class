@@ -1,0 +1,293 @@
+{
+ "kind": "song",
+ "week": "2026-11-02",
+ "order": 1,
+ "artist": "Lana Del Rey",
+ "title": "Young and Beautiful",
+ "title_it": "Young and Beautiful",
+ "goal": "Listen, talk about the topic and notice will for the future.",
+ "goal_it": "Ascolta, parla dell'argomento e nota will per il futuro.",
+ "minutes": 20,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "About the song",
+   "title_it": "Sulla canzone",
+   "en": [
+    "Title: Young and Beautiful. Artist: Lana Del Rey, an American singer-songwriter. The song was written for the soundtrack of the film The Great Gatsby (2013).",
+    "The mood is slow, dreamy and a little sad.",
+    "How to listen: open your music app and search for the title and the artist. Listen at least three times this week. First time: just listen to the sound. Second time: think about the topic. Third time: listen for questions about the future."
+   ],
+   "it": [
+    "Titolo: Young and Beautiful. Artista: Lana Del Rey, cantautrice americana. La canzone è stata scritta per la colonna sonora del film Il grande Gatsby (2013).",
+    "L'atmosfera è lenta, sognante e un po' triste.",
+    "Come ascoltarla: apri la tua app di musica e cerca titolo e artista. Ascoltala almeno tre volte questa settimana. Prima volta: ascolta solo il suono. Seconda: pensa all'argomento. Terza: ascolta le domande sul futuro."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Words to talk about the song",
+   "title_it": "Parole per parlare della canzone",
+   "en": [
+    "Learn these words before you listen. They help you talk about the topic."
+   ],
+   "it": [
+    "Impara queste parole prima di ascoltare. Ti aiutano a parlare dell'argomento."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "young",
+      "giovane"
+     ],
+     [
+      "beautiful",
+      "bello, bellissimo"
+     ],
+     [
+      "to grow old",
+      "invecchiare"
+     ],
+     [
+      "to worry",
+      "preoccuparsi"
+     ],
+     [
+      "still",
+      "ancora"
+     ],
+     [
+      "no longer",
+      "non più"
+     ],
+     [
+      "to fade",
+      "svanire"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "Grammar to notice: will for the future",
+   "title_it": "Grammatica da notare: will per il futuro",
+   "en": [
+    "We use will to talk about the future, for example when we ask or promise something. Question: Will + subject + base verb? Positive: I will / I'll. Negative: will not / won't."
+   ],
+   "it": [
+    "Usiamo will per parlare del futuro, per esempio quando chiediamo o promettiamo qualcosa. Domanda: Will + soggetto + verbo base? Positiva: I will / I'll. Negativa: will not / won't."
+   ],
+   "examples": [
+    {
+     "en": "Will you still help me next year?",
+     "it": "Mi aiuterai ancora l'anno prossimo?"
+    },
+    {
+     "en": "I'll always be your friend.",
+     "it": "Sarò sempre tuo amico."
+    },
+    {
+     "en": "I won't forget you.",
+     "it": "Non ti dimenticherò."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The song is slow and a little sad. What might the singer worry about?",
+   "q_it": "La canzone è lenta e un po' triste. Di cosa potrebbe preoccuparsi chi canta?",
+   "options": [
+    "Time passing and growing old",
+    "Missing a bus",
+    "Cooking dinner",
+    "Exam results"
+   ],
+   "answer": 0,
+   "why": "The title talks about being young and beautiful, so time and age are likely topics.",
+   "why_it": "Il titolo parla di essere giovane e bello, quindi il tempo e l'età sono temi probabili."
+  },
+  {
+   "type": "mcq",
+   "q": "'No longer' means...",
+   "q_it": "'No longer' significa...",
+   "options": [
+    "not any more",
+    "for a long time",
+    "very long",
+    "a little longer"
+   ],
+   "answer": 0,
+   "why": "No longer = not any more: I no longer live here.",
+   "why_it": "No longer = non più: I no longer live here."
+  },
+  {
+   "type": "fill",
+   "q": "Will you ___ be my friend next year? (ancora)",
+   "q_it": "Sarai ancora mio amico l'anno prossimo?",
+   "answers": [
+    "still"
+   ],
+   "hint": "it means ancora",
+   "why": "Still = ancora, and it goes before the main verb: Will you still be...?",
+   "why_it": "Still = ancora, e va prima del verbo principale: Will you still be...?"
+  },
+  {
+   "type": "explain",
+   "title": "Now listen",
+   "title_it": "Ora ascolta",
+   "en": [
+    "Open your music app and listen to the song once now. Then come back and answer the questions."
+   ],
+   "it": [
+    "Apri la tua app di musica e ascolta la canzone una volta adesso. Poi torna qui e rispondi alle domande."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "What is the song mostly about?",
+   "q_it": "Di cosa parla soprattutto la canzone?",
+   "options": [
+    "Whether love lasts when someone is no longer young and beautiful",
+    "A holiday by the sea",
+    "A football match",
+    "Finding a new job"
+   ],
+   "answer": 0,
+   "why": "The song is about love and the fear that beauty and youth will fade.",
+   "why_it": "La canzone parla d'amore e della paura che giovinezza e bellezza svaniscano."
+  },
+  {
+   "type": "mcq",
+   "q": "How does the song feel?",
+   "q_it": "Che atmosfera ha la canzone?",
+   "options": [
+    "Slow and dreamy",
+    "Fast and angry",
+    "Funny and noisy",
+    "Like a march"
+   ],
+   "answer": 0,
+   "why": "The sound is slow, soft and dreamy.",
+   "why_it": "Il suono è lento, morbido e sognante."
+  },
+  {
+   "type": "mcq",
+   "q": "Which film is the song connected to?",
+   "q_it": "A quale film è legata la canzone?",
+   "options": [
+    "The Great Gatsby",
+    "Titanic",
+    "Frozen",
+    "Skyfall"
+   ],
+   "answer": 0,
+   "why": "It was written for the soundtrack of The Great Gatsby (2013).",
+   "why_it": "È stata scritta per la colonna sonora de Il grande Gatsby (2013)."
+  },
+  {
+   "type": "fill",
+   "q": "___ you still help me next year?",
+   "q_it": "Mi aiuterai ancora l'anno prossimo?",
+   "answers": [
+    "Will"
+   ],
+   "hint": "a future question",
+   "why": "Questions about the future start with Will.",
+   "why_it": "Le domande sul futuro iniziano con Will."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ always be your friend. (promise)",
+   "q_it": "Sarò sempre tuo amico. (promessa)",
+   "answers": [
+    "will",
+    "'ll",
+    "will always"
+   ],
+   "hint": "will or its short form",
+   "why": "Promises use will or the short form 'll.",
+   "why_it": "Le promesse usano will o la forma breve 'll."
+  },
+  {
+   "type": "order",
+   "q": "Make a question about the future.",
+   "q_it": "Forma una domanda sul futuro.",
+   "words": [
+    "Will",
+    "you",
+    "still",
+    "be",
+    "my",
+    "friend",
+    "next",
+    "year"
+   ],
+   "answers": [
+    "Will you still be my friend next year"
+   ],
+   "why": "Will + subject + still + base verb.",
+   "why_it": "Will + soggetto + still + verbo base."
+  },
+  {
+   "type": "explain",
+   "title": "Your listening task this week",
+   "title_it": "Il tuo compito di ascolto della settimana",
+   "en": [
+    "Listen to the song three times this week. After the third time, write three sentences in your notes about how the song makes you feel. Use at least one sentence with will.",
+    "You do not need to write the words of the song. Use your own words."
+   ],
+   "it": [
+    "Ascolta la canzone tre volte questa settimana. Dopo la terza volta, scrivi nelle note tre frasi su come ti fa sentire. Usa almeno una frase con will.",
+    "Non devi scrivere le parole della canzone. Usa parole tue."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "young",
+   "it": "giovane",
+   "ex": "She is young and very funny."
+  },
+  {
+   "id": "c2",
+   "en": "beautiful",
+   "it": "bello, bellissimo",
+   "ex": "What a beautiful day!"
+  },
+  {
+   "id": "c3",
+   "en": "to grow old",
+   "it": "invecchiare",
+   "ex": "My grandfather loves to grow old by the sea."
+  },
+  {
+   "id": "c4",
+   "en": "to worry",
+   "it": "preoccuparsi",
+   "ex": "Don't worry, it's fine."
+  },
+  {
+   "id": "c5",
+   "en": "still",
+   "it": "ancora",
+   "ex": "Are you still at work?"
+  },
+  {
+   "id": "c6",
+   "en": "no longer",
+   "it": "non più",
+   "ex": "I no longer eat meat."
+  },
+  {
+   "id": "c7",
+   "en": "to fade",
+   "it": "svanire",
+   "ex": "The colours fade in the sun."
+  }
+ ]
+}

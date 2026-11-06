@@ -1,0 +1,44 @@
+[
+ {
+  "week": "2026-11-09",
+  "status": "proposed",
+  "songs": [
+   {
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong"
+   },
+   {
+    "title": "Count on Me",
+    "artist": "Bruno Mars"
+   }
+  ]
+ },
+ {
+  "week": "2026-11-16",
+  "status": "proposed",
+  "songs": [
+   {
+    "title": "Perfect",
+    "artist": "Ed Sheeran"
+   },
+   {
+    "title": "Let It Be",
+    "artist": "The Beatles"
+   }
+  ]
+ },
+ {
+  "week": "2026-11-23",
+  "status": "proposed",
+  "songs": [
+   {
+    "title": "Stand by Me",
+    "artist": "Ben E. King"
+   },
+   {
+    "title": "Photograph",
+    "artist": "Ed Sheeran"
+   }
+  ]
+ }
+]
