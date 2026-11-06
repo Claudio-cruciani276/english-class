@@ -4,6 +4,20 @@
   "status": "approved",
   "songs": [
    {
+    "title": "Young and Beautiful",
+    "artist": "Lana Del Rey"
+   },
+   {
+    "title": "Yellow",
+    "artist": "Coldplay"
+   }
+  ]
+ },
+ {
+  "week": "2026-11-16",
+  "status": "approved",
+  "songs": [
+   {
     "title": "This Is the Life",
     "artist": "Amy Macdonald"
    },
@@ -14,7 +28,21 @@
   ]
  },
  {
-  "week": "2026-11-16",
+  "week": "2026-11-23",
+  "status": "proposed",
+  "songs": [
+   {
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong"
+   },
+   {
+    "title": "Count on Me",
+    "artist": "Bruno Mars"
+   }
+  ]
+ },
+ {
+  "week": "2026-11-30",
   "status": "proposed",
   "songs": [
    {
@@ -28,7 +56,7 @@
   ]
  },
  {
-  "week": "2026-11-23",
+  "week": "2026-12-07",
   "status": "proposed",
   "songs": [
    {

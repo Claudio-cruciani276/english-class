@@ -1,0 +1,305 @@
+{
+ "kind": "song",
+ "week": "2026-11-09",
+ "order": 2,
+ "artist": "Coldplay",
+ "title": "Yellow",
+ "title_it": "Yellow",
+ "goal": "Listen, notice the nature images and practise the imperative.",
+ "goal_it": "Ascolta, nota le immagini della natura ed esercita l'imperativo.",
+ "minutes": 20,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "About the song",
+   "title_it": "Sulla canzone",
+   "en": [
+    "Title: Yellow. Artist: Coldplay, a British band formed in London. The song comes from their first album, Parachutes (2000).",
+    "The mood is calm, warm and simple.",
+    "How to listen: open your music app and search for the title and the artist. Listen at least three times this week. First time: just enjoy the sound. Second time: notice the images of nature. Third time: listen for short commands."
+   ],
+   "it": [
+    "Titolo: Yellow. Artista: Coldplay, gruppo britannico nato a Londra. La canzone viene dal loro primo album, Parachutes (2000).",
+    "L'atmosfera è calma, calda e semplice.",
+    "Come ascoltarla: apri la tua app di musica e cerca titolo e artista. Ascoltala almeno tre volte questa settimana. Prima volta: goditi il suono. Seconda: nota le immagini della natura. Terza: ascolta i comandi brevi."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Words to talk about the song",
+   "title_it": "Parole per parlare della canzone",
+   "en": [
+    "Learn these words before you listen."
+   ],
+   "it": [
+    "Impara queste parole prima di ascoltare."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "star",
+      "stella"
+     ],
+     [
+      "to shine",
+      "brillare"
+     ],
+     [
+      "sky",
+      "cielo"
+     ],
+     [
+      "colour",
+      "colore"
+     ],
+     [
+      "devoted",
+      "devoto, affezionato"
+     ],
+     [
+      "to be in love",
+      "essere innamorato"
+     ],
+     [
+      "to do anything for someone",
+      "fare qualsiasi cosa per qualcuno"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "Grammar to notice: the imperative and for + person",
+   "title_it": "Grammatica da notare: l'imperativo e for + persona",
+   "en": [
+    "We use the imperative to give a short command or invitation: Look at the sky! Listen to this! It is the base verb, with no subject.",
+    "We use for + person to say who something is made for: This song is for you."
+   ],
+   "it": [
+    "Usiamo l'imperativo per dare un comando breve o un invito: Look at the sky! Listen to this! È il verbo base, senza soggetto.",
+    "Usiamo for + persona per dire per chi è qualcosa: This song is for you."
+   ],
+   "examples": [
+    {
+     "en": "Look at the moon tonight!",
+     "it": "Guarda la luna stasera!"
+    },
+    {
+     "en": "Listen to this song.",
+     "it": "Ascolta questa canzone."
+    },
+    {
+     "en": "I made this cake for my sister.",
+     "it": "Ho fatto questa torta per mia sorella."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "What colour is in the title?",
+   "q_it": "Quale colore c'è nel titolo?",
+   "options": [
+    "Yellow",
+    "Blue",
+    "Green",
+    "Red"
+   ],
+   "answer": 0,
+   "why": "The title is Yellow, a colour.",
+   "why_it": "Il titolo è Yellow, un colore."
+  },
+  {
+   "type": "mcq",
+   "q": "The song is calm and warm. Which image is likely?",
+   "q_it": "La canzone è calma e calda. Quale immagine è probabile?",
+   "options": [
+    "The night sky",
+    "A busy market",
+    "A football stadium",
+    "A noisy kitchen"
+   ],
+   "answer": 0,
+   "why": "A calm song about feelings often uses images of nature, like the sky and the stars.",
+   "why_it": "Una canzone calma sui sentimenti usa spesso immagini della natura, come il cielo e le stelle."
+  },
+  {
+   "type": "fill",
+   "q": "Look ___ the stars!",
+   "q_it": "Guarda le stelle!",
+   "answers": [
+    "at"
+   ],
+   "hint": "look + a preposition",
+   "why": "We say look at something.",
+   "why_it": "Si dice look at qualcosa."
+  },
+  {
+   "type": "fill",
+   "q": "The stars ___ at night. (brillare)",
+   "q_it": "Le stelle brillano di notte.",
+   "answers": [
+    "shine"
+   ],
+   "hint": "a verb for light",
+   "why": "Shine = brillare. With the stars (they) we do not add -s.",
+   "why_it": "Shine = brillare. Con the stars (they) non si aggiunge -s."
+  },
+  {
+   "type": "explain",
+   "title": "Now listen",
+   "title_it": "Ora ascolta",
+   "en": [
+    "Open your music app and listen to the song once now. Then come back and answer the questions."
+   ],
+   "it": [
+    "Apri la tua app di musica e ascolta la canzone una volta adesso. Poi torna qui e rispondi alle domande."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "What is the song mostly about?",
+   "q_it": "Di cosa parla soprattutto la canzone?",
+   "options": [
+    "Strong feelings of love and devotion for someone",
+    "A trip to the mountains",
+    "A busy day at work",
+    "A football match"
+   ],
+   "answer": 0,
+   "why": "The singer talks about love and devotion for another person.",
+   "why_it": "Chi canta parla d'amore e devozione per un'altra persona."
+  },
+  {
+   "type": "mcq",
+   "q": "Which natural image appears in the song?",
+   "q_it": "Quale immagine della natura compare nella canzone?",
+   "options": [
+    "Stars",
+    "Mountains",
+    "Desert",
+    "Snow"
+   ],
+   "answer": 0,
+   "why": "The stars are an important image in the song.",
+   "why_it": "Le stelle sono un'immagine importante nella canzone."
+  },
+  {
+   "type": "mcq",
+   "q": "Where is the band Coldplay from?",
+   "q_it": "Di dove è il gruppo Coldplay?",
+   "options": [
+    "London",
+    "Manchester",
+    "Liverpool",
+    "Glasgow"
+   ],
+   "answer": 0,
+   "why": "Coldplay formed in London.",
+   "why_it": "I Coldplay si sono formati a Londra."
+  },
+  {
+   "type": "fill",
+   "q": "___ at the sky tonight!",
+   "q_it": "Guarda il cielo stasera!",
+   "answers": [
+    "Look"
+   ],
+   "hint": "a short command",
+   "why": "The imperative is the base verb: Look!",
+   "why_it": "L'imperativo è il verbo base: Look!"
+  },
+  {
+   "type": "fill",
+   "q": "This song is ___ you.",
+   "q_it": "Questa canzone è per te.",
+   "answers": [
+    "for"
+   ],
+   "hint": "who it is made for",
+   "why": "For + person: for you, for her, for my friend.",
+   "why_it": "For + persona: for you, for her, for my friend."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "Look",
+    "at",
+    "the",
+    "sky",
+    "and",
+    "listen",
+    "to",
+    "the",
+    "song"
+   ],
+   "answers": [
+    "Look at the sky and listen to the song"
+   ],
+   "why": "Two imperatives joined with and.",
+   "why_it": "Due imperativi uniti da and."
+  },
+  {
+   "type": "explain",
+   "title": "Your listening task this week",
+   "title_it": "Il tuo compito di ascolto della settimana",
+   "en": [
+    "Listen to the song three times this week. After the third time, write three sentences in your notes: one about the colour yellow, one about the stars, and one with an imperative, for example Look at...",
+    "Use your own words. You do not need to write the words of the song."
+   ],
+   "it": [
+    "Ascolta la canzone tre volte questa settimana. Dopo la terza volta scrivi nelle note tre frasi: una sul colore giallo, una sulle stelle e una con un imperativo, per esempio Look at...",
+    "Usa parole tue. Non devi scrivere le parole della canzone."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "star",
+   "it": "stella",
+   "ex": "Look at that bright star."
+  },
+  {
+   "id": "c2",
+   "en": "to shine",
+   "it": "brillare",
+   "ex": "The sun shines in the morning."
+  },
+  {
+   "id": "c3",
+   "en": "sky",
+   "it": "cielo",
+   "ex": "The sky is clear tonight."
+  },
+  {
+   "id": "c4",
+   "en": "devoted",
+   "it": "devoto, affezionato",
+   "ex": "He is devoted to his family."
+  },
+  {
+   "id": "c5",
+   "en": "to be in love",
+   "it": "essere innamorato",
+   "ex": "They are in love."
+  },
+  {
+   "id": "c6",
+   "en": "colour",
+   "it": "colore",
+   "ex": "What is your favourite colour?"
+  },
+  {
+   "id": "c7",
+   "en": "to do anything for someone",
+   "it": "fare qualsiasi cosa per qualcuno",
+   "ex": "I'd do anything for my best friend."
+  }
+ ]
+}
