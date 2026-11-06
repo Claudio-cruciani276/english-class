@@ -5,256 +5,326 @@
  "artist": "Coldplay",
  "title": "Yellow",
  "title_it": "Yellow",
- "goal": "Listen, notice the nature images and practise the imperative.",
- "goal_it": "Ascolta, nota le immagini della natura ed esercita l'imperativo.",
- "minutes": 20,
+ "goal": "Learn the words first, notice irregular past verbs and would, and think about what the narrator does for love.",
+ "goal_it": "Impara prima le parole, nota i verbi irregolari al passato e would, e pensa a cosa fa il narratore per amore.",
+ "minutes": 25,
  "steps": [
   {
    "type": "explain",
    "title": "About the song",
    "title_it": "Sulla canzone",
    "en": [
-    "Title: Yellow. Artist: Coldplay, a British band formed in London. The song comes from their first album, Parachutes (2000).",
-    "The mood is calm, warm and simple.",
-    "How to listen: open your music app and search for the title and the artist. Listen at least three times this week. First time: just enjoy the sound. Second time: notice the images of nature. Third time: listen for short commands."
+    "Title: Yellow. Artist: Coldplay, a British band formed in London. The song comes from their first album, Parachutes (2000). It is a simple, warm love song.",
+    "Search for the title and the artist in your own music app. Listen three times this week, each time with a different job:",
+    "Listening 1: catch the words from the next screen. Listening 2: notice the grammar points. Listening 3: think about what the person in the song does for the one he loves."
    ],
    "it": [
-    "Titolo: Yellow. Artista: Coldplay, gruppo britannico nato a Londra. La canzone viene dal loro primo album, Parachutes (2000).",
-    "L'atmosfera è calma, calda e semplice.",
-    "Come ascoltarla: apri la tua app di musica e cerca titolo e artista. Ascoltala almeno tre volte questa settimana. Prima volta: goditi il suono. Seconda: nota le immagini della natura. Terza: ascolta i comandi brevi."
+    "Titolo: Yellow. Artista: Coldplay, gruppo britannico nato a Londra. La canzone viene dal loro primo album, Parachutes (2000). È una canzone d'amore semplice e calda.",
+    "Cerca titolo e artista nella tua app di musica. Ascoltala tre volte questa settimana, ogni volta con un compito diverso:",
+    "Ascolto 1: individua le parole della prossima schermata. Ascolto 2: nota i punti di grammatica. Ascolto 3: pensa a cosa fa la persona nella canzone per chi ama."
    ]
   },
   {
    "type": "explain",
-   "title": "Words to talk about the song",
-   "title_it": "Parole per parlare della canzone",
+   "title": "Words you will hear",
+   "title_it": "Parole che sentirai",
    "en": [
-    "Learn these words before you listen."
+    "These words are in the song or very close to its world. Learn them first, then try to catch them while you listen."
    ],
    "it": [
-    "Impara queste parole prima di ascoltare."
+    "Queste parole sono nella canzone o molto vicine al suo mondo. Imparale prima, poi prova a riconoscerle mentre ascolti."
    ],
    "table": {
     "head": [
      "English",
-     "Italiano"
+     "Italiano",
+     "Example"
     ],
     "rows": [
      [
       "star",
-      "stella"
+      "stella",
+      "There are many stars tonight."
      ],
      [
       "to shine",
-      "brillare"
+      "brillare",
+      "The sun shines on the sea."
      ],
      [
-      "sky",
-      "cielo"
+      "skin",
+      "pelle",
+      "I have sensitive skin."
      ],
      [
-      "colour",
-      "colore"
+      "bone",
+      "osso",
+      "He broke a bone in his arm."
      ],
      [
-      "devoted",
-      "devoto, affezionato"
+      "to swim (swam)",
+      "nuotare",
+      "We swam across the lake."
      ],
      [
-      "to be in love",
-      "essere innamorato"
+      "to jump",
+      "saltare",
+      "The cat jumped onto the table."
      ],
      [
-      "to do anything for someone",
-      "fare qualsiasi cosa per qualcuno"
+      "to draw (drew)",
+      "disegnare, tracciare",
+      "She drew a line on the map."
+     ],
+     [
+      "to bleed",
+      "sanguinare",
+      "My finger is bleeding."
+     ],
+     [
+      "to turn into",
+      "trasformarsi in",
+      "Water turns into ice."
+     ],
+     [
+      "to write (wrote)",
+      "scrivere",
+      "He wrote a song for his wife."
      ]
     ]
    }
   },
   {
+   "type": "mcq",
+   "q": "What is the past simple of 'swim'?",
+   "q_it": "Qual è il past simple di 'swim'?",
+   "options": [
+    "swam",
+    "swimed",
+    "swum",
+    "swimmed"
+   ],
+   "answer": 0,
+   "why": "Swim is irregular: swim, swam, swum.",
+   "why_it": "Swim è irregolare: swim, swam, swum."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ (write) a letter to her friend yesterday.",
+   "q_it": "Ieri ha scritto una lettera alla sua amica.",
+   "answers": [
+    "wrote"
+   ],
+   "hint": "irregular past",
+   "why": "Write, wrote, written.",
+   "why_it": "Write, wrote, written."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ (draw) a line on the map.",
+   "q_it": "Ha tracciato una linea sulla mappa.",
+   "answers": [
+    "drew"
+   ],
+   "hint": "irregular past",
+   "why": "Draw, drew, drawn.",
+   "why_it": "Draw, drew, drawn."
+  },
+  {
    "type": "explain",
-   "title": "Grammar to notice: the imperative and for + person",
-   "title_it": "Grammatica da notare: l'imperativo e for + persona",
+   "title": "Three grammar points to watch for",
+   "title_it": "Tre punti di grammatica da tenere d'occhio",
    "en": [
-    "We use the imperative to give a short command or invitation: Look at the sky! Listen to this! It is the base verb, with no subject.",
-    "We use for + person to say who something is made for: This song is for you."
+    "1. Irregular past simple verbs. The song tells small stories in the past. Listen for verbs like come, write, take, swim, draw: came, wrote, took, swam, drew.",
+    "2. Would for something you are ready to do: I would do anything for you. In the short form: I'd. It shows willingness or devotion.",
+    "3. The imperative. The song starts with a command, a short instruction with no subject: Look at that! Listen to this!",
+    "During listening 2, try to notice where the singer uses each one."
    ],
    "it": [
-    "Usiamo l'imperativo per dare un comando breve o un invito: Look at the sky! Listen to this! È il verbo base, senza soggetto.",
-    "Usiamo for + persona per dire per chi è qualcosa: This song is for you."
+    "1. Verbi irregolari al past simple. La canzone racconta piccole storie al passato. Ascolta verbi come come, write, take, swim, draw: came, wrote, took, swam, drew.",
+    "2. Would per qualcosa che sei pronto a fare: I would do anything for you. Forma breve: I'd. Mostra disponibilità o dedizione.",
+    "3. L'imperativo. La canzone inizia con un comando, un'istruzione breve senza soggetto: Look at that! Listen to this!",
+    "Durante l'ascolto 2, prova a notare dove chi canta usa ciascuno."
    ],
    "examples": [
     {
-     "en": "Look at the moon tonight!",
-     "it": "Guarda la luna stasera!"
+     "en": "I came home late and wrote a message.",
+     "it": "Sono tornato tardi a casa e ho scritto un messaggio."
     },
     {
-     "en": "Listen to this song.",
-     "it": "Ascolta questa canzone."
+     "en": "I'd do anything for my best friend.",
+     "it": "Farei qualsiasi cosa per la mia migliore amica."
     },
     {
-     "en": "I made this cake for my sister.",
-     "it": "Ho fatto questa torta per mia sorella."
+     "en": "Look at the sky!",
+     "it": "Guarda il cielo!"
     }
    ]
   },
   {
    "type": "mcq",
-   "q": "What colour is in the title?",
-   "q_it": "Quale colore c'è nel titolo?",
+   "q": "'I'd do anything for you.' What does 'I'd' mean here?",
+   "q_it": "'I'd do anything for you.' Cosa significa 'I'd' qui?",
    "options": [
-    "Yellow",
-    "Blue",
-    "Green",
-    "Red"
+    "I did",
+    "I would",
+    "I am",
+    "I had"
    ],
-   "answer": 0,
-   "why": "The title is Yellow, a colour.",
-   "why_it": "Il titolo è Yellow, un colore."
-  },
-  {
-   "type": "mcq",
-   "q": "The song is calm and warm. Which image is likely?",
-   "q_it": "La canzone è calma e calda. Quale immagine è probabile?",
-   "options": [
-    "The night sky",
-    "A busy market",
-    "A football stadium",
-    "A noisy kitchen"
-   ],
-   "answer": 0,
-   "why": "A calm song about feelings often uses images of nature, like the sky and the stars.",
-   "why_it": "Una canzone calma sui sentimenti usa spesso immagini della natura, come il cielo e le stelle."
+   "answer": 1,
+   "why": "Before a base verb, 'd = would: I would do.",
+   "why_it": "Prima di un verbo base, 'd = would: I would do."
   },
   {
    "type": "fill",
-   "q": "Look ___ the stars!",
-   "q_it": "Guarda le stelle!",
+   "q": "I ___ do anything for my family. (farei)",
+   "q_it": "Farei qualsiasi cosa per la mia famiglia.",
    "answers": [
-    "at"
+    "would",
+    "'d",
+    "d"
    ],
-   "hint": "look + a preposition",
-   "why": "We say look at something.",
-   "why_it": "Si dice look at qualcosa."
-  },
-  {
-   "type": "fill",
-   "q": "The stars ___ at night. (brillare)",
-   "q_it": "Le stelle brillano di notte.",
-   "answers": [
-    "shine"
-   ],
-   "hint": "a verb for light",
-   "why": "Shine = brillare. With the stars (they) we do not add -s.",
-   "why_it": "Shine = brillare. Con the stars (they) non si aggiunge -s."
-  },
-  {
-   "type": "explain",
-   "title": "Now listen",
-   "title_it": "Ora ascolta",
-   "en": [
-    "Open your music app and listen to the song once now. Then come back and answer the questions."
-   ],
-   "it": [
-    "Apri la tua app di musica e ascolta la canzone una volta adesso. Poi torna qui e rispondi alle domande."
-   ]
-  },
-  {
-   "type": "mcq",
-   "q": "What is the song mostly about?",
-   "q_it": "Di cosa parla soprattutto la canzone?",
-   "options": [
-    "Strong feelings of love and devotion for someone",
-    "A trip to the mountains",
-    "A busy day at work",
-    "A football match"
-   ],
-   "answer": 0,
-   "why": "The singer talks about love and devotion for another person.",
-   "why_it": "Chi canta parla d'amore e devozione per un'altra persona."
-  },
-  {
-   "type": "mcq",
-   "q": "Which natural image appears in the song?",
-   "q_it": "Quale immagine della natura compare nella canzone?",
-   "options": [
-    "Stars",
-    "Mountains",
-    "Desert",
-    "Snow"
-   ],
-   "answer": 0,
-   "why": "The stars are an important image in the song.",
-   "why_it": "Le stelle sono un'immagine importante nella canzone."
-  },
-  {
-   "type": "mcq",
-   "q": "Where is the band Coldplay from?",
-   "q_it": "Di dove è il gruppo Coldplay?",
-   "options": [
-    "London",
-    "Manchester",
-    "Liverpool",
-    "Glasgow"
-   ],
-   "answer": 0,
-   "why": "Coldplay formed in London.",
-   "why_it": "I Coldplay si sono formati a Londra."
-  },
-  {
-   "type": "fill",
-   "q": "___ at the sky tonight!",
-   "q_it": "Guarda il cielo stasera!",
-   "answers": [
-    "Look"
-   ],
-   "hint": "a short command",
-   "why": "The imperative is the base verb: Look!",
-   "why_it": "L'imperativo è il verbo base: Look!"
-  },
-  {
-   "type": "fill",
-   "q": "This song is ___ you.",
-   "q_it": "Questa canzone è per te.",
-   "answers": [
-    "for"
-   ],
-   "hint": "who it is made for",
-   "why": "For + person: for you, for her, for my friend.",
-   "why_it": "For + persona: for you, for her, for my friend."
+   "hint": "a modal verb",
+   "why": "Would shows what you are ready to do.",
+   "why_it": "Would mostra cosa sei pronto a fare."
   },
   {
    "type": "order",
    "q": "Put the words in order.",
    "q_it": "Metti le parole in ordine.",
    "words": [
-    "Look",
-    "at",
+    "He",
+    "swam",
+    "across",
     "the",
-    "sky",
-    "and",
-    "listen",
-    "to",
-    "the",
-    "song"
+    "river",
+    "for",
+    "her"
    ],
    "answers": [
-    "Look at the sky and listen to the song"
+    "He swam across the river for her"
    ],
-   "why": "Two imperatives joined with and.",
-   "why_it": "Due imperativi uniti da and."
+   "why": "Subject + past simple + place + for + person.",
+   "why_it": "Soggetto + past simple + luogo + for + persona."
   },
   {
    "type": "explain",
-   "title": "Your listening task this week",
-   "title_it": "Il tuo compito di ascolto della settimana",
+   "title": "Now listen (listening 1 and 2)",
+   "title_it": "Ora ascolta (ascolti 1 e 2)",
    "en": [
-    "Listen to the song three times this week. After the third time, write three sentences in your notes: one about the colour yellow, one about the stars, and one with an imperative, for example Look at...",
-    "Use your own words. You do not need to write the words of the song."
+    "Open your music app and listen once. Try to catch at least four words from the table. Then listen again and notice the grammar points.",
+    "Come back when you finish and answer the questions about meaning."
    ],
    "it": [
-    "Ascolta la canzone tre volte questa settimana. Dopo la terza volta scrivi nelle note tre frasi: una sul colore giallo, una sulle stelle e una con un imperativo, per esempio Look at...",
-    "Usa parole tue. Non devi scrivere le parole della canzone."
+    "Apri la tua app di musica e ascolta una volta. Prova a riconoscere almeno quattro parole della tabella. Poi riascolta e nota i punti di grammatica.",
+    "Torna qui quando hai finito e rispondi alle domande sul significato."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Which of these things does the narrator say he did for the person?",
+   "q_it": "Quale di queste cose dice di aver fatto il narratore per la persona?",
+   "options": [
+    "He drove all night",
+    "He swam across something",
+    "He bought a house",
+    "He climbed a mountain"
+   ],
+   "answer": 1,
+   "why": "Swimming across and drawing a line are two of the things he mentions.",
+   "why_it": "Attraversare a nuoto e tracciare una linea sono due delle cose che cita."
+  },
+  {
+   "type": "mcq",
+   "q": "What do these actions have in common?",
+   "q_it": "Cosa hanno in comune queste azioni?",
+   "options": [
+    "They are all jokes",
+    "They all happen in winter",
+    "They are all about work",
+    "They show effort and sacrifice for love"
+   ],
+   "answer": 3,
+   "why": "Each action is a way of saying: I would go far for you.",
+   "why_it": "Ogni azione è un modo per dire: andrei lontano per te."
+  },
+  {
+   "type": "mcq",
+   "q": "The word 'yellow' comes back many times. Which reading is best?",
+   "q_it": "La parola 'yellow' ritorna molte volte. Quale lettura è la migliore?",
+   "options": [
+    "It is the name of a town",
+    "It is a personal symbol of how special the person is",
+    "It is the colour of a car",
+    "It is a warning colour"
+   ],
+   "answer": 1,
+   "why": "The colour works like a private word for something bright and precious.",
+   "why_it": "Il colore funziona come una parola privata per qualcosa di luminoso e prezioso."
+  },
+  {
+   "type": "mcq",
+   "q": "The song also talks about skin and bones turning into something beautiful. What does this suggest?",
+   "q_it": "La canzone parla anche di pelle e ossa che diventano qualcosa di bello. Cosa suggerisce?",
+   "options": [
+    "He is afraid of illness",
+    "He wants to change the person",
+    "He is talking about a doctor",
+    "He sees beauty even in the ordinary, human side of the person"
+   ],
+   "answer": 3,
+   "why": "Skin and bones = the ordinary body. Love makes it beautiful to him.",
+   "why_it": "Pelle e ossa = il corpo comune. L'amore lo rende bello ai suoi occhi."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is the best summary of the narrator's feelings?",
+   "q_it": "Quale frase riassume meglio i sentimenti del narratore?",
+   "options": [
+    "He is joking about love",
+    "Simple, strong devotion: he gives a lot and says it plainly",
+    "He is bored and wants to leave",
+    "He is angry and wants revenge"
+   ],
+   "answer": 1,
+   "why": "The words are simple, the feeling is big.",
+   "why_it": "Le parole sono semplici, il sentimento è grande."
+  },
+  {
+   "type": "fill",
+   "q": "Last summer I ___ (swim) across a small lake.",
+   "q_it": "L'estate scorsa ho attraversato a nuoto un piccolo lago.",
+   "answers": [
+    "swam"
+   ],
+   "hint": "irregular past",
+   "why": "Swim, swam, swum.",
+   "why_it": "Swim, swam, swum."
+  },
+  {
+   "type": "fill",
+   "q": "___ at the stars tonight!",
+   "q_it": "Guarda le stelle stasera!",
+   "answers": [
+    "Look"
+   ],
+   "hint": "a short command",
+   "why": "Imperative: base verb with no subject.",
+   "why_it": "Imperativo: verbo base senza soggetto."
+  },
+  {
+   "type": "explain",
+   "title": "Your task this week",
+   "title_it": "Il tuo compito della settimana",
+   "en": [
+    "Listening 3: listen again and think about what the narrator does for the person he loves.",
+    "In your notes write four sentences in your own words: (1) One thing you would do for someone you love (use would). (2) One small story from last week with two irregular past verbs. (3) What yellow means to you, or what colour you would choose and why. (4) One command you would give to a friend.",
+    "Do not copy the words of the song."
+   ],
+   "it": [
+    "Ascolto 3: riascolta e pensa a cosa fa il narratore per la persona che ama.",
+    "Nelle note scrivi quattro frasi con parole tue: (1) Una cosa che faresti per una persona che ami (usa would). (2) Una piccola storia della settimana scorsa con due verbi irregolari al passato. (3) Cosa significa il giallo per te, o quale colore sceglieresti e perché. (4) Un comando che daresti a un amico.",
+    "Non copiare le parole della canzone."
    ]
   }
  ],
@@ -263,43 +333,61 @@
    "id": "c1",
    "en": "star",
    "it": "stella",
-   "ex": "Look at that bright star."
+   "ex": "There are many stars tonight."
   },
   {
    "id": "c2",
    "en": "to shine",
    "it": "brillare",
-   "ex": "The sun shines in the morning."
+   "ex": "The sun shines on the sea."
   },
   {
    "id": "c3",
-   "en": "sky",
-   "it": "cielo",
-   "ex": "The sky is clear tonight."
+   "en": "skin",
+   "it": "pelle",
+   "ex": "I have sensitive skin."
   },
   {
    "id": "c4",
-   "en": "devoted",
-   "it": "devoto, affezionato",
-   "ex": "He is devoted to his family."
+   "en": "bone",
+   "it": "osso",
+   "ex": "He broke a bone in his arm."
   },
   {
    "id": "c5",
-   "en": "to be in love",
-   "it": "essere innamorato",
-   "ex": "They are in love."
+   "en": "to swim (swam)",
+   "it": "nuotare",
+   "ex": "We swam across the lake."
   },
   {
    "id": "c6",
-   "en": "colour",
-   "it": "colore",
-   "ex": "What is your favourite colour?"
+   "en": "to draw (drew)",
+   "it": "disegnare, tracciare",
+   "ex": "She drew a line on the map."
   },
   {
    "id": "c7",
-   "en": "to do anything for someone",
-   "it": "fare qualsiasi cosa per qualcuno",
-   "ex": "I'd do anything for my best friend."
+   "en": "to bleed",
+   "it": "sanguinare",
+   "ex": "My finger is bleeding."
+  },
+  {
+   "id": "c8",
+   "en": "to turn into",
+   "it": "trasformarsi in",
+   "ex": "Water turns into ice."
+  },
+  {
+   "id": "c9",
+   "en": "to write (wrote)",
+   "it": "scrivere",
+   "ex": "He wrote a song for his wife."
+  },
+  {
+   "id": "c10",
+   "en": "would / 'd",
+   "it": "farei, sarei pronto a",
+   "ex": "I'd do anything for my friend."
   }
  ]
 }

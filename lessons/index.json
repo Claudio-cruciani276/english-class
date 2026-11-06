@@ -88,10 +88,10 @@
   "artist": "Coldplay",
   "title": "Yellow",
   "title_it": "Yellow",
-  "goal": "Listen, notice the nature images and practise the imperative.",
-  "goal_it": "Ascolta, nota le immagini della natura ed esercita l'imperativo.",
-  "minutes": 20,
-  "exercises": 10
+  "goal": "Learn the words first, notice irregular past verbs and would, and think about what the narrator does for love.",
+  "goal_it": "Impara prima le parole, nota i verbi irregolari al passato e would, e pensa a cosa fa il narratore per amore.",
+  "minutes": 25,
+  "exercises": 13
  },
  {
   "id": "song-2026-11-02-young-and-beautiful",
@@ -101,10 +101,10 @@
   "artist": "Lana Del Rey",
   "title": "Young and Beautiful",
   "title_it": "Young and Beautiful",
-  "goal": "Listen, talk about the topic and notice will for the future.",
-  "goal_it": "Ascolta, parla dell'argomento e nota will per il futuro.",
-  "minutes": 20,
-  "exercises": 9
+  "goal": "Learn the words first, notice will, when and the present perfect, and think about what the song really asks.",
+  "goal_it": "Impara prima le parole, nota will, when e il present perfect e pensa a cosa chiede davvero la canzone.",
+  "minutes": 25,
+  "exercises": 14
  },
  {
   "id": "song-2026-11-09-yellow",
@@ -114,10 +114,10 @@
   "artist": "Coldplay",
   "title": "Yellow",
   "title_it": "Yellow",
-  "goal": "Listen, notice the nature images and practise the imperative.",
-  "goal_it": "Ascolta, nota le immagini della natura ed esercita l'imperativo.",
-  "minutes": 20,
-  "exercises": 10
+  "goal": "Learn the words first, notice irregular past verbs and would, and think about what the narrator does for love.",
+  "goal_it": "Impara prima le parole, nota i verbi irregolari al passato e would, e pensa a cosa fa il narratore per amore.",
+  "minutes": 25,
+  "exercises": 13
  },
  {
   "id": "song-2026-11-09-young-and-beautiful",
@@ -127,9 +127,9 @@
   "artist": "Lana Del Rey",
   "title": "Young and Beautiful",
   "title_it": "Young and Beautiful",
-  "goal": "Listen, talk about the topic and notice will for the future.",
-  "goal_it": "Ascolta, parla dell'argomento e nota will per il futuro.",
-  "minutes": 20,
-  "exercises": 9
+  "goal": "Learn the words first, notice will, when and the present perfect, and think about what the song really asks.",
+  "goal_it": "Impara prima le parole, nota will, when e il present perfect e pensa a cosa chiede davvero la canzone.",
+  "minutes": 25,
+  "exercises": 14
  }
 ]
