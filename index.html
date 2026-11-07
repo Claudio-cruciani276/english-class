@@ -118,7 +118,7 @@ const T={
   show:'Show answer',got:'Got it',againBtn:'Again',lang:'IT',langTitle:'Traduci in italiano',cardsAdded:n=>n+' new cards added to your review.',
   reviewDone:'Review complete',typeHere:'Type your answer',hint:'Hint: ',noDb:'This app needs you to be signed in to Claude. Open the link while signed in.',
   rolesNote:'Progress could not be saved. Ask the course admin to share the app with edit access.',
-  exercise:'Exercise',play:'Listen',stop:'Stop',slow:'Slow',normalSp:'Normal',showText:'Show text',hideText:'Hide text',listenTag:'Listening',noAudio:'Audio is not available on this device. Read the text instead.',listenTip:'Listen first without the text. Then show it and listen again.',go:'Start',readingTitle:'Reading of the week',readingNote:'Three real-life situations. Finish them any day before Sunday.',readingTag:'Reading',songTitle:'Songs of the week',songNote:'Two songs to listen to in your music app, a few times this week. Do the lesson before and after listening.',songTag:'Song',phrasalTitle:'Phrasal verbs of the week',phrasalNote:'Ten useful phrasal verbs with examples. Learn a few each day and come back to them during the week.',phrasalTag:'Phrasal verbs',partN:(a,b)=>a+' of '+b,exN:n=>n+(n===1?' exercise':' exercises'),learn:'Learn',leave:'Leave',points:'points',yes:'You',build:'Tap the words to build the sentence'},
+  exercise:'Exercise',play:'Listen',stop:'Stop',slow:'Slow',normalSp:'Normal',showText:'Show text',hideText:'Hide text',listenTag:'Listening',noAudio:'Audio is not available on this device. Read the text instead.',listenTip:'Listen first without the text. Then show it and listen again.',go:'Start',readingTitle:'Reading of the week',readingNote:'Three real-life situations. Finish them any day before Sunday.',readingTag:'Reading',songTitle:'Songs of the week',songNote:'Two songs to listen to in your music app, a few times this week. Do the lesson before and after listening.',songTag:'Song',topicsTitle:'Course topics',topicsNote:'Everything we have covered so far.',topicsN:n=>n+(n===1?' topic':' topics'),phrasalTitle:'Phrasal verbs of the week',phrasalNote:'Ten useful phrasal verbs with examples. Learn a few each day and come back to them during the week.',phrasalTag:'Phrasal verbs',partN:(a,b)=>a+' of '+b,exN:n=>n+(n===1?' exercise':' exercises'),learn:'Learn',leave:'Leave',points:'points',yes:'You',build:'Tap the words to build the sentence'},
  it:{hello:n=>'Ciao, '+n,streak:'giorni di fila',xp:'XP',today:'Lezione di oggi',start:'Inizia la lezione',again:'Rifai',done:'Completata',preview:'Anteprima',min:'min',
   cardsDue:'Carte da ripassare',noCards:'Nessuna carta da ripassare oggi.',review:'Ripassa',cardsN:n=>n+(n===1?' carta':' carte'),thisWeek:'Questa settimana',everyone:'La classe',past:'Lezioni precedenti',
   nolesson:'Ancora nessuna lezione. La prima sta arrivando.',loading:'Caricamento...',cant:'Impossibile raggiungere le lezioni. Controlla la connessione.',
@@ -129,14 +129,14 @@ const T={
   show:'Mostra la risposta',got:'Lo so',againBtn:'Ancora',lang:'EN',langTitle:'Back to English',cardsAdded:n=>n+(n===1?' nuova carta aggiunta':' nuove carte aggiunte')+' al ripasso.',
   reviewDone:'Ripasso completato',typeHere:'Scrivi la risposta',hint:'Suggerimento: ',noDb:'Questa app richiede di essere connessi a Claude. Apri il link dopo aver fatto l\'accesso.',
   rolesNote:'Non sono riuscito a salvare i progressi. Chiedi all\'admin di condividere l\'app con permesso di modifica.',
-  exercise:'Esercizio',play:'Ascolta',stop:'Ferma',slow:'Lento',normalSp:'Normale',showText:'Mostra il testo',hideText:'Nascondi il testo',listenTag:'Ascolto',noAudio:'L\'audio non è disponibile su questo dispositivo. Leggi il testo.',listenTip:'Ascolta prima senza il testo. Poi mostralo e riascolta.',go:'Inizia',readingTitle:'Lettura della settimana',readingNote:'Tre situazioni di vita reale. Falle quando vuoi, entro domenica.',readingTag:'Lettura',songTitle:'Canzoni della settimana',songNote:'Due canzoni da ascoltare nella tua app di musica, più volte durante la settimana. Fai la lezione prima e dopo l\'ascolto.',songTag:'Canzone',phrasalTitle:'Phrasal verbs della settimana',phrasalNote:'Dieci phrasal verbs utili con esempi. Impararne qualcuno al giorno e riprenderli durante la settimana.',phrasalTag:'Phrasal verbs',partN:(a,b)=>a+' di '+b,exN:n=>n+(n===1?' esercizio':' esercizi'),learn:'Impara',leave:'Esci',points:'punti',yes:'Tu',build:'Tocca le parole per formare la frase'}
+  exercise:'Esercizio',play:'Ascolta',stop:'Ferma',slow:'Lento',normalSp:'Normale',showText:'Mostra il testo',hideText:'Nascondi il testo',listenTag:'Ascolto',noAudio:'L\'audio non è disponibile su questo dispositivo. Leggi il testo.',listenTip:'Ascolta prima senza il testo. Poi mostralo e riascolta.',go:'Inizia',readingTitle:'Lettura della settimana',readingNote:'Tre situazioni di vita reale. Falle quando vuoi, entro domenica.',readingTag:'Lettura',songTitle:'Canzoni della settimana',songNote:'Due canzoni da ascoltare nella tua app di musica, più volte durante la settimana. Fai la lezione prima e dopo l\'ascolto.',songTag:'Canzone',topicsTitle:'Argomenti del corso',topicsNote:'Tutto quello che abbiamo fatto finora.',topicsN:n=>n+(n===1?' argomento':' argomenti'),phrasalTitle:'Phrasal verbs della settimana',phrasalNote:'Dieci phrasal verbs utili con esempi. Impararne qualcuno al giorno e riprenderli durante la settimana.',phrasalTag:'Phrasal verbs',partN:(a,b)=>a+' di '+b,exN:n=>n+(n===1?' esercizio':' esercizi'),learn:'Impara',leave:'Esci',points:'punti',yes:'Tu',build:'Tocca le parole per formare la frase'}
 };
 
 /* ---------- state ---------- */
 const SB_URL='https://jctrnczfoabegzhhotvd.supabase.co/rest/v1/progress';
 const SB_KEY='sb_publishable_5kJ1PPMvrM4e4I4KcX4g8w_A_PCJaKI';
 const PREVIEW=(location.hash==='#preview');
-const S={db:true,lang:'en',lessons:[],people:{},me:null,prog:null,view:'boot',run:null,isOwner:PREVIEW,
+const S={db:true,lang:'en',lessons:[],topics:null,people:{},me:null,prog:null,view:'boot',run:null,isOwner:PREVIEW,
   loadedL:false,loadedP:false,saving:0,saveErr:false,loginErr:'',cant:false};
 const t=()=>T[S.lang];
 const $app=document.getElementById('app');
@@ -391,6 +391,9 @@ function homeView(){
         h('span',{class:'muted small'},effStreak(x)+' · '+(x.xp||0)+' '+t().xp))))));
   }
 
+  /* course topics */
+  const tp=topicsCard();if(tp)wrap.append(tp);
+
   /* past */
   const ws0=addDays(td,-dow(td));
   const pastReadings=S.lessons.filter(l=>(l.kind==='reading'||l.kind==='song'||l.kind==='phrasal')&&l.week<ws0);
@@ -403,6 +406,21 @@ function homeView(){
         h('button',{class:'pill',onclick:()=>startLesson(l)},p.done&&p.done[l.id]?t().again:t().start))))));
   }
   return wrap;
+}
+function topicsCard(){
+  const td=todayStr();
+  const gs=((S.topics&&S.topics.groups)||[]).map(g=>({g,items:(g.items||[]).filter(i=>!i.date||i.date<=td)})).filter(x=>x.items.length);
+  if(!gs.length)return null;
+  const total=gs.reduce((n,x)=>n+x.items.length,0);
+  const sd=d=>d?new Date(d+'T12:00:00Z').toLocaleDateString(S.lang==='it'?'it-IT':'en-GB',{day:'numeric',month:'short',timeZone:'UTC'}):'';
+  return h('details',{class:'card'},
+    h('summary',{style:'cursor:pointer;list-style:none'},h('span',{class:'label'},t().topicsTitle),h('span',{class:'small muted',style:'margin-left:8px'},t().topicsN(total))),
+    h('p',{class:'muted small'},t().topicsNote),
+    gs.map(x=>h('div',{style:'margin-top:8px'},
+      h('div',{style:'font-weight:600'},S.lang==='it'&&x.g.title_it?x.g.title_it:x.g.title),
+      h('ul',{class:'list'},x.items.map(i=>h('li',null,
+        h('span',null,S.lang==='it'&&i.label_it?i.label_it:i.label),
+        h('span',{class:'small muted'},sd(i.date))))))));
 }
 function dueCards(){
   const td=todayStr();
@@ -646,6 +664,7 @@ async function boot(){
     const list=await r.json();
     S.lessons=list.sort((a,b)=>a.id<b.id?-1:1);S.loadedL=true;
   }catch(e){S.cant=true;}
+  try{const r2=await fetch('topics.json',{cache:'no-store'});if(r2.ok)S.topics=await r2.json();}catch(e){}
   try{S.view=(await autoLogin())?'home':'login';}catch(e){S.view='login';}
   render();
   loadPeople();

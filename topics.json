@@ -1,0 +1,130 @@
+{
+ "groups": [
+  {
+   "id": "tenses",
+   "title": "Verb tenses",
+   "title_it": "Tempi verbali",
+   "items": [
+    {
+     "label": "Present simple",
+     "label_it": "Present simple",
+     "date": "2026-11-02"
+    },
+    {
+     "label": "Present continuous",
+     "label_it": "Present continuous",
+     "date": "2026-11-03"
+    },
+    {
+     "label": "Present simple vs continuous",
+     "label_it": "Present simple o continuous",
+     "date": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "prepositions",
+   "title": "Prepositions",
+   "title_it": "Preposizioni",
+   "items": [
+    {
+     "label": "in / on / at (time)",
+     "label_it": "in / on / at (tempo)",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "nouns",
+   "title": "Nouns, articles and quantity",
+   "title_it": "Nomi, articoli e quantità",
+   "items": []
+  },
+  {
+   "id": "questions",
+   "title": "Question words",
+   "title_it": "Parole interrogative",
+   "items": []
+  },
+  {
+   "id": "other",
+   "title": "Other grammar points",
+   "title_it": "Altri punti di grammatica",
+   "items": [
+    {
+     "label": "Adverbs of frequency",
+     "label_it": "Avverbi di frequenza",
+     "date": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "phrasal",
+   "title": "Phrasal verbs",
+   "title_it": "Phrasal verbs",
+   "items": [
+    {
+     "label": "Week of 9 Nov: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to",
+     "label_it": "Settimana del 9 nov: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "skills",
+   "title": "Listening and writing",
+   "title_it": "Listening e writing",
+   "items": [
+    {
+     "label": "Listening: a phone call at the station",
+     "label_it": "Listening: una telefonata alla stazione",
+     "date": "2026-11-04"
+    },
+    {
+     "label": "Writing: a typical day",
+     "label_it": "Writing: una giornata tipica",
+     "date": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "title": "Readings (real-life situations)",
+   "title_it": "Letture (situazioni reali)",
+   "items": [
+    {
+     "label": "At the airport",
+     "label_it": "All'aeroporto",
+     "date": "2026-11-02"
+    },
+    {
+     "label": "At a restaurant",
+     "label_it": "Al ristorante",
+     "date": "2026-11-02"
+    },
+    {
+     "label": "Asking for directions",
+     "label_it": "Chiedere indicazioni",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "songs",
+   "title": "Songs",
+   "title_it": "Canzoni",
+   "items": [
+    {
+     "label": "Young and Beautiful (Lana Del Rey)",
+     "label_it": "Young and Beautiful (Lana Del Rey)",
+     "date": "2026-11-02"
+    },
+    {
+     "label": "Yellow (Coldplay)",
+     "label_it": "Yellow (Coldplay)",
+     "date": "2026-11-02"
+    }
+   ]
+  }
+ ]
+}
