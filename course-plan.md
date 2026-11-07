@@ -35,13 +35,13 @@ Lo stesso confronto va anche nel blocco misto della lezione di giovedi (vedi "Co
 
 ### Settimana 9-15 novembre (approvata dall'admin il 7 novembre)
 
-- Lun 9, grammatica: PAST SIMPLE (was/were, verbi regolari con -ed, irregolari più comuni, did/didn't + infinito) + preposizioni di luogo in/on/at + mini argomento there is / there are (introduzione).
-- Mar 10, grammatica: PAST CONTINUOUS (anche in confronto con il past simple, when/while; qualche esercizio di scelta tra past simple e past continuous) + there is / there are con some / any.
+- Lun 9, grammatica: PAST SIMPLE (was/were, verbi regolari con -ed, irregolari più comuni, did/didn't + infinito) + preposizioni di luogo in/on/at + PAROLE INTERROGATIVE 1 (where, when, who, why, which, whose; vedi sezione 4). There is / there are: NIENTE spiegazione (l'admin dice che si sanno), solo usati negli esercizi.
+- Mar 10, grammatica: PAST CONTINUOUS (anche in confronto con il past simple, when/while; qualche esercizio di scelta tra past simple e past continuous) + PAROLE INTERROGATIVE 2: how much / how many, how far, how long, how often (vedi sezione 4). There is / there are senza spiegazione, solo negli esercizi.
 - Mer 11, listening: situazione nuova, per esempio una persona che si trasferisce in un nuovo appartamento e lo descrive (there is/are, preposizioni di luogo, past simple per raccontare il trasloco).
-- Gio 12, grammatica: PRESENT PERFECT 1 (have/has + past participle, been/gone, just/already/yet) + countable e uncountable (a/an, some/any, many/much light) + blocco di ripasso su past simple e past continuous. Il present perfect è il punto più difficile per un italiano (falso amico del passato prossimo): più spazio a lui, mini argomento leggero. Inserire una schermata di confronto tra i tre tempi (sezione 4, "Confronto tra i tre tempi") e un blocco misto con esercizi di scelta del tempo.
+- Gio 12, grammatica: PRESENT PERFECT 1 (have/has + past participle, been/gone, just/already/yet) + countable e uncountable (a/an, some/any, many/much light; some/any e' stato spostato qui da martedi') + blocco di ripasso su past simple e past continuous. Il present perfect è il punto più difficile per un italiano (falso amico del passato prossimo): più spazio a lui, mini argomento leggero. Inserire una schermata di confronto tra i tre tempi (sezione 4, "Confronto tra i tre tempi") e un blocco misto con esercizi di scelta del tempo.
 - Phrasal verbs della settimana (sezione 7): dieci verbi, lezione dedicata nella sezione "Phrasal verbs della settimana" dell'app.
 - Ven 13, writing: descrivere casa o quartiere (there is/are, much/many/a lot of) e un breve diario di che cosa si è fatto nel weekend (past simple).
-- Sab 14: verifica da 20 punti: 8 esercizi sulla scelta tra past simple, past continuous e present perfect (regola della sezione 2), gli altri su in/on/at di luogo, there is/are, countable e uncountable, e 4 di comprensione.
+- Sab 14: verifica da 20 punti: 8 esercizi sulla scelta tra past simple, past continuous e present perfect (regola della sezione 2), gli altri su in/on/at di luogo, parole interrogative, countable e uncountable con some/any, e 4 di comprensione (there is/are solo dentro le frasi).
 - Dom 15: ripasso (parte dagli errori della verifica).
 - Reading della settimana: hotel, shopping per vestiti, dal medico e in farmacia. Canzoni: come in songs-queue.json.
 
@@ -101,9 +101,18 @@ Una schermata con tabella che risponde alla domanda "quale tempo uso?":
 - a/an con countable singolare; per dire che cosa è qualcosa o qualcuno e il lavoro (She's a nurse); plurale da solo (Those are nice chairs). some = un certo numero di / non tutti; non si usa some per le cose in generale.
 - Prima volta a/an, poi the (a sandwich... the sandwich); the quando è chiaro quale (the light, the door, the station, the bank, the doctor); a/an per tipo (a very cheap hotel) contro the per uno specifico; once a week, three times a day, £1.50 a kilo.
 
+### Parole interrogative (note dell'admin dal suo quaderno, 7 novembre)
+Parte 1 (lunedi' 9): where (dove), when (quando), who (chi), why (perche'; si risponde con because), which (quale, tra opzioni limitate: Which bus do you take?), whose (di chi: Whose pen is it?). Eventuale what come richiamo.
+- Ordine della domanda: parola interrogativa + ausiliare + soggetto + verbo. Mostra la STESSA parola in quattro tempi, cosi' si ripassa la scelta del tempo: Where do you usually go? (present simple) / Where are you going? (present continuous) / Where did you go yesterday? (past simple) / Where have you been? (present perfect).
+- Regola dell'admin: le parole interrogative non vogliono nulla davanti, la preposizione va in fondo alla frase: Who are you talking to? (non To who...). Con chi/cosa e' soggetto non serve do/did: Who called you?
+- Esercizi: scrivere la domanda per una risposta data; scegliere la parola interrogativa giusta; riordinare le parole di una domanda; scegliere il tempo giusto nella domanda (yesterday, usually, now, ever).
+Parte 2 (martedi' 10): how much / how many (quanto, quanti: much con gli uncountable, many con i countable plurali), how far (quanto e' lontano, distanza), how long (quanto dura; MAI how long time), how often (quanto spesso). Esempi: How much milk do we need? How many people came? How far is the station? How long did the film last? How often do you go to the gym?
+- While NON e' una parola interrogativa (e' nell'elenco dell'admin): e' una congiunzione che va con il past continuous (I was cooking while he was studying). Spiegarlo in una frase e usarlo nella lezione di martedi' con when/while.
+
 ### Preposizioni di luogo in/on/at, there is / there are, some / any
+- NOTA DELL'ADMIN: there is / there are NON vanno spiegati (si sanno): si usano solo nelle frasi degli esercizi e degli esempi. Resta la spiegazione di in/on/at di luogo; some/any sono spiegati giovedi' con countable/uncountable.
 - in (dentro uno spazio o una città), on (sopra una superficie, su una strada, su un piano), at (punto preciso: at the bus stop, at the door, at home, at work).
-- there is / there are, negativa e domanda, con some/any (There aren't any shops near here. Is there a bank?).
+- (Solo per riferimento, NON spiegare) there is / there are, negativa e domanda: usarli liberamente nelle frasi degli esercizi (There aren't any shops near here. Is there a bank?).
 - Contesti: casa, camera, città, hotel.
 
 ### Phrasal verbs (introduzione, più avanti)
@@ -127,6 +136,7 @@ Reading già fatti: aeroporto, ristorante, indicazioni. Canzoni già fatte: Youn
 ## 6. Note dell'admin e revisione del weekend
 
 - 2026-11-07: ogni lezione di grammatica deve avere anche un tempo verbale oltre ai mini argomenti, almeno per le prime settimane. Lezioni leggermente più lunghe (la prima settimana richiedeva meno di 10 minuti). Settimana 9-15: past simple, past continuous, present perfect 1.
+- 2026-11-07: there is / there are non vanno spiegati, solo usati negli esercizi. Al loro posto le PAROLE INTERROGATIVE dal quaderno dell'admin (sezione 4): lunedi' where/when/who/why/which/whose, martedi' how much/many/far/long/often.
 - 2026-11-07: la verifica del sabato deve confrontare l'uso dei tre tempi (quando si usa uno e non l'altro): regola nella sezione 2. Nuova sezione settimanale con una decina di phrasal verbs e vari esempi per ognuno (sezione 7).
 
 ## 7. Phrasal verbs della settimana (nuova sezione dal 9 novembre)
