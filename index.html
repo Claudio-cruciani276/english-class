@@ -118,7 +118,7 @@ const T={
   show:'Show answer',got:'Got it',againBtn:'Again',lang:'IT',langTitle:'Traduci in italiano',cardsAdded:n=>n+' new cards added to your review.',
   reviewDone:'Review complete',typeHere:'Type your answer',hint:'Hint: ',noDb:'This app needs you to be signed in to Claude. Open the link while signed in.',
   rolesNote:'Progress could not be saved. Ask the course admin to share the app with edit access.',
-  exercise:'Exercise',play:'Listen',stop:'Stop',slow:'Slow',normalSp:'Normal',showText:'Show text',hideText:'Hide text',listenTag:'Listening',noAudio:'Audio is not available on this device. Read the text instead.',listenTip:'Listen first without the text. Then show it and listen again.',go:'Start',readingTitle:'Reading of the week',readingNote:'Three real-life situations. Finish them any day before Sunday.',readingTag:'Reading',songTitle:'Songs of the week',songNote:'Two songs to listen to in your music app, a few times this week. Do the lesson before and after listening.',songTag:'Song',partN:(a,b)=>a+' of '+b,exN:n=>n+(n===1?' exercise':' exercises'),learn:'Learn',leave:'Leave',points:'points',yes:'You',build:'Tap the words to build the sentence'},
+  exercise:'Exercise',play:'Listen',stop:'Stop',slow:'Slow',normalSp:'Normal',showText:'Show text',hideText:'Hide text',listenTag:'Listening',noAudio:'Audio is not available on this device. Read the text instead.',listenTip:'Listen first without the text. Then show it and listen again.',go:'Start',readingTitle:'Reading of the week',readingNote:'Three real-life situations. Finish them any day before Sunday.',readingTag:'Reading',songTitle:'Songs of the week',songNote:'Two songs to listen to in your music app, a few times this week. Do the lesson before and after listening.',songTag:'Song',phrasalTitle:'Phrasal verbs of the week',phrasalNote:'Ten useful phrasal verbs with examples. Learn a few each day and come back to them during the week.',phrasalTag:'Phrasal verbs',partN:(a,b)=>a+' of '+b,exN:n=>n+(n===1?' exercise':' exercises'),learn:'Learn',leave:'Leave',points:'points',yes:'You',build:'Tap the words to build the sentence'},
  it:{hello:n=>'Ciao, '+n,streak:'giorni di fila',xp:'XP',today:'Lezione di oggi',start:'Inizia la lezione',again:'Rifai',done:'Completata',preview:'Anteprima',min:'min',
   cardsDue:'Carte da ripassare',noCards:'Nessuna carta da ripassare oggi.',review:'Ripassa',cardsN:n=>n+(n===1?' carta':' carte'),thisWeek:'Questa settimana',everyone:'La classe',past:'Lezioni precedenti',
   nolesson:'Ancora nessuna lezione. La prima sta arrivando.',loading:'Caricamento...',cant:'Impossibile raggiungere le lezioni. Controlla la connessione.',
@@ -129,7 +129,7 @@ const T={
   show:'Mostra la risposta',got:'Lo so',againBtn:'Ancora',lang:'EN',langTitle:'Back to English',cardsAdded:n=>n+(n===1?' nuova carta aggiunta':' nuove carte aggiunte')+' al ripasso.',
   reviewDone:'Ripasso completato',typeHere:'Scrivi la risposta',hint:'Suggerimento: ',noDb:'Questa app richiede di essere connessi a Claude. Apri il link dopo aver fatto l\'accesso.',
   rolesNote:'Non sono riuscito a salvare i progressi. Chiedi all\'admin di condividere l\'app con permesso di modifica.',
-  exercise:'Esercizio',play:'Ascolta',stop:'Ferma',slow:'Lento',normalSp:'Normale',showText:'Mostra il testo',hideText:'Nascondi il testo',listenTag:'Ascolto',noAudio:'L\'audio non è disponibile su questo dispositivo. Leggi il testo.',listenTip:'Ascolta prima senza il testo. Poi mostralo e riascolta.',go:'Inizia',readingTitle:'Lettura della settimana',readingNote:'Tre situazioni di vita reale. Falle quando vuoi, entro domenica.',readingTag:'Lettura',songTitle:'Canzoni della settimana',songNote:'Due canzoni da ascoltare nella tua app di musica, più volte durante la settimana. Fai la lezione prima e dopo l\'ascolto.',songTag:'Canzone',partN:(a,b)=>a+' di '+b,exN:n=>n+(n===1?' esercizio':' esercizi'),learn:'Impara',leave:'Esci',points:'punti',yes:'Tu',build:'Tocca le parole per formare la frase'}
+  exercise:'Esercizio',play:'Ascolta',stop:'Ferma',slow:'Lento',normalSp:'Normale',showText:'Mostra il testo',hideText:'Nascondi il testo',listenTag:'Ascolto',noAudio:'L\'audio non è disponibile su questo dispositivo. Leggi il testo.',listenTip:'Ascolta prima senza il testo. Poi mostralo e riascolta.',go:'Inizia',readingTitle:'Lettura della settimana',readingNote:'Tre situazioni di vita reale. Falle quando vuoi, entro domenica.',readingTag:'Lettura',songTitle:'Canzoni della settimana',songNote:'Due canzoni da ascoltare nella tua app di musica, più volte durante la settimana. Fai la lezione prima e dopo l\'ascolto.',songTag:'Canzone',phrasalTitle:'Phrasal verbs della settimana',phrasalNote:'Dieci phrasal verbs utili con esempi. Impararne qualcuno al giorno e riprenderli durante la settimana.',phrasalTag:'Phrasal verbs',partN:(a,b)=>a+' di '+b,exN:n=>n+(n===1?' esercizio':' esercizi'),learn:'Impara',leave:'Esci',points:'punti',yes:'Tu',build:'Tocca le parole per formare la frase'}
 };
 
 /* ---------- state ---------- */
@@ -273,7 +273,7 @@ async function autoLogin(){
 /* ---------- lessons ---------- */
 function visibleLessons(){
   const td=todayStr();
-  return S.lessons.filter(l=>l.kind!=='reading'&&l.kind!=='song').filter(l=>l.id<=td||PREVIEW).map(l=>({...l,future:l.id>td}));
+  return S.lessons.filter(l=>l.kind!=='reading'&&l.kind!=='song'&&l.kind!=='phrasal').filter(l=>l.id<=td||PREVIEW).map(l=>({...l,future:l.id>td}));
 }
 function weekReadings(kind){
   const td=todayStr(),ws=addDays(td,-dow(td));
@@ -358,7 +358,7 @@ function homeView(){
   wrap.append(lc);
 
   /* weekly readings and songs */
-  [['reading','readingTitle','readingNote'],['song','songTitle','songNote']].forEach(([kind,tk,nk])=>{
+  [['reading','readingTitle','readingNote'],['phrasal','phrasalTitle','phrasalNote'],['song','songTitle','songNote']].forEach(([kind,tk,nk])=>{
     const rd=weekReadings(kind);
     if(!rd.length)return;
     wrap.append(h('div',{class:'card'},
@@ -393,13 +393,13 @@ function homeView(){
 
   /* past */
   const ws0=addDays(td,-dow(td));
-  const pastReadings=S.lessons.filter(l=>(l.kind==='reading'||l.kind==='song')&&l.week<ws0);
+  const pastReadings=S.lessons.filter(l=>(l.kind==='reading'||l.kind==='song'||l.kind==='phrasal')&&l.week<ws0);
   const past=visibleLessons().filter(l=>L&&l.id!==L.id).concat(pastReadings)
     .sort((a,b)=>((b.week||b.id)+(b.order||0))<((a.week||a.id)+(a.order||0))?-1:1);
   if(past.length){
     wrap.append(h('div',{class:'card'},h('span',{class:'label'},t().past),
       h('ul',{class:'list'},past.map(l=>h('li',null,
-        h('div',null,h('div',{style:'font-weight:600'},l.title),h('div',{class:'small muted'},l.kind==='reading'?t().readingTag:(l.kind==='song'?t().songTag+(l.artist?': '+l.artist:''):longDate(l.id)))),
+        h('div',null,h('div',{style:'font-weight:600'},l.title),h('div',{class:'small muted'},l.kind==='reading'?t().readingTag:(l.kind==='phrasal'?t().phrasalTag:(l.kind==='song'?t().songTag+(l.artist?': '+l.artist:''):longDate(l.id))))),
         h('button',{class:'pill',onclick:()=>startLesson(l)},p.done&&p.done[l.id]?t().again:t().start))))));
   }
   return wrap;

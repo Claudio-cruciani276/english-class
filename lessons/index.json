@@ -54,6 +54,18 @@
   "exercises": 20
  },
  {
+  "id": "phrasal-2026-11-09",
+  "kind": "phrasal",
+  "week": "2026-11-09",
+  "order": 1,
+  "title": "Phrasal verbs of the week",
+  "title_it": "Phrasal verbs della settimana",
+  "goal": "Learn ten useful phrasal verbs and see how to use them in different sentences.",
+  "goal_it": "Imparare dieci phrasal verbs utili e vedere come usarli in frasi diverse.",
+  "minutes": 20,
+  "exercises": 20
+ },
+ {
   "id": "reading-2026-11-02-airport",
   "kind": "reading",
   "week": "2026-11-02",

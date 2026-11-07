@@ -22,25 +22,36 @@ Le lezioni della prima settimana richiedevano meno di 10 minuti: ora si allungan
 - Nel blocco di ripasso: 3-4 esercizi su errori ricorrenti o su un punto della lezione precedente.
 - Tipi di esercizio da usare (ispirati al libro): completare una frase con un verbo scelto da una lista nella forma giusta; riscrivere una routine come cosa fatta ieri; scrivere la domanda per una risposta data; positivo o negativo con il verbo dato; scegliere la forma corretta tra due; abbinare due metà di frase; trasformare una situazione in una frase con una parola data.
 
+### Verifica del sabato: confronto tra i tempi verbali (regola dell'admin, 7 novembre)
+
+Capire quando si usa un tempo verbale e non un altro e' la parte piu' importante. Quindi nella verifica da 20 punti:
+- almeno 8 dei 16 esercizi di grammatica sono sulla SCELTA TRA I TEMPI della settimana (past simple, past continuous, present perfect; quando e' utile anche present simple e continuous delle settimane precedenti);
+- tipi: scegliere il tempo giusto dato un indizio (yesterday, last night, when, while, just, already, yet, ever, never, so far, this week); completare con il verbo nel tempo corretto; scegliere la frase corretta tra due o tre tempi; correggere un errore di tempo; una mini storia da completare con i verbi tra parentesi;
+- ogni why e why_it spiega perche' si usa quel tempo e non gli altri (indizio di tempo, azione finita o in corso, collegamento con il presente);
+- gli altri esercizi coprono i mini argomenti della settimana.
+Lo stesso confronto va anche nel blocco misto della lezione di giovedi (vedi "Confronto tra i tre tempi" nella sezione 4) e nel ripasso della domenica, che parte dagli errori di scelta del tempo.
+
 ## 3. Piano delle settimane
 
 ### Settimana 9-15 novembre (approvata dall'admin il 7 novembre)
 
 - Lun 9, grammatica: PAST SIMPLE (was/were, verbi regolari con -ed, irregolari più comuni, did/didn't + infinito) + preposizioni di luogo in/on/at + mini argomento there is / there are (introduzione).
-- Mar 10, grammatica: PAST CONTINUOUS (anche in confronto con il past simple, when/while) + there is / there are con some / any.
+- Mar 10, grammatica: PAST CONTINUOUS (anche in confronto con il past simple, when/while; qualche esercizio di scelta tra past simple e past continuous) + there is / there are con some / any.
 - Mer 11, listening: situazione nuova, per esempio una persona che si trasferisce in un nuovo appartamento e lo descrive (there is/are, preposizioni di luogo, past simple per raccontare il trasloco).
-- Gio 12, grammatica: PRESENT PERFECT 1 (have/has + past participle, been/gone, just/already/yet) + countable e uncountable (a/an, some/any, many/much light) + blocco di ripasso su past simple e past continuous. Il present perfect è il punto più difficile per un italiano (falso amico del passato prossimo): più spazio a lui, mini argomento leggero.
+- Gio 12, grammatica: PRESENT PERFECT 1 (have/has + past participle, been/gone, just/already/yet) + countable e uncountable (a/an, some/any, many/much light) + blocco di ripasso su past simple e past continuous. Il present perfect è il punto più difficile per un italiano (falso amico del passato prossimo): più spazio a lui, mini argomento leggero. Inserire una schermata di confronto tra i tre tempi (sezione 4, "Confronto tra i tre tempi") e un blocco misto con esercizi di scelta del tempo.
+- Phrasal verbs della settimana (sezione 7): dieci verbi, lezione dedicata nella sezione "Phrasal verbs della settimana" dell'app.
 - Ven 13, writing: descrivere casa o quartiere (there is/are, much/many/a lot of) e un breve diario di che cosa si è fatto nel weekend (past simple).
-- Sab 14: verifica da 20 punti su past simple, past continuous, present perfect 1, in/on/at di luogo, there is/are, countable e uncountable.
+- Sab 14: verifica da 20 punti: 8 esercizi sulla scelta tra past simple, past continuous e present perfect (regola della sezione 2), gli altri su in/on/at di luogo, there is/are, countable e uncountable, e 4 di comprensione.
 - Dom 15: ripasso (parte dagli errori della verifica).
 - Reading della settimana: hotel, shopping per vestiti, dal medico e in farmacia. Canzoni: come in songs-queue.json.
 
 ### Settimana 16-22 novembre (bozza di Claude, da rivedere nel weekend)
 
-- Lun 16: PRESENT PERFECT 2 (ever/never, "been to", recently, so far, today/this week/this year, "it's the first time...") + a/an e some (Unit 71 del libro).
+- Lun 16: PRESENT PERFECT 2, cioe' il present perfect per le ESPERIENZE fino a oggi (Have you ever been to...? I've never eaten..., recently, so far, this week, "it's the first time I've..."); la parte 1 era invece il risultato adesso e just/already/yet + a/an e some (Unit 71 del libro).
 - Mar 17: PAST SIMPLE vs PRESENT PERFECT (tempo finito contro periodo non finito) + a/an e the.
 - Mer 18: listening su un viaggio o un'esperienza (present perfect e past simple).
-- Gio 19: PRESENT PERFECT con for/since e ripasso dei tre tempi passati + countable e uncountable 2 (nomi che cambiano significato, advice, information, news, luggage, weather...) + introduzione ai phrasal verbs.
+- Gio 19: PRESENT PERFECT con for/since e ripasso dei tre tempi passati + countable e uncountable 2 (nomi che cambiano significato, advice, information, news, luggage, weather...).
+- Phrasal verbs della settimana 16-22: dieci nuovi (sezione 7). Verifica del sabato: come da regola della sezione 2, con la scelta tra past simple e present perfect al centro.
 - Ven 20: writing, una breve email o diario di una vacanza.
 - Sab 21: verifica da 20 punti. Dom 22: ripasso.
 
@@ -67,6 +78,14 @@ Le lezioni della prima settimana richiedevano meno di 10 minuti: ora si allungan
 - In inglese britannico, per questi usi si preferisce il present perfect al past simple.
 - Parte 2 (settimana dopo): esperienze fino a ora con ever/never ("Have you ever been to...?"), recently, in the last few days, so far, since..., today/this week/this year; "It's the first time I've...".
 - Esercizi: situazione breve da trasformare in frase con il verbo dato; been o gone; just/already/yet in base alla situazione; domande con ever.
+
+### Confronto tra i tre tempi (past simple, past continuous, present perfect)
+Una schermata con tabella che risponde alla domanda "quale tempo uso?":
+- Past simple: azione finita in un momento passato definito (yesterday, last week, in 2019, three days ago, when I was a child). Una cosa dopo l'altra in una storia.
+- Past continuous: azione in corso a un momento del passato, sfondo di una storia, azione interrotta (when/while).
+- Present perfect: collegamento con il presente, nessun momento passato definito (just, already, yet, ever, never, so far, this week, today, "I've lost my key").
+- Parole spia da far notare: yesterday e last night chiamano il past simple, never e just il present perfect, while il past continuous. Con un tempo finito NON si usa il present perfect (I have seen him yesterday e' sbagliato).
+- Esercizi: scegliere il tempo dato l'indizio, stessa situazione con due tempi diversi e due significati diversi, correggere l'errore, completare una mini storia.
 
 ### Countable e uncountable 1
 - Countable: banana/bananas, si possono contare; uncountable: rice, water, music, money, sand, electricity, luck, che non hanno plurale e non si contano con numeri.
@@ -108,3 +127,23 @@ Reading già fatti: aeroporto, ristorante, indicazioni. Canzoni già fatte: Youn
 ## 6. Note dell'admin e revisione del weekend
 
 - 2026-11-07: ogni lezione di grammatica deve avere anche un tempo verbale oltre ai mini argomenti, almeno per le prime settimane. Lezioni leggermente più lunghe (la prima settimana richiedeva meno di 10 minuti). Settimana 9-15: past simple, past continuous, present perfect 1.
+- 2026-11-07: la verifica del sabato deve confrontare l'uso dei tre tempi (quando si usa uno e non l'altro): regola nella sezione 2. Nuova sezione settimanale con una decina di phrasal verbs e vari esempi per ognuno (sezione 7).
+
+## 7. Phrasal verbs della settimana (nuova sezione dal 9 novembre)
+
+Ogni settimana, la domenica notte (quando domani e' lunedi), insieme a reading e canzoni si crea UN file lessons/phrasal-<lunedi della settimana>.json di tipo kind:"phrasal", che nell'app compare nella sezione "Phrasal verbs della settimana". Modello esatto: lessons/phrasal-2026-11-09.json.
+
+- 10 phrasal verbs nuovi ogni settimana, mai ripetuti (controlla l'elenco qui sotto). Scelta di uso quotidiano e livello B1, legati ai temi della settimana quando possibile.
+- Per ogni verbo: significato in inglese semplice e in italiano, almeno 3 frasi d'esempio originali (con traduzione) che mostrano usi diversi (se il verbo ha piu' significati, almeno due: per esempio take off con i vestiti e con l'aereo), indicazione se e' separabile (turn it on) o no, e un contrario o un verbo collegato quando c'e'.
+- Struttura: 5 schermate explain (2 verbi per schermata, tabella Phrasal verb / Meaning / Italiano piu' le frasi d'esempio; la prima schermata della prima settimana spiega anche la regola del pronome in mezzo), 20 esercizi (8 mcq, 8 fill, 4 order, tutti con why e why_it), 10 flashcard (una per verbo).
+- Campi del file: kind:"phrasal", week, order:1, title "Phrasal verbs of the week", title_it, goal, goal_it, minutes:20, steps, cards. Voce nell'index: {id:"phrasal-<week>", kind:"phrasal", week, order:1, title, title_it, goal, goal_it, minutes, exercises}.
+- Registrare i 10 verbi qui sotto dopo averli creati.
+
+Verbi gia' fatti:
+- Settimana 9 novembre: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to.
+
+Proposta per le prossime settimane (da rivedere nel weekend, modificabile):
+- 16 novembre: get on, get off, pick up, drop off, set off, look up, look after, wake up, go out, sit down.
+- 23 novembre: carry on, run out of, throw away, work out, check in, check out, call back, fill in, hurry up, slow down.
+- 30 novembre: take care of, get along with, ask for, look like, get back, get into, put away, cheer up, stand up, move on.
+

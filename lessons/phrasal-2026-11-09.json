@@ -1,0 +1,641 @@
+{
+ "kind": "phrasal",
+ "week": "2026-11-09",
+ "order": 1,
+ "title": "Phrasal verbs of the week",
+ "title_it": "Phrasal verbs della settimana",
+ "goal": "Learn ten useful phrasal verbs and see how to use them in different sentences.",
+ "goal_it": "Imparare dieci phrasal verbs utili e vedere come usarli in frasi diverse.",
+ "minutes": 20,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Phrasal verbs: get up, come back",
+   "title_it": "Phrasal verbs: get up, come back",
+   "en": [
+    "A phrasal verb is a verb with a small word (up, on, off, back...). The small word often changes the meaning, so learn the whole phrase together.",
+    "This week you will learn ten phrasal verbs. Come back to this page a few times during the week.",
+    "Important rule: some phrasal verbs can be separated by an object (turn the light on), but if the object is a pronoun (it, them, me, him), you must put it in the middle: turn it on, not turn on it."
+   ],
+   "it": [
+    "Un phrasal verb è un verbo con una particella (up, on, off, back...). La particella spesso cambia il significato, quindi impara l'espressione intera.",
+    "Questa settimana impari dieci phrasal verbs. Torna su questa pagina più volte durante la settimana.",
+    "Regola importante: alcuni phrasal verbs si possono separare con il complemento (turn the light on), ma se il complemento è un pronome (it, them, me, him) va messo in mezzo: turn it on, non turn on it."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "get up",
+      "to leave your bed after sleeping",
+      "alzarsi dal letto"
+     ],
+     [
+      "come back",
+      "to return to a place",
+      "tornare, ritornare"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I get up at seven on weekdays.",
+     "it": "Mi alzo alle sette nei giorni feriali."
+    },
+    {
+     "en": "What time did you get up this morning?",
+     "it": "A che ora ti sei alzato stamattina?"
+    },
+    {
+     "en": "He never gets up early at the weekend.",
+     "it": "Nel weekend non si alza mai presto."
+    },
+    {
+     "en": "I'll come back at six.",
+     "it": "Torno alle sei."
+    },
+    {
+     "en": "When did she come back from Spain?",
+     "it": "Quando è tornata dalla Spagna?"
+    },
+    {
+     "en": "Come back soon!",
+     "it": "Torna presto!"
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Machines: turn on, turn off",
+   "title_it": "Macchine: turn on, turn off",
+   "en": [
+    "Separable: turn on the light / turn the light on. With a pronoun: turn it on.",
+    "Separable: turn off the TV / turn the TV off. With a pronoun: turn it off."
+   ],
+   "it": [
+    "Separabile: turn on the light / turn the light on. Con un pronome: turn it on.",
+    "Separabile: turn off the TV / turn the TV off. Con un pronome: turn it off."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "turn on",
+      "to start a light, a machine or a device",
+      "accendere"
+     ],
+     [
+      "turn off",
+      "to stop a light, a machine or a device",
+      "spegnere"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Can you turn on the light, please?",
+     "it": "Puoi accendere la luce, per favore?"
+    },
+    {
+     "en": "I turned the radio on.",
+     "it": "Ho acceso la radio."
+    },
+    {
+     "en": "It's dark in here. Turn it on.",
+     "it": "Qui è buio. Accendila."
+    },
+    {
+     "en": "Please turn off your phone in the cinema.",
+     "it": "Per favore spegni il telefono al cinema."
+    },
+    {
+     "en": "She turned the oven off.",
+     "it": "Ha spento il forno."
+    },
+    {
+     "en": "Don't forget to turn it off before you leave.",
+     "it": "Non dimenticare di spegnerlo prima di uscire."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Clothes: put on, take off",
+   "title_it": "Vestiti: put on, take off",
+   "en": [
+    "Separable: put on a coat / put a coat on / put it on.",
+    "Separable when it means remove clothes: take off your shoes / take them off. Not separable for planes."
+   ],
+   "it": [
+    "Separabile: put on a coat / put a coat on / put it on.",
+    "Separabile quando vuol dire togliere i vestiti: take off your shoes / take them off. Non separabile per gli aerei."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "put on",
+      "to wear something, or to start playing music or a film",
+      "indossare; mettere (musica, film)"
+     ],
+     [
+      "take off",
+      "to remove clothes; also, when a plane leaves the ground",
+      "togliersi (vestiti); decollare"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Put on your coat. It's cold outside.",
+     "it": "Mettiti il cappotto. Fuori fa freddo."
+    },
+    {
+     "en": "She put her glasses on to read the menu.",
+     "it": "Si è messa gli occhiali per leggere il menù."
+    },
+    {
+     "en": "Let's put some music on.",
+     "it": "Mettiamo un po' di musica."
+    },
+    {
+     "en": "Take off your shoes at the door, please.",
+     "it": "Togliti le scarpe all'ingresso, per favore."
+    },
+    {
+     "en": "He took his jacket off because it was hot.",
+     "it": "Si è tolto la giacca perché faceva caldo."
+    },
+    {
+     "en": "The plane took off ten minutes late.",
+     "it": "L'aereo è decollato con dieci minuti di ritardo."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Information and effort: find out, give up",
+   "title_it": "Informazioni e impegno: find out, give up",
+   "en": [
+    "Usually not separated. Often followed by that, when, what, if.",
+    "Separable: give up smoking / give it up."
+   ],
+   "it": [
+    "Di solito non si separa. Spesso seguito da that, when, what, if.",
+    "Separabile: give up smoking / give it up."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "find out",
+      "to discover a fact or get information",
+      "scoprire, venire a sapere"
+     ],
+     [
+      "give up",
+      "to stop trying, or to stop a habit",
+      "arrendersi; smettere (un'abitudine)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I found out the truth yesterday.",
+     "it": "Ieri ho scoperto la verità."
+    },
+    {
+     "en": "Can you find out when the shop opens?",
+     "it": "Puoi scoprire a che ora apre il negozio?"
+    },
+    {
+     "en": "She found out that the train was cancelled.",
+     "it": "Ha scoperto che il treno era stato cancellato."
+    },
+    {
+     "en": "I gave up smoking two years ago.",
+     "it": "Ho smesso di fumare due anni fa."
+    },
+    {
+     "en": "Don't give up! You're nearly at the top.",
+     "it": "Non mollare! Sei quasi in cima."
+    },
+    {
+     "en": "They gave up the search when it got dark.",
+     "it": "Hanno interrotto la ricerca quando è calato il buio."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Problems and plans: break down, look forward to",
+   "title_it": "Problemi e progetti: break down, look forward to",
+   "en": [
+    "Not separable. It has no object: the car broke down.",
+    "A phrasal verb with a preposition. After to we use a noun or the -ing form."
+   ],
+   "it": [
+    "Non separabile. Non ha complemento: the car broke down.",
+    "Phrasal verb con preposizione. Dopo to si usa un nome o la forma in -ing."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "break down",
+      "when a machine or a vehicle stops working",
+      "guastarsi, rompersi (macchine, veicoli)"
+     ],
+     [
+      "look forward to",
+      "to feel happy about something that will happen",
+      "non vedere l'ora di"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Our car broke down on the motorway.",
+     "it": "La nostra macchina si è guastata in autostrada."
+    },
+    {
+     "en": "The washing machine broke down again.",
+     "it": "La lavatrice si è rotta di nuovo."
+    },
+    {
+     "en": "We were late because the train broke down.",
+     "it": "Siamo arrivati in ritardo perché il treno si è guastato."
+    },
+    {
+     "en": "I'm looking forward to the weekend.",
+     "it": "Non vedo l'ora che arrivi il weekend."
+    },
+    {
+     "en": "We're looking forward to seeing you.",
+     "it": "Non vediamo l'ora di vederti."
+    },
+    {
+     "en": "Are you looking forward to your holiday?",
+     "it": "Non vedi l'ora di andare in vacanza?"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Which phrasal verb means 'to discover a fact'?",
+   "q_it": "Quale phrasal verb significa 'scoprire un fatto'?",
+   "options": [
+    "give up",
+    "find out",
+    "come back",
+    "turn on"
+   ],
+   "answer": 1,
+   "why": "Find out means to discover information.",
+   "why_it": "Find out significa scoprire un'informazione."
+  },
+  {
+   "type": "mcq",
+   "q": "The plane ___ at ten o'clock.",
+   "q_it": "L'aereo ___ alle dieci.",
+   "options": [
+    "took off",
+    "put on",
+    "turned off",
+    "gave up"
+   ],
+   "answer": 0,
+   "why": "A plane leaves the ground = takes off. In the past: took off.",
+   "why_it": "Un aereo che parte da terra = takes off. Al passato: took off."
+  },
+  {
+   "type": "mcq",
+   "q": "It is cold outside. ___ your jacket.",
+   "q_it": "Fuori fa freddo. ___ la giacca.",
+   "options": [
+    "Take off",
+    "Turn on",
+    "Put on",
+    "Give up"
+   ],
+   "answer": 2,
+   "why": "Put on means to wear something. Take off is the opposite.",
+   "why_it": "Put on significa indossare. Take off è il contrario."
+  },
+  {
+   "type": "mcq",
+   "q": "What does 'give up' mean in 'She gave up smoking'?",
+   "q_it": "Che cosa significa 'give up' in 'She gave up smoking'?",
+   "options": [
+    "She started smoking",
+    "She stopped smoking",
+    "She forgot her cigarettes",
+    "She bought cigarettes"
+   ],
+   "answer": 1,
+   "why": "Give up + -ing means to stop a habit.",
+   "why_it": "Give up + -ing significa smettere un'abitudine."
+  },
+  {
+   "type": "mcq",
+   "q": "Our washing machine ___ yesterday, so we called an engineer.",
+   "q_it": "La nostra lavatrice ___ ieri, così abbiamo chiamato un tecnico.",
+   "options": [
+    "came back",
+    "got up",
+    "turned on",
+    "broke down"
+   ],
+   "answer": 3,
+   "why": "When a machine stops working, we say it breaks down.",
+   "why_it": "Quando una macchina smette di funzionare si dice break down."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "Please turn on it.",
+    "Please turn it on.",
+    "Please it turn on.",
+    "Please on turn it."
+   ],
+   "answer": 1,
+   "why": "With a pronoun (it, them, me), the pronoun goes in the middle: turn it on.",
+   "why_it": "Con un pronome (it, them, me) il pronome va in mezzo: turn it on."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I'm looking forward to see you.",
+    "I'm looking forward see you.",
+    "I'm looking forward to seeing you.",
+    "I look forward to saw you."
+   ],
+   "answer": 2,
+   "why": "In look forward to, the word to is a preposition, so we use the -ing form: seeing.",
+   "why_it": "In look forward to, to è una preposizione, quindi si usa la forma in -ing: seeing."
+  },
+  {
+   "type": "mcq",
+   "q": "Which pair of phrasal verbs has opposite meanings?",
+   "q_it": "Quale coppia di phrasal verbs ha significati opposti?",
+   "options": [
+    "get up / look forward to",
+    "find out / take off",
+    "break down / put on",
+    "turn on / turn off"
+   ],
+   "answer": 3,
+   "why": "Turn on starts a machine and turn off stops it.",
+   "why_it": "Turn on accende e turn off spegne."
+  },
+  {
+   "type": "fill",
+   "q": "I usually ___ at seven o'clock on weekdays. (get up)",
+   "q_it": "Di solito ___ alle sette nei giorni feriali. (get up)",
+   "answers": [
+    "get up"
+   ],
+   "hint": "get up",
+   "why": "In the present simple, I get up. With he or she: gets up.",
+   "why_it": "Al present simple: I get up. Con he o she: gets up."
+  },
+  {
+   "type": "fill",
+   "q": "Can you ___ the light, please? It is dark. (turn on)",
+   "q_it": "Puoi ___ la luce, per favore? È buio. (turn on)",
+   "answers": [
+    "turn on"
+   ],
+   "hint": "turn on",
+   "why": "After can we use the base form: turn on.",
+   "why_it": "Dopo can si usa la forma base: turn on."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ her shoes at the door and put on her slippers. (take off)",
+   "q_it": "___ le scarpe all'ingresso e si è messa le pantofole. (take off)",
+   "answers": [
+    "took off"
+   ],
+   "hint": "take off",
+   "why": "The sentence is in the past, so the verb is took off.",
+   "why_it": "La frase è al passato, quindi il verbo è took off."
+  },
+  {
+   "type": "fill",
+   "q": "Don't ___! You are nearly at the top. (give up)",
+   "q_it": "Non ___! Sei quasi in cima. (give up)",
+   "answers": [
+    "give up"
+   ],
+   "hint": "give up",
+   "why": "After don't we use the base form: give up.",
+   "why_it": "Dopo don't si usa la forma base: give up."
+  },
+  {
+   "type": "fill",
+   "q": "I want to ___ what time the museum opens. (find out)",
+   "q_it": "Voglio ___ a che ora apre il museo. (find out)",
+   "answers": [
+    "find out"
+   ],
+   "hint": "find out",
+   "why": "After want to we use the base form: find out.",
+   "why_it": "Dopo want to si usa la forma base: find out."
+  },
+  {
+   "type": "fill",
+   "q": "We're looking forward ___ the holiday.",
+   "q_it": "Non vediamo l'ora di andare in vacanza.",
+   "answers": [
+    "to"
+   ],
+   "hint": "one short word",
+   "why": "The phrasal verb is look forward to.",
+   "why_it": "Il phrasal verb è look forward to."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ from Rome last night. Now he is at home. (come back)",
+   "q_it": "___ da Roma ieri sera. Ora è a casa. (come back)",
+   "answers": [
+    "came back"
+   ],
+   "hint": "come back",
+   "why": "Last night is a finished time, so we use the past: came back.",
+   "why_it": "Last night è un tempo finito, quindi si usa il passato: came back."
+  },
+  {
+   "type": "fill",
+   "q": "The film is over. Please turn the TV ___.",
+   "q_it": "Il film è finito. Per favore ___ la TV.",
+   "answers": [
+    "off"
+   ],
+   "hint": "the opposite of on",
+   "why": "Turn the TV off = stop the TV.",
+   "why_it": "Turn the TV off = spegni la TV."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "She",
+    "put",
+    "her",
+    "coat",
+    "on",
+    "and",
+    "left"
+   ],
+   "answers": [
+    "She put her coat on and left"
+   ],
+   "why": "Put her coat on: the object (her coat) goes in the middle.",
+   "why_it": "Put her coat on: il complemento (her coat) va in mezzo."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "Turn",
+    "it",
+    "off",
+    "before",
+    "you",
+    "go",
+    "out"
+   ],
+   "answers": [
+    "Turn it off before you go out"
+   ],
+   "why": "With the pronoun it, we say turn it off, never turn off it.",
+   "why_it": "Con il pronome it si dice turn it off, mai turn off it."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "We",
+    "found",
+    "out",
+    "the",
+    "answer",
+    "yesterday"
+   ],
+   "answers": [
+    "We found out the answer yesterday"
+   ],
+   "why": "Found out is the past of find out. The time word goes at the end.",
+   "why_it": "Found out è il passato di find out. L'espressione di tempo va in fondo."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "Their",
+    "car",
+    "broke",
+    "down",
+    "on",
+    "the",
+    "motorway"
+   ],
+   "answers": [
+    "Their car broke down on the motorway"
+   ],
+   "why": "Broke down is the past of break down. It has no object.",
+   "why_it": "Broke down è il passato di break down. Non ha complemento."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "get up",
+   "it": "alzarsi dal letto",
+   "ex": "I get up at seven on weekdays."
+  },
+  {
+   "id": "c2",
+   "en": "come back",
+   "it": "tornare, ritornare",
+   "ex": "I'll come back at six."
+  },
+  {
+   "id": "c3",
+   "en": "turn on",
+   "it": "accendere",
+   "ex": "Can you turn on the light, please?"
+  },
+  {
+   "id": "c4",
+   "en": "turn off",
+   "it": "spegnere",
+   "ex": "Please turn off your phone in the cinema."
+  },
+  {
+   "id": "c5",
+   "en": "put on",
+   "it": "indossare; mettere (musica, film)",
+   "ex": "Put on your coat. It's cold outside."
+  },
+  {
+   "id": "c6",
+   "en": "take off",
+   "it": "togliersi (vestiti); decollare",
+   "ex": "Take off your shoes at the door, please."
+  },
+  {
+   "id": "c7",
+   "en": "find out",
+   "it": "scoprire, venire a sapere",
+   "ex": "I found out the truth yesterday."
+  },
+  {
+   "id": "c8",
+   "en": "give up",
+   "it": "arrendersi; smettere (un'abitudine)",
+   "ex": "I gave up smoking two years ago."
+  },
+  {
+   "id": "c9",
+   "en": "break down",
+   "it": "guastarsi, rompersi (macchine, veicoli)",
+   "ex": "Our car broke down on the motorway."
+  },
+  {
+   "id": "c10",
+   "en": "look forward to",
+   "it": "non vedere l'ora di",
+   "ex": "I'm looking forward to the weekend."
+  }
+ ]
+}
