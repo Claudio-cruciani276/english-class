@@ -145,6 +145,7 @@ Esempi originali con una scena di stanza (la lampada e' sopra il tavolo, il gatt
 | 2026-11-05 gio | grammatica | Present simple vs continuous | avverbi di frequenza |
 | 2026-11-06 ven | writing | Una giornata tipica | |
 | 2026-11-07 sab | verifica | Present simple e continuous | |
+| 2026-11-08 dom | ripasso | Present simple vs continuous | trappole (verbi di stato, -s dopo does, avverbi), in/on/at del tempo, ascolto leggero (6 Minute English, Big City Small World, Paddington, Shape of You solo ascolto guidato), riflessione scritta. Preparato senza i risultati della verifica: errori ricorrenti da raccogliere in 04_Progressi |
 
 Reading già fatti: aeroporto, ristorante, indicazioni. Canzoni già fatte: Young and Beautiful, Yellow.
 

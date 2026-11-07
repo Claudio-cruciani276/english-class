@@ -1,0 +1,521 @@
+{
+ "title": "Sunday review: present simple and continuous",
+ "title_it": "Ripasso della domenica: present simple e continuous",
+ "goal": "Review the week: choose between present simple and continuous, avoid the common traps, and listen to something light.",
+ "goal_it": "Ripassare la settimana: scegliere tra present simple e continuous, evitare le trappole più comuni e ascoltare qualcosa di leggero.",
+ "minutes": 60,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Sunday review",
+   "title_it": "Ripasso della domenica",
+   "en": [
+    "Welcome to the Sunday review. You have one hour, but you can take it in two parts. This week we studied the present simple, the present continuous, in / on / at with time and adverbs of frequency.",
+    "We start with the mistakes that are most common for Italian speakers, because the weekly check showed that the choice between the two present tenses is the hardest point. Then we mix everything, listen to something light, and finish with a short reflection in English."
+   ],
+   "it": [
+    "Benvenuti al ripasso della domenica. Avete un'ora, ma potete farlo in due parti. Questa settimana abbiamo studiato present simple, present continuous, in / on / at con il tempo e gli avverbi di frequenza.",
+    "Partiamo dagli errori più comuni per chi parla italiano, perché la scelta tra i due presenti è il punto più difficile. Poi mescoliamo tutto, ascoltiamo qualcosa di leggero e chiudiamo con una breve riflessione in inglese."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Which tense? Look at the clue",
+   "title_it": "Quale tempo? Guarda l'indizio",
+   "en": [
+    "Before you answer, look for a clue. The clue tells you which tense to choose.",
+    "Remember: in Italian we often use the same present for both ideas, but in English we must choose."
+   ],
+   "it": [
+    "Prima di rispondere cerca l'indizio: ti dice quale tempo scegliere.",
+    "Ricorda: in italiano usiamo spesso lo stesso presente per entrambe le idee, in inglese bisogna scegliere."
+   ],
+   "table": {
+    "head": [
+     "Present simple",
+     "Present continuous"
+    ],
+    "rows": [
+     [
+      "habits, routines, facts",
+      "now, in progress, temporary"
+     ],
+     [
+      "always, usually, often, sometimes, never, every day, on Mondays",
+      "now, at the moment, today, this week, Look!, Listen!"
+     ],
+     [
+      "He works. / He doesn't work. / Does he work?",
+      "He is working. / He isn't working. / Is he working?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I play football on Saturdays.",
+     "it": "Gioco a calcio il sabato (abitudine)."
+    },
+    {
+     "en": "Look! The children are playing football.",
+     "it": "Guarda! I bambini stanno giocando a calcio (adesso)."
+    },
+    {
+     "en": "She usually drinks tea, but today she is drinking coffee.",
+     "it": "Di solito beve tè, ma oggi beve caffè (eccezione)."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Three traps to avoid",
+   "title_it": "Tre trappole da evitare",
+   "en": [
+    "Trap 1: verbs of state (like, love, hate, know, understand, want, need, prefer) are normally NOT used in the continuous. We say I don't understand, not I am not understanding.",
+    "Trap 2: after does / doesn't the verb has no -s. We say She doesn't like fish, not She doesn't likes fish.",
+    "Trap 3: adverbs of frequency go before the main verb but after the verb to be: I always walk, but I am always tired. For time we use at + clock time, on + day, in + part of the day, month or season."
+   ],
+   "it": [
+    "Trappola 1: i verbi di stato (like, love, hate, know, understand, want, need, prefer) normalmente NON si usano alla forma continua. Si dice I don't understand, non I am not understanding.",
+    "Trappola 2: dopo does / doesn't il verbo non ha la -s. Si dice She doesn't like fish, non She doesn't likes fish.",
+    "Trappola 3: gli avverbi di frequenza vanno prima del verbo principale ma dopo il verbo to be: I always walk, ma I am always tired. Per il tempo: at + ora, on + giorno, in + parte del giorno, mese o stagione."
+   ],
+   "examples": [
+    {
+     "en": "I don't know the answer.",
+     "it": "Non so la risposta."
+    },
+    {
+     "en": "He doesn't play the guitar.",
+     "it": "Non suona la chitarra."
+    },
+    {
+     "en": "They are never late.",
+     "it": "Non sono mai in ritardo."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Look! It ___ outside.",
+   "q_it": "Guarda! Fuori sta piovendo.",
+   "options": [
+    "rains",
+    "is raining",
+    "rain",
+    "does rain"
+   ],
+   "answer": 1,
+   "why": "Look! shows that it is happening now: present continuous.",
+   "why_it": "Look! indica che succede adesso: present continuous."
+  },
+  {
+   "type": "mcq",
+   "q": "I ___ coffee. I prefer tea.",
+   "q_it": "Non mi piace il caffè. Preferisco il tè.",
+   "options": [
+    "don't like",
+    "am not liking",
+    "doesn't like",
+    "not like"
+   ],
+   "answer": 0,
+   "why": "Like is a verb of state, so we use the present simple. With I the negative is don't like.",
+   "why_it": "Like è un verbo di stato, quindi present simple. Con I la negativa è don't like."
+  },
+  {
+   "type": "fill",
+   "q": "Sam usually ___ the bus to work.",
+   "q_it": "Sam di solito prende l'autobus per andare al lavoro.",
+   "answers": [
+    "takes"
+   ],
+   "hint": "take, he",
+   "why": "Usually shows a habit: present simple, and with he we add -s.",
+   "why_it": "Usually indica un'abitudine: present simple, e con he si aggiunge -s."
+  },
+  {
+   "type": "mcq",
+   "q": "Which question is correct?",
+   "q_it": "Quale domanda è corretta?",
+   "options": [
+    "Where you live?",
+    "Where are you live?",
+    "Where do you live?",
+    "Where lives you?"
+   ],
+   "answer": 2,
+   "why": "A question about a fact uses do + subject + base verb.",
+   "why_it": "Una domanda su un fatto usa do + soggetto + verbo base."
+  },
+  {
+   "type": "fill",
+   "q": "___ your sister play tennis?",
+   "q_it": "Tua sorella gioca a tennis?",
+   "answers": [
+    "Does"
+   ],
+   "hint": "do / does",
+   "why": "With she we use does in the question: Does your sister play tennis?",
+   "why_it": "Con she nella domanda si usa does: Does your sister play tennis?"
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la domanda.",
+   "words": [
+    "How",
+    "often",
+    "does",
+    "he",
+    "visit",
+    "his",
+    "grandparents"
+   ],
+   "answers": [
+    "How often does he visit his grandparents"
+   ],
+   "why": "A present simple question: question word + does + subject + base verb.",
+   "why_it": "Una domanda al present simple: parola interrogativa + does + soggetto + verbo base."
+  },
+  {
+   "type": "mcq",
+   "q": "Sorry, I ___ you. Can you say it again?",
+   "q_it": "Scusa, non ti capisco. Puoi ripeterlo?",
+   "options": [
+    "am not understanding",
+    "doesn't understand",
+    "not understand",
+    "don't understand"
+   ],
+   "answer": 3,
+   "why": "Understand is a verb of state: present simple, not continuous.",
+   "why_it": "Understand è un verbo di stato: present simple, non continuous."
+  },
+  {
+   "type": "fill",
+   "q": "Shh! They ___ a film.",
+   "q_it": "Shh! Stanno guardando un film.",
+   "answers": [
+    "are watching",
+    "'re watching"
+   ],
+   "hint": "watch + ing",
+   "why": "Shh! shows now, so we use the present continuous: are watching.",
+   "why_it": "Shh! indica adesso, quindi present continuous: are watching."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I am going to the gym every Monday.",
+    "I going to the gym every Monday.",
+    "I go to the gym every Monday.",
+    "I goes to the gym every Monday."
+   ],
+   "answer": 2,
+   "why": "Every Monday shows a routine: present simple, go.",
+   "why_it": "Every Monday indica una routine: present simple, go."
+  },
+  {
+   "type": "fill",
+   "q": "My mum ___ on Sundays.",
+   "q_it": "Mia mamma non lavora la domenica.",
+   "answers": [
+    "doesn't work",
+    "does not work"
+   ],
+   "hint": "negative, she, work",
+   "why": "A regular fact: present simple negative. With she we use doesn't + base verb.",
+   "why_it": "Un fatto regolare: present simple negativo. Con she si usa doesn't + verbo base."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "She",
+    "is",
+    "never",
+    "late",
+    "for",
+    "class"
+   ],
+   "answers": [
+    "She is never late for class"
+   ],
+   "why": "The adverb never goes after the verb to be: is never late.",
+   "why_it": "L'avverbio never va dopo il verbo to be: is never late."
+  },
+  {
+   "type": "fill",
+   "q": "The shop opens ___ nine o'clock.",
+   "q_it": "Il negozio apre alle nove.",
+   "answers": [
+    "at"
+   ],
+   "hint": "in / on / at",
+   "why": "We use at with clock times: at nine o'clock.",
+   "why_it": "Con gli orari si usa at: at nine o'clock."
+  },
+  {
+   "type": "mcq",
+   "q": "We often go to the beach ___ summer.",
+   "q_it": "Spesso andiamo in spiaggia d'estate.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "to"
+   ],
+   "answer": 1,
+   "why": "We use in with seasons, months and parts of the day: in summer.",
+   "why_it": "Con stagioni, mesi e parti del giorno si usa in: in summer."
+  },
+  {
+   "type": "fill",
+   "q": "My birthday is ___ the fifth of May.",
+   "q_it": "Il mio compleanno è il cinque maggio.",
+   "answers": [
+    "on"
+   ],
+   "hint": "in / on / at",
+   "why": "With a date we use on: on the fifth of May.",
+   "why_it": "Con una data si usa on: on the fifth of May."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence has a mistake?",
+   "q_it": "Quale frase contiene un errore?",
+   "options": [
+    "He doesn't speaks Spanish.",
+    "I'm studying English this month.",
+    "She often drinks tea at breakfast.",
+    "We are having dinner now."
+   ],
+   "answer": 0,
+   "why": "After doesn't the verb has no -s: He doesn't speak Spanish.",
+   "why_it": "Dopo doesn't il verbo non ha la -s: He doesn't speak Spanish."
+  },
+  {
+   "type": "fill",
+   "q": "Do they ___ in Rome?",
+   "q_it": "Abitano a Roma?",
+   "answers": [
+    "live"
+   ],
+   "hint": "base verb",
+   "why": "After do + subject we use the base verb: Do they live in Rome?",
+   "why_it": "Dopo do + soggetto si usa il verbo base: Do they live in Rome?"
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I watch sometimes a film in the evening.",
+    "I sometimes am watching a film in the evening.",
+    "I am sometimes watch a film in the evening.",
+    "Sometimes I watch a film in the evening."
+   ],
+   "answer": 3,
+   "why": "Sometimes can start the sentence, and the verb is in the present simple for a habit. We do not put it between the object and the verb.",
+   "why_it": "Sometimes può stare all'inizio e il verbo è al present simple per un'abitudine. Non si mette tra il verbo e il complemento in quel modo."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la domanda.",
+   "words": [
+    "What",
+    "are",
+    "you",
+    "doing",
+    "at",
+    "the",
+    "moment"
+   ],
+   "answers": [
+    "What are you doing at the moment"
+   ],
+   "why": "At the moment needs the present continuous: What are you doing?",
+   "why_it": "At the moment richiede il present continuous: What are you doing?"
+  },
+  {
+   "type": "fill",
+   "q": "He is usually quiet, but today he ___ very loudly.",
+   "q_it": "Di solito è tranquillo, ma oggi parla molto forte.",
+   "answers": [
+    "is talking",
+    "'s talking"
+   ],
+   "hint": "talk + ing",
+   "why": "But today shows something different from the routine, happening now: present continuous.",
+   "why_it": "But today indica qualcosa di diverso dalla routine, che succede adesso: present continuous."
+  },
+  {
+   "type": "mcq",
+   "q": "Anna normally drives to work, but this week she ___ the train because her car is at the garage.",
+   "q_it": "Anna di solito va al lavoro in auto, ma questa settimana prende il treno perché la macchina è dal meccanico.",
+   "options": [
+    "takes",
+    "is taking",
+    "take",
+    "does take"
+   ],
+   "answer": 1,
+   "why": "This week shows a temporary situation: present continuous.",
+   "why_it": "This week indica una situazione temporanea: present continuous."
+  },
+  {
+   "type": "fill",
+   "q": "Look at Dan! He ___ a funny hat.",
+   "q_it": "Guarda Dan! Porta un cappello buffo.",
+   "answers": [
+    "is wearing",
+    "'s wearing"
+   ],
+   "hint": "wear + ing",
+   "why": "Look at shows it is happening now: present continuous.",
+   "why_it": "Look at indica che succede adesso: present continuous."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la domanda.",
+   "words": [
+    "Where",
+    "does",
+    "your",
+    "friend",
+    "work"
+   ],
+   "answers": [
+    "Where does your friend work"
+   ],
+   "why": "A question about a fact: where + does + subject + base verb.",
+   "why_it": "Una domanda su un fatto: where + does + soggetto + verbo base."
+  },
+  {
+   "type": "mcq",
+   "q": "Choose the best answer to the question: What do you do?",
+   "q_it": "Scegli la risposta migliore alla domanda: What do you do?",
+   "options": [
+    "I'm reading a book.",
+    "I do my homework.",
+    "I'm a teacher.",
+    "Yes, I do."
+   ],
+   "answer": 2,
+   "why": "What do you do? asks about your job, so we answer with the job.",
+   "why_it": "What do you do? chiede il lavoro, quindi si risponde con il lavoro."
+  },
+  {
+   "type": "fill",
+   "q": "He ___ a shower every morning.",
+   "q_it": "Fa la doccia ogni mattina.",
+   "answers": [
+    "has"
+   ],
+   "hint": "have, he",
+   "why": "Every morning shows a habit. With he, have becomes has.",
+   "why_it": "Every morning indica un'abitudine. Con he, have diventa has."
+  },
+  {
+   "type": "explain",
+   "title": "Light listening for this Sunday",
+   "title_it": "Ascolto leggero della domenica",
+   "en": [
+    "Choose one or two of these, only if you feel like it. Do not worry about understanding every word: listen for the verbs in the present.",
+    "Podcast: 6 Minute English by BBC Learning English. Short episodes about everyday topics, with a clear presenter and a short quiz. Listen for what people do every day and what they are doing now.",
+    "Audio series: Big City Small World by the British Council (link below). Short episodes about people living in a city, perfect for the B1 level.",
+    "Film: Paddington (2014), in English with English subtitles if you can. The language is simple and the characters talk about daily life. Watch 15 minutes and note two things people do regularly and two things they are doing at that moment.",
+    "Song, guided listening only: Shape of You by Ed Sheeran. Listen once and count how many verbs in the present you can hear. Do not look for the words on the internet; just listen and enjoy."
+   ],
+   "it": [
+    "Scegliete una o due di queste proposte, solo se ne avete voglia. Non preoccupatevi di capire ogni parola: ascoltate i verbi al presente.",
+    "Podcast: 6 Minute English di BBC Learning English. Episodi brevi su temi quotidiani, con un conduttore chiaro e un piccolo quiz. Ascoltate che cosa le persone fanno ogni giorno e che cosa stanno facendo adesso.",
+    "Serie audio: Big City Small World del British Council (link sotto). Episodi brevi su persone che vivono in una città, perfetti per il livello B1.",
+    "Film: Paddington (2014), in inglese con sottotitoli in inglese se possibile. Il linguaggio è semplice e i personaggi parlano di vita quotidiana. Guardate 15 minuti e annotate due cose che le persone fanno regolarmente e due cose che stanno facendo in quel momento.",
+    "Canzone, solo ascolto guidato: Shape of You di Ed Sheeran. Ascoltatela una volta e contate quanti verbi al presente riuscite a sentire. Non cercate il testo su internet: ascoltate e basta."
+   ],
+   "links": [
+    {
+     "label": "British Council LearnEnglish: B1 listening",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/listening/b1",
+     "note": "Listening practice at B1 level."
+    },
+    {
+     "label": "Big City Small World",
+     "url": "https://learnenglish.britishcouncil.org/free-resources/general/audio-series/bcsw",
+     "note": "Audio series by the British Council."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Your reflection (write in English)",
+   "title_it": "La tua riflessione (scrivi in inglese)",
+   "en": [
+    "Take five minutes and write four or five sentences in your notes. This is not corrected by the app; read it aloud once to practise.",
+    "1. What was the easiest thing this week? 2. What is still difficult: the choice between present simple and continuous, the -s with he / she, or in / on / at? 3. Write two sentences about what you usually do on Sundays and one about what you are doing today.",
+    "Example: This week I learned that I must not use the continuous with verbs like like and understand. I usually relax on Sundays, but today I am studying English."
+   ],
+   "it": [
+    "Prendetevi cinque minuti e scrivete quattro o cinque frasi nelle note. L'app non le corregge: leggetele ad alta voce una volta per esercitarvi.",
+    "1. Qual è stata la cosa più facile questa settimana? 2. Che cosa è ancora difficile: la scelta tra present simple e continuous, la -s con he / she, o in / on / at? 3. Scrivete due frasi su cosa fate di solito la domenica e una su cosa state facendo oggi.",
+    "Esempio: This week I learned that I must not use the continuous with verbs like like and understand. I usually relax on Sundays, but today I am studying English."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "action now",
+   "it": "azione adesso: is / are + -ing",
+   "ex": "Look! He is running."
+  },
+  {
+   "id": "c2",
+   "en": "habit",
+   "it": "abitudine: present simple",
+   "ex": "She runs every morning."
+  },
+  {
+   "id": "c3",
+   "en": "verbs of state",
+   "it": "like, love, know, understand: no -ing",
+   "ex": "I don't understand."
+  },
+  {
+   "id": "c4",
+   "en": "doesn't + base verb",
+   "it": "niente -s dopo doesn't",
+   "ex": "He doesn't play."
+  },
+  {
+   "id": "c5",
+   "en": "never after to be",
+   "it": "I am never late",
+   "ex": "She is never late."
+  },
+  {
+   "id": "c6",
+   "en": "at / on / in",
+   "it": "at + ora, on + giorno, in + parte del giorno",
+   "ex": "at six, on Monday, in the evening"
+  },
+  {
+   "id": "c7",
+   "en": "this week",
+   "it": "situazione temporanea: continuous",
+   "ex": "I'm staying with a friend this week."
+  },
+  {
+   "id": "c8",
+   "en": "What do you do?",
+   "it": "Che lavoro fai?",
+   "ex": "I'm a nurse."
+  }
+ ]
+}
