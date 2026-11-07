@@ -39,6 +39,7 @@ Lo stesso confronto va anche nel blocco misto della lezione di giovedi (vedi "Co
 - Mar 10, grammatica: PAST CONTINUOUS (anche in confronto con il past simple, when/while; qualche esercizio di scelta tra past simple e past continuous) + PAROLE INTERROGATIVE 2: how much / how many, how far, how long, how often (vedi sezione 4). There is / there are senza spiegazione, solo negli esercizi.
 - Mer 11, listening: situazione nuova, per esempio una persona che si trasferisce in un nuovo appartamento e lo descrive (there is/are, preposizioni di luogo, past simple per raccontare il trasloco).
 - Gio 12, grammatica: PRESENT PERFECT 1 (have/has + past participle, been/gone, just/already/yet) + countable e uncountable (a/an, some/any, many/much light; some/any e' stato spostato qui da martedi') + blocco di ripasso su past simple e past continuous. Il present perfect è il punto più difficile per un italiano (falso amico del passato prossimo): più spazio a lui, mini argomento leggero. Inserire una schermata di confronto tra i tre tempi (sezione 4, "Confronto tra i tre tempi") e un blocco misto con esercizi di scelta del tempo.
+- Vocabolario della settimana 9-15 (dal quaderno dell'admin, sezione 4 "La stanza e le preposizioni di luogo"): le preposizioni di luogo e le parole della stanza entrano nelle flashcard delle lezioni di grammatica, nel reading dell'hotel (descrivere la camera, problemi in camera), nel listening del nuovo appartamento e nel writing di venerdi'. This/these/that/those: usati negli esempi; spiegazione solo se l'admin lo conferma (sezione 6).
 - Phrasal verbs della settimana (sezione 7): dieci verbi, lezione dedicata nella sezione "Phrasal verbs della settimana" dell'app.
 - Ven 13, writing: descrivere casa o quartiere (there is/are, much/many/a lot of) e un breve diario di che cosa si è fatto nel weekend (past simple).
 - Sab 14: verifica da 20 punti: 8 esercizi sulla scelta tra past simple, past continuous e present perfect (regola della sezione 2), gli altri su in/on/at di luogo, parole interrogative, countable e uncountable con some/any, e 4 di comprensione (there is/are solo dentro le frasi).
@@ -109,6 +110,19 @@ Parte 1 (lunedi' 9): where (dove), when (quando), who (chi), why (perche'; si ri
 Parte 2 (martedi' 10): how much / how many (quanto, quanti: much con gli uncountable, many con i countable plurali), how far (quanto e' lontano, distanza), how long (quanto dura; MAI how long time), how often (quanto spesso). Esempi: How much milk do we need? How many people came? How far is the station? How long did the film last? How often do you go to the gym?
 - While NON e' una parola interrogativa (e' nell'elenco dell'admin): e' una congiunzione che va con il past continuous (I was cooking while he was studying). Spiegarlo in una frase e usarlo nella lezione di martedi' con when/while.
 
+### La stanza e le preposizioni di luogo (quaderno dell'admin, 7 novembre)
+Lista dell'admin, da usare come VOCABOLARIO della settimana 9-15 novembre (flashcard, esempi, esercizi, reading dell'hotel, listening del nuovo appartamento, writing su casa e quartiere) e, in forma di tabella, dentro la spiegazione di in/on/at di luogo di lunedi':
+- on = sopra, a contatto (la penna e' sul tavolo); onto = sopra con movimento (la penna e' caduta sul tavolo)
+- over / above = sopra, senza toccare
+- under = sotto, in verticale o coperto da qualcosa; below = sotto, piu' in basso (altezza, livello)
+- between = tra; behind = dietro; in front of = davanti; opposite = di fronte
+- in = dentro; into = dentro con movimento; out of = fuori da
+- to = a, verso (movimento); from = da
+- near = vicino (generico); next to = accanto; close to = molto vicino
+- this / these = questo/a, questi/e (vicini); that / those = quello/a, quelli/e (lontani)
+- Parole della stanza (dal quaderno): table, chair, door, floor, ceiling, wall, light, picture, window, pen (la lista dell'admin continua: aggiungere altre parole comuni di casa e ufficio).
+Esempi originali con una scena di stanza (la lampada e' sopra il tavolo, il gatto e' sotto la sedia...). Esercizi: scegliere la preposizione giusta guardando una descrizione, riordinare, completare, descrivere una stanza con 4 frasi.
+
 ### Preposizioni di luogo in/on/at, there is / there are, some / any
 - NOTA DELL'ADMIN: there is / there are NON vanno spiegati (si sanno): si usano solo nelle frasi degli esercizi e degli esempi. Resta la spiegazione di in/on/at di luogo; some/any sono spiegati giovedi' con countable/uncountable.
 - in (dentro uno spazio o una città), on (sopra una superficie, su una strada, su un piano), at (punto preciso: at the bus stop, at the door, at home, at work).
@@ -136,6 +150,7 @@ Reading già fatti: aeroporto, ristorante, indicazioni. Canzoni già fatte: Youn
 ## 6. Note dell'admin e revisione del weekend
 
 - 2026-11-07: ogni lezione di grammatica deve avere anche un tempo verbale oltre ai mini argomenti, almeno per le prime settimane. Lezioni leggermente più lunghe (la prima settimana richiedeva meno di 10 minuti). Settimana 9-15: past simple, past continuous, present perfect 1.
+- 2026-11-07: dal secondo quaderno dell'admin: stanza e preposizioni di luogo (on/onto, over/above, under/below, between, behind, in, into, out of, in front of, opposite, to, from, near, next to, close to) e this/these/that/those. Da inserire tra le parole (flashcard) e nei reading di situazioni, dettagli nella sezione 4.
 - 2026-11-07: there is / there are non vanno spiegati, solo usati negli esercizi. Al loro posto le PAROLE INTERROGATIVE dal quaderno dell'admin (sezione 4): lunedi' where/when/who/why/which/whose, martedi' how much/many/far/long/often.
 - 2026-11-07: la verifica del sabato deve confrontare l'uso dei tre tempi (quando si usa uno e non l'altro): regola nella sezione 2. Nuova sezione settimanale con una decina di phrasal verbs e vari esempi per ognuno (sezione 7).
 
