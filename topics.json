@@ -19,6 +19,11 @@
      "label": "Present simple vs continuous",
      "label_it": "Present simple o continuous",
      "date": "2026-11-05"
+    },
+    {
+     "label": "Past simple",
+     "label_it": "Past simple",
+     "date": "2026-11-09"
     }
    ]
   },
@@ -31,6 +36,16 @@
      "label": "in / on / at (time)",
      "label_it": "in / on / at (tempo)",
      "date": "2026-11-02"
+    },
+    {
+     "label": "in / on / at (place)",
+     "label_it": "in / on / at (luogo)",
+     "date": "2026-11-09"
+    },
+    {
+     "label": "Room prepositions",
+     "label_it": "Preposizioni della stanza",
+     "date": "2026-11-09"
     }
    ]
   },
@@ -44,7 +59,18 @@
    "id": "questions",
    "title": "Question words",
    "title_it": "Parole interrogative",
-   "items": []
+   "items": [
+    {
+     "label": "Where / when / who / why",
+     "label_it": "Where / when / who / why",
+     "date": "2026-11-09"
+    },
+    {
+     "label": "Which / whose",
+     "label_it": "Which / whose",
+     "date": "2026-11-09"
+    }
+   ]
   },
   {
    "id": "other",
@@ -111,6 +137,21 @@
      "label": "Asking for directions",
      "label_it": "Chiedere indicazioni",
      "date": "2026-11-02"
+    },
+    {
+     "label": "At the hotel",
+     "label_it": "In albergo",
+     "date": "2026-11-09"
+    },
+    {
+     "label": "Shopping for clothes",
+     "label_it": "Fare shopping per i vestiti",
+     "date": "2026-11-09"
+    },
+    {
+     "label": "At the doctor's and pharmacy",
+     "label_it": "Dal medico e in farmacia",
+     "date": "2026-11-09"
     }
    ]
   },

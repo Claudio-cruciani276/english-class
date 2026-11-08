@@ -1,0 +1,734 @@
+{
+ "title": "Past simple + prepositions of place + question words",
+ "title_it": "Past simple + preposizioni di luogo + parole interrogative",
+ "goal": "Talk about finished past actions, say where things are, and ask questions with where, when, who, why, which and whose.",
+ "goal_it": "Parlare di azioni passate finite, dire dove sono le cose e fare domande con where, when, who, why, which e whose.",
+ "minutes": 30,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Past simple: finished actions",
+   "title_it": "Past simple: azioni finite",
+   "en": [
+    "We use the past simple for finished actions at a definite time in the past: yesterday, last week, three days ago, in 2019, when I was a child.",
+    "Regular verbs add -ed (work, worked). Spelling: live, lived; stop, stopped; study, studied. Irregular verbs have their own past form and you must learn them."
+   ],
+   "it": [
+    "Usiamo il past simple per azioni finite in un momento preciso del passato: yesterday, last week, three days ago, in 2019, when I was a child.",
+    "I verbi regolari aggiungono -ed (work, worked). Ortografia: live, lived; stop, stopped; study, studied. I verbi irregolari hanno una forma propria da imparare."
+   ],
+   "table": {
+    "head": [
+     "Base form",
+     "Past simple",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "go",
+      "went",
+      "andare"
+     ],
+     [
+      "see",
+      "saw",
+      "vedere"
+     ],
+     [
+      "buy",
+      "bought",
+      "comprare"
+     ],
+     [
+      "have",
+      "had",
+      "avere, mangiare"
+     ],
+     [
+      "take",
+      "took",
+      "prendere"
+     ],
+     [
+      "write",
+      "wrote",
+      "scrivere"
+     ],
+     [
+      "eat",
+      "ate",
+      "mangiare"
+     ],
+     [
+      "make",
+      "made",
+      "fare, preparare"
+     ],
+     [
+      "come",
+      "came",
+      "venire"
+     ],
+     [
+      "put",
+      "put",
+      "mettere (non cambia)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "We went to Bath last weekend.",
+     "it": "Siamo andati a Bath lo scorso fine settimana."
+    },
+    {
+     "en": "She bought a new coat yesterday.",
+     "it": "Ieri ha comprato un cappotto nuovo."
+    },
+    {
+     "en": "They watched a film and ate pizza.",
+     "it": "Hanno guardato un film e mangiato pizza."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Past simple: negative, questions and was / were",
+   "title_it": "Past simple: negativa, domande e was / were",
+   "en": [
+    "Negative: didn't (did not) + base verb. Question: Did + subject + base verb. After did / didn't the verb does NOT change: Did you go? (not Did you went?).",
+    "The past of be is was / were: I was, you were, he / she / it was, we / they were. Negative: wasn't, weren't. Questions: Was she tired? Were they late? No did with be.",
+    "Do is also a normal verb: What did you do? I didn't do anything."
+   ],
+   "it": [
+    "Negativa: didn't (did not) + verbo base. Domanda: Did + soggetto + verbo base. Dopo did / didn't il verbo NON cambia: Did you go? (non Did you went?).",
+    "Il passato di be è was / were: I was, you were, he / she / it was, we / they were. Negativa: wasn't, weren't. Domande: Was she tired? Were they late? Con be non serve did.",
+    "Do è anche un verbo normale: What did you do? I didn't do anything."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Positive",
+     "Negative",
+     "Question"
+    ],
+    "rows": [
+     [
+      "regular",
+      "I walked",
+      "I didn't walk",
+      "Did you walk?"
+     ],
+     [
+      "irregular",
+      "She saw him",
+      "She didn't see him",
+      "Did she see him?"
+     ],
+     [
+      "be",
+      "He was late",
+      "He wasn't late",
+      "Was he late?"
+     ],
+     [
+      "be (plural)",
+      "We were there",
+      "We weren't there",
+      "Were you there?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Did you enjoy the concert? No, I didn't.",
+     "it": "Ti è piaciuto il concerto? No."
+    },
+    {
+     "en": "I didn't buy anything at the market.",
+     "it": "Non ho comprato niente al mercato."
+    },
+    {
+     "en": "Were your parents at home last night?",
+     "it": "I tuoi genitori erano a casa ieri sera?"
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Prepositions of place: in / on / at and the room",
+   "title_it": "Preposizioni di luogo: in / on / at e la stanza",
+   "en": [
+    "In = inside a space or a town. On = on a surface, a street or a floor. At = a precise point. Then learn the useful words for describing where things are in a room. In these examples we use there is / there are: you already know them."
+   ],
+   "it": [
+    "In = dentro uno spazio o una città. On = su una superficie, una strada o un piano. At = un punto preciso. Poi impara le parole utili per descrivere dove sono le cose in una stanza. In questi esempi usiamo there is / there are: li conosci già."
+   ],
+   "table": {
+    "head": [
+     "Preposition",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "in",
+      "dentro, in una città",
+      "There is a lamp in the room. I live in Leeds."
+     ],
+     [
+      "on",
+      "su, a contatto, su una strada o un piano",
+      "The pen is on the table. The flat is on the second floor."
+     ],
+     [
+      "at",
+      "in un punto preciso",
+      "I'm at the door. We wait at the bus stop."
+     ],
+     [
+      "onto",
+      "sopra, con movimento",
+      "The pen fell onto the floor."
+     ],
+     [
+      "over / above",
+      "sopra, senza toccare",
+      "There is a light over the table. A picture is above the bed."
+     ],
+     [
+      "under",
+      "sotto, in verticale o coperto",
+      "The cat is under the chair."
+     ],
+     [
+      "below",
+      "sotto, più in basso (livello)",
+      "The clock is below the window."
+     ],
+     [
+      "between",
+      "tra",
+      "The lamp is between the sofa and the window."
+     ],
+     [
+      "behind / in front of",
+      "dietro / davanti",
+      "There is a bag behind the door. A bike is in front of the house."
+     ],
+     [
+      "opposite",
+      "di fronte",
+      "The bank is opposite the station."
+     ],
+     [
+      "into / out of",
+      "dentro / fuori da (movimento)",
+      "He ran into the room and out of the kitchen."
+     ],
+     [
+      "to / from",
+      "a, verso / da",
+      "I walk to work from home."
+     ],
+     [
+      "near / next to / close to",
+      "vicino / accanto / molto vicino",
+      "The shop is next to the bank and close to the park."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "There are three pictures on the wall.",
+     "it": "Ci sono tre quadri sulla parete."
+    },
+    {
+     "en": "Is there a chair between the table and the door?",
+     "it": "C'è una sedia tra il tavolo e la porta?"
+    },
+    {
+     "en": "The ceiling light is over the table.",
+     "it": "La luce del soffitto è sopra il tavolo."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Question words 1: where, when, who, why, which, whose",
+   "title_it": "Parole interrogative 1: where, when, who, why, which, whose",
+   "en": [
+    "Order of a question: question word + auxiliary + subject + verb. Nothing goes before the question word, and the preposition goes at the end: Who are you talking to? (not To who ...).",
+    "When who is the subject, there is no do / did: Who called you? Why is answered with because. Which = quale (a limited choice). Whose = di chi."
+   ],
+   "it": [
+    "Ordine della domanda: parola interrogativa + ausiliare + soggetto + verbo. Davanti alla parola interrogativa non va nulla e la preposizione va in fondo: Who are you talking to? (non To who ...).",
+    "Quando who è il soggetto non serve do / did: Who called you? A why si risponde con because. Which = quale (scelta limitata). Whose = di chi."
+   ],
+   "table": {
+    "head": [
+     "Word",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "where",
+      "dove",
+      "Where do you usually go? / Where are you going? / Where did you go yesterday? / Where have you been?"
+     ],
+     [
+      "when",
+      "quando",
+      "When is your birthday?"
+     ],
+     [
+      "who",
+      "chi",
+      "Who did you meet? Who called you?"
+     ],
+     [
+      "why",
+      "perché",
+      "Why were you late? Because the bus was late."
+     ],
+     [
+      "which",
+      "quale (tra opzioni)",
+      "Which bus do you take, the 12 or the 15?"
+     ],
+     [
+      "whose",
+      "di chi",
+      "Whose pen is this? It's Maria's."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Where did you go yesterday?",
+     "it": "Dove sei andato ieri?"
+    },
+    {
+     "en": "Who are you waiting for?",
+     "it": "Chi stai aspettando?"
+    },
+    {
+     "en": "Whose bag is on the chair?",
+     "it": "Di chi è la borsa sulla sedia?"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "We ___ to the cinema last night.",
+   "q_it": "Siamo andati al cinema ieri sera.",
+   "options": [
+    "went",
+    "go",
+    "goed",
+    "did go"
+   ],
+   "answer": 0,
+   "why": "Last night is a finished time, so we use the past simple. Go is irregular: went.",
+   "why_it": "Last night è un tempo finito, quindi past simple. Go è irregolare: went."
+  },
+  {
+   "type": "fill",
+   "q": "Last weekend I ___ (visit) my grandparents.",
+   "q_it": "Lo scorso fine settimana ho fatto visita ai nonni.",
+   "answers": [
+    "visited"
+   ],
+   "hint": "regular verb + -ed",
+   "why": "Regular verb in the past simple: visit + ed.",
+   "why_it": "Verbo regolare al past simple: visit + ed."
+  },
+  {
+   "type": "fill",
+   "q": "Tom ___ (not / buy) anything at the market yesterday.",
+   "q_it": "Tom non ha comprato niente al mercato ieri.",
+   "answers": [
+    "didn't buy",
+    "did not buy"
+   ],
+   "hint": "negative: didn't + base verb",
+   "why": "Negative past simple: didn't + base verb (buy, not bought).",
+   "why_it": "Negativa del past simple: didn't + verbo base (buy, non bought)."
+  },
+  {
+   "type": "fill",
+   "q": "My parents ___ (be) in Rome in 2015.",
+   "q_it": "I miei genitori erano a Roma nel 2015.",
+   "answers": [
+    "were"
+   ],
+   "hint": "past of be, plural",
+   "why": "In 2015 is a finished time. Past of be with they: were.",
+   "why_it": "In 2015 è un tempo finito. Passato di be con they: were."
+  },
+  {
+   "type": "fill",
+   "q": "Every day she gets up at seven. Yesterday she ___ (get) up at seven.",
+   "q_it": "Ogni giorno si alza alle sette. Ieri si è alzata alle sette.",
+   "answers": [
+    "got"
+   ],
+   "hint": "rewrite the routine as yesterday",
+   "why": "Yesterday asks for the past simple. Get is irregular: got.",
+   "why_it": "Yesterday vuole il past simple. Get è irregolare: got."
+  },
+  {
+   "type": "mcq",
+   "q": "___ you enjoy the party on Saturday?",
+   "q_it": "Ti è piaciuta la festa di sabato?",
+   "options": [
+    "Do",
+    "Were",
+    "Did",
+    "Are"
+   ],
+   "answer": 2,
+   "why": "Enjoy is a normal verb in the past, so the question starts with Did.",
+   "why_it": "Enjoy è un verbo normale al passato, quindi la domanda inizia con Did."
+  },
+  {
+   "type": "fill",
+   "q": "Did you ___ (see) the new film?",
+   "q_it": "Hai visto il nuovo film?",
+   "answers": [
+    "see"
+   ],
+   "hint": "after did the verb stays in the base form",
+   "why": "After Did the verb is in the base form: see, not saw.",
+   "why_it": "Dopo Did il verbo è alla forma base: see, non saw."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "I",
+    "didn't",
+    "do",
+    "anything",
+    "yesterday"
+   ],
+   "answers": [
+    "I didn't do anything yesterday"
+   ],
+   "why": "Subject + didn't + base verb. Do is the main verb here.",
+   "why_it": "Soggetto + didn't + verbo base. Qui do è il verbo principale."
+  },
+  {
+   "type": "mcq",
+   "q": "The lamp is ___ the table. It does not touch it.",
+   "q_it": "La lampada è sopra il tavolo. Non lo tocca.",
+   "options": [
+    "on",
+    "over",
+    "onto",
+    "into"
+   ],
+   "answer": 1,
+   "why": "Over means above without touching. On means touching the surface.",
+   "why_it": "Over significa sopra senza toccare. On significa a contatto con la superficie."
+  },
+  {
+   "type": "fill",
+   "q": "Meet me ___ the bus stop at eight.",
+   "q_it": "Ci vediamo alla fermata dell'autobus alle otto.",
+   "answers": [
+    "at"
+   ],
+   "hint": "a precise point",
+   "why": "The bus stop is a precise point: at.",
+   "why_it": "La fermata è un punto preciso: at."
+  },
+  {
+   "type": "fill",
+   "q": "There are three pictures ___ the wall.",
+   "q_it": "Ci sono tre quadri sulla parete.",
+   "answers": [
+    "on"
+   ],
+   "hint": "a surface",
+   "why": "A wall is a surface: on the wall.",
+   "why_it": "Una parete è una superficie: on the wall."
+  },
+  {
+   "type": "mcq",
+   "q": "The cat is sleeping ___ the chair, on the floor.",
+   "q_it": "Il gatto dorme sotto la sedia, sul pavimento.",
+   "options": [
+    "in front of",
+    "next to",
+    "under",
+    "on"
+   ],
+   "answer": 2,
+   "why": "Under means below something, covered by it.",
+   "why_it": "Under significa sotto qualcosa, coperto da esso."
+  },
+  {
+   "type": "fill",
+   "q": "There isn't a TV ___ the bedroom.",
+   "q_it": "Non c'è una TV in camera da letto.",
+   "answers": [
+    "in"
+   ],
+   "hint": "inside a room",
+   "why": "A room is a space: in the bedroom.",
+   "why_it": "Una stanza è uno spazio: in the bedroom."
+  },
+  {
+   "type": "order",
+   "q": "Describe the room.",
+   "q_it": "Descrivi la stanza.",
+   "words": [
+    "There",
+    "is",
+    "a",
+    "lamp",
+    "between",
+    "the",
+    "sofa",
+    "and",
+    "the",
+    "window"
+   ],
+   "answers": [
+    "There is a lamp between the sofa and the window"
+   ],
+   "why": "There is + a + noun + between + A and B.",
+   "why_it": "There is + a + nome + between + A e B."
+  },
+  {
+   "type": "mcq",
+   "q": "___ is your birthday? On the fourth of May.",
+   "q_it": "Quando è il tuo compleanno? Il quattro maggio.",
+   "options": [
+    "Where",
+    "When",
+    "Who",
+    "Why"
+   ],
+   "answer": 1,
+   "why": "The answer is a date, so we ask with When.",
+   "why_it": "La risposta è una data, quindi chiediamo con When."
+  },
+  {
+   "type": "mcq",
+   "q": "___ bus do you take to work, the 12 or the 15?",
+   "q_it": "Quale autobus prendi per andare al lavoro, il 12 o il 15?",
+   "options": [
+    "Whose",
+    "Who",
+    "Which",
+    "Why"
+   ],
+   "answer": 2,
+   "why": "Which is used for a limited choice (the 12 or the 15).",
+   "why_it": "Which si usa per una scelta limitata (il 12 o il 15)."
+  },
+  {
+   "type": "fill",
+   "q": "A: ___ did you leave early? B: Because I was tired.",
+   "q_it": "A: Perché sei andato via presto? B: Perché ero stanco.",
+   "answers": [
+    "Why",
+    "why"
+   ],
+   "hint": "the answer starts with because",
+   "why": "Because answers a Why question.",
+   "why_it": "Because risponde a una domanda con Why."
+  },
+  {
+   "type": "fill",
+   "q": "Who are you talking ___?",
+   "q_it": "Con chi stai parlando?",
+   "answers": [
+    "to"
+   ],
+   "hint": "the preposition goes at the end",
+   "why": "The preposition goes at the end of the question: Who are you talking to?",
+   "why_it": "La preposizione va in fondo alla domanda: Who are you talking to?"
+  },
+  {
+   "type": "order",
+   "q": "Make a question.",
+   "q_it": "Forma una domanda.",
+   "words": [
+    "Where",
+    "did",
+    "you",
+    "go",
+    "yesterday"
+   ],
+   "answers": [
+    "Where did you go yesterday"
+   ],
+   "why": "Question word + did + subject + base verb. Yesterday needs the past simple.",
+   "why_it": "Parola interrogativa + did + soggetto + verbo base. Yesterday richiede il past simple."
+  },
+  {
+   "type": "fill",
+   "q": "Who ___ you this morning? (call)",
+   "q_it": "Chi ti ha chiamato stamattina?",
+   "answers": [
+    "called"
+   ],
+   "hint": "who is the subject: no did",
+   "why": "When Who is the subject we do not use did: Who called you?",
+   "why_it": "Quando Who è il soggetto non si usa did: Who called you?"
+  },
+  {
+   "type": "mcq",
+   "q": "A: ___ ? B: I went to the dentist yesterday.",
+   "q_it": "A: ___ ? B: Sono andato dal dentista ieri.",
+   "options": [
+    "Where you went yesterday?",
+    "Where did you went yesterday?",
+    "Where do you go yesterday?",
+    "Where did you go yesterday?"
+   ],
+   "answer": 3,
+   "why": "Yesterday is a finished time, so the question uses did + base verb: go.",
+   "why_it": "Yesterday è un tempo finito, quindi la domanda usa did + verbo base: go."
+  },
+  {
+   "type": "order",
+   "q": "Make a question.",
+   "q_it": "Forma una domanda.",
+   "words": [
+    "Why",
+    "did",
+    "you",
+    "stay",
+    "at",
+    "home",
+    "last",
+    "night"
+   ],
+   "answers": [
+    "Why did you stay at home last night"
+   ],
+   "why": "Why + did + subject + base verb. Last night is a finished time.",
+   "why_it": "Why + did + soggetto + verbo base. Last night è un tempo finito."
+  },
+  {
+   "type": "mcq",
+   "q": "Which question goes with the word now?",
+   "q_it": "Quale domanda va con la parola now?",
+   "options": [
+    "Where did you go now?",
+    "Where are you going now?",
+    "Where do you went now?",
+    "Where have you gone now?"
+   ],
+   "answer": 1,
+   "why": "Now means this moment, so we use the present continuous: are you going.",
+   "why_it": "Now indica questo momento, quindi present continuous: are you going."
+  },
+  {
+   "type": "mcq",
+   "q": "Look! The children ___ in the garden.",
+   "q_it": "Guarda! I bambini stanno giocando in giardino.",
+   "options": [
+    "play",
+    "plays",
+    "are playing",
+    "playing"
+   ],
+   "answer": 2,
+   "why": "Look! shows an action happening now: present continuous.",
+   "why_it": "Look! indica un'azione che accade adesso: present continuous."
+  },
+  {
+   "type": "fill",
+   "q": "My brother usually ___ (get) up at six, but today he is still in bed.",
+   "q_it": "Mio fratello di solito si alza alle sei, ma oggi è ancora a letto.",
+   "answers": [
+    "gets"
+   ],
+   "hint": "usually = routine",
+   "why": "Usually shows a routine: present simple, with -s for he.",
+   "why_it": "Usually indica una routine: present simple, con -s per he."
+  },
+  {
+   "type": "fill",
+   "q": "Hurry up! The bus ___ (come).",
+   "q_it": "Sbrigati! Sta arrivando l'autobus.",
+   "answers": [
+    "is coming",
+    "'s coming",
+    "s coming"
+   ],
+   "hint": "it is happening now",
+   "why": "Hurry up! means now: present continuous (is coming).",
+   "why_it": "Hurry up! significa adesso: present continuous (is coming)."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "ceiling",
+   "it": "soffitto",
+   "ex": "There is a light on the ceiling."
+  },
+  {
+   "id": "c2",
+   "en": "floor",
+   "it": "pavimento, piano",
+   "ex": "The cat is on the floor."
+  },
+  {
+   "id": "c3",
+   "en": "wall",
+   "it": "parete, muro",
+   "ex": "There is a picture on the wall."
+  },
+  {
+   "id": "c4",
+   "en": "between",
+   "it": "tra",
+   "ex": "The lamp is between the sofa and the window."
+  },
+  {
+   "id": "c5",
+   "en": "opposite",
+   "it": "di fronte",
+   "ex": "The bank is opposite the station."
+  },
+  {
+   "id": "c6",
+   "en": "in front of / behind",
+   "it": "davanti a / dietro",
+   "ex": "A bike is in front of the door and a bag is behind it."
+  },
+  {
+   "id": "c7",
+   "en": "went / saw / bought",
+   "it": "andai / vidi / comprai",
+   "ex": "I went to town and bought a pen."
+  },
+  {
+   "id": "c8",
+   "en": "didn't + base verb",
+   "it": "negativa del past simple",
+   "ex": "I didn't go out last night."
+  },
+  {
+   "id": "c9",
+   "en": "Whose ...?",
+   "it": "Di chi ...?",
+   "ex": "Whose pen is this?"
+  },
+  {
+   "id": "c10",
+   "en": "Which ...?",
+   "it": "Quale ...?",
+   "ex": "Which door is yours?"
+  }
+ ]
+}

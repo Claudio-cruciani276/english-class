@@ -1,0 +1,251 @@
+{
+ "kind": "reading",
+ "week": "2026-11-09",
+ "order": 1,
+ "situation": "At the hotel",
+ "situation_it": "In albergo",
+ "title": "Reading: At the hotel",
+ "title_it": "Lettura: In albergo",
+ "goal": "Check in, ask about breakfast and report problems in your room.",
+ "goal_it": "Fare il check-in, chiedere della colazione e segnalare problemi in camera.",
+ "minutes": 15,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Learn these phrases first. You will meet them in the dialogue."
+   ],
+   "it": [
+    "Impara prima queste frasi. Le ritroverai nel dialogo."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "I have a reservation under the name Rossi.",
+      "Ho una prenotazione a nome Rossi."
+     ],
+     [
+      "Is breakfast included?",
+      "La colazione è inclusa?"
+     ],
+     [
+      "What time is check-out?",
+      "A che ora è il check-out?"
+     ],
+     [
+      "The restaurant is opposite the lift.",
+      "Il ristorante è di fronte all'ascensore."
+     ],
+     [
+      "The light above the bed isn't working.",
+      "La luce sopra il letto non funziona."
+     ],
+     [
+      "There is no hot water in the bathroom.",
+      "Non c'è acqua calda in bagno."
+     ],
+     [
+      "Could you send someone to my room?",
+      "Può mandare qualcuno in camera mia?"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "At the hotel",
+   "title_it": "In albergo",
+   "en": [
+    "Marco arrives at a hotel in Bath. Later he phones reception from his room.",
+    "Receptionist: Good evening. How can I help you?",
+    "Marco: Good evening. I have a reservation under the name Rossi.",
+    "Receptionist: Yes, a double room for two nights. Here is your key card. Your room is on the second floor.",
+    "Marco: Thank you. Is breakfast included?",
+    "Receptionist: Yes, it is. It is in the restaurant, opposite the lift, from seven to ten.",
+    "Marco: And what time is check-out?",
+    "Receptionist: At eleven o'clock.",
+    "Marco: Hello, this is room 214. The light above the bed isn't working.",
+    "Receptionist: I'm sorry about that. Is there anything else?",
+    "Marco: Yes, there is no hot water in the bathroom.",
+    "Receptionist: I'll send someone to your room straight away."
+   ],
+   "it": [
+    "Marco arriva in un albergo a Bath. Più tardi telefona alla reception dalla sua camera.",
+    "Receptionist: Buonasera. Come posso aiutarla?",
+    "Marco: Buonasera. Ho una prenotazione a nome Rossi.",
+    "Receptionist: Sì, una doppia per due notti. Ecco la chiave elettronica. La camera è al secondo piano.",
+    "Marco: Grazie. La colazione è inclusa?",
+    "Receptionist: Sì. È nel ristorante, di fronte all'ascensore, dalle sette alle dieci.",
+    "Marco: E a che ora è il check-out?",
+    "Receptionist: Alle undici.",
+    "Marco: Pronto, sono nella camera 214. La luce sopra il letto non funziona.",
+    "Receptionist: Mi dispiace. C'è altro?",
+    "Marco: Sì, in bagno non c'è acqua calda.",
+    "Receptionist: Mando subito qualcuno in camera."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Which floor is Marco's room on?",
+   "q_it": "A che piano è la camera di Marco?",
+   "options": [
+    "The first floor",
+    "The second floor",
+    "The third floor",
+    "The ground floor"
+   ],
+   "answer": 1,
+   "why": "The receptionist says: Your room is on the second floor.",
+   "why_it": "La receptionist dice: Your room is on the second floor."
+  },
+  {
+   "type": "mcq",
+   "q": "Where is the restaurant?",
+   "q_it": "Dov'è il ristorante?",
+   "options": [
+    "Behind the reception",
+    "Next to the pool",
+    "Opposite the lift",
+    "On the third floor"
+   ],
+   "answer": 2,
+   "why": "She says: It is in the restaurant, opposite the lift.",
+   "why_it": "Dice: opposite the lift."
+  },
+  {
+   "type": "mcq",
+   "q": "What are the two problems in the room?",
+   "q_it": "Quali sono i due problemi in camera?",
+   "options": [
+    "The key card and the window",
+    "The bed and the television",
+    "The breakfast and the lift",
+    "The light and the hot water"
+   ],
+   "answer": 3,
+   "why": "Marco says the light isn't working and there is no hot water.",
+   "why_it": "Marco dice che la luce non funziona e che non c'è acqua calda."
+  },
+  {
+   "type": "fill",
+   "q": "I have a ___ under the name Rossi.",
+   "q_it": "Ho una prenotazione a nome Rossi.",
+   "answers": [
+    "reservation",
+    "booking"
+   ],
+   "hint": "you make it before you arrive",
+   "why": "You have a reservation (or a booking) under your name.",
+   "why_it": "Hai una reservation (o booking) a tuo nome."
+  },
+  {
+   "type": "fill",
+   "q": "The light ___ the bed isn't working.",
+   "q_it": "La luce sopra il letto non funziona.",
+   "answers": [
+    "above",
+    "over"
+   ],
+   "hint": "higher than the bed, not touching",
+   "why": "Above or over: higher than the bed, without touching it.",
+   "why_it": "Above o over: più in alto del letto, senza toccarlo."
+  },
+  {
+   "type": "fill",
+   "q": "What time is ___? At eleven o'clock.",
+   "q_it": "A che ora è il check-out? Alle undici.",
+   "answers": [
+    "check-out",
+    "check out",
+    "checkout"
+   ],
+   "hint": "the time you leave the hotel",
+   "why": "Check-out is the time you leave the hotel.",
+   "why_it": "Il check-out è l'ora in cui lasci l'albergo."
+  },
+  {
+   "type": "order",
+   "q": "Ask politely.",
+   "q_it": "Chiedi gentilmente.",
+   "words": [
+    "Is",
+    "breakfast",
+    "included"
+   ],
+   "answers": [
+    "Is breakfast included"
+   ],
+   "why": "Is + subject + past participle.",
+   "why_it": "Is + soggetto + participio passato."
+  },
+  {
+   "type": "order",
+   "q": "Make a polite request.",
+   "q_it": "Forma una richiesta gentile.",
+   "words": [
+    "Could",
+    "you",
+    "send",
+    "someone",
+    "to",
+    "my",
+    "room"
+   ],
+   "answers": [
+    "Could you send someone to my room"
+   ],
+   "why": "Could you + base verb is a polite request.",
+   "why_it": "Could you + verbo base è una richiesta gentile."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "reservation",
+   "it": "prenotazione",
+   "ex": "I have a reservation for two nights."
+  },
+  {
+   "id": "c2",
+   "en": "key card",
+   "it": "chiave elettronica",
+   "ex": "Here is your key card."
+  },
+  {
+   "id": "c3",
+   "en": "check-out",
+   "it": "partenza, ora di lasciare la camera",
+   "ex": "Check-out is at eleven."
+  },
+  {
+   "id": "c4",
+   "en": "floor",
+   "it": "piano",
+   "ex": "My room is on the second floor."
+  },
+  {
+   "id": "c5",
+   "en": "lift",
+   "it": "ascensore",
+   "ex": "The restaurant is opposite the lift."
+  },
+  {
+   "id": "c6",
+   "en": "hot water",
+   "it": "acqua calda",
+   "ex": "There is no hot water."
+  },
+  {
+   "id": "c7",
+   "en": "above",
+   "it": "sopra",
+   "ex": "The light above the bed is broken."
+  }
+ ]
+}

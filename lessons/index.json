@@ -63,6 +63,15 @@
   "exercises": 24
  },
  {
+  "id": "2026-11-09",
+  "title": "Past simple + prepositions of place + question words",
+  "title_it": "Past simple + preposizioni di luogo + parole interrogative",
+  "goal": "Talk about finished past actions, say where things are, and ask questions with where, when, who, why, which and whose.",
+  "goal_it": "Parlare di azioni passate finite, dire dove sono le cose e fare domande con where, when, who, why, which e whose.",
+  "minutes": 30,
+  "exercises": 26
+ },
+ {
   "id": "phrasal-2026-11-09",
   "kind": "phrasal",
   "week": "2026-11-09",
@@ -107,6 +116,42 @@
   "title_it": "Lettura: Al ristorante",
   "goal": "Book a table, order food and ask for the bill.",
   "goal_it": "Prenotare, ordinare e chiedere il conto.",
+  "minutes": 15,
+  "exercises": 8
+ },
+ {
+  "id": "reading-2026-11-09-clothes",
+  "kind": "reading",
+  "week": "2026-11-09",
+  "order": 2,
+  "title": "Reading: Shopping for clothes",
+  "title_it": "Lettura: Fare shopping per i vestiti",
+  "goal": "Ask for a size, try something on and pay.",
+  "goal_it": "Chiedere una taglia, provare un capo e pagare.",
+  "minutes": 15,
+  "exercises": 8
+ },
+ {
+  "id": "reading-2026-11-09-doctor",
+  "kind": "reading",
+  "week": "2026-11-09",
+  "order": 3,
+  "title": "Reading: At the doctor's and at the pharmacy",
+  "title_it": "Lettura: Dal medico e in farmacia",
+  "goal": "Describe simple symptoms and understand advice and instructions.",
+  "goal_it": "Descrivere sintomi semplici e capire consigli e istruzioni.",
+  "minutes": 15,
+  "exercises": 8
+ },
+ {
+  "id": "reading-2026-11-09-hotel",
+  "kind": "reading",
+  "week": "2026-11-09",
+  "order": 1,
+  "title": "Reading: At the hotel",
+  "title_it": "Lettura: In albergo",
+  "goal": "Check in, ask about breakfast and report problems in your room.",
+  "goal_it": "Fare il check-in, chiedere della colazione e segnalare problemi in camera.",
   "minutes": 15,
   "exercises": 8
  },

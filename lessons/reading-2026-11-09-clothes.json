@@ -1,0 +1,248 @@
+{
+ "kind": "reading",
+ "week": "2026-11-09",
+ "order": 2,
+ "situation": "Shopping for clothes",
+ "situation_it": "Fare shopping per i vestiti",
+ "title": "Reading: Shopping for clothes",
+ "title_it": "Lettura: Fare shopping per i vestiti",
+ "goal": "Ask for a size, try something on and pay.",
+ "goal_it": "Chiedere una taglia, provare un capo e pagare.",
+ "minutes": 15,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Learn these phrases first. You will meet them in the dialogue."
+   ],
+   "it": [
+    "Impara prima queste frasi. Le ritroverai nel dialogo."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "I'm looking for a jacket.",
+      "Cerco una giacca."
+     ],
+     [
+      "What size are you?",
+      "Che taglia porta?"
+     ],
+     [
+      "How much is this one?",
+      "Quanto costa questa?"
+     ],
+     [
+      "Can I try it on?",
+      "Posso provarla?"
+     ],
+     [
+      "The changing rooms are at the back of the shop.",
+      "I camerini sono in fondo al negozio."
+     ],
+     [
+      "It's too big. Do you have a smaller size?",
+      "È troppo grande. Ha una taglia più piccola?"
+     ],
+     [
+      "Can I pay by card?",
+      "Posso pagare con la carta?"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "Shopping for clothes",
+   "title_it": "Fare shopping per i vestiti",
+   "en": [
+    "Sara is in a clothes shop. She wants to buy a jacket.",
+    "Assistant: Hello. Can I help you?",
+    "Sara: Yes, I'm looking for a jacket.",
+    "Assistant: What size are you?",
+    "Sara: I'm a medium. How much is this blue one?",
+    "Assistant: It's forty-five pounds.",
+    "Sara: Can I try it on?",
+    "Assistant: Of course. The changing rooms are at the back of the shop.",
+    "Sara: It's too big. Do you have a smaller size?",
+    "Assistant: Let me check. Yes, here is a small.",
+    "Sara: Perfect. I'll take it. Can I pay by card?",
+    "Assistant: Yes, of course."
+   ],
+   "it": [
+    "Sara è in un negozio di abbigliamento. Vuole comprare una giacca.",
+    "Commessa: Buongiorno. Posso aiutarla?",
+    "Sara: Sì, cerco una giacca.",
+    "Commessa: Che taglia porta?",
+    "Sara: Porto la media. Quanto costa questa blu?",
+    "Commessa: Quarantacinque sterline.",
+    "Sara: Posso provarla?",
+    "Commessa: Certo. I camerini sono in fondo al negozio.",
+    "Sara: È troppo grande. Ha una taglia più piccola?",
+    "Commessa: Controllo. Sì, ecco una small.",
+    "Sara: Perfetta. La prendo. Posso pagare con la carta?",
+    "Commessa: Sì, certo."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "What is Sara looking for?",
+   "q_it": "Che cosa cerca Sara?",
+   "options": [
+    "A dress",
+    "Shoes",
+    "A jacket",
+    "A bag"
+   ],
+   "answer": 2,
+   "why": "She says: I'm looking for a jacket.",
+   "why_it": "Dice: I'm looking for a jacket."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the problem with the first jacket?",
+   "q_it": "Qual è il problema della prima giacca?",
+   "options": [
+    "It is too small",
+    "It is too expensive",
+    "It is the wrong colour",
+    "It is too big"
+   ],
+   "answer": 3,
+   "why": "Sara says: It's too big.",
+   "why_it": "Sara dice: It's too big."
+  },
+  {
+   "type": "mcq",
+   "q": "How does Sara pay?",
+   "q_it": "Come paga Sara?",
+   "options": [
+    "In cash",
+    "By card",
+    "With a gift card",
+    "She doesn't buy it"
+   ],
+   "answer": 1,
+   "why": "She asks: Can I pay by card? The assistant says yes.",
+   "why_it": "Chiede: Can I pay by card? La commessa dice di sì."
+  },
+  {
+   "type": "fill",
+   "q": "Can I ___ it on?",
+   "q_it": "Posso provarla?",
+   "answers": [
+    "try"
+   ],
+   "hint": "you do this before you buy",
+   "why": "We say try something on.",
+   "why_it": "Si dice try something on."
+  },
+  {
+   "type": "fill",
+   "q": "It's ___ big. Do you have a smaller size?",
+   "q_it": "È troppo grande. Ha una taglia più piccola?",
+   "answers": [
+    "too"
+   ],
+   "hint": "more than you want",
+   "why": "Too + adjective means more than you want.",
+   "why_it": "Too + aggettivo significa più di quanto si vuole."
+  },
+  {
+   "type": "fill",
+   "q": "What ___ are you? I'm a medium.",
+   "q_it": "Che taglia porta? Porto la media.",
+   "answers": [
+    "size"
+   ],
+   "hint": "small, medium, large",
+   "why": "We ask about clothes with What size are you?",
+   "why_it": "Per i vestiti si chiede What size are you?"
+  },
+  {
+   "type": "order",
+   "q": "Ask about the size.",
+   "q_it": "Chiedi della taglia.",
+   "words": [
+    "Do",
+    "you",
+    "have",
+    "a",
+    "smaller",
+    "size"
+   ],
+   "answers": [
+    "Do you have a smaller size"
+   ],
+   "why": "Do you have + noun is a polite way to ask for something.",
+   "why_it": "Do you have + nome è un modo gentile per chiedere qualcosa."
+  },
+  {
+   "type": "order",
+   "q": "Ask how to pay.",
+   "q_it": "Chiedi come pagare.",
+   "words": [
+    "Can",
+    "I",
+    "pay",
+    "by",
+    "card"
+   ],
+   "answers": [
+    "Can I pay by card"
+   ],
+   "why": "Can I + base verb asks for permission.",
+   "why_it": "Can I + verbo base chiede il permesso."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "try on",
+   "it": "provare (un capo)",
+   "ex": "Can I try on this jacket?"
+  },
+  {
+   "id": "c2",
+   "en": "size",
+   "it": "taglia, misura",
+   "ex": "What size are you?"
+  },
+  {
+   "id": "c3",
+   "en": "changing room",
+   "it": "camerino",
+   "ex": "The changing rooms are at the back."
+  },
+  {
+   "id": "c4",
+   "en": "too big",
+   "it": "troppo grande",
+   "ex": "This coat is too big for me."
+  },
+  {
+   "id": "c5",
+   "en": "smaller",
+   "it": "più piccolo",
+   "ex": "Do you have a smaller size?"
+  },
+  {
+   "id": "c6",
+   "en": "I'll take it",
+   "it": "la prendo",
+   "ex": "Perfect. I'll take it."
+  },
+  {
+   "id": "c7",
+   "en": "pay by card",
+   "it": "pagare con la carta",
+   "ex": "Can I pay by card?"
+  }
+ ]
+}

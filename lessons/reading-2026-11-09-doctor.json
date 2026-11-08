@@ -1,0 +1,248 @@
+{
+ "kind": "reading",
+ "week": "2026-11-09",
+ "order": 3,
+ "situation": "At the doctor's and at the pharmacy",
+ "situation_it": "Dal medico e in farmacia",
+ "title": "Reading: At the doctor's and at the pharmacy",
+ "title_it": "Lettura: Dal medico e in farmacia",
+ "goal": "Describe simple symptoms and understand advice and instructions.",
+ "goal_it": "Descrivere sintomi semplici e capire consigli e istruzioni.",
+ "minutes": 15,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Learn these phrases first. You will meet them in the dialogue."
+   ],
+   "it": [
+    "Impara prima queste frasi. Le ritroverai nel dialogo."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "I've got a sore throat and a cough.",
+      "Ho mal di gola e tosse."
+     ],
+     [
+      "When did it start?",
+      "Quando è iniziato?"
+     ],
+     [
+      "It started two days ago.",
+      "È iniziato due giorni fa."
+     ],
+     [
+      "Drink plenty of water and rest.",
+      "Beva molta acqua e riposi."
+     ],
+     [
+      "I have a prescription from the doctor.",
+      "Ho una ricetta del medico."
+     ],
+     [
+      "Take one tablet three times a day.",
+      "Prenda una compressa tre volte al giorno."
+     ],
+     [
+      "Can I have something for my cough?",
+      "Posso avere qualcosa per la tosse?"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "At the doctor's and at the pharmacy",
+   "title_it": "Dal medico e in farmacia",
+   "en": [
+    "Luca has a sore throat and a cough. He goes to the doctor and then to the pharmacy.",
+    "Doctor: Good morning. What's the problem?",
+    "Luca: I've got a sore throat and a cough, and I have a headache too.",
+    "Doctor: When did it start?",
+    "Luca: It started two days ago.",
+    "Doctor: It's a bad cold. Drink plenty of water and rest at home. Here is a prescription.",
+    "Luca: Thank you, doctor.",
+    "Luca: Hello. I have a prescription from the doctor.",
+    "Pharmacist: Thank you. Take one tablet three times a day, after meals.",
+    "Luca: Can I have something for my cough, too?",
+    "Pharmacist: Yes, this syrup is very good. Take it before bed.",
+    "Luca: Thank you very much."
+   ],
+   "it": [
+    "Luca ha mal di gola e tosse. Va dal medico e poi in farmacia.",
+    "Medico: Buongiorno. Qual è il problema?",
+    "Luca: Ho mal di gola e tosse, e anche mal di testa.",
+    "Medico: Quando è iniziato?",
+    "Luca: È iniziato due giorni fa.",
+    "Medico: È un brutto raffreddore. Beva molta acqua e riposi a casa. Ecco la ricetta.",
+    "Luca: Grazie, dottore.",
+    "Luca: Buongiorno. Ho una ricetta del medico.",
+    "Farmacista: Grazie. Prenda una compressa tre volte al giorno, dopo i pasti.",
+    "Luca: Posso avere qualcosa anche per la tosse?",
+    "Farmacista: Sì, questo sciroppo è molto buono. Lo prenda prima di dormire.",
+    "Luca: Grazie mille."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "When did Luca's problem start?",
+   "q_it": "Quando è iniziato il problema di Luca?",
+   "options": [
+    "This morning",
+    "Yesterday",
+    "Two weeks ago",
+    "Two days ago"
+   ],
+   "answer": 3,
+   "why": "Luca says: It started two days ago.",
+   "why_it": "Luca dice: It started two days ago."
+  },
+  {
+   "type": "mcq",
+   "q": "What does the doctor tell Luca to do?",
+   "q_it": "Che cosa dice il medico a Luca di fare?",
+   "options": [
+    "Go to hospital",
+    "Drink plenty of water and rest",
+    "Go back to work",
+    "Stay in bed for a month"
+   ],
+   "answer": 1,
+   "why": "The doctor says: Drink plenty of water and rest at home.",
+   "why_it": "Il medico dice: Drink plenty of water and rest at home."
+  },
+  {
+   "type": "mcq",
+   "q": "What does the pharmacist give Luca for his cough?",
+   "q_it": "Che cosa dà il farmacista a Luca per la tosse?",
+   "options": [
+    "Tablets",
+    "Nothing",
+    "A syrup",
+    "A spray"
+   ],
+   "answer": 2,
+   "why": "She says: this syrup is very good.",
+   "why_it": "Dice: this syrup is very good."
+  },
+  {
+   "type": "fill",
+   "q": "I've got a sore ___ and a cough.",
+   "q_it": "Ho mal di gola e tosse.",
+   "answers": [
+    "throat"
+   ],
+   "hint": "it is in your neck",
+   "why": "Sore throat means mal di gola.",
+   "why_it": "Sore throat significa mal di gola."
+  },
+  {
+   "type": "fill",
+   "q": "It ___ two days ago.",
+   "q_it": "È iniziato due giorni fa.",
+   "answers": [
+    "started"
+   ],
+   "hint": "past simple of start",
+   "why": "Two days ago is a finished time: past simple, started.",
+   "why_it": "Two days ago è un tempo finito: past simple, started."
+  },
+  {
+   "type": "fill",
+   "q": "Take one tablet three times a day, ___ meals.",
+   "q_it": "Prenda una compressa tre volte al giorno, dopo i pasti.",
+   "answers": [
+    "after"
+   ],
+   "hint": "the opposite of before",
+   "why": "After meals means dopo i pasti.",
+   "why_it": "After meals significa dopo i pasti."
+  },
+  {
+   "type": "order",
+   "q": "Ask the question.",
+   "q_it": "Fai la domanda.",
+   "words": [
+    "When",
+    "did",
+    "it",
+    "start"
+   ],
+   "answers": [
+    "When did it start"
+   ],
+   "why": "Question word + did + subject + base verb.",
+   "why_it": "Parola interrogativa + did + soggetto + verbo base."
+  },
+  {
+   "type": "order",
+   "q": "Ask in a pharmacy.",
+   "q_it": "Chiedi in farmacia.",
+   "words": [
+    "Do",
+    "you",
+    "have",
+    "anything",
+    "for",
+    "a",
+    "cough"
+   ],
+   "answers": [
+    "Do you have anything for a cough"
+   ],
+   "why": "Do you have anything for + problem?",
+   "why_it": "Do you have anything for + problema?"
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "sore throat",
+   "it": "mal di gola",
+   "ex": "I've got a sore throat."
+  },
+  {
+   "id": "c2",
+   "en": "cough",
+   "it": "tosse",
+   "ex": "I've got a bad cough."
+  },
+  {
+   "id": "c3",
+   "en": "headache",
+   "it": "mal di testa",
+   "ex": "She has a headache."
+  },
+  {
+   "id": "c4",
+   "en": "prescription",
+   "it": "ricetta medica",
+   "ex": "I have a prescription from the doctor."
+  },
+  {
+   "id": "c5",
+   "en": "tablet",
+   "it": "compressa",
+   "ex": "Take one tablet after meals."
+  },
+  {
+   "id": "c6",
+   "en": "syrup",
+   "it": "sciroppo",
+   "ex": "This syrup is good for a cough."
+  },
+  {
+   "id": "c7",
+   "en": "three times a day",
+   "it": "tre volte al giorno",
+   "ex": "Take it three times a day."
+  }
+ ]
+}
