@@ -72,6 +72,15 @@
   "exercises": 26
  },
  {
+  "id": "2026-11-10",
+  "title": "Past continuous + question words 2 + this / that",
+  "title_it": "Past continuous + parole interrogative 2 + this / that",
+  "goal": "Say what was happening at a moment in the past, ask how much, how many, how far, how long and how often, and use this, these, that and those.",
+  "goal_it": "Dire cosa stava succedendo in un momento del passato, fare domande con how much, how many, how far, how long e how often, e usare this, these, that e those.",
+  "minutes": 30,
+  "exercises": 26
+ },
+ {
   "id": "phrasal-2026-11-09",
   "kind": "phrasal",
   "week": "2026-11-09",
@@ -182,19 +191,6 @@
   "exercises": 14
  },
  {
-  "id": "song-2026-11-09-this-is-the-life",
-  "kind": "song",
-  "week": "2026-11-09",
-  "order": 1,
-  "artist": "Amy Macdonald",
-  "title": "This Is the Life",
-  "title_it": "This Is the Life",
-  "goal": "Learn the words first, notice the past continuous and going to, and think about what a night out really feels like.",
-  "goal_it": "Impara prima le parole, nota il past continuous e going to, e pensa a cosa si prova davvero in una serata fuori.",
-  "minutes": 25,
-  "exercises": 15
- },
- {
   "id": "song-2026-11-09-starlight",
   "kind": "song",
   "week": "2026-11-09",
@@ -204,6 +200,19 @@
   "title_it": "Starlight",
   "goal": "Learn the words first, notice will, if-clauses and the present continuous, and think about what the singer wants to hold on to.",
   "goal_it": "Impara prima le parole, nota will, le frasi con if e il present continuous, e pensa a cosa vuole tenere stretto il cantante.",
+  "minutes": 25,
+  "exercises": 15
+ },
+ {
+  "id": "song-2026-11-09-this-is-the-life",
+  "kind": "song",
+  "week": "2026-11-09",
+  "order": 1,
+  "artist": "Amy Macdonald",
+  "title": "This Is the Life",
+  "title_it": "This Is the Life",
+  "goal": "Learn the words first, notice the past continuous and going to, and think about what a night out really feels like.",
+  "goal_it": "Impara prima le parole, nota il past continuous e going to, e pensa a cosa si prova davvero in una serata fuori.",
   "minutes": 25,
   "exercises": 15
  }

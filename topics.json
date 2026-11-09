@@ -24,6 +24,11 @@
      "label": "Past simple",
      "label_it": "Past simple",
      "date": "2026-11-09"
+    },
+    {
+     "label": "Past continuous",
+     "label_it": "Past continuous",
+     "date": "2026-11-10"
     }
    ]
   },
@@ -69,6 +74,16 @@
      "label": "Which / whose",
      "label_it": "Which / whose",
      "date": "2026-11-09"
+    },
+    {
+     "label": "How much / how many",
+     "label_it": "How much / how many",
+     "date": "2026-11-10"
+    },
+    {
+     "label": "How far / long / often",
+     "label_it": "How far / long / often",
+     "date": "2026-11-10"
     }
    ]
   },
@@ -81,6 +96,11 @@
      "label": "Adverbs of frequency",
      "label_it": "Avverbi di frequenza",
      "date": "2026-11-05"
+    },
+    {
+     "label": "This / these / that / those",
+     "label_it": "This / these / that / those",
+     "date": "2026-11-10"
     }
    ]
   },

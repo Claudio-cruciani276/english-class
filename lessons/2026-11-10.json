@@ -1,0 +1,610 @@
+{
+ "title": "Past continuous + question words 2 + this / that",
+ "title_it": "Past continuous + parole interrogative 2 + this / that",
+ "goal": "Say what was happening at a moment in the past, ask how much, how many, how far, how long and how often, and use this, these, that and those.",
+ "goal_it": "Dire cosa stava succedendo in un momento del passato, fare domande con how much, how many, how far, how long e how often, e usare this, these, that e those.",
+ "minutes": 30,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Past continuous: actions in progress",
+   "title_it": "Past continuous: azioni in corso",
+   "en": [
+    "We use the past continuous (was / were + verb-ing) for an action that was in progress at a moment in the past. It had started before that moment and was not finished.",
+    "Example: at 10.30 yesterday they were playing tennis. We do not say when they started or finished; we only say what was happening at 10.30.",
+    "It is often the background of a story: It was raining and people were running for the bus."
+   ],
+   "it": [
+    "Usiamo il past continuous (was / were + verbo-ing) per un'azione in corso a un momento del passato. Era cominciata prima di quel momento e non era finita.",
+    "Esempio: ieri alle 10.30 stavano giocando a tennis. Non diciamo quando hanno iniziato o finito; diciamo solo cosa stava succedendo alle 10.30.",
+    "Spesso è lo sfondo di una storia: It was raining and people were running for the bus (Pioveva e la gente correva per prendere l'autobus)."
+   ],
+   "table": {
+    "head": [
+     "Subject",
+     "was / were",
+     "Verb-ing"
+    ],
+    "rows": [
+     [
+      "I / he / she / it",
+      "was",
+      "working"
+     ],
+     [
+      "you / we / they",
+      "were",
+      "working"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "At eight o'clock last night I was cooking dinner.",
+     "it": "Ieri sera alle otto stavo preparando la cena."
+    },
+    {
+     "en": "They were sitting on the sofa in the living room.",
+     "it": "Erano seduti sul divano in soggiorno."
+    },
+    {
+     "en": "What were you doing at nine?",
+     "it": "Cosa stavi facendo alle nove?"
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Past continuous: negative, questions and special cases",
+   "title_it": "Past continuous: negativa, domanda e casi particolari",
+   "en": [
+    "Negative: wasn't / weren't + verb-ing (It wasn't raining). Question: Was / Were + subject + verb-ing? (Were you sleeping?). Short answers: Yes, I was. / No, we weren't.",
+    "Remember the difference with the past simple. Past continuous: the action was in progress (We were walking home when I met Dan). Past simple: the action is complete, or short and sudden (I met Dan).",
+    "When and while: we use while with the longer action (while we were having dinner) and when with the short action that interrupts (when the phone rang). While is not a question word: it joins two parts of a sentence.",
+    "Verbs of state (know, want, like, understand, have = possess) are not normally used in the continuous: I knew the answer, not I was knowing."
+   ],
+   "it": [
+    "Negativa: wasn't / weren't + verbo-ing (It wasn't raining). Domanda: Was / Were + soggetto + verbo-ing? (Were you sleeping?). Risposte brevi: Yes, I was. / No, we weren't.",
+    "Attenzione alla differenza con il past simple. Past continuous: l'azione era in corso (We were walking home when I met Dan). Past simple: l'azione è completa, oppure breve e improvvisa (I met Dan).",
+    "When e while: while va con l'azione più lunga (while we were having dinner), when con l'azione breve che interrompe (when the phone rang). While non è una parola interrogativa: collega due parti di una frase.",
+    "I verbi di stato (know, want, like, understand, have = possedere) di solito non si usano alla forma continua: I knew the answer, non I was knowing."
+   ],
+   "examples": [
+    {
+     "en": "Matt phoned while we were having dinner.",
+     "it": "Matt ha telefonato mentre cenavamo."
+    },
+    {
+     "en": "It was raining when I got up.",
+     "it": "Pioveva quando mi sono alzato."
+    },
+    {
+     "en": "I was having a shower when the doorbell rang.",
+     "it": "Stavo facendo la doccia quando ha suonato il campanello."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Question words 2: how much, how many, how far, how long, how often",
+   "title_it": "Parole interrogative 2: how much, how many, how far, how long, how often",
+   "en": [
+    "How much + uncountable noun: How much milk do we need? How many + countable plural noun: How many people came?",
+    "How far asks about distance: How far is the station? How long asks about time: How long did the film last? Never say how long time. How often asks about frequency: How often do you go to the gym?",
+    "The order is the same as in all questions: question word + auxiliary + subject + verb. Use the tense that the time clue asks for (yesterday = past simple, now = present continuous)."
+   ],
+   "it": [
+    "How much + nome uncountable: How much milk do we need? How many + nome countable al plurale: How many people came?",
+    "How far chiede la distanza: How far is the station? How long chiede il tempo: How long did the film last? Mai how long time. How often chiede la frequenza: How often do you go to the gym?",
+    "L'ordine è lo stesso di tutte le domande: parola interrogativa + ausiliare + soggetto + verbo. Usa il tempo che chiede l'indizio (yesterday = past simple, now = present continuous)."
+   ],
+   "table": {
+    "head": [
+     "Question",
+     "Asks about",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "How much",
+      "quantity (uncountable) or price",
+      "quanto"
+     ],
+     [
+      "How many",
+      "number (countable plural)",
+      "quanti"
+     ],
+     [
+      "How far",
+      "distance",
+      "quanto lontano"
+     ],
+     [
+      "How long",
+      "time / duration",
+      "quanto tempo"
+     ],
+     [
+      "How often",
+      "frequency",
+      "quanto spesso"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "How much money did you spend?",
+     "it": "Quanti soldi hai speso?"
+    },
+    {
+     "en": "How many rooms are there in the hotel?",
+     "it": "Quante camere ci sono nell'albergo?"
+    },
+    {
+     "en": "How far is it from the flat to the bus stop?",
+     "it": "Quanto è lontano dall'appartamento alla fermata dell'autobus?"
+    },
+    {
+     "en": "How long have we got? How often do you cook?",
+     "it": "Quanto tempo abbiamo? Ogni quanto cucini?"
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "This, these, that, those",
+   "title_it": "This, these, that, those",
+   "en": [
+    "This / these = near me (in space or time). That / those = far from me. This and that go with singular nouns; these and those go with plural nouns.",
+    "On the phone and when we introduce people we use this: Hello, this is Anna. Is that Tom?"
+   ],
+   "it": [
+    "This / these = vicino a me (nello spazio o nel tempo). That / those = lontano da me. This e that con il singolare; these e those con il plurale.",
+    "Al telefono e quando presentiamo qualcuno si usa this: Hello, this is Anna. Is that Tom?"
+   ],
+   "table": {
+    "head": [
+     "",
+     "Near",
+     "Far"
+    ],
+    "rows": [
+     [
+      "singular",
+      "this",
+      "that"
+     ],
+     [
+      "plural",
+      "these",
+      "those"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "This is my pen, here in my hand.",
+     "it": "Questa è la mia penna, qui nella mia mano."
+    },
+    {
+     "en": "That picture on the wall is beautiful.",
+     "it": "Quel quadro sul muro è bellissimo."
+    },
+    {
+     "en": "These shoes are comfortable.",
+     "it": "Queste scarpe sono comode."
+    },
+    {
+     "en": "Look at those clouds over there.",
+     "it": "Guarda quelle nuvole laggiù."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "At eight o'clock last night I ___ dinner.",
+   "q_it": "Ieri sera alle otto stavo preparando la cena.",
+   "options": [
+    "cooked",
+    "was cooking",
+    "have cooked",
+    "cook"
+   ],
+   "answer": 1,
+   "why": "A moment in the past (eight o'clock) and an action in progress: past continuous.",
+   "why_it": "Un momento nel passato (le otto) e un'azione in corso: past continuous."
+  },
+  {
+   "type": "fill",
+   "q": "At 10.30 yesterday morning they ___ (play) tennis.",
+   "q_it": "Ieri mattina alle 10.30 stavano giocando a tennis.",
+   "answers": [
+    "were playing"
+   ],
+   "hint": "was / were + -ing",
+   "why": "They is plural, so were + playing.",
+   "why_it": "They è plurale, quindi were + playing."
+  },
+  {
+   "type": "fill",
+   "q": "A: What ___ (you / do) at nine last night? B: I was watching TV.",
+   "q_it": "A: Cosa stavi facendo ieri sera alle nove? B: Guardavo la TV.",
+   "answers": [
+    "were you doing"
+   ],
+   "hint": "question: were + subject + -ing",
+   "why": "Question: were + subject + verb-ing.",
+   "why_it": "Domanda: were + soggetto + verbo-ing."
+  },
+  {
+   "type": "fill",
+   "q": "It ___ (not / rain) when we left the house.",
+   "q_it": "Non pioveva quando siamo usciti di casa.",
+   "answers": [
+    "wasn't raining",
+    "was not raining"
+   ],
+   "hint": "negative of was",
+   "why": "Negative past continuous: wasn't + verb-ing.",
+   "why_it": "Negativa del past continuous: wasn't + verbo-ing."
+  },
+  {
+   "type": "fill",
+   "q": "___ the children sleeping when you got home? No, they were playing.",
+   "q_it": "I bambini dormivano quando sei arrivato a casa? No, giocavano.",
+   "answers": [
+    "Were"
+   ],
+   "hint": "plural subject",
+   "why": "Question with the children (they): Were + subject + verb-ing.",
+   "why_it": "Domanda con the children (they): Were + soggetto + verbo-ing."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "She",
+    "was",
+    "reading",
+    "a",
+    "book",
+    "on",
+    "the",
+    "train"
+   ],
+   "answers": [
+    "She was reading a book on the train"
+   ],
+   "why": "Subject + was + verb-ing, then the place.",
+   "why_it": "Soggetto + was + verbo-ing, poi il luogo."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I was know the answer.",
+    "I am knowing the answer.",
+    "I was knowing the answer.",
+    "I knew the answer."
+   ],
+   "answer": 3,
+   "why": "Know is a verb of state, so we use the simple form: knew.",
+   "why_it": "Know è un verbo di stato, quindi si usa la forma semplice: knew."
+  },
+  {
+   "type": "mcq",
+   "q": "I ___ my keys while I was running for the bus.",
+   "q_it": "Ho perso le chiavi mentre correvo per prendere l'autobus.",
+   "options": [
+    "lost",
+    "have lost",
+    "lose",
+    "was losing"
+   ],
+   "answer": 0,
+   "why": "Losing the keys is a short, complete action inside a longer one: past simple. The longer action (was running) is in the past continuous.",
+   "why_it": "Perdere le chiavi è un'azione breve e completa dentro una più lunga: past simple. L'azione più lunga (was running) è al past continuous."
+  },
+  {
+   "type": "fill",
+   "q": "It was raining when I ___ (get) up.",
+   "q_it": "Pioveva quando mi sono alzato.",
+   "answers": [
+    "got"
+   ],
+   "hint": "irregular verb",
+   "why": "Getting up is a short action that happened at that time: past simple (got).",
+   "why_it": "Alzarsi è un'azione breve avvenuta in quel momento: past simple (got)."
+  },
+  {
+   "type": "fill",
+   "q": "Matt phoned while we ___ (have) dinner.",
+   "q_it": "Matt ha telefonato mentre cenavamo.",
+   "answers": [
+    "were having"
+   ],
+   "hint": "while + longer action",
+   "why": "While introduces the longer action in progress: past continuous.",
+   "why_it": "While introduce l'azione più lunga in corso: past continuous."
+  },
+  {
+   "type": "mcq",
+   "q": "I was having a shower ___ the doorbell rang.",
+   "q_it": "Stavo facendo la doccia quando ha suonato il campanello.",
+   "options": [
+    "since",
+    "while",
+    "when",
+    "during"
+   ],
+   "answer": 2,
+   "why": "When goes with the short action that interrupts (rang). While would go with a longer action.",
+   "why_it": "When va con l'azione breve che interrompe (rang). While andrebbe con un'azione più lunga."
+  },
+  {
+   "type": "fill",
+   "q": "We were walking home when we ___ (meet) Dan.",
+   "q_it": "Stavamo tornando a casa a piedi quando abbiamo incontrato Dan.",
+   "answers": [
+    "met"
+   ],
+   "hint": "irregular verb",
+   "why": "The meeting is short and complete: past simple (met).",
+   "why_it": "L'incontro è breve e completo: past simple (met)."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "They",
+    "were",
+    "having",
+    "lunch",
+    "when",
+    "it",
+    "started",
+    "to",
+    "rain"
+   ],
+   "answers": [
+    "They were having lunch when it started to rain"
+   ],
+   "why": "Longer action (were having) first, then when + short action in the past simple.",
+   "why_it": "Prima l'azione lunga (were having), poi when + azione breve al past simple."
+  },
+  {
+   "type": "mcq",
+   "q": "___ milk do we need for the cake?",
+   "q_it": "Quanto latte ci serve per la torta?",
+   "options": [
+    "How far",
+    "How often",
+    "How many",
+    "How much"
+   ],
+   "answer": 3,
+   "why": "Milk is uncountable, so we use how much.",
+   "why_it": "Milk è uncountable, quindi si usa how much."
+  },
+  {
+   "type": "mcq",
+   "q": "___ people came to the party on Saturday?",
+   "q_it": "Quante persone sono venute alla festa sabato?",
+   "options": [
+    "How much",
+    "How long",
+    "How many",
+    "How far"
+   ],
+   "answer": 2,
+   "why": "People is a countable plural noun: how many.",
+   "why_it": "People è un nome countable plurale: how many."
+  },
+  {
+   "type": "fill",
+   "q": "___ is it from here to the station? About two kilometres.",
+   "q_it": "Quanto è lontana la stazione da qui? Circa due chilometri.",
+   "answers": [
+    "How far"
+   ],
+   "hint": "distance",
+   "why": "Distance: how far.",
+   "why_it": "Distanza: how far."
+  },
+  {
+   "type": "fill",
+   "q": "How ___ did the film last? Two hours.",
+   "q_it": "Quanto è durato il film? Due ore.",
+   "answers": [
+    "long"
+   ],
+   "hint": "not 'long time'",
+   "why": "Duration: how long. We never say how long time.",
+   "why_it": "Durata: how long. Non si dice mai how long time."
+  },
+  {
+   "type": "order",
+   "q": "Make a question.",
+   "q_it": "Forma una domanda.",
+   "words": [
+    "How",
+    "often",
+    "do",
+    "you",
+    "go",
+    "to",
+    "the",
+    "gym"
+   ],
+   "answers": [
+    "How often do you go to the gym"
+   ],
+   "why": "How often + do + subject + base verb.",
+   "why_it": "How often + do + soggetto + verbo base."
+  },
+  {
+   "type": "mcq",
+   "q": "Look at ___ birds in the tree over there.",
+   "q_it": "Guarda quegli uccelli sull'albero laggiù.",
+   "options": [
+    "these",
+    "that",
+    "those",
+    "this"
+   ],
+   "answer": 2,
+   "why": "Birds is plural and far from us: those.",
+   "why_it": "Birds è plurale e lontano da noi: those."
+  },
+  {
+   "type": "fill",
+   "q": "(holding a phone) ___ is my new phone.",
+   "q_it": "(tenendo in mano un telefono) Questo è il mio telefono nuovo.",
+   "answers": [
+    "This"
+   ],
+   "hint": "singular, near",
+   "why": "Singular and near me: this.",
+   "why_it": "Singolare e vicino a me: this."
+  },
+  {
+   "type": "fill",
+   "q": "Look at ___ shoes I'm wearing. I bought them yesterday.",
+   "q_it": "Guarda queste scarpe che indosso. Le ho comprate ieri.",
+   "answers": [
+    "these"
+   ],
+   "hint": "plural, near",
+   "why": "Shoes is plural and on my feet, so near: these.",
+   "why_it": "Shoes è plurale ed è ai miei piedi, quindi vicino: these."
+  },
+  {
+   "type": "mcq",
+   "q": "A: What were you doing when I called? B: I ___ a shower.",
+   "q_it": "A: Cosa facevi quando ho chiamato? B: Facevo la doccia.",
+   "options": [
+    "am having",
+    "had",
+    "was having",
+    "have had"
+   ],
+   "answer": 2,
+   "why": "The answer to 'What were you doing?' is an action in progress: past continuous.",
+   "why_it": "La risposta a 'What were you doing?' è un'azione in corso: past continuous."
+  },
+  {
+   "type": "fill",
+   "q": "How many eggs ___ you buy yesterday?",
+   "q_it": "Quante uova hai comprato ieri?",
+   "answers": [
+    "did"
+   ],
+   "hint": "yesterday = finished time",
+   "why": "Yesterday is a finished time, so past simple: did + you + buy.",
+   "why_it": "Yesterday è un tempo finito, quindi past simple: did + you + buy."
+  },
+  {
+   "type": "fill",
+   "q": "Yesterday I ___ (not / see) Anna.",
+   "q_it": "Ieri non ho visto Anna.",
+   "answers": [
+    "didn't see",
+    "did not see"
+   ],
+   "hint": "did not + base verb",
+   "why": "Past simple negative: didn't + base verb.",
+   "why_it": "Negativa del past simple: didn't + verbo base."
+  },
+  {
+   "type": "mcq",
+   "q": "The keys are ___ the table, next to the lamp.",
+   "q_it": "Le chiavi sono sul tavolo, accanto alla lampada.",
+   "options": [
+    "at",
+    "into",
+    "in",
+    "on"
+   ],
+   "answer": 3,
+   "why": "On = on a surface, touching it.",
+   "why_it": "On = su una superficie, a contatto."
+  },
+  {
+   "type": "fill",
+   "q": "___ did you go on holiday? In August.",
+   "q_it": "Quando sei andato in vacanza? Ad agosto.",
+   "answers": [
+    "When"
+   ],
+   "hint": "asks about time",
+   "why": "The answer is a time (in August): when.",
+   "why_it": "La risposta è un tempo (in August): when."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "was / were + -ing",
+   "it": "stava / stavano + -ing",
+   "ex": "She was reading on the train."
+  },
+  {
+   "id": "c2",
+   "en": "while",
+   "it": "mentre",
+   "ex": "I was cooking while he was studying."
+  },
+  {
+   "id": "c3",
+   "en": "when",
+   "it": "quando",
+   "ex": "I was walking when it started to rain."
+  },
+  {
+   "id": "c4",
+   "en": "how much",
+   "it": "quanto",
+   "ex": "How much money did you spend?"
+  },
+  {
+   "id": "c5",
+   "en": "how many",
+   "it": "quanti",
+   "ex": "How many chairs are there in the room?"
+  },
+  {
+   "id": "c6",
+   "en": "how far",
+   "it": "quanto lontano",
+   "ex": "How far is the hotel?"
+  },
+  {
+   "id": "c7",
+   "en": "how long",
+   "it": "quanto tempo",
+   "ex": "How long did the lesson last?"
+  },
+  {
+   "id": "c8",
+   "en": "how often",
+   "it": "quanto spesso",
+   "ex": "How often do you cook?"
+  },
+  {
+   "id": "c9",
+   "en": "this / these",
+   "it": "questo / questi",
+   "ex": "These shoes are on the floor."
+  },
+  {
+   "id": "c10",
+   "en": "that / those",
+   "it": "quello / quelli",
+   "ex": "That picture is on the wall."
+  }
+ ]
+}
