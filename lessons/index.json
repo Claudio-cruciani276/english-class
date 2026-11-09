@@ -182,29 +182,29 @@
   "exercises": 14
  },
  {
-  "id": "song-2026-11-09-yellow",
-  "kind": "song",
-  "week": "2026-11-09",
-  "order": 2,
-  "artist": "Coldplay",
-  "title": "Yellow",
-  "title_it": "Yellow",
-  "goal": "Learn the words first, notice irregular past verbs and would, and think about what the narrator does for love.",
-  "goal_it": "Impara prima le parole, nota i verbi irregolari al passato e would, e pensa a cosa fa il narratore per amore.",
-  "minutes": 25,
-  "exercises": 13
- },
- {
-  "id": "song-2026-11-09-young-and-beautiful",
+  "id": "song-2026-11-09-this-is-the-life",
   "kind": "song",
   "week": "2026-11-09",
   "order": 1,
-  "artist": "Lana Del Rey",
-  "title": "Young and Beautiful",
-  "title_it": "Young and Beautiful",
-  "goal": "Learn the words first, notice will, when and the present perfect, and think about what the song really asks.",
-  "goal_it": "Impara prima le parole, nota will, when e il present perfect e pensa a cosa chiede davvero la canzone.",
+  "artist": "Amy Macdonald",
+  "title": "This Is the Life",
+  "title_it": "This Is the Life",
+  "goal": "Learn the words first, notice the past continuous and going to, and think about what a night out really feels like.",
+  "goal_it": "Impara prima le parole, nota il past continuous e going to, e pensa a cosa si prova davvero in una serata fuori.",
   "minutes": 25,
-  "exercises": 14
+  "exercises": 15
+ },
+ {
+  "id": "song-2026-11-09-starlight",
+  "kind": "song",
+  "week": "2026-11-09",
+  "order": 2,
+  "artist": "Muse",
+  "title": "Starlight",
+  "title_it": "Starlight",
+  "goal": "Learn the words first, notice will, if-clauses and the present continuous, and think about what the singer wants to hold on to.",
+  "goal_it": "Impara prima le parole, nota will, le frasi con if e il present continuous, e pensa a cosa vuole tenere stretto il cantante.",
+  "minutes": 25,
+  "exercises": 15
  }
 ]

@@ -1,0 +1,427 @@
+{
+ "kind": "song",
+ "week": "2026-11-09",
+ "order": 2,
+ "artist": "Muse",
+ "title": "Starlight",
+ "title_it": "Starlight",
+ "goal": "Learn the words first, notice will, if-clauses and the present continuous, and think about what the singer wants to hold on to.",
+ "goal_it": "Impara prima le parole, nota will, le frasi con if e il present continuous, e pensa a cosa vuole tenere stretto il cantante.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "About the song",
+   "title_it": "Sulla canzone",
+   "en": [
+    "Title: Starlight. Artist: Muse, an English rock band. The song comes from their album Black Holes and Revelations (2006) and was the second single from it. A member of the band has said it is about missing the people you love. It is a big, emotional rock song with a strong piano, and the video shows the band on a ship at sea.",
+    "Search for the title and the artist in your own music app. Listen three times this week, each time with a different job:",
+    "Listening 1: catch the words from the next screen. Listening 2: notice the grammar points. Listening 3: think about what the singer wants to hold on to."
+   ],
+   "it": [
+    "Titolo: Starlight. Artista: Muse, gruppo rock inglese. La canzone viene dall'album Black Holes and Revelations (2006) ed è stata il secondo singolo. Un membro del gruppo ha detto che parla della mancanza delle persone che si amano. È una canzone rock grande ed emotiva con un pianoforte forte, e il video mostra la band su una nave in mare.",
+    "Cerca titolo e artista nella tua app di musica. Ascoltala tre volte questa settimana, ogni volta con un compito diverso:",
+    "Ascolto 1: individua le parole della prossima schermata. Ascolto 2: nota i punti di grammatica. Ascolto 3: pensa a cosa vuole tenere stretto il cantante."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Words you will hear",
+   "title_it": "Parole che sentirai",
+   "en": [
+    "These words are in the song or very close to its world. Learn them first, then try to catch them while you listen."
+   ],
+   "it": [
+    "Queste parole sono nella canzone o molto vicine al suo mondo. Imparale prima, poi prova a riconoscerle mentre ascolti."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano",
+     "Example"
+    ],
+    "rows": [
+     [
+      "ship",
+      "nave",
+      "The ship left the port at dawn."
+     ],
+     [
+      "far away",
+      "lontano",
+      "My cousin lives far away, in Canada."
+     ],
+     [
+      "memory (memories)",
+      "ricordo",
+      "I have many happy memories of that summer."
+     ],
+     [
+      "starlight",
+      "luce delle stelle",
+      "We walked home by starlight."
+     ],
+     [
+      "to chase",
+      "inseguire",
+      "She spent years chasing a dream."
+     ],
+     [
+      "to fade",
+      "svanire, sbiadire",
+      "The colours faded in the sun."
+     ],
+     [
+      "to promise",
+      "promettere",
+      "He promised to call me tonight."
+     ],
+     [
+      "to hold (held)",
+      "tenere, stringere",
+      "She held the child's hand."
+     ],
+     [
+      "alive",
+      "vivo, pieno di vita",
+      "I feel really alive when I run by the sea."
+     ],
+     [
+      "to ignite",
+      "accendere, far scoppiare",
+      "A small spark can ignite a big fire."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "q": "The colours of the old photo faded. What does 'faded' mean?",
+   "q_it": "The colours of the old photo faded. Che cosa significa 'faded'?",
+   "options": [
+    "They slowly became weaker and disappeared",
+    "They became louder",
+    "They became very bright",
+    "They were painted again"
+   ],
+   "answer": 0,
+   "why": "To fade means to become slowly weaker or less clear until it disappears.",
+   "why_it": "To fade significa diventare piano piano più debole o meno chiaro fino a sparire."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ (promise) to write every week, and she did.",
+   "q_it": "___ (promise) di scrivere ogni settimana, e l'ha fatto.",
+   "answers": [
+    "promised"
+   ],
+   "hint": "promise",
+   "why": "Past simple of a regular verb: promise + d = promised.",
+   "why_it": "Past simple di un verbo regolare: promise + d = promised."
+  },
+  {
+   "type": "mcq",
+   "q": "Which word is the opposite of 'dead' in 'I feel dead / I feel ___'?",
+   "q_it": "Quale parola è il contrario di 'dead' in 'I feel dead / I feel ___'?",
+   "options": [
+    "far",
+    "faded",
+    "held",
+    "alive"
+   ],
+   "answer": 3,
+   "why": "Dead is the opposite of alive. In songs, feeling alive means feeling energy and passion.",
+   "why_it": "Dead è il contrario di alive. Nelle canzoni, sentirsi alive vuol dire sentire energia e passione."
+  },
+  {
+   "type": "explain",
+   "title": "Three grammar points to watch for",
+   "title_it": "Tre punti di grammatica da tenere d'occhio",
+   "en": [
+    "1. Will and 'll: promises and things you are sure about in the future. I'll always wait for you. Negative: won't. A time word like until often follows: I will wait until you come.",
+    "2. If + present simple, will + base verb: If you stay, I will cook dinner. We do not say if you will stay.",
+    "3. Present continuous for what is happening now: The ship is moving away. And Let's + base verb for a suggestion: Let's go!",
+    "During listening 2, try to notice where the singer uses each one."
+   ],
+   "it": [
+    "1. Will e 'll: promesse e cose di cui sei sicuro nel futuro. I'll always wait for you. Negativo: won't. Spesso segue una parola di tempo come until: I will wait until you come.",
+    "2. If + present simple, will + verbo base: If you stay, I will cook dinner. Non si dice if you will stay.",
+    "3. Present continuous per ciò che succede adesso: The ship is moving away. E Let's + verbo base per un invito: Let's go!",
+    "Nell'ascolto 2 prova a notare dove il cantante usa ciascuno."
+   ],
+   "examples": [
+    {
+     "en": "I'll always wait for you.",
+     "it": "Ti aspetterò sempre."
+    },
+    {
+     "en": "If you stay, I will cook dinner.",
+     "it": "Se resti, cucinerò la cena."
+    },
+    {
+     "en": "The ship is moving away from the port.",
+     "it": "La nave si sta allontanando dal porto."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "If it ___ tomorrow, we will stay at home.",
+   "q_it": "If it ___ tomorrow, we will stay at home.",
+   "options": [
+    "rains",
+    "will rain",
+    "rained",
+    "is raining"
+   ],
+   "answer": 0,
+   "why": "After if we use the present simple, even for the future: If it rains, we will stay.",
+   "why_it": "Dopo if si usa il present simple, anche per il futuro: If it rains, we will stay."
+  },
+  {
+   "type": "fill",
+   "q": "If you ___ (call) me tonight, I will answer.",
+   "q_it": "Se mi ___ (call) stasera, risponderò.",
+   "answers": [
+    "call"
+   ],
+   "hint": "call",
+   "why": "If + present simple: call. The will goes in the other part of the sentence.",
+   "why_it": "If + present simple: call. Il will va nell'altra parte della frase."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ always remember this summer.",
+   "q_it": "Mi ricorderò sempre di questa estate.",
+   "answers": [
+    "will",
+    "'ll",
+    "ll"
+   ],
+   "hint": "will",
+   "why": "Will (or 'll) for a promise or a sure future: I will always remember.",
+   "why_it": "Will (o 'll) per una promessa o un futuro sicuro: I will always remember."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "If",
+    "you",
+    "stay",
+    "I",
+    "will",
+    "cook",
+    "dinner"
+   ],
+   "answers": [
+    "If you stay I will cook dinner"
+   ],
+   "why": "If + present simple, then will + base verb.",
+   "why_it": "If + present simple, poi will + verbo base."
+  },
+  {
+   "type": "explain",
+   "title": "Now listen (listening 1 and 2)",
+   "title_it": "Ora ascolta (ascolti 1 e 2)",
+   "en": [
+    "Listen to the song twice. First catch the words from the screen about words. Then notice the grammar points. After listening, answer the questions about meaning."
+   ],
+   "it": [
+    "Ascolta la canzone due volte. Prima individua le parole della schermata sulle parole. Poi nota i punti di grammatica. Dopo l'ascolto, rispondi alle domande sul significato."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The singer is far away on a ship. What does the ship suggest about his feelings?",
+   "q_it": "Il cantante è lontano su una nave. Che cosa suggerisce la nave sui suoi sentimenti?",
+   "options": [
+    "He is on a happy holiday",
+    "He is afraid of storms",
+    "He feels distant from the people he loves, almost lost at sea",
+    "He is bored of music"
+   ],
+   "answer": 2,
+   "why": "The ship is an image of distance. It matches the idea of missing the people you love.",
+   "why_it": "La nave è un'immagine di distanza. Si accorda con l'idea di sentire la mancanza delle persone che si amano."
+  },
+  {
+   "type": "mcq",
+   "q": "He says he will keep chasing the starlight, but he is not sure it is worth it. What could 'starlight' stand for?",
+   "q_it": "Dice che continuerà a inseguire la starlight, ma non è sicuro che ne valga la pena. Che cosa potrebbe rappresentare 'starlight'?",
+   "options": [
+    "A far, bright goal that is beautiful but hard to reach",
+    "A lamp in a bedroom",
+    "A real star he is studying",
+    "A song he wants to write tomorrow"
+   ],
+   "answer": 0,
+   "why": "Starlight is light from very far away. It works well as an image of a goal that you can see but cannot touch.",
+   "why_it": "La luce delle stelle viene da molto lontano. Funziona bene come immagine di un obiettivo che vedi ma non riesci a toccare."
+  },
+  {
+   "type": "mcq",
+   "q": "In the promise part of the song, when will the singer keep holding on?",
+   "q_it": "Nella parte della promessa, quando continuerà a tenere stretto il cantante?",
+   "options": [
+    "Whenever he feels like it",
+    "Only when the ship arrives",
+    "Only when he is famous",
+    "Only if the other person stays and does not drift away"
+   ],
+   "answer": 3,
+   "why": "The promise has a condition: it depends on the other person not fading away. So it is a promise for two people.",
+   "why_it": "La promessa ha una condizione: dipende dall'altra persona che non si allontani. È quindi una promessa tra due persone."
+  },
+  {
+   "type": "mcq",
+   "q": "The couple wants people to 'feel alive' again. What does that mean here?",
+   "q_it": "La coppia vuole che le persone si sentano di nuovo 'alive'. Che cosa significa qui?",
+   "options": [
+    "To stop feeling empty and feel energy and purpose",
+    "To avoid dying",
+    "To become famous",
+    "To sleep better"
+   ],
+   "answer": 0,
+   "why": "Here alive is about energy and passion, not about being alive in the body.",
+   "why_it": "Qui alive riguarda energia e passione, non l'essere vivi fisicamente."
+  },
+  {
+   "type": "mcq",
+   "q": "Which description fits the mood of the whole song best?",
+   "q_it": "Quale descrizione si adatta meglio al tono dell'intera canzone?",
+   "options": [
+    "Calm and relaxed",
+    "Angry and violent",
+    "Longing, with hope and doubt together",
+    "Silly and joking"
+   ],
+   "answer": 2,
+   "why": "The singer misses someone, hopes, but also doubts. That mix is the heart of the song.",
+   "why_it": "Il cantante sente la mancanza di qualcuno, spera, ma dubita anche. Questo miscuglio è il cuore della canzone."
+  },
+  {
+   "type": "mcq",
+   "q": "The song ends by going back to the ship and the wish to hold someone. Why might the writer end this way?",
+   "q_it": "La canzone finisce tornando alla nave e al desiderio di stringere qualcuno. Perché potrebbe finire così l'autore?",
+   "options": [
+    "Because the ship finally reaches home",
+    "Because the distance and the longing are still there",
+    "Because he forgot the story",
+    "Because the wish was a joke"
+   ],
+   "answer": 1,
+   "why": "The ending returns to the beginning. Nothing is solved: the distance is still there, and so is the wish.",
+   "why_it": "Il finale torna all'inizio. Niente è risolto: la distanza c'è ancora, e anche il desiderio."
+  },
+  {
+   "type": "fill",
+   "q": "Look! The ship ___ (move) away from the port.",
+   "q_it": "Guarda! La nave ___ (move) allontanandosi dal porto.",
+   "answers": [
+    "is moving"
+   ],
+   "hint": "present continuous",
+   "why": "Something is happening now: present continuous, is + -ing.",
+   "why_it": "Qualcosa sta succedendo adesso: present continuous, is + -ing."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "Let's",
+    "go",
+    "for",
+    "a",
+    "walk",
+    "by",
+    "starlight"
+   ],
+   "answers": [
+    "Let's go for a walk by starlight"
+   ],
+   "why": "Let's + base verb: a suggestion.",
+   "why_it": "Let's + verbo base: un invito."
+  },
+  {
+   "type": "explain",
+   "title": "Your task this week",
+   "title_it": "Il tuo compito della settimana",
+   "en": [
+    "Listening 3: listen again and think about what the singer wants to hold on to.",
+    "In your notes write four sentences in your own words: (1) A promise you would make to a friend (use will). (2) A sentence about next weekend with if + present simple and will. (3) One memory of someone who is far away (past simple). (4) What you are doing right now (present continuous).",
+    "Do not copy the words of the song."
+   ],
+   "it": [
+    "Ascolto 3: riascolta e pensa a cosa vuole tenere stretto il cantante.",
+    "Nelle note scrivi quattro frasi con parole tue: (1) Una promessa che faresti a un amico (usa will). (2) Una frase sul prossimo weekend con if + present simple e will. (3) Un ricordo di qualcuno che è lontano (past simple). (4) Cosa stai facendo adesso (present continuous).",
+    "Non copiare le parole della canzone."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "ship",
+   "it": "nave",
+   "ex": "The ship left the port at dawn."
+  },
+  {
+   "id": "c2",
+   "en": "far away",
+   "it": "lontano",
+   "ex": "My cousin lives far away."
+  },
+  {
+   "id": "c3",
+   "en": "memory (memories)",
+   "it": "ricordo",
+   "ex": "I have many happy memories of that summer."
+  },
+  {
+   "id": "c4",
+   "en": "starlight",
+   "it": "luce delle stelle",
+   "ex": "We walked home by starlight."
+  },
+  {
+   "id": "c5",
+   "en": "to chase",
+   "it": "inseguire",
+   "ex": "She spent years chasing a dream."
+  },
+  {
+   "id": "c6",
+   "en": "to fade",
+   "it": "svanire",
+   "ex": "The colours faded in the sun."
+  },
+  {
+   "id": "c7",
+   "en": "to promise",
+   "it": "promettere",
+   "ex": "He promised to call me tonight."
+  },
+  {
+   "id": "c8",
+   "en": "to hold (held)",
+   "it": "tenere, stringere",
+   "ex": "She held the child's hand."
+  },
+  {
+   "id": "c9",
+   "en": "alive",
+   "it": "vivo",
+   "ex": "I feel really alive when I run by the sea."
+  },
+  {
+   "id": "c10",
+   "en": "if + present simple, will",
+   "it": "se... (periodo ipotetico)",
+   "ex": "If you stay, I will cook dinner."
+  }
+ ]
+}

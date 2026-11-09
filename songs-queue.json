@@ -4,26 +4,26 @@
   "status": "approved",
   "songs": [
    {
-    "title": "Young and Beautiful",
-    "artist": "Lana Del Rey"
-   },
-   {
-    "title": "Yellow",
-    "artist": "Coldplay"
-   }
-  ]
- },
- {
-  "week": "2026-11-16",
-  "status": "approved",
-  "songs": [
-   {
     "title": "This Is the Life",
     "artist": "Amy Macdonald"
    },
    {
     "title": "Starlight",
     "artist": "Muse"
+   }
+  ]
+ },
+ {
+  "week": "2026-11-16",
+  "status": "proposed",
+  "songs": [
+   {
+    "title": "Yesterday",
+    "artist": "The Beatles"
+   },
+   {
+    "title": "Someone Like You",
+    "artist": "Adele"
    }
   ]
  },

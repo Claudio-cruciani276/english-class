@@ -45,7 +45,7 @@ Lo stesso confronto va anche nel blocco misto della lezione di giovedi (vedi "Co
 - Ven 13, writing: descrivere casa o quartiere (there is/are, much/many/a lot of) e un breve diario di che cosa si è fatto nel weekend (past simple).
 - Sab 14: verifica da 20 punti: 8 esercizi sulla scelta tra past simple, past continuous e present perfect (regola della sezione 2), gli altri su in/on/at di luogo, parole interrogative, countable e uncountable con some/any, e 4 di comprensione (there is/are solo dentro le frasi).
 - Dom 15: ripasso (parte dagli errori della verifica).
-- Reading della settimana: hotel, shopping per vestiti, dal medico e in farmacia. Canzoni: come in songs-queue.json.
+- Reading della settimana: hotel, shopping per vestiti, dal medico e in farmacia. Canzoni: This Is the Life e Starlight (scelte dall'admin il 9 novembre).
 
 ### Settimana 16-22 novembre (bozza di Claude, da rivedere nel weekend)
 
@@ -147,9 +147,9 @@ Esempi originali con una scena di stanza (la lampada e' sopra il tavolo, il gatt
 | 2026-11-07 sab | verifica | Present simple e continuous | |
 | 2026-11-08 dom | ripasso | Present simple vs continuous | trappole (verbi di stato, -s dopo does, avverbi), in/on/at del tempo, ascolto leggero (6 Minute English, Big City Small World, Paddington, Shape of You solo ascolto guidato), riflessione scritta. Preparato senza i risultati della verifica: errori ricorrenti da raccogliere in 04_Progressi |
 | 2026-11-09 lun | grammatica | Past simple | in/on/at di luogo con la stanza (on/onto, over/above, under/below, between, behind, in front of, opposite, into, out of, to/from, near/next to/close to); parole interrogative 1 (where, when, who, why, which, whose); there is/are solo negli esercizi; ripasso present simple/continuous. 26 esercizi |
-| 2026-11-09 lun | reading | hotel, shopping per vestiti, dal medico e in farmacia | settimana 9-15 novembre; canzoni (Young and Beautiful, Yellow) e phrasal verbs gia' presenti |
+| 2026-11-09 lun | reading | hotel, shopping per vestiti, dal medico e in farmacia | settimana 9-15 novembre; phrasal verbs e canzoni This Is the Life (Amy Macdonald) e Starlight (Muse) della settimana |
 
-Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vestiti, dal medico e in farmacia. Canzoni già fatte: Young and Beautiful, Yellow.
+Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vestiti, dal medico e in farmacia. Canzoni già fatte: Young and Beautiful, Yellow (settimana 2-8 novembre), This Is the Life, Starlight (settimana 9-15 novembre).
 
 ## 6. Note dell'admin e revisione del weekend
 
@@ -158,6 +158,8 @@ Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vest
 - 2026-11-07: confermati: under = sotto in verticale o coperto, below = sotto come livello; this/these/that/those con spiegazione veloce (martedi' 10); lunedi' 9 puo' essere piena (past simple, parole interrogative, preposizioni).
 - 2026-11-07: there is / there are non vanno spiegati, solo usati negli esercizi. Al loro posto le PAROLE INTERROGATIVE dal quaderno dell'admin (sezione 4): lunedi' where/when/who/why/which/whose, martedi' how much/many/far/long/often.
 - 2026-11-07: la verifica del sabato deve confrontare l'uso dei tre tempi (quando si usa uno e non l'altro): regola nella sezione 2. Nuova sezione settimanale con una decina di phrasal verbs e vari esempi per ognuno (sezione 7).
+
+- 2026-11-09: canzoni della settimana 9-15 cambiate dall'admin: This Is the Life (Amy Macdonald) e Starlight (Muse). Quelle della settimana precedente (Young and Beautiful, Yellow) restano nella sezione lezioni passate > Canzoni. In songs-queue.json la settimana 16-22 e' tornata a 'proposed' (Yesterday, Someone Like You) in attesa della scelta dell'admin; l'admin ha chiesto in futuro canzoni utili per i tempi passati.
 
 ## 7. Phrasal verbs della settimana (nuova sezione dal 9 novembre)
 

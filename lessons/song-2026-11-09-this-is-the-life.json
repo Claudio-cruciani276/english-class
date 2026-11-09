@@ -1,0 +1,418 @@
+{
+ "kind": "song",
+ "week": "2026-11-09",
+ "order": 1,
+ "artist": "Amy Macdonald",
+ "title": "This Is the Life",
+ "title_it": "This Is the Life",
+ "goal": "Learn the words first, notice the past continuous and going to, and think about what a night out really feels like.",
+ "goal_it": "Impara prima le parole, nota il past continuous e going to, e pensa a cosa si prova davvero in una serata fuori.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "About the song",
+   "title_it": "Sulla canzone",
+   "en": [
+    "Title: This Is the Life. Artist: Amy Macdonald, a Scottish singer-songwriter. The song comes from her first album, also called This Is the Life (2007), and it was a big hit in many European countries. It is a lively song about a night out in a city.",
+    "Search for the title and the artist in your own music app. Listen three times this week, each time with a different job:",
+    "Listening 1: catch the words from the next screen. Listening 2: notice the grammar points. Listening 3: think about how the night feels, and what the song really says about it."
+   ],
+   "it": [
+    "Titolo: This Is the Life. Artista: Amy Macdonald, cantautrice scozzese. La canzone viene dal suo primo album, che si chiama anch'esso This Is the Life (2007), ed è stata un grande successo in molti paesi europei. È una canzone vivace su una serata fuori in città.",
+    "Cerca titolo e artista nella tua app di musica. Ascoltala tre volte questa settimana, ogni volta con un compito diverso:",
+    "Ascolto 1: individua le parole della prossima schermata. Ascolto 2: nota i punti di grammatica. Ascolto 3: pensa a come si sente la serata e a cosa dice davvero la canzone."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Words you will hear",
+   "title_it": "Parole che sentirai",
+   "en": [
+    "These words are in the song or very close to its world. Learn them first, then try to catch them while you listen."
+   ],
+   "it": [
+    "Queste parole sono nella canzone o molto vicine al suo mondo. Imparale prima, poi prova a riconoscerle mentre ascolti."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano",
+     "Example"
+    ],
+    "rows": [
+     [
+      "wind",
+      "vento",
+      "The wind is very cold tonight."
+     ],
+     [
+      "to whistle",
+      "fischiare",
+      "The wind whistles through the old window."
+     ],
+     [
+      "to chase",
+      "rincorrere, inseguire",
+      "The children chased the dog down the street."
+     ],
+     [
+      "shy",
+      "timido",
+      "She is shy, so she sat alone at the party."
+     ],
+     [
+      "taxi",
+      "taxi",
+      "We took a taxi home at midnight."
+     ],
+     [
+      "crowd",
+      "folla",
+      "A big crowd was waiting outside the club."
+     ],
+     [
+      "louder",
+      "più forte (di volume)",
+      "The music got louder and louder."
+     ],
+     [
+      "to wake up (woke up)",
+      "svegliarsi",
+      "I woke up very late this morning."
+     ],
+     [
+      "tonight",
+      "stasera",
+      "Where are you going tonight?"
+     ],
+     [
+      "to head for",
+      "dirigersi verso",
+      "They headed for the station."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "q": "The children chased the dog down the street. What does 'chased' mean?",
+   "q_it": "The children chased the dog down the street. Che cosa significa 'chased'?",
+   "options": [
+    "They fed it",
+    "They washed it",
+    "They ran after it",
+    "They called a taxi for it"
+   ],
+   "answer": 2,
+   "why": "To chase means to run after someone or something to catch it.",
+   "why_it": "To chase significa correre dietro a qualcuno o qualcosa per prenderlo."
+  },
+  {
+   "type": "fill",
+   "q": "In winter the cold wind always ___ (whistle) through this street.",
+   "q_it": "In inverno il vento freddo ___ (whistle) sempre in questa strada.",
+   "answers": [
+    "whistles"
+   ],
+   "hint": "whistle",
+   "why": "Present simple, third person singular (the wind): whistles.",
+   "why_it": "Present simple, terza persona singolare (the wind): whistles."
+  },
+  {
+   "type": "fill",
+   "q": "After the party I ___ (wake) up at noon.",
+   "q_it": "Dopo la festa mi ___ (wake) a mezzogiorno.",
+   "answers": [
+    "woke",
+    "woke up"
+   ],
+   "hint": "wake",
+   "why": "The past simple of wake is woke. It is an irregular verb.",
+   "why_it": "Il past simple di wake è woke. È un verbo irregolare."
+  },
+  {
+   "type": "explain",
+   "title": "Three grammar points to watch for",
+   "title_it": "Tre punti di grammatica da tenere d'occhio",
+   "en": [
+    "1. Past continuous (was / were + -ing): what was in progress at a moment in the past. At midnight everybody was dancing. The song paints a scene like this.",
+    "2. Going to and 'gonna'. In songs and fast speech, going to becomes gonna: Where you gonna sleep? means Where are you going to sleep? Say gonna if you like, but write going to.",
+    "3. Present continuous for what is happening now, and present simple for the general picture: You are waiting at the door. The wind whistles. Listen to how the song moves between the two.",
+    "During listening 2, try to notice where the singer uses each one."
+   ],
+   "it": [
+    "1. Past continuous (was / were + -ing): ciò che era in corso in un momento del passato. At midnight everybody was dancing. La canzone dipinge una scena così.",
+    "2. Going to e 'gonna'. Nelle canzoni e nel parlato veloce, going to diventa gonna: Where you gonna sleep? vuol dire Where are you going to sleep? Puoi dire gonna, ma scrivi going to.",
+    "3. Present continuous per ciò che succede adesso, e present simple per il quadro generale: You are waiting at the door. The wind whistles. Ascolta come la canzone passa dall'uno all'altro.",
+    "Nell'ascolto 2 prova a notare dove il cantante usa ciascuno."
+   ],
+   "examples": [
+    {
+     "en": "The band was playing when the lights went out.",
+     "it": "La band stava suonando quando le luci si sono spente."
+    },
+    {
+     "en": "Where are you going to sleep tonight?",
+     "it": "Dove dormirai stanotte?"
+    },
+    {
+     "en": "You are waiting outside the door.",
+     "it": "Stai aspettando fuori dalla porta."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The band ___ when the lights went out. Choose the best option.",
+   "q_it": "The band ___ when the lights went out. Scegli l'opzione migliore.",
+   "options": [
+    "played",
+    "was playing",
+    "has played",
+    "plays"
+   ],
+   "answer": 1,
+   "why": "The music was in progress when the lights went out: past continuous (was playing) for the long action, past simple (went out) for the short one.",
+   "why_it": "La musica era in corso quando le luci si sono spente: past continuous (was playing) per l'azione lunga, past simple (went out) per quella breve."
+  },
+  {
+   "type": "fill",
+   "q": "Where ___ you going to sleep tonight?",
+   "q_it": "Dove ___ you going to sleep stanotte?",
+   "answers": [
+    "are"
+   ],
+   "hint": "be",
+   "why": "Going to: am / is / are + going to + verb. With you: are.",
+   "why_it": "Going to: am / is / are + going to + verbo. Con you: are."
+  },
+  {
+   "type": "mcq",
+   "q": "In fast speech, 'Where you gonna go?' means:",
+   "q_it": "Nel parlato veloce, 'Where you gonna go?' vuol dire:",
+   "options": [
+    "Where do you go every day?",
+    "Where did you go yesterday?",
+    "Where are you going to go?",
+    "Where have you been?"
+   ],
+   "answer": 2,
+   "why": "Gonna is the spoken form of going to: Where are you going to go?",
+   "why_it": "Gonna è la forma parlata di going to: Where are you going to go?"
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "What",
+    "were",
+    "they",
+    "doing",
+    "at",
+    "midnight"
+   ],
+   "answers": [
+    "What were they doing at midnight"
+   ],
+   "why": "Question word + were + subject + -ing. Past continuous.",
+   "why_it": "Parola interrogativa + were + soggetto + -ing. Past continuous."
+  },
+  {
+   "type": "explain",
+   "title": "Now listen (listening 1 and 2)",
+   "title_it": "Ora ascolta (ascolti 1 e 2)",
+   "en": [
+    "Listen to the song twice. First catch the words from the screen about words. Then notice the grammar points. After listening, answer the questions about meaning."
+   ],
+   "it": [
+    "Ascolta la canzone due volte. Prima individua le parole della schermata sulle parole. Poi nota i punti di grammatica. Dopo l'ascolto, rispondi alle domande sul significato."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The song puts a crowd that feels 'this is the life' next to the question of where to sleep. What is the effect?",
+   "q_it": "La canzone mette una folla che sente 'this is the life' accanto alla domanda su dove dormire. Che effetto fa?",
+   "options": [
+    "It shows that the singer hates parties",
+    "It shows that the fun and the uncertainty exist together",
+    "It shows that she is lost in a foreign country",
+    "It shows that she wants to go home early"
+   ],
+   "answer": 1,
+   "why": "The good feeling of the night and the lack of a plan sit side by side. That is why the mood is bittersweet.",
+   "why_it": "Il bel momento della serata e l'assenza di un piano stanno fianco a fianco. Per questo il tono è dolceamaro."
+  },
+  {
+   "type": "mcq",
+   "q": "Some people sit apart from the dancing crowd. Why does the song notice them?",
+   "q_it": "Alcune persone stanno in disparte rispetto alla folla che balla. Perché la canzone le nota?",
+   "options": [
+    "Because it is a song only about shy people",
+    "Because they are the singer's family",
+    "Because they are about to leave",
+    "Because it shows that not everyone feels part of the party"
+   ],
+   "answer": 3,
+   "why": "Seen from outside, a party looks different. The song looks at the edges as well as the centre.",
+   "why_it": "Visto da fuori, una festa sembra diversa. La canzone guarda ai bordi oltre che al centro."
+  },
+  {
+   "type": "mcq",
+   "q": "Nobody is at home when the person arrives at the friend's door. What does this small moment add?",
+   "q_it": "Non c'è nessuno quando la persona arriva alla porta dell'amico. Che cosa aggiunge questo piccolo momento?",
+   "options": [
+    "A happy surprise",
+    "A sign that the plans of a night can fall apart",
+    "An explanation for why the music is loud",
+    "A joke about taxis"
+   ],
+   "answer": 1,
+   "why": "A closed door means waiting with no plan. It adds the feeling of being a little lost.",
+   "why_it": "Una porta chiusa significa aspettare senza un piano. Aggiunge la sensazione di essere un po' persi."
+  },
+  {
+   "type": "mcq",
+   "q": "Which reading of the title 'This Is the Life' is best?",
+   "q_it": "Quale lettura del titolo 'This Is the Life' è la migliore?",
+   "options": [
+    "It is completely serious, with no doubts",
+    "It is a complaint about work",
+    "It is a sad goodbye",
+    "It is real pleasure in the moment, said with a light, slightly ironic smile"
+   ],
+   "answer": 3,
+   "why": "The song enjoys the night, but it also shows the tiredness and uncertainty. So the title is both sincere and a little ironic.",
+   "why_it": "La canzone si gode la serata, ma mostra anche stanchezza e incertezza. Quindi il titolo è sincero e insieme un po' ironico."
+  },
+  {
+   "type": "mcq",
+   "q": "What do the dancing crowd, the taxi and the closed door have in common?",
+   "q_it": "Che cosa hanno in comune la folla che balla, il taxi e la porta chiusa?",
+   "options": [
+    "They are all places the singer lived",
+    "They are all moments of one night, moving from noise to waiting",
+    "They all happen in the morning",
+    "They are all dangerous"
+   ],
+   "answer": 1,
+   "why": "They are scenes from the same night. The mood goes from noise and energy to waiting.",
+   "why_it": "Sono scene della stessa serata. Il clima passa da rumore ed energia ad attesa."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is the best summary of the singer's attitude?",
+   "q_it": "Quale frase riassume meglio l'atteggiamento della cantante?",
+   "options": [
+    "She is angry with her friends",
+    "She regrets going out",
+    "She wants only to be famous",
+    "She enjoys the energy of the night, but also sees its restlessness"
+   ],
+   "answer": 3,
+   "why": "The song celebrates the night and, at the same time, notices the restlessness and the loneliness inside it.",
+   "why_it": "La canzone celebra la serata e allo stesso tempo nota l'inquietudine e la solitudine che ci sono dentro."
+  },
+  {
+   "type": "fill",
+   "q": "Last Saturday I ___ (take) a taxi home after the concert.",
+   "q_it": "Sabato scorso ___ (take) un taxi per tornare a casa dopo il concerto.",
+   "answers": [
+    "took"
+   ],
+   "hint": "take",
+   "why": "The past simple of take is took. Last Saturday is a finished time.",
+   "why_it": "Il past simple di take è took. Last Saturday è un tempo finito."
+  },
+  {
+   "type": "fill",
+   "q": "___ you going out tonight?",
+   "q_it": "___ you going out stasera?",
+   "answers": [
+    "are",
+    "Are"
+   ],
+   "hint": "be",
+   "why": "Present continuous question: Are + you + -ing. It can also talk about plans.",
+   "why_it": "Domanda al present continuous: Are + you + -ing. Può anche parlare di programmi."
+  },
+  {
+   "type": "explain",
+   "title": "Your task this week",
+   "title_it": "Il tuo compito della settimana",
+   "en": [
+    "Listening 3: listen again and think about how the night feels and what the song really says about it.",
+    "In your notes write four sentences in your own words: (1) What you were doing at ten o'clock yesterday evening (past continuous). (2) A plan for next weekend (going to). (3) One place you like for a night out and one you do not. (4) What 'the good life' means to you.",
+    "Do not copy the words of the song."
+   ],
+   "it": [
+    "Ascolto 3: riascolta e pensa a come si sente la serata e a cosa dice davvero la canzone.",
+    "Nelle note scrivi quattro frasi con parole tue: (1) Cosa stavi facendo ieri sera alle dieci (past continuous). (2) Un programma per il prossimo weekend (going to). (3) Un posto che ti piace per una serata fuori e uno che non ti piace. (4) Cosa significa per te 'la bella vita'.",
+    "Non copiare le parole della canzone."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "wind",
+   "it": "vento",
+   "ex": "The wind is very cold tonight."
+  },
+  {
+   "id": "c2",
+   "en": "to whistle",
+   "it": "fischiare",
+   "ex": "The wind whistles through the old window."
+  },
+  {
+   "id": "c3",
+   "en": "to chase",
+   "it": "rincorrere",
+   "ex": "The children chased the dog."
+  },
+  {
+   "id": "c4",
+   "en": "shy",
+   "it": "timido",
+   "ex": "She is shy, so she sat alone."
+  },
+  {
+   "id": "c5",
+   "en": "taxi",
+   "it": "taxi",
+   "ex": "We took a taxi home."
+  },
+  {
+   "id": "c6",
+   "en": "crowd",
+   "it": "folla",
+   "ex": "A big crowd was waiting outside."
+  },
+  {
+   "id": "c7",
+   "en": "to wake up (woke up)",
+   "it": "svegliarsi",
+   "ex": "I woke up very late this morning."
+  },
+  {
+   "id": "c8",
+   "en": "to head for",
+   "it": "dirigersi verso",
+   "ex": "They headed for the station."
+  },
+  {
+   "id": "c9",
+   "en": "was / were + -ing",
+   "it": "past continuous",
+   "ex": "The band was playing when the lights went out."
+  },
+  {
+   "id": "c10",
+   "en": "going to / gonna",
+   "it": "futuro con going to",
+   "ex": "Where are you going to sleep tonight?"
+  }
+ ]
+}
