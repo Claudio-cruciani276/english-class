@@ -1,0 +1,548 @@
+{
+  "title": "Listening: A new flat",
+  "title_it": "Ascolto: un nuovo appartamento",
+  "goal": "Understand a phone call about a new flat, and practise there is / there are, prepositions of place and the past simple.",
+  "goal_it": "Capire una telefonata su un nuovo appartamento ed esercitare there is / there are, le preposizioni di luogo e il past simple.",
+  "minutes": 25,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Today's situation",
+      "title_it": "La situazione di oggi",
+      "en": [
+        "You will hear a phone call between two friends. Emma has just moved into a new flat. Her friend Jack asks about the move and about the flat.",
+        "Listen for three things: how the move went, where things are in the rooms, and what the flat is like. First, learn the words below."
+      ],
+      "it": [
+        "Sentirai una telefonata tra due amici. Emma si è appena trasferita in un nuovo appartamento. L'amico Jack le chiede del trasloco e della casa.",
+        "Ascolta tre cose: com'è andato il trasloco, dove sono le cose nelle stanze e com'è l'appartamento. Prima impara le parole qui sotto."
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Words you need",
+      "title_it": "Le parole che servono",
+      "en": [
+        "Learn these words before you listen."
+      ],
+      "it": [
+        "Impara queste parole prima di ascoltare."
+      ],
+      "table": {
+        "head": [
+          "English",
+          "Italiano"
+        ],
+        "rows": [
+          [
+            "the move",
+            "il trasloco"
+          ],
+          [
+            "flat",
+            "appartamento (inglese britannico)"
+          ],
+          [
+            "tiring",
+            "faticoso"
+          ],
+          [
+            "bright",
+            "luminoso"
+          ],
+          [
+            "living room",
+            "soggiorno"
+          ],
+          [
+            "bookcase",
+            "libreria"
+          ],
+          [
+            "cupboard",
+            "pensile, armadietto"
+          ],
+          [
+            "cooker",
+            "fornelli, cucina (apparecchio)"
+          ],
+          [
+            "dishwasher",
+            "lavastoviglie"
+          ],
+          [
+            "fridge",
+            "frigorifero"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "title": "Describing a room and telling the story of a move",
+      "title_it": "Descrivere una stanza e raccontare un trasloco",
+      "en": [
+        "To say what is in a room we use there is (one thing) and there are (more things): There is a lamp. There are two chairs. The negative is there isn't a... / there aren't any...",
+        "To say where things are we use the prepositions of place: in, on, under, above, between, next to, opposite, close to.",
+        "To tell what happened in the move we use the past simple: arrived, carried, bought, finished. Notice the time word yesterday."
+      ],
+      "it": [
+        "Per dire cosa c'è in una stanza si usa there is (una cosa) e there are (più cose): There is a lamp. There are two chairs. La negativa è there isn't a... / there aren't any...",
+        "Per dire dove sono le cose si usano le preposizioni di luogo: in, on, under, above, between, next to, opposite, close to.",
+        "Per raccontare cosa è successo nel trasloco si usa il past simple: arrived, carried, bought, finished. Nota la parola di tempo yesterday."
+      ],
+      "table": {
+        "head": [
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "There is / are",
+            "There is a sofa. There are two windows."
+          ],
+          [
+            "Place",
+            "The lamp is on the table, next to the sofa."
+          ],
+          [
+            "Past simple",
+            "We carried the boxes yesterday."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "There is a rug under the table.",
+          "it": "C'è un tappeto sotto il tavolo."
+        },
+        {
+          "en": "We moved last Saturday.",
+          "it": "Ci siamo trasferiti sabato scorso."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "What does 'tiring' mean?",
+      "q_it": "Cosa significa 'tiring'?",
+      "options": [
+        "It makes you feel very tired",
+        "It is very cheap",
+        "It is very noisy",
+        "It is easy to do"
+      ],
+      "answer": 0,
+      "why": "A tiring day makes you tired.",
+      "why_it": "Una giornata tiring ti stanca."
+    },
+    {
+      "type": "fill",
+      "q": "The room has a big window, so it is very ___.",
+      "q_it": "La stanza ha una grande finestra, quindi è molto luminosa.",
+      "answers": [
+        "bright"
+      ],
+      "hint": "the opposite of dark",
+      "why": "Bright means full of light.",
+      "why_it": "Bright significa pieno di luce."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "There are two cupboards in the kitchen.",
+        "There is two cupboards in the kitchen.",
+        "There are a cupboard in the kitchen.",
+        "There be two cupboards in the kitchen."
+      ],
+      "answer": 0,
+      "why": "Two cupboards is plural, so we use there are.",
+      "why_it": "Two cupboards è plurale, quindi si usa there are."
+    },
+    {
+      "type": "fill",
+      "q": "The lamp is ___ the table. It is on top of it.",
+      "q_it": "La lampada è sul tavolo, appoggiata sopra.",
+      "answers": [
+        "on"
+      ],
+      "hint": "on, in or under?",
+      "why": "On means on top, touching the surface.",
+      "why_it": "On significa sopra, a contatto con la superficie."
+    },
+    {
+      "type": "fill",
+      "q": "We ___ (carry) boxes all morning yesterday.",
+      "q_it": "Ieri abbiamo portato scatoloni tutta la mattina.",
+      "answers": [
+        "carried"
+      ],
+      "hint": "past simple of carry",
+      "why": "Yesterday needs the past simple. Carry becomes carried.",
+      "why_it": "Yesterday vuole il past simple. Carry diventa carried."
+    },
+    {
+      "type": "listen",
+      "title": "Listen to the phone call",
+      "title_it": "Ascolta la telefonata",
+      "en": [
+        "Press Listen. You can listen as many times as you like. Try to find out: How was the move? Where is the sofa? What is missing in the kitchen?"
+      ],
+      "it": [
+        "Premi Ascolta. Puoi riascoltare quante volte vuoi. Cerca di capire: com'è andato il trasloco? Dov'è il divano? Cosa manca in cucina?"
+      ],
+      "showText": false,
+      "script": [
+        {
+          "speaker": "Jack",
+          "text": "Hi Emma, how was the move?",
+          "it": "Ciao Emma, com'è andato il trasloco?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "Tiring, but we finished yesterday. The van arrived at eight and we carried boxes all morning.",
+          "it": "Faticoso, ma abbiamo finito ieri. Il furgone è arrivato alle otto e abbiamo portato scatoloni tutta la mattina."
+        },
+        {
+          "speaker": "Jack",
+          "text": "What is the new flat like?",
+          "it": "Com'è il nuovo appartamento?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "It's small but bright. There is a big window in the living room, opposite the door.",
+          "it": "È piccolo ma luminoso. C'è una grande finestra in soggiorno, di fronte alla porta."
+        },
+        {
+          "speaker": "Jack",
+          "text": "Where did you put the sofa?",
+          "it": "Dove hai messo il divano?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "Between the window and the bookcase. The lamp is on a small table next to it.",
+          "it": "Tra la finestra e la libreria. La lampada è su un tavolino accanto."
+        },
+        {
+          "speaker": "Jack",
+          "text": "And the kitchen?",
+          "it": "E la cucina?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "There are two cupboards above the cooker, but there isn't a dishwasher. We bought a new fridge yesterday.",
+          "it": "Ci sono due pensili sopra i fornelli, ma non c'è la lavastoviglie. Ieri abbiamo comprato un frigorifero nuovo."
+        },
+        {
+          "speaker": "Jack",
+          "text": "Is it near the shops?",
+          "it": "È vicino ai negozi?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "Yes, the supermarket is close to the building. Come and see it on Saturday!",
+          "it": "Sì, il supermercato è vicino al palazzo. Vieni a vederlo sabato!"
+        },
+        {
+          "speaker": "Jack",
+          "text": "Great idea. I will bring a plant for the bedroom.",
+          "it": "Ottima idea. Porto una pianta per la camera da letto."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "How was the move?",
+      "q_it": "Com'è stato il trasloco?",
+      "options": [
+        "Tiring",
+        "Easy",
+        "Cheap",
+        "Very quick"
+      ],
+      "answer": 0,
+      "why": "Emma says: Tiring.",
+      "why_it": "Emma dice: Tiring."
+    },
+    {
+      "type": "mcq",
+      "q": "When did Emma finish moving?",
+      "q_it": "Quando ha finito di traslocare Emma?",
+      "options": [
+        "Last week",
+        "Yesterday",
+        "Today",
+        "On Saturday"
+      ],
+      "answer": 1,
+      "why": "She says: we finished yesterday.",
+      "why_it": "Dice: we finished yesterday."
+    },
+    {
+      "type": "mcq",
+      "q": "Where is the sofa?",
+      "q_it": "Dov'è il divano?",
+      "options": [
+        "Opposite the door",
+        "Under the window",
+        "Between the window and the bookcase",
+        "Next to the fridge"
+      ],
+      "answer": 2,
+      "why": "Emma says: between the window and the bookcase.",
+      "why_it": "Emma dice: between the window and the bookcase."
+    },
+    {
+      "type": "mcq",
+      "q": "What is there not in the kitchen?",
+      "q_it": "Cosa non c'è in cucina?",
+      "options": [
+        "A fridge",
+        "A dishwasher",
+        "Cupboards",
+        "A cooker"
+      ],
+      "answer": 1,
+      "why": "Emma says there isn't a dishwasher.",
+      "why_it": "Emma dice che there isn't a dishwasher."
+    },
+    {
+      "type": "mcq",
+      "q": "What does Jack decide to do?",
+      "q_it": "Cosa decide di fare Jack?",
+      "options": [
+        "Help with the boxes",
+        "Buy a sofa",
+        "Visit and bring a plant",
+        "Phone on Saturday"
+      ],
+      "answer": 2,
+      "why": "Jack says he will bring a plant, so he will visit.",
+      "why_it": "Jack dice che porterà una pianta, quindi andrà a trovarla."
+    },
+    {
+      "type": "listen",
+      "title": "Listen again with the text",
+      "title_it": "Riascolta con il testo",
+      "en": [
+        "Now read and listen at the same time. Notice there is and there are, the prepositions of place and the past simple."
+      ],
+      "it": [
+        "Ora leggi e ascolta insieme. Nota there is e there are, le preposizioni di luogo e il past simple."
+      ],
+      "showText": true,
+      "script": [
+        {
+          "speaker": "Jack",
+          "text": "Hi Emma, how was the move?",
+          "it": "Ciao Emma, com'è andato il trasloco?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "Tiring, but we finished yesterday. The van arrived at eight and we carried boxes all morning.",
+          "it": "Faticoso, ma abbiamo finito ieri. Il furgone è arrivato alle otto e abbiamo portato scatoloni tutta la mattina."
+        },
+        {
+          "speaker": "Jack",
+          "text": "What is the new flat like?",
+          "it": "Com'è il nuovo appartamento?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "It's small but bright. There is a big window in the living room, opposite the door.",
+          "it": "È piccolo ma luminoso. C'è una grande finestra in soggiorno, di fronte alla porta."
+        },
+        {
+          "speaker": "Jack",
+          "text": "Where did you put the sofa?",
+          "it": "Dove hai messo il divano?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "Between the window and the bookcase. The lamp is on a small table next to it.",
+          "it": "Tra la finestra e la libreria. La lampada è su un tavolino accanto."
+        },
+        {
+          "speaker": "Jack",
+          "text": "And the kitchen?",
+          "it": "E la cucina?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "There are two cupboards above the cooker, but there isn't a dishwasher. We bought a new fridge yesterday.",
+          "it": "Ci sono due pensili sopra i fornelli, ma non c'è la lavastoviglie. Ieri abbiamo comprato un frigorifero nuovo."
+        },
+        {
+          "speaker": "Jack",
+          "text": "Is it near the shops?",
+          "it": "È vicino ai negozi?"
+        },
+        {
+          "speaker": "Emma",
+          "text": "Yes, the supermarket is close to the building. Come and see it on Saturday!",
+          "it": "Sì, il supermercato è vicino al palazzo. Vieni a vederlo sabato!"
+        },
+        {
+          "speaker": "Jack",
+          "text": "Great idea. I will bring a plant for the bedroom.",
+          "it": "Ottima idea. Porto una pianta per la camera da letto."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "What time did the van arrive?",
+      "q_it": "A che ora è arrivato il furgone?",
+      "options": [
+        "Seven forty-five",
+        "Eight o'clock",
+        "Half past eight",
+        "Nine o'clock"
+      ],
+      "answer": 1,
+      "why": "The sentence says the van arrived at eight.",
+      "why_it": "La frase dice che il furgone è arrivato alle otto.",
+      "audio": "The van arrived at eight."
+    },
+    {
+      "type": "mcq",
+      "q": "What is missing in the kitchen?",
+      "q_it": "Cosa manca in cucina?",
+      "options": [
+        "A cooker",
+        "A fridge",
+        "A dishwasher",
+        "A cupboard"
+      ],
+      "answer": 2,
+      "why": "The sentence says there isn't a dishwasher.",
+      "why_it": "La frase dice there isn't a dishwasher.",
+      "audio": "There isn't a dishwasher."
+    },
+    {
+      "type": "fill",
+      "q": "Type what you hear.",
+      "q_it": "Scrivi ciò che senti.",
+      "answers": [
+        "We carried boxes all morning"
+      ],
+      "hint": "past simple",
+      "why": "Past simple: carried, a finished action.",
+      "why_it": "Past simple: carried, azione finita.",
+      "audio": "We carried boxes all morning."
+    },
+    {
+      "type": "fill",
+      "q": "Type what you hear.",
+      "q_it": "Scrivi ciò che senti.",
+      "answers": [
+        "The sofa is between the window and the bookcase"
+      ],
+      "hint": "a place sentence",
+      "why": "Between means tra, with two things.",
+      "why_it": "Between significa tra, con due cose.",
+      "audio": "The sofa is between the window and the bookcase."
+    },
+    {
+      "type": "fill",
+      "q": "Type what you hear.",
+      "q_it": "Scrivi ciò che senti.",
+      "answers": [
+        "We bought a new fridge yesterday"
+      ],
+      "hint": "past simple of buy",
+      "why": "Buy is irregular: bought.",
+      "why_it": "Buy è irregolare: bought.",
+      "audio": "We bought a new fridge yesterday."
+    },
+    {
+      "type": "fill",
+      "q": "Type what you hear.",
+      "q_it": "Scrivi ciò che senti.",
+      "answers": [
+        "The supermarket is close to the building"
+      ],
+      "hint": "a place sentence",
+      "why": "Close to means molto vicino a.",
+      "why_it": "Close to significa molto vicino a.",
+      "audio": "The supermarket is close to the building."
+    },
+    {
+      "type": "explain",
+      "title": "Keep listening this week",
+      "title_it": "Continua ad ascoltare questa settimana",
+      "en": [
+        "Choose one short recording at B1 level and listen twice. The first time, listen without help. The second time, read the transcript if there is one.",
+        "BBC Learning English also has the programme 6 Minute English: you can find it in your podcast app."
+      ],
+      "it": [
+        "Scegli una breve registrazione di livello B1 e ascoltala due volte. La prima volta senza aiuti. La seconda leggi la trascrizione, se c'è.",
+        "Anche BBC Learning English ha il programma 6 Minute English: lo trovi nella tua app di podcast."
+      ],
+      "links": [
+        {
+          "label": "British Council LearnEnglish: B1 listening",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/listening/b1",
+          "note": "short recordings at B1 level with exercises"
+        },
+        {
+          "label": "British Council LearnEnglish: Big City Small World",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/general/audio-series/bcsw",
+          "note": "an audio series about everyday life"
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "the move",
+      "it": "il trasloco",
+      "ex": "The move was tiring."
+    },
+    {
+      "id": "c2",
+      "en": "bright",
+      "it": "luminoso",
+      "ex": "The living room is bright."
+    },
+    {
+      "id": "c3",
+      "en": "living room",
+      "it": "soggiorno",
+      "ex": "There is a sofa in the living room."
+    },
+    {
+      "id": "c4",
+      "en": "bookcase",
+      "it": "libreria",
+      "ex": "The sofa is next to the bookcase."
+    },
+    {
+      "id": "c5",
+      "en": "cupboard",
+      "it": "pensile",
+      "ex": "There are two cupboards above the cooker."
+    },
+    {
+      "id": "c6",
+      "en": "dishwasher",
+      "it": "lavastoviglie",
+      "ex": "There isn't a dishwasher."
+    },
+    {
+      "id": "c7",
+      "en": "close to",
+      "it": "molto vicino a",
+      "ex": "The shop is close to my flat."
+    },
+    {
+      "id": "c8",
+      "en": "carry",
+      "it": "portare, trasportare",
+      "ex": "We carried the boxes upstairs."
+    }
+  ]
+}

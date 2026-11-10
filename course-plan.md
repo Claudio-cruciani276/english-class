@@ -149,6 +149,7 @@ Esempi originali con una scena di stanza (la lampada e' sopra il tavolo, il gatt
 | 2026-11-09 lun | grammatica | Past simple | in/on/at di luogo con la stanza (on/onto, over/above, under/below, between, behind, in front of, opposite, into, out of, to/from, near/next to/close to); parole interrogative 1 (where, when, who, why, which, whose); there is/are solo negli esercizi; ripasso present simple/continuous. 26 esercizi |
 | 2026-11-09 lun | reading | hotel, shopping per vestiti, dal medico e in farmacia | settimana 9-15 novembre; phrasal verbs e canzoni This Is the Life (Amy Macdonald) e Starlight (Muse) della settimana |
 | 2026-11-10 mar | grammatica | Past continuous | parole interrogative 2 (how much, how many, how far, how long, how often; while spiegato come congiunzione); this/these/that/those (schermata veloce); there is/are solo negli esercizi; confronto past simple/continuous con when/while; ripasso past simple, in/on/at di luogo, parole interrogative 1. 26 esercizi |
+| 2026-11-11 mer | listening | Un nuovo appartamento (telefonata Emma e Jack) | there is/are, preposizioni di luogo (on, between, above, next to, opposite, close to), past simple del trasloco; 16 esercizi |
 
 Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vestiti, dal medico e in farmacia. Canzoni già fatte: Young and Beautiful, Yellow (settimana 2-8 novembre), This Is the Life, Starlight (settimana 9-15 novembre).
 
