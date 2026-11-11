@@ -1,0 +1,647 @@
+{
+ "title": "Present perfect 1 + countable and uncountable + which tense?",
+ "title_it": "Present perfect 1 + countable e uncountable + quale tempo?",
+ "goal": "Use the present perfect for news and results, choose between past simple, past continuous and present perfect, and use a / an, some / any and much / many.",
+ "goal_it": "Usare il present perfect per notizie e risultati, scegliere tra past simple, past continuous e present perfect, e usare a / an, some / any e much / many.",
+ "minutes": 30,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Present perfect: a link with the present",
+   "title_it": "Present perfect: un collegamento con il presente",
+   "en": [
+    "We use the present perfect (have / has + past participle) when a past action matters now. We give news or talk about a result: I've lost my keys means I don't have them now.",
+    "We do not say when it happened. If we say a finished time (yesterday, last week, in 2019), we use the past simple instead.",
+    "Regular verbs: past participle = verb + -ed (finished, worked). Irregular verbs must be learned: buy - bought, see - seen, go - gone, write - written, eat - eaten, lose - lost, make - made, take - taken.",
+    "Careful, Italian speakers: the present perfect is NOT the same as the passato prossimo. In Italian you say 'ieri ho visto Anna', but in English you must say 'I saw Anna yesterday'."
+   ],
+   "it": [
+    "Usiamo il present perfect (have / has + participio passato) quando un'azione passata conta adesso: diamo una notizia o parliamo di un risultato. I've lost my keys significa che adesso non le ho.",
+    "Non diciamo quando è successo. Se indichiamo un momento finito (yesterday, last week, in 2019) si usa il past simple.",
+    "Verbi regolari: participio passato = verbo + -ed (finished, worked). I verbi irregolari vanno imparati: buy - bought, see - seen, go - gone, write - written, eat - eaten, lose - lost, make - made, take - taken.",
+    "Attenzione: il present perfect NON è il passato prossimo italiano. In italiano si dice 'ieri ho visto Anna', ma in inglese si deve dire 'I saw Anna yesterday'."
+   ],
+   "table": {
+    "head": [
+     "Subject",
+     "have / has",
+     "Past participle"
+    ],
+    "rows": [
+     [
+      "I / you / we / they",
+      "have ('ve)",
+      "finished"
+     ],
+     [
+      "he / she / it",
+      "has ('s)",
+      "finished"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I've lost my phone. Can you call it?",
+     "it": "Ho perso il telefono. Puoi chiamarlo?"
+    },
+    {
+     "en": "Anna has finished her homework.",
+     "it": "Anna ha finito i compiti."
+    },
+    {
+     "en": "They have bought a new flat.",
+     "it": "Hanno comprato un appartamento nuovo."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Present perfect: negative, questions, been / gone, just / already / yet",
+   "title_it": "Present perfect: negativa, domanda, been / gone, just / already / yet",
+   "en": [
+    "Negative: haven't / hasn't + past participle (We haven't seen it). Question: Have / Has + subject + past participle? (Has she called?). Short answers: Yes, I have. / No, he hasn't.",
+    "Been or gone? She has gone to Rome = she is in Rome now (or on the way). She has been to Rome = she went and came back. We use been for a visit that is finished.",
+    "Just = a very short time ago (I've just arrived). Already = earlier than expected (I've already eaten). Yet = until now, only in questions and negatives, at the end of the sentence (Have you finished yet? I haven't finished yet).",
+    "In British English we prefer the present perfect with just, already and yet. Do not use them with yesterday or last week."
+   ],
+   "it": [
+    "Negativa: haven't / hasn't + participio passato (We haven't seen it). Domanda: Have / Has + soggetto + participio passato? (Has she called?). Risposte brevi: Yes, I have. / No, he hasn't.",
+    "Been o gone? She has gone to Rome = è a Roma adesso (o sta andando). She has been to Rome = ci è andata ed è tornata. Usiamo been per una visita conclusa.",
+    "Just = poco fa (I've just arrived). Already = prima del previsto (I've already eaten). Yet = finora, solo in domande e negative, alla fine della frase (Have you finished yet? I haven't finished yet).",
+    "In inglese britannico con just, already e yet si preferisce il present perfect. Non si usano con yesterday o last week."
+   ],
+   "table": {
+    "head": [
+     "Word",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "just",
+      "poco fa",
+      "He's just left."
+     ],
+     [
+      "already",
+      "già (prima del previsto)",
+      "I've already paid."
+     ],
+     [
+      "yet",
+      "ancora / già (domande e negative)",
+      "Has it started yet?"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Mark has gone to the bank. He'll be back soon.",
+     "it": "Mark è andato in banca. Torna presto."
+    },
+    {
+     "en": "I've been to the bank. Now I'm at home.",
+     "it": "Sono stato in banca. Ora sono a casa."
+    },
+    {
+     "en": "We haven't seen the new film yet.",
+     "it": "Non abbiamo ancora visto il film nuovo."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Which tense? Past simple, past continuous or present perfect",
+   "title_it": "Quale tempo? Past simple, past continuous o present perfect",
+   "en": [
+    "Ask yourself three questions. 1) Is there a finished time (yesterday, last night, in 2019, three days ago)? Use the past simple. 2) Was the action in progress at a moment in the past, or is it the background of a story, or was it interrupted (while, when)? Use the past continuous. 3) Is there no finished time and the action matters now (just, already, yet, ever, never, so far, this week)? Use the present perfect.",
+    "Clue words: yesterday and last night call for the past simple; while calls for the past continuous; just, already and yet call for the present perfect.",
+    "A finished time and the present perfect NEVER go together: I have seen him yesterday is wrong. Say I saw him yesterday."
+   ],
+   "it": [
+    "Fatti tre domande. 1) C'è un momento finito (yesterday, last night, in 2019, three days ago)? Past simple. 2) L'azione era in corso a un momento del passato, è lo sfondo di una storia o è stata interrotta (while, when)? Past continuous. 3) Non c'è un momento finito e l'azione conta adesso (just, already, yet, ever, never, so far, this week)? Present perfect.",
+    "Parole spia: yesterday e last night chiamano il past simple; while chiama il past continuous; just, already e yet chiamano il present perfect.",
+    "Un momento finito e il present perfect NON vanno mai insieme: I have seen him yesterday è sbagliato. Si dice I saw him yesterday."
+   ],
+   "table": {
+    "head": [
+     "Tense",
+     "Use",
+     "Clue words",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Past simple",
+      "finished action, definite time",
+      "yesterday, last week, in 2019, ago",
+      "I lost my keys yesterday."
+     ],
+     [
+      "Past continuous",
+      "action in progress, background, interrupted",
+      "while, when, at 8 o'clock",
+      "I was walking when I lost my keys."
+     ],
+     [
+      "Present perfect",
+      "link with now, no definite time",
+      "just, already, yet, ever, never",
+      "I've lost my keys. I can't get in."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I saw Anna yesterday.",
+     "it": "Ho visto Anna ieri."
+    },
+    {
+     "en": "I was watching a film when you called.",
+     "it": "Stavo guardando un film quando hai chiamato."
+    },
+    {
+     "en": "I've just seen Anna.",
+     "it": "Ho appena visto Anna."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Countable and uncountable nouns: a / an, some / any, much / many",
+   "title_it": "Nomi countable e uncountable: a / an, some / any, much / many",
+   "en": [
+    "Countable nouns can be counted: a banana, two bananas. Uncountable nouns cannot be counted and have no plural: rice, water, music, money, sugar, bread, milk.",
+    "Use a / an only with a singular countable noun (a banana, an orange). Plural countable nouns and uncountable nouns stand alone, or take some / any: I like bananas. I eat rice. We need some sugar.",
+    "some = a certain amount, in positive sentences and offers (Would you like some tea?). any = in negatives and questions (There isn't any milk. Is there any bread?).",
+    "many + countable plural (How many eggs?). much + uncountable (How much milk?). a lot of works with both. In positive sentences we usually say a lot of. For quantities use containers: a cup of tea, a bowl of rice, a loaf of bread."
+   ],
+   "it": [
+    "I nomi countable si possono contare: a banana, two bananas. Gli uncountable non si contano e non hanno plurale: rice, water, music, money, sugar, bread, milk.",
+    "A / an solo con un countable singolare (a banana, an orange). I countable plurali e gli uncountable stanno da soli o con some / any: I like bananas. I eat rice. We need some sugar.",
+    "some = una certa quantità, nelle frasi positive e nelle offerte (Would you like some tea?). any = nelle negative e nelle domande (There isn't any milk. Is there any bread?).",
+    "many + countable plurale (How many eggs?). much + uncountable (How much milk?). A lot of va con entrambi. Nelle frasi positive di solito si dice a lot of. Per le quantità si usano i contenitori: a cup of tea, a bowl of rice, a loaf of bread."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Countable",
+     "Uncountable"
+    ],
+    "rows": [
+     [
+      "a / an",
+      "a banana, an egg",
+      "(never)"
+     ],
+     [
+      "some / any",
+      "some eggs, any eggs",
+      "some milk, any milk"
+     ],
+     [
+      "many / much",
+      "many eggs",
+      "much milk"
+     ],
+     [
+      "a lot of",
+      "a lot of eggs",
+      "a lot of milk"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "There aren't many chairs in the living room.",
+     "it": "Non ci sono molte sedie in soggiorno."
+    },
+    {
+     "en": "Is there any bread in the kitchen?",
+     "it": "C'è del pane in cucina?"
+    },
+    {
+     "en": "How much money have you got?",
+     "it": "Quanti soldi hai?"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Oh no! I ___ my phone. I can't find it.",
+   "q_it": "Oh no! Ho perso il telefono. Non lo trovo.",
+   "options": [
+    "lost",
+    "have lost",
+    "was losing",
+    "lose"
+   ],
+   "answer": 1,
+   "why": "No finished time, and the result matters now (I don't have it): present perfect.",
+   "why_it": "Nessun momento finito e il risultato conta adesso (non ce l'ho): present perfect."
+  },
+  {
+   "type": "fill",
+   "q": "Anna ___ (finish) her homework. Now she can watch TV.",
+   "q_it": "Anna ha finito i compiti. Ora può guardare la TV.",
+   "answers": [
+    "has finished",
+    "'s finished"
+   ],
+   "hint": "have / has + past participle",
+   "why": "Anna is she: has + finished. The result matters now.",
+   "why_it": "Anna è she: has + finished. Il risultato conta adesso."
+  },
+  {
+   "type": "fill",
+   "q": "They ___ (buy) a new flat in the city centre.",
+   "q_it": "Hanno comprato un appartamento nuovo in centro.",
+   "answers": [
+    "have bought",
+    "'ve bought"
+   ],
+   "hint": "buy - bought",
+   "why": "Buy is irregular: bought. They takes have.",
+   "why_it": "Buy è irregolare: bought. They vuole have."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (not / see) the new film yet.",
+   "q_it": "Non abbiamo ancora visto il film nuovo.",
+   "answers": [
+    "haven't seen",
+    "have not seen"
+   ],
+   "hint": "see - seen",
+   "why": "Negative: haven't + past participle. See is irregular: seen.",
+   "why_it": "Negativa: haven't + participio passato. See è irregolare: seen."
+  },
+  {
+   "type": "mcq",
+   "q": "Mark isn't in the office. He ___ to the bank. He'll be back soon.",
+   "q_it": "Mark non è in ufficio. È andato in banca. Torna presto.",
+   "options": [
+    "has been",
+    "has gone",
+    "have gone",
+    "did go"
+   ],
+   "answer": 1,
+   "why": "He is still at the bank, so we use gone. Been means he went and came back.",
+   "why_it": "È ancora in banca, quindi si usa gone. Been vuol dire che è andato ed è tornato."
+  },
+  {
+   "type": "mcq",
+   "q": "Hi! I'm back from the shops. I ___ to the shops and I bought some bread.",
+   "q_it": "Ciao! Sono tornato dai negozi. Sono stato ai negozi e ho comprato del pane.",
+   "options": [
+    "have gone",
+    "am going",
+    "was going",
+    "have been"
+   ],
+   "answer": 3,
+   "why": "The speaker went and came back, so we use been.",
+   "why_it": "Chi parla è andato ed è tornato, quindi si usa been."
+  },
+  {
+   "type": "fill",
+   "q": "Is Lisa here? No, she hasn't arrived ___.",
+   "q_it": "Lisa è qui? No, non è ancora arrivata.",
+   "answers": [
+    "yet"
+   ],
+   "hint": "just, already or yet?",
+   "why": "Yet goes at the end of a negative sentence: not until now.",
+   "why_it": "Yet va in fondo a una frase negativa: finora no."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "I",
+    "have",
+    "just",
+    "seen",
+    "your",
+    "sister"
+   ],
+   "answers": [
+    "I have just seen your sister"
+   ],
+   "why": "Subject + have + just + past participle.",
+   "why_it": "Soggetto + have + just + participio passato."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine (è una domanda).",
+   "words": [
+    "Has",
+    "she",
+    "called",
+    "you",
+    "yet",
+    "?"
+   ],
+   "answers": [
+    "Has she called you yet ?",
+    "Has she called you yet?"
+   ],
+   "why": "Question: Has + subject + past participle, and yet at the end.",
+   "why_it": "Domanda: Has + soggetto + participio passato, e yet in fondo."
+  },
+  {
+   "type": "mcq",
+   "q": "Which word is uncountable?",
+   "q_it": "Quale parola è uncountable?",
+   "options": [
+    "banana",
+    "apple",
+    "egg",
+    "rice"
+   ],
+   "answer": 3,
+   "why": "We cannot count rice and it has no plural. We say a bowl of rice.",
+   "why_it": "Rice non si conta e non ha plurale. Si dice a bowl of rice."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I have a rice for lunch.",
+    "I have some rice for lunch.",
+    "I have rices for lunch.",
+    "I have an rice for lunch."
+   ],
+   "answer": 1,
+   "why": "Rice is uncountable: no a / an and no plural. We use some or nothing.",
+   "why_it": "Rice è uncountable: niente a / an e niente plurale. Si usa some o niente."
+  },
+  {
+   "type": "fill",
+   "q": "She is eating ___ orange.",
+   "q_it": "Sta mangiando un'arancia.",
+   "answers": [
+    "an"
+   ],
+   "hint": "a or an?",
+   "why": "Orange is countable and singular, and it starts with a vowel sound: an.",
+   "why_it": "Orange è countable singolare e comincia con un suono vocale: an."
+  },
+  {
+   "type": "fill",
+   "q": "There isn't ___ milk in the fridge.",
+   "q_it": "Non c'è latte in frigo.",
+   "answers": [
+    "any"
+   ],
+   "hint": "some or any?",
+   "why": "Negative sentence with an uncountable noun: any.",
+   "why_it": "Frase negativa con un uncountable: any."
+  },
+  {
+   "type": "fill",
+   "q": "We need ___ sugar for the cake. Can you buy it?",
+   "q_it": "Ci serve dello zucchero per la torta. Puoi comprarlo?",
+   "answers": [
+    "some"
+   ],
+   "hint": "some or any?",
+   "why": "Positive sentence: some.",
+   "why_it": "Frase positiva: some."
+  },
+  {
+   "type": "mcq",
+   "q": "How ___ people live in your building?",
+   "q_it": "Quante persone abitano nel tuo palazzo?",
+   "options": [
+    "much",
+    "many",
+    "a little",
+    "a lot"
+   ],
+   "answer": 1,
+   "why": "People is countable plural: how many.",
+   "why_it": "People è countable plurale: how many."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "There",
+    "aren't",
+    "many",
+    "chairs",
+    "in",
+    "the",
+    "room"
+   ],
+   "answers": [
+    "There aren't many chairs in the room"
+   ],
+   "why": "There aren't + many + countable plural.",
+   "why_it": "There aren't + many + countable plurale."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine (è un'offerta).",
+   "words": [
+    "Would",
+    "you",
+    "like",
+    "some",
+    "tea",
+    "?"
+   ],
+   "answers": [
+    "Would you like some tea ?",
+    "Would you like some tea?"
+   ],
+   "why": "In offers we use some, even in a question.",
+   "why_it": "Nelle offerte si usa some, anche in una domanda."
+  },
+  {
+   "type": "mcq",
+   "q": "I ___ to Paris last summer.",
+   "q_it": "Sono andato a Parigi l'estate scorsa.",
+   "options": [
+    "have been",
+    "have gone",
+    "went",
+    "was going"
+   ],
+   "answer": 2,
+   "why": "Last summer is a finished time: past simple. Not the present perfect.",
+   "why_it": "Last summer è un momento finito: past simple, non present perfect."
+  },
+  {
+   "type": "mcq",
+   "q": "Help! I ___ my wallet. Can you look for it with me?",
+   "q_it": "Aiuto! Ho perso il portafoglio. Mi aiuti a cercarlo?",
+   "options": [
+    "lost",
+    "was losing",
+    "have lost",
+    "lose"
+   ],
+   "answer": 2,
+   "why": "No finished time, and the problem is now: present perfect.",
+   "why_it": "Nessun momento finito e il problema è adesso: present perfect."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (see) that film yesterday. It was great.",
+   "q_it": "Abbiamo visto quel film ieri. Era bellissimo.",
+   "answers": [
+    "saw"
+   ],
+   "hint": "see - saw",
+   "why": "Yesterday is a finished time: past simple, saw.",
+   "why_it": "Yesterday è un momento finito: past simple, saw."
+  },
+  {
+   "type": "mcq",
+   "q": "While we ___ lunch, the phone rang.",
+   "q_it": "Mentre pranzavamo, il telefono ha squillato.",
+   "options": [
+    "were having",
+    "had",
+    "have had",
+    "have"
+   ],
+   "answer": 0,
+   "why": "While + an action in progress: past continuous. The phone ringing is the short action.",
+   "why_it": "While + azione in corso: past continuous. Il telefono che squilla è l'azione breve."
+  },
+  {
+   "type": "fill",
+   "q": "A: Is Ben at home? B: No, he ___ (just / leave).",
+   "q_it": "A: Ben è a casa? B: No, è appena uscito.",
+   "answers": [
+    "has just left",
+    "'s just left"
+   ],
+   "hint": "have / has + just + past participle",
+   "why": "Just plus a link with now: has just left.",
+   "why_it": "Just più un legame con adesso: has just left."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I have seen Anna yesterday.",
+    "I saw Anna yesterday.",
+    "I was seeing Anna yesterday.",
+    "I have saw Anna yesterday."
+   ],
+   "answer": 1,
+   "why": "Yesterday needs the past simple. Present perfect with yesterday is a very common mistake.",
+   "why_it": "Yesterday vuole il past simple. Present perfect con yesterday è un errore molto comune."
+  },
+  {
+   "type": "fill",
+   "q": "Where ___ you go last weekend?",
+   "q_it": "Dove sei andato lo scorso weekend?",
+   "answers": [
+    "did"
+   ],
+   "hint": "past simple question",
+   "why": "Last weekend: past simple. Question: did + subject + infinitive.",
+   "why_it": "Last weekend: past simple. Domanda: did + soggetto + infinito."
+  },
+  {
+   "type": "mcq",
+   "q": "When I arrived, they ___ dinner in the kitchen.",
+   "q_it": "Quando sono arrivato, stavano preparando la cena in cucina.",
+   "options": [
+    "made",
+    "were making",
+    "have made",
+    "make"
+   ],
+   "answer": 1,
+   "why": "They were in the middle of the action when I arrived: past continuous.",
+   "why_it": "Erano nel mezzo dell'azione quando sono arrivato: past continuous."
+  },
+  {
+   "type": "fill",
+   "q": "How ___ do you go to the gym? Twice a week.",
+   "q_it": "Quanto spesso vai in palestra? Due volte a settimana.",
+   "answers": [
+    "often"
+   ],
+   "hint": "frequency",
+   "why": "Twice a week is about frequency: how often.",
+   "why_it": "Twice a week parla di frequenza: how often."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "have / has + past participle",
+   "it": "have / has + participio passato",
+   "ex": "I've lost my keys."
+  },
+  {
+   "id": "c2",
+   "en": "just",
+   "it": "appena",
+   "ex": "She has just arrived."
+  },
+  {
+   "id": "c3",
+   "en": "already",
+   "it": "già",
+   "ex": "I've already eaten."
+  },
+  {
+   "id": "c4",
+   "en": "yet",
+   "it": "ancora / già (domande, negative)",
+   "ex": "Have you finished yet?"
+  },
+  {
+   "id": "c5",
+   "en": "been / gone",
+   "it": "stato / andato",
+   "ex": "He has gone to the bank. I've been to the bank."
+  },
+  {
+   "id": "c6",
+   "en": "lost, bought, seen, made",
+   "it": "participi irregolari",
+   "ex": "I've bought a new lamp."
+  },
+  {
+   "id": "c7",
+   "en": "countable / uncountable",
+   "it": "numerabile / non numerabile",
+   "ex": "rice is uncountable, banana is countable"
+  },
+  {
+   "id": "c8",
+   "en": "some / any",
+   "it": "un po' di / nessun, alcun",
+   "ex": "There isn't any milk. We need some sugar."
+  },
+  {
+   "id": "c9",
+   "en": "many / much / a lot of",
+   "it": "molti / molto",
+   "ex": "How many eggs? How much milk? A lot of people."
+  },
+  {
+   "id": "c10",
+   "en": "a bowl of rice",
+   "it": "una ciotola di riso",
+   "ex": "a cup of tea, a loaf of bread"
+  }
+ ]
+}

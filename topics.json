@@ -29,6 +29,11 @@
      "label": "Past continuous",
      "label_it": "Past continuous",
      "date": "2026-11-10"
+    },
+    {
+     "label": "Present perfect 1",
+     "label_it": "Present perfect 1",
+     "date": "2026-11-12"
     }
    ]
   },
@@ -58,7 +63,23 @@
    "id": "nouns",
    "title": "Nouns, articles and quantity",
    "title_it": "Nomi, articoli e quantità",
-   "items": []
+   "items": [
+    {
+     "label": "Countable / uncountable",
+     "label_it": "Countable / uncountable",
+     "date": "2026-11-12"
+    },
+    {
+     "label": "a / an, some / any",
+     "label_it": "a / an, some / any",
+     "date": "2026-11-12"
+    },
+    {
+     "label": "Much / many / a lot of",
+     "label_it": "Much / many / a lot of",
+     "date": "2026-11-12"
+    }
+   ]
   },
   {
    "id": "questions",
@@ -101,6 +122,16 @@
      "label": "This / these / that / those",
      "label_it": "This / these / that / those",
      "date": "2026-11-10"
+    },
+    {
+     "label": "Which tense? (past tenses)",
+     "label_it": "Quale tempo? (passati)",
+     "date": "2026-11-12"
+    },
+    {
+     "label": "been / gone, just / already / yet",
+     "label_it": "been / gone, just / already / yet",
+     "date": "2026-11-12"
     }
    ]
   },
