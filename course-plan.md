@@ -151,6 +151,7 @@ Esempi originali con una scena di stanza (la lampada e' sopra il tavolo, il gatt
 | 2026-11-10 mar | grammatica | Past continuous | parole interrogative 2 (how much, how many, how far, how long, how often; while spiegato come congiunzione); this/these/that/those (schermata veloce); there is/are solo negli esercizi; confronto past simple/continuous con when/while; ripasso past simple, in/on/at di luogo, parole interrogative 1. 26 esercizi |
 | 2026-11-11 mer | listening | Un nuovo appartamento (telefonata Emma e Jack) | there is/are, preposizioni di luogo (on, between, above, next to, opposite, close to), past simple del trasloco; 16 esercizi |
 | 2026-11-12 gio | grammatica | Present perfect 1 | been/gone, just/already/yet; countable e uncountable (a/an, some/any, much/many/a lot of); schermata di confronto tra i tre tempi passati; blocco misto di scelta del tempo; ripasso past simple, past continuous, how often. 26 esercizi |
+| 2026-11-13 ven | writing | Descrivere casa o quartiere e diario del weekend | there is/are, a lot of / much / many, preposizioni di luogo (between, opposite, next to, at/on/in), past simple del diario, linkers (first, then, after that); due testi modello, checklist, 25 esercizi, compito libero (non corretto dall'app) |
 
 Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vestiti, dal medico e in farmacia. Canzoni già fatte: Young and Beautiful, Yellow (settimana 2-8 novembre), This Is the Life, Starlight (settimana 9-15 novembre).
 

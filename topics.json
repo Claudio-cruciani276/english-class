@@ -1,242 +1,247 @@
 {
- "groups": [
-  {
-   "id": "tenses",
-   "title": "Verb tenses",
-   "title_it": "Tempi verbali",
-   "items": [
+  "groups": [
     {
-     "label": "Present simple",
-     "label_it": "Present simple",
-     "date": "2026-11-02"
+      "id": "tenses",
+      "title": "Verb tenses",
+      "title_it": "Tempi verbali",
+      "items": [
+        {
+          "label": "Present simple",
+          "label_it": "Present simple",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "Present continuous",
+          "label_it": "Present continuous",
+          "date": "2026-11-03"
+        },
+        {
+          "label": "Present simple vs continuous",
+          "label_it": "Present simple o continuous",
+          "date": "2026-11-05"
+        },
+        {
+          "label": "Past simple",
+          "label_it": "Past simple",
+          "date": "2026-11-09"
+        },
+        {
+          "label": "Past continuous",
+          "label_it": "Past continuous",
+          "date": "2026-11-10"
+        },
+        {
+          "label": "Present perfect 1",
+          "label_it": "Present perfect 1",
+          "date": "2026-11-12"
+        }
+      ]
     },
     {
-     "label": "Present continuous",
-     "label_it": "Present continuous",
-     "date": "2026-11-03"
+      "id": "prepositions",
+      "title": "Prepositions",
+      "title_it": "Preposizioni",
+      "items": [
+        {
+          "label": "in / on / at (time)",
+          "label_it": "in / on / at (tempo)",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "in / on / at (place)",
+          "label_it": "in / on / at (luogo)",
+          "date": "2026-11-09"
+        },
+        {
+          "label": "Room prepositions",
+          "label_it": "Preposizioni della stanza",
+          "date": "2026-11-09"
+        }
+      ]
     },
     {
-     "label": "Present simple vs continuous",
-     "label_it": "Present simple o continuous",
-     "date": "2026-11-05"
+      "id": "nouns",
+      "title": "Nouns, articles and quantity",
+      "title_it": "Nomi, articoli e quantità",
+      "items": [
+        {
+          "label": "Countable / uncountable",
+          "label_it": "Countable / uncountable",
+          "date": "2026-11-12"
+        },
+        {
+          "label": "a / an, some / any",
+          "label_it": "a / an, some / any",
+          "date": "2026-11-12"
+        },
+        {
+          "label": "Much / many / a lot of",
+          "label_it": "Much / many / a lot of",
+          "date": "2026-11-12"
+        }
+      ]
     },
     {
-     "label": "Past simple",
-     "label_it": "Past simple",
-     "date": "2026-11-09"
+      "id": "questions",
+      "title": "Question words",
+      "title_it": "Parole interrogative",
+      "items": [
+        {
+          "label": "Where / when / who / why",
+          "label_it": "Where / when / who / why",
+          "date": "2026-11-09"
+        },
+        {
+          "label": "Which / whose",
+          "label_it": "Which / whose",
+          "date": "2026-11-09"
+        },
+        {
+          "label": "How much / how many",
+          "label_it": "How much / how many",
+          "date": "2026-11-10"
+        },
+        {
+          "label": "How far / long / often",
+          "label_it": "How far / long / often",
+          "date": "2026-11-10"
+        }
+      ]
     },
     {
-     "label": "Past continuous",
-     "label_it": "Past continuous",
-     "date": "2026-11-10"
+      "id": "other",
+      "title": "Other grammar points",
+      "title_it": "Altri punti di grammatica",
+      "items": [
+        {
+          "label": "Adverbs of frequency",
+          "label_it": "Avverbi di frequenza",
+          "date": "2026-11-05"
+        },
+        {
+          "label": "This / these / that / those",
+          "label_it": "This / these / that / those",
+          "date": "2026-11-10"
+        },
+        {
+          "label": "Which tense? (past tenses)",
+          "label_it": "Quale tempo? (passati)",
+          "date": "2026-11-12"
+        },
+        {
+          "label": "been / gone, just / already / yet",
+          "label_it": "been / gone, just / already / yet",
+          "date": "2026-11-12"
+        }
+      ]
     },
     {
-     "label": "Present perfect 1",
-     "label_it": "Present perfect 1",
-     "date": "2026-11-12"
+      "id": "phrasal",
+      "title": "Phrasal verbs",
+      "title_it": "Phrasal verbs",
+      "items": [
+        {
+          "label": "Week of 9 Nov: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to",
+          "label_it": "Settimana del 9 nov: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "title": "Listening and writing",
+      "title_it": "Listening e writing",
+      "items": [
+        {
+          "label": "Listening: a phone call at the station",
+          "label_it": "Listening: una telefonata alla stazione",
+          "date": "2026-11-04"
+        },
+        {
+          "label": "Writing: a typical day",
+          "label_it": "Writing: una giornata tipica",
+          "date": "2026-11-06"
+        },
+        {
+          "label": "Review: present tenses",
+          "label_it": "Ripasso: tempi presenti",
+          "date": "2026-11-08"
+        },
+        {
+          "label": "Listening: a new flat",
+          "label_it": "Ascolto: un nuovo appartamento",
+          "date": "2026-11-11"
+        },
+        {
+          "label": "Writing: home and weekend",
+          "label_it": "Scrittura: casa e weekend",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Readings (real-life situations)",
+      "title_it": "Letture (situazioni reali)",
+      "items": [
+        {
+          "label": "At the airport",
+          "label_it": "All'aeroporto",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "At a restaurant",
+          "label_it": "Al ristorante",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "Asking for directions",
+          "label_it": "Chiedere indicazioni",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "At the hotel",
+          "label_it": "In albergo",
+          "date": "2026-11-09"
+        },
+        {
+          "label": "Shopping for clothes",
+          "label_it": "Fare shopping per i vestiti",
+          "date": "2026-11-09"
+        },
+        {
+          "label": "At the doctor's and pharmacy",
+          "label_it": "Dal medico e in farmacia",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "songs",
+      "title": "Songs",
+      "title_it": "Canzoni",
+      "items": [
+        {
+          "label": "Young and Beautiful (Lana Del Rey)",
+          "label_it": "Young and Beautiful (Lana Del Rey)",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "Yellow (Coldplay)",
+          "label_it": "Yellow (Coldplay)",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "This Is the Life (Amy Macdonald)",
+          "label_it": "This Is the Life (Amy Macdonald)",
+          "date": "2026-11-09"
+        },
+        {
+          "label": "Starlight (Muse)",
+          "label_it": "Starlight (Muse)",
+          "date": "2026-11-09"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "prepositions",
-   "title": "Prepositions",
-   "title_it": "Preposizioni",
-   "items": [
-    {
-     "label": "in / on / at (time)",
-     "label_it": "in / on / at (tempo)",
-     "date": "2026-11-02"
-    },
-    {
-     "label": "in / on / at (place)",
-     "label_it": "in / on / at (luogo)",
-     "date": "2026-11-09"
-    },
-    {
-     "label": "Room prepositions",
-     "label_it": "Preposizioni della stanza",
-     "date": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "id": "nouns",
-   "title": "Nouns, articles and quantity",
-   "title_it": "Nomi, articoli e quantità",
-   "items": [
-    {
-     "label": "Countable / uncountable",
-     "label_it": "Countable / uncountable",
-     "date": "2026-11-12"
-    },
-    {
-     "label": "a / an, some / any",
-     "label_it": "a / an, some / any",
-     "date": "2026-11-12"
-    },
-    {
-     "label": "Much / many / a lot of",
-     "label_it": "Much / many / a lot of",
-     "date": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "id": "questions",
-   "title": "Question words",
-   "title_it": "Parole interrogative",
-   "items": [
-    {
-     "label": "Where / when / who / why",
-     "label_it": "Where / when / who / why",
-     "date": "2026-11-09"
-    },
-    {
-     "label": "Which / whose",
-     "label_it": "Which / whose",
-     "date": "2026-11-09"
-    },
-    {
-     "label": "How much / how many",
-     "label_it": "How much / how many",
-     "date": "2026-11-10"
-    },
-    {
-     "label": "How far / long / often",
-     "label_it": "How far / long / often",
-     "date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "id": "other",
-   "title": "Other grammar points",
-   "title_it": "Altri punti di grammatica",
-   "items": [
-    {
-     "label": "Adverbs of frequency",
-     "label_it": "Avverbi di frequenza",
-     "date": "2026-11-05"
-    },
-    {
-     "label": "This / these / that / those",
-     "label_it": "This / these / that / those",
-     "date": "2026-11-10"
-    },
-    {
-     "label": "Which tense? (past tenses)",
-     "label_it": "Quale tempo? (passati)",
-     "date": "2026-11-12"
-    },
-    {
-     "label": "been / gone, just / already / yet",
-     "label_it": "been / gone, just / already / yet",
-     "date": "2026-11-12"
-    }
-   ]
-  },
-  {
-   "id": "phrasal",
-   "title": "Phrasal verbs",
-   "title_it": "Phrasal verbs",
-   "items": [
-    {
-     "label": "Week of 9 Nov: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to",
-     "label_it": "Settimana del 9 nov: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to",
-     "date": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "id": "skills",
-   "title": "Listening and writing",
-   "title_it": "Listening e writing",
-   "items": [
-    {
-     "label": "Listening: a phone call at the station",
-     "label_it": "Listening: una telefonata alla stazione",
-     "date": "2026-11-04"
-    },
-    {
-     "label": "Writing: a typical day",
-     "label_it": "Writing: una giornata tipica",
-     "date": "2026-11-06"
-    },
-    {
-     "label": "Review: present tenses",
-     "label_it": "Ripasso: tempi presenti",
-     "date": "2026-11-08"
-    },
-    {
-     "label": "Listening: a new flat",
-     "label_it": "Ascolto: un nuovo appartamento",
-     "date": "2026-11-11"
-    }
-   ]
-  },
-  {
-   "id": "reading",
-   "title": "Readings (real-life situations)",
-   "title_it": "Letture (situazioni reali)",
-   "items": [
-    {
-     "label": "At the airport",
-     "label_it": "All'aeroporto",
-     "date": "2026-11-02"
-    },
-    {
-     "label": "At a restaurant",
-     "label_it": "Al ristorante",
-     "date": "2026-11-02"
-    },
-    {
-     "label": "Asking for directions",
-     "label_it": "Chiedere indicazioni",
-     "date": "2026-11-02"
-    },
-    {
-     "label": "At the hotel",
-     "label_it": "In albergo",
-     "date": "2026-11-09"
-    },
-    {
-     "label": "Shopping for clothes",
-     "label_it": "Fare shopping per i vestiti",
-     "date": "2026-11-09"
-    },
-    {
-     "label": "At the doctor's and pharmacy",
-     "label_it": "Dal medico e in farmacia",
-     "date": "2026-11-09"
-    }
-   ]
-  },
-  {
-   "id": "songs",
-   "title": "Songs",
-   "title_it": "Canzoni",
-   "items": [
-    {
-     "label": "Young and Beautiful (Lana Del Rey)",
-     "label_it": "Young and Beautiful (Lana Del Rey)",
-     "date": "2026-11-02"
-    },
-    {
-     "label": "Yellow (Coldplay)",
-     "label_it": "Yellow (Coldplay)",
-     "date": "2026-11-02"
-    },
-    {
-     "label": "This Is the Life (Amy Macdonald)",
-     "label_it": "This Is the Life (Amy Macdonald)",
-     "date": "2026-11-09"
-    },
-    {
-     "label": "Starlight (Muse)",
-     "label_it": "Starlight (Muse)",
-     "date": "2026-11-09"
-    }
-   ]
-  }
- ]
+  ]
 }

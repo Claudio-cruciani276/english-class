@@ -1,0 +1,573 @@
+{
+ "title": "Writing: My home and my weekend",
+ "title_it": "Scrittura: la mia casa e il mio weekend",
+ "goal": "Describe your home with there is / there are, a lot of, much and many and place prepositions, then write a past simple weekend diary.",
+ "goal_it": "Descrivere la tua casa con there is / there are, a lot of, much e many e preposizioni di luogo, poi scrivere un diario del weekend al past simple.",
+ "minutes": 30,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Today: writing about your home and your weekend",
+   "title_it": "Oggi: scrivere della tua casa e del tuo weekend",
+   "en": [
+    "Today you will write two short texts. First you describe your home or your street. Then you write a diary about last weekend.",
+    "For the first text you use there is / there are, a lot of, much and many, and the place prepositions from this week. For the diary you use the past simple."
+   ],
+   "it": [
+    "Oggi scrivi due testi brevi. Prima descrivi la tua casa o la tua strada. Poi scrivi un diario del weekend scorso.",
+    "Per il primo testo usi there is / there are, a lot of, much e many, e le preposizioni di luogo di questa settimana. Per il diario usi il past simple."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Words for home and neighbourhood",
+   "title_it": "Parole per casa e quartiere",
+   "en": [
+    "Learn these ten words and expressions. They are in your flashcards too."
+   ],
+   "it": [
+    "Impara queste dieci parole ed espressioni. Le trovi anche nelle flashcard."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "living room",
+      "soggiorno"
+     ],
+     [
+      "bedroom",
+      "camera da letto"
+     ],
+     [
+      "wardrobe",
+      "armadio"
+     ],
+     [
+      "bookcase",
+      "libreria"
+     ],
+     [
+      "neighbourhood",
+      "quartiere"
+     ],
+     [
+      "quiet",
+      "tranquillo"
+     ],
+     [
+      "noisy",
+      "rumoroso"
+     ],
+     [
+      "a lot of",
+      "molto / molti"
+     ],
+     [
+      "on the second floor",
+      "al secondo piano"
+     ],
+     [
+      "at the weekend",
+      "nel fine settimana"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "Model text 1: my home",
+   "title_it": "Testo modello 1: la mia casa",
+   "en": [
+    "I live in a flat in Bologna, on the second floor. There are two bedrooms, a small kitchen and a bright living room. In the living room there is a sofa opposite the window, and a lamp between the sofa and the bookcase. There isn't much furniture, but there are a lot of books. My street is quiet. There aren't many cars, but there is a lot of noise on Saturday night."
+   ],
+   "it": [
+    "Vivo in un appartamento a Bologna, al secondo piano. Ci sono due camere da letto, una piccola cucina e un soggiorno luminoso. Nel soggiorno c'è un divano di fronte alla finestra e una lampada tra il divano e la libreria. Non c'è molto arredamento, ma ci sono molti libri. La mia strada è tranquilla. Non ci sono molte auto, ma il sabato sera c'è molto rumore."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Model text 2: a weekend diary",
+   "title_it": "Testo modello 2: il diario del weekend",
+   "en": [
+    "Sunday evening. On Saturday I got up late and had a big breakfast. Then I went to the market with my sister, and we bought vegetables and cheese. In the afternoon I didn't study. I met two friends at a cafe and we talked for hours. In the evening we cooked pasta and watched a film. It was a lovely day."
+   ],
+   "it": [
+    "Domenica sera. Sabato mi sono alzato tardi e ho fatto una colazione abbondante. Poi sono andato al mercato con mia sorella e abbiamo comprato verdura e formaggio. Nel pomeriggio non ho studiato. Ho incontrato due amici in un bar e abbiamo chiacchierato per ore. La sera abbiamo cucinato la pasta e guardato un film. È stata una giornata bellissima."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Checklist before you write",
+   "title_it": "Controlla prima di scrivere",
+   "en": [
+    "Use this list to check every sentence, then read your text again."
+   ],
+   "it": [
+    "Usa questa lista per controllare ogni frase, poi rileggi il testo."
+   ],
+   "table": {
+    "head": [
+     "Check",
+     "Example"
+    ],
+    "rows": [
+     [
+      "There is + singular or uncountable; there are + plural",
+      "There is a bank. There are two shops."
+     ],
+     [
+      "Negative: not much (uncountable), not many (plural)",
+      "There isn't much space. There aren't many shops."
+     ],
+     [
+      "A lot of works with both, and is good in positive sentences",
+      "There are a lot of trees. There is a lot of noise."
+     ],
+     [
+      "Place prepositions: in, on, at, between, opposite, next to",
+      "The lamp is between the sofa and the bookcase."
+     ],
+     [
+      "Past simple diary: finished time (last weekend, on Saturday)",
+      "We went out on Saturday."
+     ],
+     [
+      "Negative and question: didn't / did + base verb",
+      "I didn't study. Did you see Anna?"
+     ],
+     [
+      "Order words: first, then, after that, in the evening",
+      "First I shopped, then I cooked."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "q": "There ___ two bedrooms in my flat.",
+   "q_it": "Nel mio appartamento ci sono due camere da letto.",
+   "options": [
+    "is",
+    "has",
+    "have",
+    "are"
+   ],
+   "answer": 3,
+   "why": "Two bedrooms is plural, so we use there are.",
+   "why_it": "Two bedrooms è plurale, quindi there are."
+  },
+  {
+   "type": "fill",
+   "q": "There ___ a supermarket opposite the station.",
+   "q_it": "C'è un supermercato di fronte alla stazione.",
+   "answers": [
+    "is",
+    "'s",
+    "s"
+   ],
+   "hint": "singular",
+   "why": "A supermarket is singular: there is (there's).",
+   "why_it": "A supermarket è singolare: there is (there's)."
+  },
+  {
+   "type": "mcq",
+   "q": "How ___ traffic is there in your street?",
+   "q_it": "Quanto traffico c'è nella tua strada?",
+   "options": [
+    "many",
+    "a lot",
+    "much",
+    "few"
+   ],
+   "answer": 2,
+   "why": "Traffic is uncountable, so we ask how much.",
+   "why_it": "Traffic è uncountable, quindi si chiede how much."
+  },
+  {
+   "type": "fill",
+   "q": "There aren't ___ shops in my village. (much / many)",
+   "q_it": "Nel mio paese non ci sono molti negozi.",
+   "answers": [
+    "many"
+   ],
+   "hint": "shops = plural",
+   "why": "Shops is countable and plural: not many.",
+   "why_it": "Shops è countable plurale: not many."
+  },
+  {
+   "type": "mcq",
+   "q": "There is ___ noise at night, so I sleep badly.",
+   "q_it": "Di notte c'è molto rumore, quindi dormo male.",
+   "options": [
+    "many",
+    "a lot of",
+    "a few",
+    "an"
+   ],
+   "answer": 1,
+   "why": "Noise is uncountable. A lot of works with uncountable nouns, many does not.",
+   "why_it": "Noise è uncountable. A lot of va bene con gli uncountable, many no."
+  },
+  {
+   "type": "fill",
+   "q": "I haven't got ___ furniture in my room. (much / many)",
+   "q_it": "Non ho molti mobili nella mia camera.",
+   "answers": [
+    "much"
+   ],
+   "hint": "furniture is uncountable",
+   "why": "Furniture is uncountable: not much.",
+   "why_it": "Furniture è uncountable: not much."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "There",
+    "are",
+    "a",
+    "lot",
+    "of",
+    "trees",
+    "in",
+    "the",
+    "park"
+   ],
+   "answers": [
+    "There are a lot of trees in the park"
+   ],
+   "why": "There are + a lot of + plural noun, then the place.",
+   "why_it": "There are + a lot of + nome plurale, poi il luogo."
+  },
+  {
+   "type": "mcq",
+   "q": "The lamp hangs ___ the table, but it doesn't touch it.",
+   "q_it": "La lampada è appesa sopra il tavolo, ma non lo tocca.",
+   "options": [
+    "on",
+    "into",
+    "between",
+    "over"
+   ],
+   "answer": 3,
+   "why": "Over (or above) means higher up without touching. On means touching.",
+   "why_it": "Over (o above) significa più in alto, senza toccare. On significa a contatto."
+  },
+  {
+   "type": "fill",
+   "q": "My bed is ___ the window and the wardrobe.",
+   "q_it": "Il mio letto è tra la finestra e l'armadio.",
+   "answers": [
+    "between"
+   ],
+   "hint": "tra due cose",
+   "why": "Between is for two things, one on each side.",
+   "why_it": "Between si usa per due cose, una per lato."
+  },
+  {
+   "type": "fill",
+   "q": "The bank is ___ the post office, on the other side of the street.",
+   "q_it": "La banca è di fronte all'ufficio postale, dall'altra parte della strada.",
+   "answers": [
+    "opposite"
+   ],
+   "hint": "di fronte",
+   "why": "Opposite means facing something across a space.",
+   "why_it": "Opposite significa di fronte, con uno spazio in mezzo."
+  },
+  {
+   "type": "mcq",
+   "q": "I live ___ 15 Mill Road.",
+   "q_it": "Abito al numero 15 di Mill Road.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 2,
+   "why": "With a full address (a number and a street) we use at.",
+   "why_it": "Con un indirizzo completo (numero e via) si usa at."
+  },
+  {
+   "type": "fill",
+   "q": "My flat is ___ the third floor.",
+   "q_it": "Il mio appartamento è al terzo piano.",
+   "answers": [
+    "on"
+   ],
+   "hint": "un piano",
+   "why": "Floors take on: on the third floor.",
+   "why_it": "I piani vogliono on: on the third floor."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "The",
+    "bus",
+    "stop",
+    "is",
+    "next",
+    "to",
+    "the",
+    "library"
+   ],
+   "answers": [
+    "The bus stop is next to the library"
+   ],
+   "why": "Subject + is + next to + place.",
+   "why_it": "Soggetto + is + next to + luogo."
+  },
+  {
+   "type": "fill",
+   "q": "On Saturday I ___ (go) to the market with my sister.",
+   "q_it": "Sabato sono andato al mercato con mia sorella.",
+   "answers": [
+    "went"
+   ],
+   "hint": "irregolare",
+   "why": "Saturday is finished time, so past simple. Go is irregular: went.",
+   "why_it": "Sabato è un tempo finito, quindi past simple. Go è irregolare: went."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (not / watch) TV on Sunday.",
+   "q_it": "Domenica non abbiamo guardato la TV.",
+   "answers": [
+    "didn't watch",
+    "did not watch"
+   ],
+   "hint": "did + not",
+   "why": "Negative past simple: didn't + base verb.",
+   "why_it": "Negativa del past simple: didn't + verbo base."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "We",
+    "cooked",
+    "a",
+    "big",
+    "lunch",
+    "for",
+    "the",
+    "family"
+   ],
+   "answers": [
+    "We cooked a big lunch for the family"
+   ],
+   "why": "Subject + past verb + object + for ...",
+   "why_it": "Soggetto + verbo al passato + complemento + for ..."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct for a diary?",
+   "q_it": "Quale frase è corretta per un diario?",
+   "options": [
+    "Yesterday I have visited my aunt.",
+    "Yesterday I visited my aunt.",
+    "Yesterday I did visited my aunt.",
+    "Yesterday I visit my aunt."
+   ],
+   "answer": 1,
+   "why": "Yesterday is a finished time, so past simple. Not the present perfect, and not did + past.",
+   "why_it": "Yesterday è un tempo finito, quindi past simple. Non il present perfect, e non did + passato."
+  },
+  {
+   "type": "fill",
+   "q": "It ___ (be) sunny on Saturday, so we went to the beach.",
+   "q_it": "Sabato c'era il sole, quindi siamo andati in spiaggia.",
+   "answers": [
+    "was"
+   ],
+   "hint": "be al passato",
+   "why": "Be in the past: it was.",
+   "why_it": "Be al passato: it was."
+  },
+  {
+   "type": "fill",
+   "q": "What time ___ you get up on Sunday?",
+   "q_it": "A che ora ti sei alzato domenica?",
+   "answers": [
+    "did"
+   ],
+   "hint": "ausiliare",
+   "why": "Past question: did + subject + base verb.",
+   "why_it": "Domanda al passato: did + soggetto + verbo base."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence has a mistake?",
+   "q_it": "Quale frase ha un errore?",
+   "options": [
+    "We had pizza for dinner.",
+    "They stayed at home.",
+    "I didn't went out on Friday.",
+    "She bought a new coat."
+   ],
+   "answer": 2,
+   "why": "After didn't we use the base verb: I didn't go out.",
+   "why_it": "Dopo didn't si usa il verbo base: I didn't go out."
+  },
+  {
+   "type": "fill",
+   "q": "First I had a shower, ___ I had breakfast.",
+   "q_it": "Prima ho fatto la doccia, poi ho fatto colazione.",
+   "answers": [
+    "then",
+    "and then",
+    "after that"
+   ],
+   "hint": "poi",
+   "why": "Then (or after that) puts events in order.",
+   "why_it": "Then (o after that) mette gli eventi in ordine."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "Did",
+    "you",
+    "see",
+    "your",
+    "friends",
+    "at",
+    "the",
+    "weekend"
+   ],
+   "answers": [
+    "Did you see your friends at the weekend"
+   ],
+   "why": "Did + subject + base verb + the rest.",
+   "why_it": "Did + soggetto + verbo base + il resto."
+  },
+  {
+   "type": "mcq",
+   "q": "Yesterday I ___ my keys at the cinema.",
+   "q_it": "Ieri ho perso le chiavi al cinema.",
+   "options": [
+    "lost",
+    "have lost",
+    "was losing",
+    "lose"
+   ],
+   "answer": 0,
+   "why": "Yesterday is a definite time in the past: past simple.",
+   "why_it": "Yesterday è un momento passato definito: past simple."
+  },
+  {
+   "type": "mcq",
+   "q": "I've just ___ my room, so it looks tidy.",
+   "q_it": "Ho appena pulito la mia camera, quindi è in ordine.",
+   "options": [
+    "clean",
+    "cleaning",
+    "cleaned",
+    "cleans"
+   ],
+   "answer": 2,
+   "why": "Have just + past participle: the result is clear now.",
+   "why_it": "Have just + participio passato: il risultato si vede adesso."
+  },
+  {
+   "type": "fill",
+   "q": "We were having dinner ___ the phone rang.",
+   "q_it": "Stavamo cenando quando ha squillato il telefono.",
+   "answers": [
+    "when"
+   ],
+   "hint": "azione breve",
+   "why": "When introduces the short action (the phone rang) that interrupts the long one.",
+   "why_it": "When introduce l'azione breve (il telefono ha squillato) che interrompe quella lunga."
+  },
+  {
+   "type": "explain",
+   "title": "Your writing task",
+   "title_it": "Il tuo compito di scrittura",
+   "en": [
+    "Part 1. Describe your home or your street in six to eight sentences. Use there is / there are at least twice, a lot of once, not much or not many once, and two place prepositions.",
+    "Part 2. Write a diary about last weekend in six sentences. Use the past simple, one negative sentence and two linking words (first, then, after that).",
+    "Write on paper or in your notes app. This app does not correct your text, so read it again with the checklist and check each sentence.",
+    "If you want, share your text with a friend from the class and compare."
+   ],
+   "it": [
+    "Parte 1. Descrivi la tua casa o la tua strada in sei otto frasi. Usa there is / there are almeno due volte, a lot of una volta, not much o not many una volta e due preposizioni di luogo.",
+    "Parte 2. Scrivi un diario del weekend scorso in sei frasi. Usa il past simple, una frase negativa e due parole di collegamento (first, then, after that).",
+    "Scrivi su carta o nell'app note. L'app non corregge il testo, quindi rileggilo con la checklist e controlla ogni frase.",
+    "Se vuoi, condividi il testo con un compagno del corso e confrontatelo."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "living room",
+   "it": "soggiorno",
+   "ex": "The sofa is in the living room."
+  },
+  {
+   "id": "c2",
+   "en": "neighbourhood",
+   "it": "quartiere",
+   "ex": "My neighbourhood is very quiet."
+  },
+  {
+   "id": "c3",
+   "en": "wardrobe",
+   "it": "armadio",
+   "ex": "My clothes are in the wardrobe."
+  },
+  {
+   "id": "c4",
+   "en": "bookcase",
+   "it": "libreria",
+   "ex": "The lamp is next to the bookcase."
+  },
+  {
+   "id": "c5",
+   "en": "noisy",
+   "it": "rumoroso",
+   "ex": "The street is noisy at night."
+  },
+  {
+   "id": "c6",
+   "en": "a lot of",
+   "it": "molto / molti",
+   "ex": "There are a lot of cafes here."
+  },
+  {
+   "id": "c7",
+   "en": "on the second floor",
+   "it": "al secondo piano",
+   "ex": "They live on the second floor."
+  },
+  {
+   "id": "c8",
+   "en": "at the weekend",
+   "it": "nel fine settimana",
+   "ex": "At the weekend I see my friends."
+  },
+  {
+   "id": "c9",
+   "en": "first, then, after that",
+   "it": "prima, poi, dopo",
+   "ex": "First I shopped, then I cooked."
+  },
+  {
+   "id": "c10",
+   "en": "last weekend",
+   "it": "il weekend scorso",
+   "ex": "Last weekend we went to the lake."
+  }
+ ]
+}
