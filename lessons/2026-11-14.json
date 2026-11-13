@@ -1,0 +1,363 @@
+{
+  "title": "Weekly check: past simple, past continuous and present perfect",
+  "title_it": "Verifica della settimana: past simple, past continuous e present perfect",
+  "goal": "Check the week: choose between past simple, past continuous and present perfect, plus place words, question words, countable and uncountable nouns, and a short reading.",
+  "goal_it": "Verificare la settimana: scelta tra past simple, past continuous e present perfect, più parole di luogo, parole interrogative, countable e uncountable e una breve lettura.",
+  "minutes": 60,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Weekly check",
+      "title_it": "Verifica della settimana",
+      "en": [
+        "Well done for working all week! This check has 20 points: 16 grammar questions and 4 reading questions. Take your time, answer on your own and read each explanation afterwards.",
+        "Topics: past simple, past continuous and present perfect (the most important part: which tense, and why), plus in / on / at and place words, question words, and countable and uncountable nouns."
+      ],
+      "it": [
+        "Bravi per il lavoro di tutta la settimana! Questa verifica vale 20 punti: 16 domande di grammatica e 4 di comprensione. Prenditi il tuo tempo, rispondi da solo e leggi ogni spiegazione dopo.",
+        "Argomenti: past simple, past continuous e present perfect (la parte più importante: quale tempo e perché), più in / on / at e parole di luogo, parole interrogative, countable e uncountable."
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "I ___ to the cinema last night.",
+      "q_it": "Sono andato al cinema ieri sera.",
+      "options": [
+        "have been",
+        "was going",
+        "go",
+        "went"
+      ],
+      "answer": 3,
+      "why": "Last night is a finished time in the past: past simple. Not the present perfect (no finished time words with it), and not the past continuous (the action is complete, not in progress).",
+      "why_it": "Last night è un momento finito nel passato: past simple. Non present perfect (con un tempo finito non si usa) e non past continuous (l'azione è completa, non in corso)."
+    },
+    {
+      "type": "mcq",
+      "q": "I ___ my keys, so I can't open the door.",
+      "q_it": "Ho perso le chiavi, quindi non riesco ad aprire la porta.",
+      "options": [
+        "lost",
+        "have lost",
+        "was losing",
+        "am losing"
+      ],
+      "answer": 1,
+      "why": "We are talking about a result now: I don't have the keys at this moment. That link with the present needs the present perfect. The past simple would only say when it happened.",
+      "why_it": "Parliamo di un risultato adesso: ora non ho le chiavi. Questo collegamento con il presente vuole il present perfect. Il past simple direbbe solo che è successo nel passato."
+    },
+    {
+      "type": "fill",
+      "q": "While we ___ home, it started to rain.",
+      "q_it": "Mentre tornavamo a casa, ha iniziato a piovere.",
+      "answers": [
+        "were walking"
+      ],
+      "hint": "walk",
+      "why": "While introduces an action in progress when another action happened: past continuous (were walking). The rain starting is the short action: past simple.",
+      "why_it": "While introduce un'azione in corso quando ne è successa un'altra: past continuous (were walking). L'inizio della pioggia è l'azione breve: past simple."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "I have seen him yesterday.",
+        "I was seeing him yesterday.",
+        "I saw him yesterday.",
+        "I have saw him yesterday."
+      ],
+      "answer": 2,
+      "why": "Yesterday is a finished time, so we use the past simple: saw. The present perfect never goes with yesterday.",
+      "why_it": "Yesterday è un tempo finito, quindi si usa il past simple: saw. Il present perfect non va mai con yesterday."
+    },
+    {
+      "type": "fill",
+      "q": "Sara isn't here. She ___ to the bank.",
+      "q_it": "Sara non è qui. È andata in banca (ed è ancora là).",
+      "answers": [
+        "has gone",
+        "'s gone"
+      ],
+      "hint": "go",
+      "why": "She is not here now, so the result matters now: present perfect. Has gone means she went and she is still there (been would mean she came back).",
+      "why_it": "Ora non è qui, quindi conta il risultato adesso: present perfect. Has gone significa che è andata ed è ancora là (been vorrebbe dire che è tornata)."
+    },
+    {
+      "type": "mcq",
+      "q": "At eight o'clock last night, they ___ dinner.",
+      "q_it": "Alle otto di ieri sera stavano cenando.",
+      "options": [
+        "have had",
+        "are having",
+        "has",
+        "were having"
+      ],
+      "answer": 3,
+      "why": "At a precise moment in the past the action was in progress: past continuous. Not the present perfect (finished past time) and not are having (present).",
+      "why_it": "A un momento preciso del passato l'azione era in corso: past continuous. Non il present perfect (tempo passato finito) e non are having (presente)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence has a mistake?",
+      "q_it": "Quale frase ha un errore?",
+      "options": [
+        "I've just finished my homework.",
+        "We were watching TV when the phone rang.",
+        "She has visited Rome last summer.",
+        "Did you see Tom yesterday?"
+      ],
+      "answer": 2,
+      "why": "Last summer is a finished time, so it needs the past simple: She visited Rome last summer. The other three sentences use the right tense.",
+      "why_it": "Last summer è un tempo finito, quindi serve il past simple: She visited Rome last summer. Le altre tre frasi usano il tempo giusto."
+    },
+    {
+      "type": "fill",
+      "q": "I ___ that film yet. Is it good?",
+      "q_it": "Non ho ancora visto quel film. È bello?",
+      "answers": [
+        "haven't seen",
+        "have not seen"
+      ],
+      "hint": "not see",
+      "why": "Yet with a negative sentence points to now, with no finished time: present perfect (haven't seen). The past simple would not link the situation to the present.",
+      "why_it": "Yet in una frase negativa guarda a oggi, senza un tempo finito: present perfect (haven't seen). Il past simple non collegherebbe la situazione al presente."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la frase: stava cucinando quando la sorella ha chiamato.",
+      "words": [
+        "He",
+        "was",
+        "cooking",
+        "when",
+        "his",
+        "sister",
+        "called"
+      ],
+      "answers": [
+        "He was cooking when his sister called"
+      ],
+      "why": "The long action (was cooking) is in progress, and the short action (called) interrupts it: past continuous + when + past simple.",
+      "why_it": "L'azione lunga (was cooking) è in corso e quella breve (called) la interrompe: past continuous + when + past simple."
+    },
+    {
+      "type": "mcq",
+      "q": "The bank is ___ the post office and the library.",
+      "q_it": "La banca è tra l'ufficio postale e la biblioteca.",
+      "options": [
+        "opposite",
+        "between",
+        "behind",
+        "under"
+      ],
+      "answer": 1,
+      "why": "Between means in the middle of two things. Opposite is on the other side of the street, behind is at the back.",
+      "why_it": "Between significa in mezzo a due cose. Opposite è dall'altra parte della strada, behind è dietro."
+    },
+    {
+      "type": "fill",
+      "q": "We arrived ___ the station at six o'clock.",
+      "q_it": "Siamo arrivati alla stazione alle sei.",
+      "answers": [
+        "at"
+      ],
+      "hint": "in / on / at",
+      "why": "The station is a point where we meet or wait: at. After arrive we use at for a place like a station or the airport.",
+      "why_it": "La stazione è un punto preciso dove ci si ferma: at. Dopo arrive si usa at per luoghi come la stazione o l'aeroporto."
+    },
+    {
+      "type": "mcq",
+      "q": "___ umbrella is this? It isn't mine.",
+      "q_it": "Di chi è questo ombrello? Non è mio.",
+      "options": [
+        "Which",
+        "Who",
+        "Where",
+        "Whose"
+      ],
+      "answer": 3,
+      "why": "Whose asks about the owner (di chi). Which is for a choice, who asks about a person, where asks about a place.",
+      "why_it": "Whose chiede il proprietario (di chi). Which è per una scelta, who chiede una persona, where un luogo."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la domanda: quanto spesso vai in palestra?",
+      "words": [
+        "How",
+        "often",
+        "do",
+        "you",
+        "go",
+        "to",
+        "the",
+        "gym"
+      ],
+      "answers": [
+        "How often do you go to the gym"
+      ],
+      "why": "Question word + auxiliary + subject + verb: How often do you go...? How often asks about frequency.",
+      "why_it": "Parola interrogativa + ausiliare + soggetto + verbo: How often do you go...? How often chiede la frequenza."
+    },
+    {
+      "type": "mcq",
+      "q": "There isn't ___ milk in the fridge.",
+      "q_it": "Non c'è molto latte nel frigo.",
+      "options": [
+        "many",
+        "a",
+        "much",
+        "few"
+      ],
+      "answer": 2,
+      "why": "Milk is uncountable, so we use much (many is for countable plurals). We cannot use a with milk.",
+      "why_it": "Milk è uncountable, quindi si usa much (many è per i countable plurali). Con milk non si usa a."
+    },
+    {
+      "type": "fill",
+      "q": "Have we got ___ bread? I want to make a sandwich.",
+      "q_it": "Abbiamo del pane? Voglio fare un panino.",
+      "answers": [
+        "any"
+      ],
+      "hint": "some / any",
+      "why": "In a question we normally use any with uncountable nouns like bread.",
+      "why_it": "In una domanda di solito si usa any con i nomi uncountable come bread."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "I need an advice.",
+        "I need some advice.",
+        "I need some advices.",
+        "I need advices."
+      ],
+      "answer": 1,
+      "why": "Advice is uncountable: no a/an and no plural. We say some advice (or a piece of advice).",
+      "why_it": "Advice è uncountable: niente a/an e niente plurale. Si dice some advice (oppure a piece of advice)."
+    },
+    {
+      "type": "explain",
+      "title": "Read the text",
+      "title_it": "Leggi il testo",
+      "en": [
+        "Last weekend Ben went to Edinburgh to see his friend Kate. His train left at nine o'clock and he arrived at noon. While he was waiting at the station, Kate called him. \"I'm sorry,\" she said, \"I'm stuck in traffic.\" Ben decided to have a coffee. He has been to Edinburgh twice before, so he knew a nice café opposite the station. There were not many people there and he sat next to the window. Kate arrived twenty minutes later. She has just moved into a new flat near the castle, and in the afternoon they walked there together. It was a lovely weekend.",
+        "Now answer the four questions."
+      ],
+      "it": [
+        "Lo scorso weekend Ben è andato a Edimburgo a trovare la sua amica Kate. Il suo treno è partito alle nove ed è arrivato a mezzogiorno. Mentre aspettava alla stazione, Kate lo ha chiamato. \"Mi dispiace,\" ha detto, \"sono bloccata nel traffico.\" Ben ha deciso di prendere un caffè. È già stato a Edimburgo due volte, quindi conosceva un bel bar di fronte alla stazione. Non c'erano molte persone e si è seduto accanto alla finestra. Kate è arrivata venti minuti dopo. Ha appena traslocato in un nuovo appartamento vicino al castello e nel pomeriggio ci sono andati a piedi insieme. È stato un bel weekend.",
+        "Ora rispondi alle quattro domande."
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "Why was Kate late?",
+      "q_it": "Perché Kate era in ritardo?",
+      "options": [
+        "Her train was late",
+        "She forgot the day",
+        "She was stuck in traffic",
+        "She was at the castle"
+      ],
+      "answer": 2,
+      "why": "Kate said she was stuck in traffic.",
+      "why_it": "Kate ha detto di essere bloccata nel traffico."
+    },
+    {
+      "type": "mcq",
+      "q": "What was Ben doing when Kate called?",
+      "q_it": "Che cosa stava facendo Ben quando Kate ha chiamato?",
+      "options": [
+        "Waiting at the station",
+        "Drinking a coffee",
+        "Sitting in a café",
+        "Walking to the castle"
+      ],
+      "answer": 0,
+      "why": "The text says: while he was waiting at the station, Kate called him. The coffee came after.",
+      "why_it": "Il testo dice: mentre aspettava alla stazione, Kate lo ha chiamato. Il caffè è venuto dopo."
+    },
+    {
+      "type": "mcq",
+      "q": "Is this Ben's first visit to Edinburgh?",
+      "q_it": "È la prima visita di Ben a Edimburgo?",
+      "options": [
+        "Yes, it is his first visit",
+        "No, he has been there twice before",
+        "No, he lives there",
+        "We cannot know"
+      ],
+      "answer": 1,
+      "why": "The text says he has been to Edinburgh twice before.",
+      "why_it": "Il testo dice che è già stato a Edimburgo due volte."
+    },
+    {
+      "type": "mcq",
+      "q": "Where is Kate's new flat?",
+      "q_it": "Dov'è il nuovo appartamento di Kate?",
+      "options": [
+        "Opposite the station",
+        "Next to the café",
+        "Between the station and the café",
+        "Near the castle"
+      ],
+      "answer": 3,
+      "why": "She has just moved into a new flat near the castle.",
+      "why_it": "Ha appena traslocato in un nuovo appartamento vicino al castello."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "present perfect: result now",
+      "it": "present perfect: risultato adesso",
+      "ex": "I've lost my keys."
+    },
+    {
+      "id": "c2",
+      "en": "yesterday / last night + past simple",
+      "it": "yesterday e last night vogliono il past simple",
+      "ex": "I saw him yesterday."
+    },
+    {
+      "id": "c3",
+      "en": "while + past continuous",
+      "it": "while con il past continuous",
+      "ex": "While we were walking, it rained."
+    },
+    {
+      "id": "c4",
+      "en": "been / gone",
+      "it": "been (tornato) / gone (ancora là)",
+      "ex": "She has gone to the bank."
+    },
+    {
+      "id": "c5",
+      "en": "just / already / yet",
+      "it": "appena / già / ancora (non)",
+      "ex": "I haven't seen it yet."
+    },
+    {
+      "id": "c6",
+      "en": "Whose ...?",
+      "it": "Di chi ...?",
+      "ex": "Whose umbrella is this?"
+    },
+    {
+      "id": "c7",
+      "en": "much + uncountable",
+      "it": "much con gli uncountable",
+      "ex": "There isn't much milk."
+    },
+    {
+      "id": "c8",
+      "en": "some advice",
+      "it": "some advice (mai an advice)",
+      "ex": "I need some advice."
+    }
+  ]
+}

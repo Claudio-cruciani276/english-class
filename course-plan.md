@@ -152,6 +152,7 @@ Esempi originali con una scena di stanza (la lampada e' sopra il tavolo, il gatt
 | 2026-11-11 mer | listening | Un nuovo appartamento (telefonata Emma e Jack) | there is/are, preposizioni di luogo (on, between, above, next to, opposite, close to), past simple del trasloco; 16 esercizi |
 | 2026-11-12 gio | grammatica | Present perfect 1 | been/gone, just/already/yet; countable e uncountable (a/an, some/any, much/many/a lot of); schermata di confronto tra i tre tempi passati; blocco misto di scelta del tempo; ripasso past simple, past continuous, how often. 26 esercizi |
 | 2026-11-13 ven | writing | Descrivere casa o quartiere e diario del weekend | there is/are, a lot of / much / many, preposizioni di luogo (between, opposite, next to, at/on/in), past simple del diario, linkers (first, then, after that); due testi modello, checklist, 25 esercizi, compito libero (non corretto dall'app) |
+| 2026-11-14 sab | verifica | Past simple, past continuous, present perfect (scelta del tempo) | 9 esercizi su scelta del tempo (indizi yesterday/last night/while/yet/just, risultato adesso, been/gone, errore da correggere, order con when); poi between/at di luogo, whose, how often, much, some/any, advice; testo su Ben a Edimburgo con 4 domande. 20 punti |
 
 Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vestiti, dal medico e in farmacia. Canzoni già fatte: Young and Beautiful, Yellow (settimana 2-8 novembre), This Is the Life, Starlight (settimana 9-15 novembre).
 
