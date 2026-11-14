@@ -1,0 +1,580 @@
+{
+  "title": "Sunday review: past simple, past continuous and present perfect",
+  "title_it": "Ripasso della domenica: past simple, past continuous e present perfect",
+  "goal": "Review the week: choose between the three tenses, avoid the common traps, and listen to something light.",
+  "goal_it": "Ripassare la settimana: scegliere tra i tre tempi, evitare le trappole più comuni e ascoltare qualcosa di leggero.",
+  "minutes": 60,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Sunday review",
+      "title_it": "Ripasso della domenica",
+      "en": [
+        "Welcome to the Sunday review. You have one hour, but you can take it in two parts. This week we studied the past simple, the past continuous and the present perfect, plus in / on / at of place, question words and countable and uncountable nouns.",
+        "We start with the choice between the three tenses, because it is the most important point and the hardest for Italian speakers. If you made a mistake with a tense in yesterday's check, pay special attention to the first exercises. Then we mix everything, listen to something light, and finish with a short reflection in English."
+      ],
+      "it": [
+        "Benvenuti al ripasso della domenica. Avete un'ora, ma potete farlo in due parti. Questa settimana abbiamo studiato past simple, past continuous e present perfect, più in / on / at di luogo, parole interrogative e countable e uncountable.",
+        "Partiamo dalla scelta tra i tre tempi, perché è il punto più importante e il più difficile per chi parla italiano. Se ieri nella verifica hai sbagliato un tempo verbale, fai particolare attenzione ai primi esercizi. Poi mescoliamo tutto, ascoltiamo qualcosa di leggero e chiudiamo con una breve riflessione in inglese."
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Which tense? Look at the clue",
+      "title_it": "Quale tempo? Guarda l'indizio",
+      "en": [
+        "Before you answer, look for a clue. The clue tells you which tense to choose.",
+        "Remember: the Italian passato prossimo can mean two different things, so we must choose between the past simple and the present perfect in English."
+      ],
+      "it": [
+        "Prima di rispondere cerca l'indizio: ti dice quale tempo scegliere.",
+        "Ricorda: il passato prossimo italiano può avere due significati diversi, quindi in inglese bisogna scegliere tra past simple e present perfect."
+      ],
+      "table": {
+        "head": [
+          "Past simple",
+          "Past continuous",
+          "Present perfect"
+        ],
+        "rows": [
+          [
+            "finished action at a definite time in the past",
+            "action in progress at a moment in the past; background; interrupted action",
+            "connection with now; no definite time"
+          ],
+          [
+            "yesterday, last night, two days ago, in 2019, when I was a child",
+            "at eight o'clock last night, while, when (something happened)",
+            "just, already, yet, ever, never, so far, this week, today"
+          ],
+          [
+            "I saw Tom yesterday.",
+            "I was cooking when Tom called.",
+            "I have seen Tom today."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I lost my keys last week, but I found them on Monday.",
+          "it": "Ho perso le chiavi la settimana scorsa, ma le ho trovate lunedì (tempo finito: past simple)."
+        },
+        {
+          "en": "While I was waiting for the bus, I met an old friend.",
+          "it": "Mentre aspettavo l'autobus, ho incontrato un vecchio amico (azione in corso e azione breve)."
+        },
+        {
+          "en": "I've lost my keys, so I can't get in.",
+          "it": "Ho perso le chiavi, quindi non posso entrare (risultato adesso: present perfect)."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Four traps to avoid",
+      "title_it": "Quattro trappole da evitare",
+      "en": [
+        "Trap 1: with did / didn't the verb stays in the base form. We say Did you go? and I didn't go, not Did you went? or I didn't went.",
+        "Trap 2: with a finished time (yesterday, last year, in 2019, three days ago) we do NOT use the present perfect. We say I saw him yesterday, not I have seen him yesterday.",
+        "Trap 3: been = has gone and come back (I've been to Rome: I was there and now I am here); gone = is still there (She's gone to Rome: she is not here now).",
+        "Trap 4: when and while. While goes with the long action in progress (while I was cooking); when often introduces the short action (when the phone rang). Also remember: question words need nothing before them, and the preposition goes at the end (Who are you talking to?)."
+      ],
+      "it": [
+        "Trappola 1: dopo did / didn't il verbo resta alla forma base. Si dice Did you go? e I didn't go, non Did you went? né I didn't went.",
+        "Trappola 2: con un tempo finito (yesterday, last year, in 2019, three days ago) NON si usa il present perfect. Si dice I saw him yesterday, non I have seen him yesterday.",
+        "Trappola 3: been = è andato ed è tornato (I've been to Rome: ci sono stato e ora sono qui); gone = è ancora là (She's gone to Rome: ora non è qui).",
+        "Trappola 4: when e while. While va con l'azione lunga in corso (while I was cooking); when spesso introduce l'azione breve (when the phone rang). Ricorda anche: le parole interrogative non vogliono nulla davanti e la preposizione va in fondo (Who are you talking to?)."
+      ],
+      "examples": [
+        {
+          "en": "We didn't see the match last night.",
+          "it": "Ieri sera non abbiamo visto la partita."
+        },
+        {
+          "en": "Have you ever been to Scotland?",
+          "it": "Sei mai stato in Scozia?"
+        },
+        {
+          "en": "Where have you been? I was worried.",
+          "it": "Dove sei stato? Ero preoccupato."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "We ___ a great film last night.",
+      "q_it": "Ieri sera abbiamo visto un bel film.",
+      "options": [
+        "have seen",
+        "saw",
+        "were seeing",
+        "see"
+      ],
+      "answer": 1,
+      "why": "Last night is a finished time, so we use the past simple: saw.",
+      "why_it": "Last night è un tempo finito, quindi past simple: saw."
+    },
+    {
+      "type": "fill",
+      "q": "I ___ my phone, so I can't call you.",
+      "q_it": "Ho perso il telefono, quindi non posso chiamarti.",
+      "answers": [
+        "have lost",
+        "'ve lost"
+      ],
+      "hint": "lose, I",
+      "why": "No time is given and the result is true now (I have no phone): present perfect.",
+      "why_it": "Nessun tempo indicato e il risultato vale adesso (non ho il telefono): present perfect."
+    },
+    {
+      "type": "mcq",
+      "q": "While I ___ a bath, the phone rang.",
+      "q_it": "Mentre facevo il bagno, il telefono ha squillato.",
+      "options": [
+        "had",
+        "have had",
+        "am having",
+        "was having"
+      ],
+      "answer": 3,
+      "why": "While introduces a long action in progress in the past, interrupted by a short one: past continuous.",
+      "why_it": "While introduce un'azione lunga in corso nel passato, interrotta da una breve: past continuous."
+    },
+    {
+      "type": "fill",
+      "q": "She didn't ___ to the party last Saturday.",
+      "q_it": "Sabato scorso non è andata alla festa.",
+      "answers": [
+        "go"
+      ],
+      "hint": "go",
+      "why": "After didn't the verb is in the base form: didn't go.",
+      "why_it": "Dopo didn't il verbo è alla forma base: didn't go."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "I have seen her yesterday.",
+        "I was seeing her yesterday.",
+        "I saw her yesterday.",
+        "I have saw her yesterday."
+      ],
+      "answer": 2,
+      "why": "Yesterday is a finished time: past simple. Never use the present perfect with yesterday.",
+      "why_it": "Yesterday è un tempo finito: past simple. Mai present perfect con yesterday."
+    },
+    {
+      "type": "fill",
+      "q": "Have you ever ___ to Scotland?",
+      "q_it": "Sei mai stato in Scozia?",
+      "answers": [
+        "been"
+      ],
+      "hint": "be",
+      "why": "Ever shows life experience up to now: present perfect, and the past participle of be is been.",
+      "why_it": "Ever indica un'esperienza di vita fino a ora: present perfect, e il participio di be è been."
+    },
+    {
+      "type": "mcq",
+      "q": "Tom isn't at home. He ___ to the supermarket.",
+      "q_it": "Tom non è a casa. È andato al supermercato.",
+      "options": [
+        "has been",
+        "has gone",
+        "went",
+        "was going"
+      ],
+      "answer": 1,
+      "why": "He is still at the supermarket now, so we use has gone. Has been would mean he went and came back.",
+      "why_it": "È ancora al supermercato adesso, quindi has gone. Has been vorrebbe dire che è andato ed è tornato."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la domanda.",
+      "words": [
+        "What",
+        "were",
+        "you",
+        "doing",
+        "when",
+        "I",
+        "called"
+      ],
+      "answers": [
+        "What were you doing when I called"
+      ],
+      "why": "A question about an action in progress when another action happened: past continuous (were doing) + when + past simple (called).",
+      "why_it": "Domanda su un'azione in corso quando ne è successa un'altra: past continuous (were doing) + when + past simple (called)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence has a mistake?",
+      "q_it": "Quale frase contiene un errore?",
+      "options": [
+        "Did you enjoy the concert?",
+        "I have just finished my homework.",
+        "We were eating when the phone rang.",
+        "She didn't went to work on Friday."
+      ],
+      "answer": 3,
+      "why": "After didn't the verb has no past form: She didn't go to work on Friday.",
+      "why_it": "Dopo didn't il verbo non va al passato: She didn't go to work on Friday."
+    },
+    {
+      "type": "fill",
+      "q": "I haven't finished my homework ___.",
+      "q_it": "Non ho ancora finito i compiti.",
+      "answers": [
+        "yet"
+      ],
+      "hint": "yet / already",
+      "why": "Yet goes at the end of negative sentences and questions with the present perfect: not finished until now.",
+      "why_it": "Yet va in fondo alle frasi negative e alle domande con il present perfect: non finito fino a ora."
+    },
+    {
+      "type": "fill",
+      "q": "I'm so happy! I ___ just passed my driving test.",
+      "q_it": "Sono così felice! Ho appena preso la patente.",
+      "answers": [
+        "have",
+        "'ve"
+      ],
+      "hint": "have / has",
+      "why": "Just (a moment ago) goes with the present perfect: I have just passed.",
+      "why_it": "Just (un attimo fa) va con il present perfect: I have just passed."
+    },
+    {
+      "type": "mcq",
+      "q": "The lamp is ___ the table. It hangs from the ceiling and does not touch it.",
+      "q_it": "La lampada è sopra il tavolo. Pende dal soffitto e non lo tocca.",
+      "options": [
+        "on",
+        "in",
+        "over",
+        "onto"
+      ],
+      "answer": 2,
+      "why": "Over means above, without touching. On means touching the surface.",
+      "why_it": "Over significa sopra, senza toccare. On significa sopra a contatto."
+    },
+    {
+      "type": "fill",
+      "q": "The cat is sleeping ___ the chair. I can see it on the floor.",
+      "q_it": "Il gatto dorme sotto la sedia. Lo vedo sul pavimento.",
+      "answers": [
+        "under",
+        "underneath",
+        "below"
+      ],
+      "hint": "under",
+      "why": "Under means lower than something, in a vertical position or covered by it.",
+      "why_it": "Under significa più in basso di qualcosa, in verticale o coperto da esso."
+    },
+    {
+      "type": "mcq",
+      "q": "The bank is ___ the post office. They are on opposite sides of the street.",
+      "q_it": "La banca è di fronte all'ufficio postale. Sono sui due lati opposti della strada.",
+      "options": [
+        "next to",
+        "between",
+        "behind",
+        "opposite"
+      ],
+      "answer": 3,
+      "why": "Opposite means facing something on the other side.",
+      "why_it": "Opposite significa di fronte, dall'altra parte."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la domanda.",
+      "words": [
+        "Where",
+        "did",
+        "you",
+        "go",
+        "on",
+        "holiday",
+        "last",
+        "summer"
+      ],
+      "answers": [
+        "Where did you go on holiday last summer"
+      ],
+      "why": "Last summer is finished, so the question uses did + subject + base verb.",
+      "why_it": "Last summer è finito, quindi la domanda usa did + soggetto + verbo base."
+    },
+    {
+      "type": "fill",
+      "q": "___ coat is this? Is it yours or Mia's?",
+      "q_it": "Di chi è questo cappotto? È tuo o di Mia?",
+      "answers": [
+        "Whose"
+      ],
+      "hint": "who / whose / which",
+      "why": "Whose asks who something belongs to.",
+      "why_it": "Whose chiede a chi appartiene qualcosa."
+    },
+    {
+      "type": "mcq",
+      "q": "___ does the journey take? About two hours.",
+      "q_it": "Quanto dura il viaggio? Circa due ore.",
+      "options": [
+        "How far",
+        "How much",
+        "How often",
+        "How long"
+      ],
+      "answer": 3,
+      "why": "How long asks about the duration of something.",
+      "why_it": "How long chiede la durata di qualcosa."
+    },
+    {
+      "type": "fill",
+      "q": "We haven't got ___ milk. Let's go to the shop.",
+      "q_it": "Non abbiamo latte. Andiamo al negozio.",
+      "answers": [
+        "any"
+      ],
+      "hint": "some / any",
+      "why": "Milk is uncountable. In a negative sentence we use any.",
+      "why_it": "Milk è uncountable. In una frase negativa si usa any."
+    },
+    {
+      "type": "mcq",
+      "q": "How ___ people came to the party?",
+      "q_it": "Quante persone sono venute alla festa?",
+      "options": [
+        "much",
+        "any",
+        "many",
+        "a lot"
+      ],
+      "answer": 2,
+      "why": "People is countable and plural, so we use how many.",
+      "why_it": "People è countable plurale, quindi how many."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "She gave me a good advice.",
+        "She gave me some good advices.",
+        "She gave me good advices.",
+        "She gave me some good advice."
+      ],
+      "answer": 3,
+      "why": "Advice is uncountable: no a / an and no plural.",
+      "why_it": "Advice è uncountable: niente a / an e niente plurale."
+    },
+    {
+      "type": "fill",
+      "q": "There isn't ___ sugar left. Can you buy some?",
+      "q_it": "Non c'è più zucchero. Puoi comprarne un po'?",
+      "answers": [
+        "much",
+        "any"
+      ],
+      "hint": "much / any",
+      "why": "Sugar is uncountable: in a negative sentence we use much or any.",
+      "why_it": "Sugar è uncountable: in una frase negativa si usa much o any."
+    },
+    {
+      "type": "mcq",
+      "q": "Where ___ last weekend?",
+      "q_it": "Dove sei andato lo scorso weekend?",
+      "options": [
+        "do you go",
+        "are you going",
+        "have you been",
+        "did you go"
+      ],
+      "answer": 3,
+      "why": "Last weekend is finished, so the question is in the past simple: did you go.",
+      "why_it": "Last weekend è finito, quindi la domanda è al past simple: did you go."
+    },
+    {
+      "type": "order",
+      "q": "Build the sentence.",
+      "q_it": "Costruisci la domanda.",
+      "words": [
+        "Have",
+        "you",
+        "ever",
+        "been",
+        "to",
+        "London"
+      ],
+      "answers": [
+        "Have you ever been to London"
+      ],
+      "why": "Ever asks about experience up to now: present perfect question, have + subject + past participle.",
+      "why_it": "Ever chiede di esperienze fino a ora: domanda al present perfect, have + soggetto + participio."
+    },
+    {
+      "type": "mcq",
+      "q": "I ___ TV when the lights ___ out.",
+      "q_it": "Guardavo la TV quando si sono spente le luci.",
+      "options": [
+        "watched / went",
+        "watched / was going",
+        "was watching / was going",
+        "was watching / went"
+      ],
+      "answer": 3,
+      "why": "The long action in progress is past continuous (was watching); the short action that interrupted it is past simple (went).",
+      "why_it": "L'azione lunga in corso è past continuous (was watching); l'azione breve che l'ha interrotta è past simple (went)."
+    },
+    {
+      "type": "fill",
+      "q": "Last year we ___ to Spain for our holiday.",
+      "q_it": "L'anno scorso siamo andati in Spagna per le vacanze.",
+      "answers": [
+        "went"
+      ],
+      "hint": "go",
+      "why": "Last year is a finished time: past simple. Go is irregular: went.",
+      "why_it": "Last year è un tempo finito: past simple. Go è irregolare: went."
+    },
+    {
+      "type": "fill",
+      "q": "Look! It ___ outside.",
+      "q_it": "Guarda! Fuori sta nevicando.",
+      "answers": [
+        "is snowing",
+        "'s snowing"
+      ],
+      "hint": "snow + ing",
+      "why": "Look! shows it is happening now: present continuous.",
+      "why_it": "Look! indica che succede adesso: present continuous."
+    },
+    {
+      "type": "mcq",
+      "q": "Liam usually ___ coffee, but this morning he ___ tea.",
+      "q_it": "Liam di solito beve caffè, ma stamattina beve tè.",
+      "options": [
+        "drinks / drinks",
+        "is drinking / drinks",
+        "drinks / is drinking",
+        "drink / is drinking"
+      ],
+      "answer": 2,
+      "why": "Usually shows a habit (present simple); this morning, with something different happening now, takes the present continuous.",
+      "why_it": "Usually indica un'abitudine (present simple); this morning, con qualcosa di diverso che sta succedendo, vuole il present continuous."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "I have been to Paris last year.",
+        "I was going to Paris last year.",
+        "I have gone to Paris last year.",
+        "I went to Paris last year."
+      ],
+      "answer": 3,
+      "why": "Last year is a finished time, so only the past simple works: went.",
+      "why_it": "Last year è un tempo finito, quindi funziona solo il past simple: went."
+    },
+    {
+      "type": "explain",
+      "title": "Light listening for this Sunday",
+      "title_it": "Ascolto leggero della domenica",
+      "en": [
+        "Choose one or two of these, only if you feel like it. Do not worry about understanding every word: listen for the verbs in the past.",
+        "Podcast: 6 Minute English by BBC Learning English. Short episodes about everyday topics, with a clear presenter and a short quiz. Notice how people tell what happened and what they have done.",
+        "Audio series: Big City Small World by the British Council (link below). Short episodes about people living in a city, perfect for the B1 level.",
+        "Film: Notting Hill (1999), in English with English subtitles if you can. Watch 15 minutes and note two things that happened in the past and one thing someone has done recently.",
+        "Song, guided listening only: Viva la Vida by Coldplay. Listen once and count how many past verbs you can hear. Do not look for the words on the internet; just listen and enjoy."
+      ],
+      "it": [
+        "Scegliete una o due di queste proposte, solo se ne avete voglia. Non preoccupatevi di capire ogni parola: ascoltate i verbi al passato.",
+        "Podcast: 6 Minute English di BBC Learning English. Episodi brevi su temi quotidiani, con un conduttore chiaro e un piccolo quiz. Notate come le persone raccontano che cosa è successo e che cosa hanno fatto.",
+        "Serie audio: Big City Small World del British Council (link sotto). Episodi brevi su persone che vivono in una città, perfetti per il livello B1.",
+        "Film: Notting Hill (1999), in inglese con sottotitoli in inglese se possibile. Guardate 15 minuti e annotate due cose successe nel passato e una cosa che qualcuno ha fatto di recente.",
+        "Canzone, solo ascolto guidato: Viva la Vida dei Coldplay. Ascoltatela una volta e contate quanti verbi al passato riuscite a sentire. Non cercate il testo su internet: ascoltate e godetevela."
+      ],
+      "links": [
+        {
+          "label": "British Council LearnEnglish: B1 listening",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/listening/b1",
+          "note": "Listening practice at B1 level."
+        },
+        {
+          "label": "Big City Small World",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/general/audio-series/bcsw",
+          "note": "Audio series by the British Council."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Your reflection (write in English)",
+      "title_it": "La tua riflessione (scrivi in inglese)",
+      "en": [
+        "Take five minutes and write four or five sentences in your notes. This is not corrected by the app; read it aloud once to practise.",
+        "1. What was the easiest thing this week? 2. What is still difficult: the choice between past simple and present perfect, the past continuous with when / while, or the irregular verbs? 3. Write two sentences about what you did last weekend and one about something you have done this week.",
+        "Example: This week I learned that I must not use the present perfect with yesterday. Last weekend I went to the cinema, and I have already watched two films this week."
+      ],
+      "it": [
+        "Prendetevi cinque minuti e scrivete quattro o cinque frasi nelle note. L'app non le corregge: leggetele ad alta voce una volta per esercitarvi.",
+        "1. Qual è stata la cosa più facile questa settimana? 2. Che cosa è ancora difficile: la scelta tra past simple e present perfect, il past continuous con when / while, o i verbi irregolari? 3. Scrivete due frasi su cosa avete fatto lo scorso weekend e una su qualcosa che avete fatto questa settimana.",
+        "Esempio: This week I learned that I must not use the present perfect with yesterday. Last weekend I went to the cinema, and I have already watched two films this week."
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "past simple",
+      "it": "finito, momento definito: yesterday, last night, ago",
+      "ex": "I saw Tom yesterday."
+    },
+    {
+      "id": "c2",
+      "en": "past continuous",
+      "it": "in corso nel passato: was / were + -ing",
+      "ex": "I was cooking at eight."
+    },
+    {
+      "id": "c3",
+      "en": "present perfect",
+      "it": "collegamento con adesso: have / has + participio",
+      "ex": "I've lost my keys."
+    },
+    {
+      "id": "c4",
+      "en": "when / while",
+      "it": "while + azione lunga; when + azione breve",
+      "ex": "While I was walking, it rained."
+    },
+    {
+      "id": "c5",
+      "en": "been / gone",
+      "it": "been = tornato; gone = ancora là",
+      "ex": "She's gone to Rome."
+    },
+    {
+      "id": "c6",
+      "en": "just / already / yet",
+      "it": "just = appena; already = già; yet = ancora (in fondo)",
+      "ex": "I haven't eaten yet."
+    },
+    {
+      "id": "c7",
+      "en": "did / didn't + base verb",
+      "it": "mai il passato dopo did",
+      "ex": "I didn't go."
+    },
+    {
+      "id": "c8",
+      "en": "ever / never",
+      "it": "esperienze fino a ora: present perfect",
+      "ex": "Have you ever been to Wales?"
+    }
+  ]
+}
