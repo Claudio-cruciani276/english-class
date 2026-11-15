@@ -4,6 +4,7 @@ File di lavoro dell'insegnante (Claude). Lo legge e lo aggiorna ogni notte l'att
 
 ## 1. Regole del piano
 
+- PRIORITA' (admin, 15 novembre): la sezione 8 (reading piu' lunghi e interessanti, domande di comprensione difficili) PREVALE sulle istruzioni generiche della procedura notturna per i reading, i listening, le canzoni e le verifiche: dove la procedura dice 10-12 battute, 8 esercizi, 15 minuti, vale la sezione 8.
 - Il piano della settimana (sezione 3) decide gli argomenti. Se manca, usa l'ordine di default della sezione 4 e salta quelli già nel registro (sezione 5).
 - Ogni lezione di grammatica contiene: UN tempo verbale principale + 1 o 2 mini argomenti + un breve blocco di ripasso mirato (errori ricorrenti o argomento della lezione precedente). Almeno per le prime settimane, per recuperare le basi.
 - Verifiche speciali indicate nel piano (per esempio il weekend 21-22 novembre) prevalgono sul formato standard del sabato (20 punti) e della domenica (ripasso).
@@ -251,6 +252,8 @@ Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vest
 
 - 2026-11-15 (sera): per il weekend 21-22 novembre l'admin vuole una verifica che riprende tutti gli argomenti, divisa in test 1 (sabato) e test 2 (domenica): 30 esercizi di grammatica, 30 domande di vocabolario e altre 30 su quello che manca (Claude: phrasal verbs, correzione errori, comprensione di testi brevi; da confermare). Dettagli nel piano della settimana 16-22. Canzoni 16-22: l'admin ha scelto la coppia A (Have You Ever Seen the Rain?, Haven't Met You Yet).
 
+- 2026-11-15 (sera): l'admin dice che le domande di comprensione sono spesso troppo facili e vuole reading piu' lunghi, complessi e interessanti, con ricerca sul web. Standard nella sezione 8, che prevale sulla procedura generica.
+
 ## 7. Phrasal verbs della settimana (nuova sezione dal 9 novembre)
 
 Ogni settimana, la domenica notte (quando domani e' lunedi), insieme a reading e canzoni si crea UN file lessons/phrasal-<lunedi della settimana>.json di tipo kind:"phrasal", che nell'app compare nella sezione "Phrasal verbs della settimana". Modello esatto: lessons/phrasal-2026-11-09.json.
@@ -269,3 +272,25 @@ Proposta per le prossime settimane (da rivedere nel weekend, modificabile):
 - 23 novembre: carry on, run out of, throw away, work out, check in, check out, call back, fill in, hurry up, slow down.
 - 30 novembre: take care of, get along with, ask for, look like, get back, get into, put away, cheer up, stand up, move on.
 
+## 8. Standard di qualita' di reading e domande di comprensione (richiesta dell'admin, 15 novembre)
+
+Feedback dell'admin: le domande di comprensione sono spesso troppo facili (la risposta giusta si trova a colpo d'occhio) e i reading devono essere piu' lunghi, piu' complessi e piu' interessanti, con ricerca sul web se serve. Da applicare da subito a TUTTO: reading, listening (domande di comprensione), canzoni (domande sul significato), verifiche.
+
+### Reading (vale per i 3 reading della settimana creati la domenica notte)
+- Ogni reading ha DUE parti: (1) un TESTO LUNGO in inglese britannico di 300-450 parole (articolo divulgativo, post di blog, email, mini guida o racconto) sulla situazione della settimana, con fatti reali e curiosita' che rendano il tema interessante; (2) il DIALOGO della situazione, di 14-18 battute, con le frasi chiave. Livello B1+ con alcune parole B2, che vanno spiegate nella tabella delle frasi chiave (10 frasi o parole invece di 7).
+- RICERCA: se hai WebSearch e WebFetch, cerca fatti reali e aggiornati sul tema (per esempio come funzionano i biglietti del treno in Gran Bretagna: Advance, Off-Peak, Railcard; le abitudini dello small talk britannico: il tempo, la fila; come funziona il pronto soccorso e il NHS; come funzionano le mance nei ristoranti). Usa almeno due fonti per i fatti, cifre e regole che possono cambiare, e nel testo scrivi "at the time of writing" quando serve. Se la ricerca non e' disponibile, usa solo fatti di cui sei sicuro, evita cifre precise e dillo nel riepilogo.
+- Il testo e' SEMPRE scritto da te con parole tue: non copiare ne' riassumere da vicino un articolo (diritto d'autore). I fatti si possono riprendere, la forma no. Nessun link inventato: se citi le fonti consultate, in una breve schermata finale "Where this comes from" nomina solo siti e organizzazioni realmente consultati (per esempio National Rail, NHS, BBC Learning English, British Council) e metti un link SOLO se l'hai aperto e verificato.
+- Esercizi: 14-16 invece di 8 (minutes: 25): 6-7 mcq di comprensione DIFFICILI, 2-3 mcq o fill sul vocabolario in contesto, 3 fill sulle frasi chiave, 2 order (domande o richieste gentili), 1-2 esercizi vero / falso / non detto (come mcq con tre opzioni: True, False, Not stated). Dalle flashcard, 10-12 invece di 7.
+- Il tema della settimana (tempi verbali e strutture del piano) entra nei testi in modo naturale: per esempio present perfect e past simple nel racconto di un'esperienza, going to e would like to nei progetti.
+- Tre reading della stessa settimana = tre temi e tre forme diverse (per esempio un articolo, un'email, una mini guida), non lo stesso schema ripetuto.
+
+### Domande di comprensione (reading, listening, canzoni, verifiche)
+Regole per ogni mcq di comprensione:
+1. Tutte le quattro opzioni sono plausibili, simili per lunghezza e registro. La risposta giusta NON e' la piu' lunga, NON e' quella che ripete le parole del testo e NON e' sempre la piu' specifica. I distrattori riusano parole del testo ma sono sbagliati (trappola lessicale) o sono veri in generale ma non lo dice il testo.
+2. Niente domande risolvibili cercando una sola parola. Almeno meta' delle domande di ogni file richiedono inferenza o collegare due informazioni: perche' una persona fa una certa cosa, che cosa significa una frase nel contesto, a chi o a che cosa si riferisce "it" / "they", quale conclusione si puo' trarre, qual e' lo scopo del testo, che atteggiamento ha chi parla, che cosa NON e' vero.
+3. Includere domande su dettagli precisi (numeri, orari, ordine degli eventi, negazioni, "only", "except", "unless") e almeno una domanda "which statement is NOT true / not stated".
+4. Evitare risposte sciocche o ovvie (nessun distrattore assurdo). Ogni distrattore deve poter essere scelto da chi ha letto in fretta.
+5. La risposta giusta cade in posizioni diverse e distribuite in modo equilibrato (non sempre B o C).
+6. why e why_it dicono dove sta la prova nel testo e perche' ciascun distrattore e' sbagliato (almeno il piu' tentante).
+7. Prima di salvare, rileggi ogni domanda come uno studente stanco: se la risposta si trova in meno di cinque secondi, rendila piu' sottile.
+8. Per i listening: stesse regole; le domande sul secondo ascolto chiedono dettagli e inferenze, non solo lo scopo generale.
