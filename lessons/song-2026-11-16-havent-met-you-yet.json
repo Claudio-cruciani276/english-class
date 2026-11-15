@@ -1,0 +1,419 @@
+{
+ "kind": "song",
+ "week": "2026-11-16",
+ "order": 2,
+ "artist": "Michael Bublé",
+ "title": "Haven't Met You Yet",
+ "title_it": "Haven't Met You Yet",
+ "goal": "Learn the words first, notice haven't ... yet and the way the song talks about the future, and think about the difference between waiting and hoping.",
+ "goal_it": "Impara prima le parole, nota haven't ... yet e il modo in cui la canzone parla del futuro, e pensa alla differenza tra aspettare e sperare.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "About the song",
+   "title_it": "Sulla canzone",
+   "en": [
+    "Title: Haven't Met You Yet. Artist: Michael Bublé, a Canadian singer. The song is from his 2009 album Crazy Love. It is an upbeat, hopeful pop song about love that has not arrived yet.",
+    "Search for the title and the artist in your own music app. Listen three times this week, each time with a different job:",
+    "Listening 1: catch the words from the next screen. Listening 2: notice the grammar points. Listening 3: think about the singer's attitude to waiting, and what the song really says about hope."
+   ],
+   "it": [
+    "Titolo: Haven't Met You Yet. Artista: Michael Bublé, cantante canadese. La canzone è dal suo album del 2009 Crazy Love. È un pezzo pop allegro e pieno di speranza sull'amore che non è ancora arrivato.",
+    "Cerca titolo e artista nella tua app di musica. Ascoltala tre volte questa settimana, ogni volta con un compito diverso:",
+    "Ascolto 1: individua le parole della prossima schermata. Ascolto 2: nota i punti di grammatica. Ascolto 3: pensa all'atteggiamento del cantante verso l'attesa e a cosa dice davvero la canzone sulla speranza."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Words you will hear",
+   "title_it": "Parole che sentirai",
+   "en": [
+    "These words are in the song or very close to its world. Learn them first, then try to catch them while you listen."
+   ],
+   "it": [
+    "Queste parole sono nella canzone o molto vicine al suo mondo. Imparale prima, poi prova a riconoscerle mentre ascolti."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano",
+     "Example"
+    ],
+    "rows": [
+     [
+      "yet",
+      "ancora, finora",
+      "She hasn't called me yet."
+     ],
+     [
+      "to meet (met)",
+      "incontrare, conoscere",
+      "We met at a friend's wedding."
+     ],
+     [
+      "somewhere",
+      "da qualche parte",
+      "I left my keys somewhere in the flat."
+     ],
+     [
+      "out there",
+      "là fuori",
+      "Is there life out there, on other planets?"
+     ],
+     [
+      "to wait",
+      "aspettare",
+      "We waited for the bus for twenty minutes."
+     ],
+     [
+      "to search",
+      "cercare",
+      "He searched the whole house for his phone."
+     ],
+     [
+      "to fall in love",
+      "innamorarsi",
+      "They fell in love on a trip to Rome."
+     ],
+     [
+      "lonely",
+      "solo, che si sente solo",
+      "She felt lonely in the big city."
+     ],
+     [
+      "hope",
+      "speranza",
+      "I haven't lost hope of finding a better job."
+     ],
+     [
+      "patience",
+      "pazienza",
+      "You need patience to learn a language."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "q": "She hasn't called me yet. What does 'yet' mean here?",
+   "q_it": "She hasn't called me yet. Cosa significa 'yet' qui?",
+   "options": [
+    "until now, still not",
+    "soon",
+    "every day",
+    "last night"
+   ],
+   "answer": 0,
+   "why": "'Yet' in a negative sentence means 'until now': the action has not happened, but it may happen.",
+   "why_it": "'Yet' in una frase negativa significa 'finora': l'azione non è successa, ma può succedere."
+  },
+  {
+   "type": "fill",
+   "q": "They ___ (fall) in love on a trip to Rome five years ago.",
+   "q_it": "Si ___ (fall) innamorarono in viaggio a Roma cinque anni fa.",
+   "answers": [
+    "fell"
+   ],
+   "hint": "fall",
+   "why": "Five years ago is a finished time: past simple. Irregular: fall, fell.",
+   "why_it": "Five years ago è un tempo finito: past simple. Irregolare: fall, fell."
+  },
+  {
+   "type": "mcq",
+   "q": "You need patience to learn a language. 'Patience' means:",
+   "q_it": "You need patience to learn a language. 'Patience' significa:",
+   "options": [
+    "the ability to wait calmly",
+    "a lot of money",
+    "good memory",
+    "a quiet room"
+   ],
+   "answer": 0,
+   "why": "Patience is staying calm while you wait or while something takes a long time.",
+   "why_it": "La pazienza è restare calmi mentre si aspetta o mentre qualcosa richiede tempo."
+  },
+  {
+   "type": "explain",
+   "title": "Three grammar points to watch for",
+   "title_it": "Tre punti di grammatica da notare",
+   "en": [
+    "1. Present perfect negative with yet: haven't / hasn't + past participle + yet. 'Yet' goes at the end and means 'until now'. It is often in the title of the song, as the singer says what has not happened up to now.",
+    "2. Present perfect with just: here 'just' does not mean 'appena' (I've just eaten). In a sentence with the negative it can mean 'only' or 'simply': a small word to say that the reason is simple. Listen to where it stands in the title phrase.",
+    "3. Looking at the future: the singer talks about what he believes will happen. Listen for will and for going to, which in fast speech often sounds like gonna. We use will for a belief or a promise, going to for a plan or something we can see coming.",
+    "Listening 2: notice these three points."
+   ],
+   "it": [
+    "1. Present perfect negativo con yet: haven't / hasn't + participio passato + yet. 'Yet' va in fondo e significa 'finora'. È anche nel titolo della canzone: il cantante dice cosa non è successo fino a ora.",
+    "2. Present perfect con just: qui 'just' non significa 'appena' (I've just eaten). In una frase negativa può significare 'solo' o 'semplicemente': una piccola parola per dire che il motivo è semplice. Ascolta dove sta nella frase del titolo.",
+    "3. Guardare al futuro: il cantante parla di ciò che crede succederà. Ascolta will e going to, che nel parlato veloce suona spesso gonna. Si usa will per una convinzione o una promessa, going to per un piano o per qualcosa che si vede arrivare.",
+    "Ascolto 2: nota questi tre punti."
+   ],
+   "examples": [
+    {
+     "en": "I haven't seen the new film yet.",
+     "it": "Non ho ancora visto il nuovo film."
+    },
+    {
+     "en": "I just haven't had time to call you.",
+     "it": "Semplicemente non ho avuto tempo di chiamarti."
+    },
+    {
+     "en": "I think you will love this city. We are going to visit it next spring.",
+     "it": "Penso che amerai questa città. La visiteremo la prossima primavera."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "I didn't meet her yet.",
+    "I haven't met her yet.",
+    "I don't met her yet.",
+    "I haven't meet her yet."
+   ],
+   "answer": 1,
+   "why": "Present perfect negative + yet: haven't + past participle (met) + yet.",
+   "why_it": "Present perfect negativo + yet: haven't + participio passato (met) + yet."
+  },
+  {
+   "type": "fill",
+   "q": "They ___ (not / arrive) yet, so we are still waiting.",
+   "q_it": "They ___ (not / arrive) yet, quindi stiamo ancora aspettando.",
+   "answers": [
+    "haven't arrived",
+    "have not arrived"
+   ],
+   "hint": "have not + participle",
+   "why": "Yet + still waiting: present perfect negative, haven't arrived.",
+   "why_it": "Yet + still waiting: present perfect negativo, haven't arrived."
+  },
+  {
+   "type": "mcq",
+   "q": "It is cloudy and very dark. We ___ get wet. Choose the best option.",
+   "q_it": "It is cloudy and very dark. We ___ get wet. Scegli l'opzione migliore.",
+   "options": [
+    "will",
+    "are going to",
+    "would to",
+    "have"
+   ],
+   "answer": 1,
+   "why": "We can see it coming (dark clouds): going to. Will is for a belief or a decision now.",
+   "why_it": "Lo vediamo arrivare (nuvole scure): going to. Will è per una convinzione o una decisione al momento."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "We",
+    "haven't",
+    "found",
+    "a",
+    "flat",
+    "yet"
+   ],
+   "answers": [
+    "We haven't found a flat yet",
+    "We have not found a flat yet"
+   ],
+   "why": "Subject + haven't + past participle + object + yet at the end.",
+   "why_it": "Soggetto + haven't + participio passato + complemento + yet in fondo."
+  },
+  {
+   "type": "explain",
+   "title": "Now listen (listening 1 and 2)",
+   "title_it": "Ora ascolta (ascolto 1 e 2)",
+   "en": [
+    "Now listen to the song two times. First, catch the words from the table. Second, notice the three grammar points.",
+    "Then answer the questions about the meaning. Think about the whole song, not about single words."
+   ],
+   "it": [
+    "Ora ascolta la canzone due volte. Prima individua le parole della tabella. Poi nota i tre punti di grammatica.",
+    "Poi rispondi alle domande sul significato. Pensa a tutta la canzone, non alle singole parole."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "What is the singer's attitude to the person he has not met?",
+   "q_it": "Qual è l'atteggiamento del cantante verso la persona che non ha ancora incontrato?",
+   "options": [
+    "He is sure she does not exist",
+    "He is angry that she is late",
+    "He trusts that she is somewhere and will come into his life",
+    "He has already chosen her and is waiting for her answer"
+   ],
+   "answer": 2,
+   "why": "The title says 'not yet', not 'never': he believes the meeting will happen. He is not angry, and he has not met her at all.",
+   "why_it": "Il titolo dice 'non ancora', non 'mai': crede che l'incontro avverrà. Non è arrabbiato e non l'ha proprio incontrata."
+  },
+  {
+   "type": "mcq",
+   "q": "Why is the word 'yet' so important to the whole message?",
+   "q_it": "Perché la parola 'yet' è così importante per tutto il messaggio?",
+   "options": [
+    "It shows the singer is in a hurry",
+    "It turns a lonely situation into a hopeful one, because the story is not finished",
+    "It tells us the date of the meeting",
+    "It makes the title a question"
+   ],
+   "answer": 1,
+   "why": "'Yet' says that something may still happen, so waiting becomes hope. Without it the same sentence would sound sad and final.",
+   "why_it": "'Yet' dice che qualcosa può ancora succedere, quindi l'attesa diventa speranza. Senza, la stessa frase suonerebbe triste e definitiva."
+  },
+  {
+   "type": "mcq",
+   "q": "The song has a bright, quick, cheerful sound. How does this connect with the words?",
+   "q_it": "La canzone ha un suono luminoso, veloce e allegro. Come si collega alle parole?",
+   "options": [
+    "The music shows the singer does not care",
+    "The music is not related to the words",
+    "The music shows the singer's patience is cheerful, not painful",
+    "The music proves the singer has found love"
+   ],
+   "answer": 2,
+   "why": "The happy sound shows that his waiting is relaxed and optimistic. The singer cares, and he has not found love yet.",
+   "why_it": "Il suono allegro mostra che la sua attesa è serena e ottimista. Al cantante importa, e non ha ancora trovato l'amore."
+  },
+  {
+   "type": "mcq",
+   "q": "Which statement is NOT true about the song?",
+   "q_it": "Quale affermazione NON è vera sulla canzone?",
+   "options": [
+    "The singer talks about a person he does not know yet",
+    "The singer believes something good is coming",
+    "The singer says he has already met the love of his life",
+    "The title uses the present perfect"
+   ],
+   "answer": 2,
+   "why": "The whole point is that he has not met her yet. The other three are true.",
+   "why_it": "Il punto è proprio che non l'ha ancora incontrata. Le altre tre sono vere."
+  },
+  {
+   "type": "mcq",
+   "q": "What do 'searching', 'waiting' and 'believing' have in common as ideas in the song?",
+   "q_it": "Cosa hanno in comune 'cercare', 'aspettare' e 'credere' come idee nella canzone?",
+   "options": [
+    "They are all things the singer regrets",
+    "They show different ways of living with hope while love has not arrived",
+    "They are all about the past",
+    "They are things only young people do"
+   ],
+   "answer": 1,
+   "why": "All three describe patient, active hope. They are not regrets, they are not past, and age is not mentioned.",
+   "why_it": "Tutte e tre descrivono una speranza paziente e attiva. Non sono rimpianti, non sono passato, e l'età non c'entra."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ (not / see) my cousin yet this month.",
+   "q_it": "I ___ (not / see) my cousin yet this month.",
+   "answers": [
+    "haven't seen",
+    "have not seen"
+   ],
+   "hint": "have not + participle",
+   "why": "This month is not finished and 'yet' asks for the present perfect negative: haven't seen.",
+   "why_it": "This month non è finito e 'yet' chiede il present perfect negativo: haven't seen."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "I",
+    "think",
+    "you",
+    "will",
+    "meet",
+    "someone",
+    "soon"
+   ],
+   "answers": [
+    "I think you will meet someone soon",
+    "I think you'll meet someone soon"
+   ],
+   "why": "'I think' + will + verb: a belief about the future.",
+   "why_it": "'I think' + will + verbo: una convinzione sul futuro."
+  },
+  {
+   "type": "explain",
+   "title": "Your task this week",
+   "title_it": "Il tuo compito della settimana",
+   "en": [
+    "Listening 3: listen again and think about how the singer deals with waiting and what the song says about hope.",
+    "In your notes write four sentences in your own words: (1) Something you haven't done yet, with yet (present perfect negative). (2) One thing you have already done this week. (3) A belief about your future with will. (4) A plan with going to. Then write one more sentence about something you waited for a long time.",
+    "Do not copy the words of the song."
+   ],
+   "it": [
+    "Ascolto 3: riascolta e pensa a come il cantante affronta l'attesa e a cosa dice la canzone sulla speranza.",
+    "Nelle note scrivi quattro frasi con parole tue: (1) Qualcosa che non hai ancora fatto, con yet (present perfect negativo). (2) Una cosa che hai già fatto questa settimana. (3) Una convinzione sul tuo futuro con will. (4) Un piano con going to. Poi scrivi una frase in più su qualcosa che hai aspettato a lungo.",
+    "Non copiare le parole della canzone."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "yet",
+   "it": "ancora, finora",
+   "ex": "She hasn't called me yet."
+  },
+  {
+   "id": "c2",
+   "en": "to meet (met)",
+   "it": "incontrare",
+   "ex": "We met at a wedding."
+  },
+  {
+   "id": "c3",
+   "en": "somewhere",
+   "it": "da qualche parte",
+   "ex": "I left it somewhere in the flat."
+  },
+  {
+   "id": "c4",
+   "en": "out there",
+   "it": "là fuori",
+   "ex": "The answer is out there."
+  },
+  {
+   "id": "c5",
+   "en": "to search",
+   "it": "cercare",
+   "ex": "He searched the whole house."
+  },
+  {
+   "id": "c6",
+   "en": "to fall in love",
+   "it": "innamorarsi",
+   "ex": "They fell in love in Rome."
+  },
+  {
+   "id": "c7",
+   "en": "lonely",
+   "it": "solo",
+   "ex": "She felt lonely in the city."
+  },
+  {
+   "id": "c8",
+   "en": "patience",
+   "it": "pazienza",
+   "ex": "You need patience to learn."
+  },
+  {
+   "id": "c9",
+   "en": "haven't / hasn't + participle + yet",
+   "it": "non ... ancora",
+   "ex": "I haven't finished yet."
+  },
+  {
+   "id": "c10",
+   "en": "gonna = going to",
+   "it": "andare a (parlato)",
+   "ex": "I'm gonna try again."
+  }
+ ]
+}

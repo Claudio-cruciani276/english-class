@@ -34,6 +34,11 @@
           "label": "Present perfect 1",
           "label_it": "Present perfect 1",
           "date": "2026-11-12"
+        },
+        {
+          "label": "Present perfect 2 (experiences)",
+          "label_it": "Present perfect 2 (esperienze)",
+          "date": "2026-11-16"
         }
       ]
     },
@@ -132,6 +137,26 @@
           "label": "been / gone, just / already / yet",
           "label_it": "been / gone, just / already / yet",
           "date": "2026-11-12"
+        },
+        {
+          "label": "ever / never / been to",
+          "label_it": "ever / never / been to",
+          "date": "2026-11-16"
+        },
+        {
+          "label": "still / just / already / yet",
+          "label_it": "still / just / already / yet",
+          "date": "2026-11-16"
+        },
+        {
+          "label": "Subject and object pronouns",
+          "label_it": "Pronomi soggetto e complemento",
+          "date": "2026-11-16"
+        },
+        {
+          "label": "No double negatives",
+          "label_it": "Niente doppia negazione",
+          "date": "2026-11-16"
         }
       ]
     },
@@ -144,6 +169,11 @@
           "label": "Week of 9 Nov: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to",
           "label_it": "Settimana del 9 nov: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to",
           "date": "2026-11-09"
+        },
+        {
+          "label": "Week of 16 Nov: get on, get off, pick up, drop off, set off, look up, look after, wake up, go out, sit down",
+          "label_it": "Settimana del 16 nov: get on, get off, pick up, drop off, set off, look up, look after, wake up, go out, sit down",
+          "date": "2026-11-16"
         }
       ]
     },
@@ -218,6 +248,21 @@
           "label": "At the doctor's and pharmacy",
           "label_it": "Dal medico e in farmacia",
           "date": "2026-11-09"
+        },
+        {
+          "label": "Train and bus tickets",
+          "label_it": "Biglietti di treno e autobus",
+          "date": "2026-11-16"
+        },
+        {
+          "label": "Making plans by phone",
+          "label_it": "Fare un piano al telefono",
+          "date": "2026-11-16"
+        },
+        {
+          "label": "Meeting people at a party",
+          "label_it": "Conoscere persone a una festa",
+          "date": "2026-11-16"
         }
       ]
     },
@@ -245,6 +290,16 @@
           "label": "Starlight (Muse)",
           "label_it": "Starlight (Muse)",
           "date": "2026-11-09"
+        },
+        {
+          "label": "Have You Ever Seen the Rain? (Creedence Clearwater Revival)",
+          "label_it": "Have You Ever Seen the Rain? (Creedence Clearwater Revival)",
+          "date": "2026-11-16"
+        },
+        {
+          "label": "Haven't Met You Yet (Michael Buble)",
+          "label_it": "Haven't Met You Yet (Michael Buble)",
+          "date": "2026-11-16"
         }
       ]
     }

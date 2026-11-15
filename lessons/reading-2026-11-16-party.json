@@ -1,0 +1,449 @@
+{
+ "kind": "reading",
+ "week": "2026-11-16",
+ "order": 3,
+ "situation": "Meeting people at a party",
+ "situation_it": "Conoscere persone a una festa",
+ "title": "Reading: Meeting people at a party",
+ "title_it": "Lettura: Conoscere persone a una festa",
+ "goal": "Introduce yourself, make small talk and talk about past experiences at a British party.",
+ "goal_it": "Presentarti, fare due chiacchiere e parlare di esperienze passate a una festa britannica.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Learn these phrases first. Three of them (B2) are more difficult."
+   ],
+   "it": [
+    "Impara prima queste frasi. Tre di esse (B2) sono più difficili."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "I don't think we've met.",
+      "Non credo che ci siamo già conosciuti."
+     ],
+     [
+      "Tom has told me a lot about you.",
+      "Tom mi ha parlato molto di te."
+     ],
+     [
+      "Awful weather, isn't it?",
+      "Che tempo orribile, vero?"
+     ],
+     [
+      "small talk",
+      "chiacchiere leggere di circostanza"
+     ],
+     [
+      "Have you ever been to Italy?",
+      "Sei mai stato in Italia?"
+     ],
+     [
+      "I went to Rome when I was twenty.",
+      "Sono andato a Roma quando avevo vent'anni."
+     ],
+     [
+      "I'm going to get another drink.",
+      "Vado a prendere un altro drink."
+     ],
+     [
+      "to bump into someone (B2)",
+      "urtare qualcuno (B2)"
+     ],
+     [
+      "to be offended (B2)",
+      "sentirsi offesi (B2)"
+     ],
+     [
+      "to host a party (B2)",
+      "organizzare una festa in casa propria (B2)"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "A blog post",
+   "title_it": "Un post di blog",
+   "en": [
+    "Read this blog post by an Italian who lives in Manchester. First read for the general idea, then for the details.",
+    "Five things I have learned about British parties",
+    "When I moved from Bologna to Manchester two years ago, I thought my English was good. Then I went to my first house party, and I did not understand half of what people said. It was not the vocabulary. It was the rules. Here is what I have learned since then.",
+    "1. 'How are you?' is not a real question. The first time a colleague asked me, I started to explain my back pain. She looked worried and a little lost. Now I know the answer: 'Fine, thanks, you?' That is all. The sentence is just a way of saying hello.",
+    "2. The weather is a perfectly good topic. At home, I would be embarrassed to talk about rain for ten minutes. In Britain it is a tool. It helps strangers to start a conversation without asking anything personal. Begin with 'Awful weather, isn't it?' and you will get a friendly answer almost every time.",
+    "3. Personal questions come later. In Italy people often ask quickly about family, work or politics. Here, people usually begin with safer topics: the journey, the food, a hobby. I stopped asking 'How much do you earn?' after I saw a man nearly choke on his crisps.",
+    "4. People say 'sorry' all the time, and it does not always mean they are sorry. It can mean 'excuse me', 'I did not hear you' or even 'you are standing on my foot'. Last month somebody bumped into me, and I said sorry. Then I realised I was becoming British.",
+    "5. Leaving is an art. You cannot just disappear. You say something like 'I'm going to get another drink' or 'It was lovely to meet you'. Nobody is offended, and you can move on to the kitchen, where, as everyone knows, the best conversations happen.",
+    "I have not mastered all of this yet. Last week I told a neighbour that I was going to leave in five minutes, and I stayed for two more hours. But I have made friends, and I am going to host my own party in December. Would you like to come?"
+   ],
+   "it": [
+    "Leggi questo post scritto da un italiano che vive a Manchester. Prima per l'idea generale, poi per i dettagli.",
+    "Cinque cose che ho imparato sulle feste britanniche",
+    "Quando mi sono trasferito da Bologna a Manchester due anni fa, pensavo che il mio inglese fosse buono. Poi sono andato alla mia prima festa in casa e non ho capito metà di quello che dicevano. Non era il vocabolario. Erano le regole. Ecco che cosa ho imparato da allora.",
+    "1. 'How are you?' non è una vera domanda. La prima volta che una collega me l'ha chiesto, ho cominciato a spiegarle il mio mal di schiena. Lei sembrava preoccupata e un po' persa. Ora so la risposta: 'Fine, thanks, you?' Tutto qui. La frase è solo un modo di dire ciao.",
+    "2. Il tempo è un argomento perfettamente valido. A casa mia mi vergognerei di parlare di pioggia per dieci minuti. In Gran Bretagna è uno strumento. Aiuta gli sconosciuti a iniziare una conversazione senza chiedere nulla di personale. Comincia con 'Awful weather, isn't it?' e quasi sempre riceverai una risposta cordiale.",
+    "3. Le domande personali vengono dopo. In Italia spesso si chiede subito di famiglia, lavoro o politica. Qui di solito si comincia con argomenti più sicuri: il viaggio, il cibo, un hobby. Ho smesso di chiedere 'How much do you earn?' dopo aver visto un uomo quasi strozzarsi con le patatine.",
+    "4. La gente dice 'sorry' di continuo, e non sempre significa che è dispiaciuta. Può voler dire 'permesso', 'non ho sentito' o perfino 'mi stai pestando il piede'. Il mese scorso qualcuno mi ha urtato e io ho detto sorry. Poi mi sono accorto che stavo diventando britannico.",
+    "5. Andarsene è un'arte. Non puoi semplicemente sparire. Dici qualcosa come 'I'm going to get another drink' oppure 'It was lovely to meet you'. Nessuno si offende e puoi passare in cucina, dove, come sanno tutti, avvengono le migliori conversazioni.",
+    "Non ho ancora imparato tutto questo. La settimana scorsa ho detto a un vicino che me ne sarei andato tra cinque minuti e sono rimasto altre due ore. Ma mi sono fatto degli amici e ho intenzione di organizzare una mia festa a dicembre. Ti va di venire?"
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "At the party",
+   "title_it": "Alla festa",
+   "en": [
+    "Read the conversation between Luca and Mia.",
+    "Luca is at a friend's flat party. He meets a woman called Mia in the kitchen.",
+    "Mia: Hi, I don't think we've met. I'm Mia.",
+    "Luca: Nice to meet you, Mia. I'm Luca. I work with Tom.",
+    "Mia: Oh, you're the Italian one! Tom has told me a lot about you.",
+    "Luca: All good things, I hope!",
+    "Mia: Of course. He says you make fantastic pasta.",
+    "Luca: He's very kind. I've cooked for him twice, and he's still alive.",
+    "Mia: Ha! Have you been to many parties here?",
+    "Luca: A few. I've been to three this year, and every time I've talked about the weather.",
+    "Mia: Well, it's been raining all week, so you're in good company. Where did you live before Manchester?",
+    "Luca: In Bologna. Have you ever been to Italy?",
+    "Mia: I went to Rome when I was twenty, and I loved it. I'd like to go back one day.",
+    "Luca: You should. If you go, I'll give you a list of places to eat.",
+    "Mia: That would be lovely. Sorry, I'm going to get another drink. Would you like one?",
+    "Luca: No, thanks, I'm fine. It was lovely to meet you.",
+    "Mia: You too! I'll see you later."
+   ],
+   "it": [
+    "Leggi la conversazione tra Luca e Mia.",
+    "Luca è a una festa nell'appartamento di un amico. In cucina incontra una donna di nome Mia.",
+    "Mia: Ciao, non credo che ci siamo già conosciuti. Sono Mia.",
+    "Luca: Piacere di conoscerti, Mia. Sono Luca. Lavoro con Tom.",
+    "Mia: Ah, sei quello italiano! Tom mi ha parlato molto di te.",
+    "Luca: Spero solo cose belle!",
+    "Mia: Certo. Dice che fai una pasta fantastica.",
+    "Luca: È molto gentile. Ho cucinato per lui due volte ed è ancora vivo.",
+    "Mia: Ah! Sei stato a molte feste qui?",
+    "Luca: A qualcuna. Sono stato a tre quest'anno e ogni volta ho parlato del tempo.",
+    "Mia: Beh, ha piovuto tutta la settimana, quindi sei in buona compagnia. Dove abitavi prima di Manchester?",
+    "Luca: A Bologna. Sei mai stata in Italia?",
+    "Mia: Sono andata a Roma quando avevo vent'anni e mi è piaciuta moltissimo. Mi piacerebbe tornarci un giorno.",
+    "Luca: Dovresti. Se ci vai, ti darò una lista di posti dove mangiare.",
+    "Mia: Sarebbe bellissimo. Scusa, vado a prendere un altro drink. Ne vuoi uno?",
+    "Luca: No, grazie, sono a posto. È stato un piacere conoscerti.",
+    "Mia: Anche per me! A dopo."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "What does the writer mean by 'It was not the vocabulary. It was the rules'?",
+   "q_it": "Che cosa intende l'autore con 'It was not the vocabulary. It was the rules'?",
+   "options": [
+    "He needed to study the grammar of British English",
+    "He did not know the rules of the party games",
+    "His difficulty was with social habits more than with words",
+    "His colleagues spoke too fast for him to follow"
+   ],
+   "answer": 2,
+   "why": "He thought his English was good, so the problem was how people behave in conversation, which the five points explain.",
+   "why_it": "Pensava che il suo inglese fosse buono, quindi il problema erano le abitudini sociali, spiegate nei cinque punti."
+  },
+  {
+   "type": "mcq",
+   "q": "Why did the colleague look 'worried and a little lost' in point 1?",
+   "q_it": "Perché la collega sembrava 'worried and a little lost' nel punto 1?",
+   "options": [
+    "She did not expect a real answer to a greeting",
+    "She did not understand his accent",
+    "She felt sorry about his back pain",
+    "She was in a hurry to leave the party"
+   ],
+   "answer": 0,
+   "why": "'How are you?' is just a way of saying hello, so a long answer surprised her. The back pain is the writer's answer, not her problem.",
+   "why_it": "'How are you?' è solo un modo di salutare, quindi una risposta lunga l'ha sorpresa. Il mal di schiena è la risposta dell'autore, non il problema di lei."
+  },
+  {
+   "type": "mcq",
+   "q": "According to point 2, why is talking about the weather useful in Britain?",
+   "q_it": "Secondo il punto 2, perché parlare del tempo è utile in Gran Bretagna?",
+   "options": [
+    "It shows that you know the local climate well",
+    "It is a quick way to end a boring conversation",
+    "It is the only topic that British people enjoy",
+    "It lets strangers start talking without personal questions"
+   ],
+   "answer": 3,
+   "why": "Point 2 says it helps strangers begin a conversation 'without asking anything personal'. The other options are not in the text.",
+   "why_it": "Il punto 2 dice che aiuta gli sconosciuti a iniziare 'without asking anything personal'. Le altre opzioni non sono nel testo."
+  },
+  {
+   "type": "mcq",
+   "q": "Which statement is NOT true according to the text?",
+   "q_it": "Quale affermazione NON è vera secondo il testo?",
+   "options": [
+    "British people usually begin with questions about money",
+    "Sorry can mean different things in different situations",
+    "The writer has lived in Manchester for about two years",
+    "The writer plans to organise a party in December"
+   ],
+   "answer": 0,
+   "why": "Point 3 says people usually begin with safer topics such as the journey, the food or a hobby, not money.",
+   "why_it": "Il punto 3 dice che di solito si comincia con argomenti sicuri come viaggio, cibo o hobby, non con i soldi."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the writer's point at the end of point 4?",
+   "q_it": "Qual è il punto dell'autore alla fine del punto 4?",
+   "options": [
+    "He is angry with people who bump into others",
+    "He has started to behave like British people",
+    "He thinks that saying sorry is rude",
+    "He has forgotten how to say excuse me in English"
+   ],
+   "answer": 1,
+   "why": "He apologised even though somebody else bumped into him, then realised he was becoming British.",
+   "why_it": "Si è scusato anche se era stato urtato, poi ha capito che stava diventando britannico."
+  },
+  {
+   "type": "mcq",
+   "q": "What does the last paragraph show about the writer?",
+   "q_it": "Che cosa mostra l'ultimo paragrafo sull'autore?",
+   "options": [
+    "He dislikes his neighbours and avoids them",
+    "He has decided to leave Manchester soon",
+    "He still finds it hard to leave conversations on time",
+    "He thinks parties are too long in Britain"
+   ],
+   "answer": 2,
+   "why": "He said he would leave in five minutes and stayed two more hours, and he admits he has not mastered everything yet.",
+   "why_it": "Ha detto che se ne andava tra cinque minuti ed è rimasto due ore, e ammette di non aver imparato tutto."
+  },
+  {
+   "type": "mcq",
+   "q": "In the dialogue, why does Mia say 'you're in good company'?",
+   "q_it": "Nel dialogo, perché Mia dice 'you're in good company'?",
+   "options": [
+    "Luca is talking to a group of friends",
+    "Many people talk about the weather when it rains",
+    "Luca has met Mia at parties before",
+    "Everybody at the party works with Tom"
+   ],
+   "answer": 1,
+   "why": "Luca says he always talks about the weather, and Mia answers that it has rained all week, so he is not alone.",
+   "why_it": "Luca dice che parla sempre del tempo e Mia risponde che ha piovuto tutta la settimana, quindi non è l'unico."
+  },
+  {
+   "type": "mcq",
+   "q": "Mia went to Rome when she was a teenager. (True, False or Not stated?)",
+   "q_it": "Mia è andata a Roma da adolescente. (Vero, falso o non detto?)",
+   "options": [
+    "True",
+    "False",
+    "Not stated"
+   ],
+   "answer": 1,
+   "why": "She says: I went to Rome when I was twenty.",
+   "why_it": "Dice: I went to Rome when I was twenty."
+  },
+  {
+   "type": "mcq",
+   "q": "Luca has cooked for Tom more than once. (True, False or Not stated?)",
+   "q_it": "Luca ha cucinato per Tom più di una volta. (Vero, falso o non detto?)",
+   "options": [
+    "True",
+    "False",
+    "Not stated"
+   ],
+   "answer": 0,
+   "why": "Luca says: I've cooked for him twice.",
+   "why_it": "Luca dice: I've cooked for him twice."
+  },
+  {
+   "type": "mcq",
+   "q": "'Somebody bumped into me.' What does 'bumped into' mean here?",
+   "q_it": "'Somebody bumped into me.' Che cosa significa 'bumped into'?",
+   "options": [
+    "Spoke to me",
+    "Invited me",
+    "Followed me",
+    "Accidentally hit me"
+   ],
+   "answer": 3,
+   "why": "Here it is physical: someone touched him by accident, so he said sorry.",
+   "why_it": "Qui è fisico: qualcuno lo ha toccato per sbaglio, e lui ha detto sorry."
+  },
+  {
+   "type": "mcq",
+   "q": "'Nobody is offended.' What does 'offended' mean?",
+   "q_it": "'Nobody is offended.' Che cosa significa 'offended'?",
+   "options": [
+    "Surprised by good news",
+    "Upset by something rude or unkind",
+    "Tired of waiting",
+    "Confused by a question"
+   ],
+   "answer": 1,
+   "why": "If you leave politely, nobody feels hurt or upset.",
+   "why_it": "Se te ne vai con garbo, nessuno si sente ferito o contrariato."
+  },
+  {
+   "type": "fill",
+   "q": "Hi, I don't think we've ___. I'm Mia.",
+   "q_it": "Ciao, non credo che ci siamo già conosciuti. Sono Mia.",
+   "answers": [
+    "met"
+   ],
+   "hint": "incontrare",
+   "why": "We've met is the present perfect of meet.",
+   "why_it": "We've met è il present perfect di meet."
+  },
+  {
+   "type": "fill",
+   "q": "Tom has ___ me a lot about you.",
+   "q_it": "Tom mi ha parlato molto di te.",
+   "answers": [
+    "told"
+   ],
+   "hint": "verbo irregolare di tell",
+   "why": "Tell is irregular: tell, told, told.",
+   "why_it": "Tell è irregolare: tell, told, told."
+  },
+  {
+   "type": "fill",
+   "q": "I ___ to Rome when I was twenty.",
+   "q_it": "Sono andata a Roma quando avevo vent'anni.",
+   "answers": [
+    "went"
+   ],
+   "hint": "past simple di go",
+   "why": "'When I was twenty' is a finished time in the past, so we use the past simple: went.",
+   "why_it": "'When I was twenty' è un momento finito del passato, quindi past simple: went."
+  },
+  {
+   "type": "order",
+   "q": "Ask about an experience.",
+   "q_it": "Chiedi di un'esperienza.",
+   "words": [
+    "Have",
+    "you",
+    "ever",
+    "been",
+    "to",
+    "Italy"
+   ],
+   "answers": [
+    "Have you ever been to Italy"
+   ],
+   "why": "Have + subject + ever + past participle.",
+   "why_it": "Have + soggetto + ever + participio passato."
+  },
+  {
+   "type": "order",
+   "q": "Say you are leaving the conversation politely.",
+   "q_it": "Di' che stai lasciando la conversazione con garbo.",
+   "words": [
+    "I'm",
+    "going",
+    "to",
+    "get",
+    "another",
+    "drink"
+   ],
+   "answers": [
+    "I'm going to get another drink"
+   ],
+   "why": "Going to + base verb shows what you plan to do now.",
+   "why_it": "Going to + verbo base mostra ciò che hai intenzione di fare ora."
+  },
+  {
+   "type": "explain",
+   "title": "Where this comes from",
+   "title_it": "Da dove viene questo testo",
+   "en": [
+    "The blog post is an invented story written from scratch. The writer, Luca and Mia are not real people. The ideas about weather talk and the word sorry are common impressions of British conversation habits; they are not rules, and every person is different. I did not copy any article."
+   ],
+   "it": [
+    "Il post è una storia inventata scritta da zero. L'autore, Luca e Mia non sono persone reali. Le idee sul parlare del tempo e sulla parola sorry sono impressioni comuni sulle abitudini di conversazione britanniche; non sono regole e ogni persona è diversa. Non ho copiato nessun articolo."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "I don't think we've met.",
+   "it": "Non credo che ci siamo conosciuti.",
+   "ex": "Hi, I don't think we've met."
+  },
+  {
+   "id": "c2",
+   "en": "Nice to meet you.",
+   "it": "Piacere di conoscerti.",
+   "ex": "Nice to meet you, Luca."
+  },
+  {
+   "id": "c3",
+   "en": "Tom has told me a lot about you.",
+   "it": "Tom mi ha parlato molto di te.",
+   "ex": "Anna has told me a lot about you."
+  },
+  {
+   "id": "c4",
+   "en": "small talk",
+   "it": "chiacchiere di circostanza",
+   "ex": "I'm not good at small talk."
+  },
+  {
+   "id": "c5",
+   "en": "Awful weather, isn't it?",
+   "it": "Che tempo orribile, vero?",
+   "ex": "Awful weather, isn't it?"
+  },
+  {
+   "id": "c6",
+   "en": "Have you ever been to...?",
+   "it": "Sei mai stato a...?",
+   "ex": "Have you ever been to Scotland?"
+  },
+  {
+   "id": "c7",
+   "en": "I went to ... when I was...",
+   "it": "Sono andato a... quando avevo...",
+   "ex": "I went to Paris when I was ten."
+  },
+  {
+   "id": "c8",
+   "en": "I'm going to get another drink.",
+   "it": "Vado a prendere un altro drink.",
+   "ex": "Sorry, I'm going to get another drink."
+  },
+  {
+   "id": "c9",
+   "en": "to bump into someone",
+   "it": "urtare qualcuno",
+   "ex": "He bumped into me in the corridor."
+  },
+  {
+   "id": "c10",
+   "en": "offended",
+   "it": "offeso",
+   "ex": "She felt offended by the joke."
+  },
+  {
+   "id": "c11",
+   "en": "to host a party",
+   "it": "organizzare una festa",
+   "ex": "We're going to host a party."
+  },
+  {
+   "id": "c12",
+   "en": "in good company",
+   "it": "in buona compagnia",
+   "ex": "You're in good company."
+  }
+ ]
+}

@@ -1,0 +1,634 @@
+{
+ "kind": "phrasal",
+ "week": "2026-11-16",
+ "order": 1,
+ "title": "Phrasal verbs of the week",
+ "title_it": "Phrasal verbs della settimana",
+ "goal": "Learn ten more phrasal verbs for travel and daily life and see how to use them in different sentences.",
+ "goal_it": "Imparare altri dieci phrasal verbs per viaggi e vita quotidiana e vedere come usarli in frasi diverse.",
+ "minutes": 20,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Phrasal verbs: get on, get off",
+   "title_it": "Phrasal verbs: get on, get off",
+   "en": [
+    "Last week you met ten phrasal verbs. This week there are ten more, many of them about travel and daily routines.",
+    "Reminder: if the object is a pronoun, it goes in the middle (pick it up, not pick up it). Verbs with a preposition after them (get on the bus, look after the kids) are not separable."
+   ],
+   "it": [
+    "La settimana scorsa hai visto dieci phrasal verbs. Questa settimana ce ne sono altri dieci, molti legati ai viaggi e alla vita quotidiana.",
+    "Promemoria: se il complemento è un pronome va in mezzo (pick it up, non pick up it). I verbi con una preposizione dopo (get on the bus, look after the kids) non si separano."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "get on (a bus, train, plane)",
+      "to climb onto public transport; also: to have a good relationship (get on with someone). Not separable.",
+      "salire su (mezzo pubblico); andare d'accordo (get on with)"
+     ],
+     [
+      "get off (a bus, train, plane)",
+      "to leave public transport. Opposite of get on. Not separable.",
+      "scendere da (mezzo pubblico)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "We got on the bus at the station.",
+     "it": "Siamo saliti sull'autobus alla stazione."
+    },
+    {
+     "en": "I get on really well with my sister.",
+     "it": "Vado molto d'accordo con mia sorella."
+    },
+    {
+     "en": "Which stop do I get on at?",
+     "it": "A quale fermata salgo?"
+    },
+    {
+     "en": "Get off at the next stop.",
+     "it": "Scendi alla prossima fermata."
+    },
+    {
+     "en": "She got off the train in Leeds.",
+     "it": "È scesa dal treno a Leeds."
+    },
+    {
+     "en": "Please get off the bus at the front door.",
+     "it": "Per favore scendete dall'autobus dalla porta anteriore."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Phrasal verbs: pick up, drop off",
+   "title_it": "Phrasal verbs: pick up, drop off",
+   "en": [
+    "Learn the whole phrase and read each example aloud."
+   ],
+   "it": [
+    "Impara l'espressione intera e leggi ad alta voce ogni esempio."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "pick up",
+      "to lift something from a surface; to collect someone or something by car; to learn something easily. Separable.",
+      "raccogliere; passare a prendere; imparare (senza sforzo)"
+     ],
+     [
+      "drop off",
+      "to leave someone or something at a place, usually by car. Separable.",
+      "lasciare, accompagnare (in auto)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Pick up your bag, please. Pick it up!",
+     "it": "Raccogli la borsa, per favore. Raccoglila!"
+    },
+    {
+     "en": "I'll pick you up at eight.",
+     "it": "Passo a prenderti alle otto."
+    },
+    {
+     "en": "She picked up some Spanish on holiday.",
+     "it": "Ha imparato un po' di spagnolo in vacanza."
+    },
+    {
+     "en": "Dad dropped me off at school.",
+     "it": "Papà mi ha lasciato a scuola."
+    },
+    {
+     "en": "Can you drop the parcel off at the post office?",
+     "it": "Puoi lasciare il pacco all'ufficio postale?"
+    },
+    {
+     "en": "Drop us off outside the cinema, please.",
+     "it": "Lasciaci davanti al cinema, per favore."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Phrasal verbs: set off, look up",
+   "title_it": "Phrasal verbs: set off, look up",
+   "en": [
+    "Learn the whole phrase and read each example aloud."
+   ],
+   "it": [
+    "Impara l'espressione intera e leggi ad alta voce ogni esempio."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "set off",
+      "to start a journey. Not separable.",
+      "partire, mettersi in viaggio"
+     ],
+     [
+      "look up",
+      "to search for information in a dictionary or online; to raise your eyes. Separable for the first meaning.",
+      "cercare (in un dizionario, online); alzare lo sguardo"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "We set off at six to avoid the traffic.",
+     "it": "Siamo partiti alle sei per evitare il traffico."
+    },
+    {
+     "en": "They set off for Edinburgh this morning.",
+     "it": "Sono partiti per Edimburgo stamattina."
+    },
+    {
+     "en": "What time are you setting off tomorrow?",
+     "it": "A che ora parti domani?"
+    },
+    {
+     "en": "I don't know this word. I'll look it up.",
+     "it": "Non conosco questa parola. La cerco."
+    },
+    {
+     "en": "Look up the train times online.",
+     "it": "Cerca gli orari dei treni online."
+    },
+    {
+     "en": "He looked up and saw a plane.",
+     "it": "Alzò lo sguardo e vide un aereo."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Phrasal verbs: look after, wake up",
+   "title_it": "Phrasal verbs: look after, wake up",
+   "en": [
+    "Learn the whole phrase and read each example aloud."
+   ],
+   "it": [
+    "Impara l'espressione intera e leggi ad alta voce ogni esempio."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "look after",
+      "to take care of a person, animal or thing. Not separable (look after + object).",
+      "badare a, prendersi cura di"
+     ],
+     [
+      "wake up",
+      "to stop sleeping; wake someone up = to make them stop sleeping. Separable when it has an object.",
+      "svegliarsi; svegliare (qualcuno)"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Who looks after the dog when you are away?",
+     "it": "Chi si occupa del cane quando sei via?"
+    },
+    {
+     "en": "She is looking after her little brother today.",
+     "it": "Oggi si occupa del fratellino."
+    },
+    {
+     "en": "Look after your passport.",
+     "it": "Abbi cura del passaporto."
+    },
+    {
+     "en": "I woke up at five because of the noise.",
+     "it": "Mi sono svegliato alle cinque per il rumore."
+    },
+    {
+     "en": "Please wake me up at seven.",
+     "it": "Per favore svegliami alle sette."
+    },
+    {
+     "en": "Don't wake the baby up.",
+     "it": "Non svegliare il bambino."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Phrasal verbs: go out, sit down",
+   "title_it": "Phrasal verbs: go out, sit down",
+   "en": [
+    "Learn the whole phrase and read each example aloud."
+   ],
+   "it": [
+    "Impara l'espressione intera e leggi ad alta voce ogni esempio."
+   ],
+   "table": {
+    "head": [
+     "Phrasal verb",
+     "Meaning",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "go out",
+      "to leave your home to do something social; to have a relationship with someone. Not separable.",
+      "uscire (con amici); stare insieme a qualcuno"
+     ],
+     [
+      "sit down",
+      "to move from standing to sitting. Opposite: stand up. Not separable.",
+      "sedersi"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Shall we go out for dinner tonight?",
+     "it": "Usciamo a cena stasera?"
+    },
+    {
+     "en": "They have been going out for two years.",
+     "it": "Stanno insieme da due anni."
+    },
+    {
+     "en": "I don't often go out on weekdays.",
+     "it": "Non esco spesso nei giorni feriali."
+    },
+    {
+     "en": "Please sit down and wait here.",
+     "it": "Per favore siediti e aspetta qui."
+    },
+    {
+     "en": "He sat down next to me on the train.",
+     "it": "Si è seduto accanto a me sul treno."
+    },
+    {
+     "en": "Sit down, the film is about to start.",
+     "it": "Siediti, il film sta per iniziare."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Which phrasal verb means 'to start a journey'?",
+   "q_it": "Quale phrasal verb significa 'iniziare un viaggio'?",
+   "options": [
+    "go out",
+    "set off",
+    "look up",
+    "drop off"
+   ],
+   "answer": 1,
+   "why": "Set off means to begin a journey.",
+   "why_it": "Set off significa partire."
+  },
+  {
+   "type": "mcq",
+   "q": "The bus stops. Passengers want to leave it. They ...",
+   "q_it": "L'autobus si ferma. I passeggeri vogliono scendere. Loro ...",
+   "options": [
+    "get on",
+    "sit down",
+    "get off",
+    "pick up"
+   ],
+   "answer": 2,
+   "why": "Get off is the opposite of get on: leave public transport.",
+   "why_it": "Get off è il contrario di get on: scendere dal mezzo."
+  },
+  {
+   "type": "mcq",
+   "q": "'I'll pick you up at eight.' What will the speaker do?",
+   "q_it": "'I'll pick you up at eight.' Che cosa farà chi parla?",
+   "options": [
+    "Lift the other person physically",
+    "Collect the other person at eight",
+    "Leave the other person somewhere",
+    "Wake the other person up"
+   ],
+   "answer": 1,
+   "why": "Pick someone up means to collect them, usually by car.",
+   "why_it": "Pick someone up significa passare a prenderlo, di solito in auto."
+  },
+  {
+   "type": "mcq",
+   "q": "You don't know the meaning of a word. You ... in a dictionary.",
+   "q_it": "Non conosci il significato di una parola. La ... nel dizionario.",
+   "options": [
+    "look it up",
+    "look after it",
+    "set it off",
+    "go it out"
+   ],
+   "answer": 0,
+   "why": "Look up means to search for information.",
+   "why_it": "Look up significa cercare un'informazione."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "She looked after the baby.",
+    "She looked the baby after.",
+    "She after looked the baby.",
+    "She looked at after the baby."
+   ],
+   "answer": 0,
+   "why": "Look after is not separable: look after + object.",
+   "why_it": "Look after non si separa: look after + complemento."
+  },
+  {
+   "type": "mcq",
+   "q": "'Dad dropped me off at the station.' This means Dad ...",
+   "q_it": "'Dad dropped me off at the station.' Significa che papà ...",
+   "options": [
+    "let me fall",
+    "took me there by car and left me",
+    "waited for me there",
+    "woke me up at the station"
+   ],
+   "answer": 1,
+   "why": "Drop someone off means to leave them at a place, usually by car.",
+   "why_it": "Drop someone off significa lasciare qualcuno in un posto, di solito in auto."
+  },
+  {
+   "type": "mcq",
+   "q": "Which one is NOT a good reply to 'Shall we go out tonight?'",
+   "q_it": "Quale NON è una buona risposta a 'Shall we go out tonight?'",
+   "options": [
+    "Yes, let's go to the cinema.",
+    "I'd rather stay in.",
+    "Sorry, I'm too tired.",
+    "Yes, please sit down."
+   ],
+   "answer": 3,
+   "why": "Sit down means to take a seat, so it does not answer the question.",
+   "why_it": "Sit down significa sedersi, quindi non risponde alla domanda."
+  },
+  {
+   "type": "mcq",
+   "q": "'He gets on well with his colleagues.' Here get on means ...",
+   "q_it": "'He gets on well with his colleagues.' Qui get on significa ...",
+   "options": [
+    "climb onto a bus",
+    "have a good relationship",
+    "start a journey",
+    "wait for"
+   ],
+   "answer": 1,
+   "why": "Get on with someone = to have a friendly relationship.",
+   "why_it": "Get on with someone = andare d'accordo."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ the bus at the main station. (get on, past)",
+   "q_it": "Noi ___ sull'autobus alla stazione principale. (get on, passato)",
+   "answers": [
+    "got on"
+   ],
+   "hint": "got on",
+   "why": "Past simple of get is got.",
+   "why_it": "Il past simple di get è got."
+  },
+  {
+   "type": "fill",
+   "q": "Please ___ at the next stop. (get off)",
+   "q_it": "Per favore ___ alla prossima fermata. (get off)",
+   "answers": [
+    "get off"
+   ],
+   "hint": "get off",
+   "why": "Leave the bus: get off.",
+   "why_it": "Scendere dal bus: get off."
+  },
+  {
+   "type": "fill",
+   "q": "My dad is going to ___ at the airport. (collect me)",
+   "q_it": "Mio padre mi ___ all'aeroporto. (pick up)",
+   "answers": [
+    "pick me up"
+   ],
+   "hint": "pick me up",
+   "why": "Pick me up: the pronoun goes in the middle.",
+   "why_it": "Pick me up: il pronome va in mezzo."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ at five in the morning to reach Rome by lunch. (set off, past)",
+   "q_it": "Noi ___ alle cinque del mattino per arrivare a Roma per pranzo. (set off, passato)",
+   "answers": [
+    "set off"
+   ],
+   "hint": "set off",
+   "why": "Set is irregular: set, set, set.",
+   "why_it": "Set è irregolare: set, set, set."
+  },
+  {
+   "type": "fill",
+   "q": "I don't know this word. I'll ___. (search for it)",
+   "q_it": "Non conosco questa parola. La cerco. (look up)",
+   "answers": [
+    "look it up"
+   ],
+   "hint": "look it up",
+   "why": "Look it up: the pronoun goes in the middle.",
+   "why_it": "Look it up: il pronome va in mezzo."
+  },
+  {
+   "type": "fill",
+   "q": "Who ___ the children when you are at work? (look after)",
+   "q_it": "Chi ___ i bambini quando sei al lavoro? (look after)",
+   "answers": [
+    "looks after"
+   ],
+   "hint": "looks after",
+   "why": "Present simple question with who as subject: who looks after.",
+   "why_it": "Domanda al present simple con who soggetto: who looks after."
+  },
+  {
+   "type": "fill",
+   "q": "The alarm didn't ring, so I ___ late. (wake up, past)",
+   "q_it": "La sveglia non ha suonato, quindi ___ tardi. (wake up, passato)",
+   "answers": [
+    "woke up"
+   ],
+   "hint": "woke up",
+   "why": "Past simple of wake is woke.",
+   "why_it": "Il past simple di wake è woke."
+  },
+  {
+   "type": "fill",
+   "q": "They ___ every Friday night. (leave home to have fun)",
+   "q_it": "Loro ___ ogni venerdì sera. (uscire)",
+   "answers": [
+    "go out"
+   ],
+   "hint": "go out",
+   "why": "Go out = leave home for a social activity.",
+   "why_it": "Go out = uscire per divertirsi."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "We",
+    "got",
+    "off",
+    "the",
+    "train",
+    "in",
+    "Manchester"
+   ],
+   "answers": [
+    "We got off the train in Manchester"
+   ],
+   "why": "Get off is not separable: get off + the train.",
+   "why_it": "Get off non si separa: get off + the train."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "Can",
+    "you",
+    "drop",
+    "me",
+    "off",
+    "at",
+    "the",
+    "station",
+    "?"
+   ],
+   "answers": [
+    "Can you drop me off at the station?"
+   ],
+   "why": "Drop me off: the pronoun goes in the middle.",
+   "why_it": "Drop me off: il pronome va in mezzo."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "I",
+    "looked",
+    "the",
+    "word",
+    "up",
+    "in",
+    "a",
+    "dictionary"
+   ],
+   "answers": [
+    "I looked the word up in a dictionary"
+   ],
+   "why": "Look up is separable: look the word up.",
+   "why_it": "Look up è separabile: look the word up."
+  },
+  {
+   "type": "order",
+   "q": "Build the sentence.",
+   "q_it": "Costruisci la frase.",
+   "words": [
+    "She",
+    "always",
+    "looks",
+    "after",
+    "her",
+    "grandmother"
+   ],
+   "answers": [
+    "She always looks after her grandmother"
+   ],
+   "why": "Always goes before the main verb; look after stays together.",
+   "why_it": "Always va prima del verbo; look after resta unito."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "get on",
+   "it": "salire su (mezzo pubblico); andare d'accordo",
+   "ex": "We got on the bus at the station."
+  },
+  {
+   "id": "c2",
+   "en": "get off",
+   "it": "scendere da (mezzo pubblico)",
+   "ex": "Get off at the next stop."
+  },
+  {
+   "id": "c3",
+   "en": "pick up",
+   "it": "passare a prendere; raccogliere",
+   "ex": "I'll pick you up at eight."
+  },
+  {
+   "id": "c4",
+   "en": "drop off",
+   "it": "lasciare, accompagnare (in auto)",
+   "ex": "Dad dropped me off at school."
+  },
+  {
+   "id": "c5",
+   "en": "set off",
+   "it": "partire, mettersi in viaggio",
+   "ex": "We set off at six."
+  },
+  {
+   "id": "c6",
+   "en": "look up",
+   "it": "cercare (in un dizionario, online)",
+   "ex": "I'll look it up."
+  },
+  {
+   "id": "c7",
+   "en": "look after",
+   "it": "badare a, prendersi cura di",
+   "ex": "She looks after her brother."
+  },
+  {
+   "id": "c8",
+   "en": "wake up",
+   "it": "svegliarsi; svegliare",
+   "ex": "I woke up at five."
+  },
+  {
+   "id": "c9",
+   "en": "go out",
+   "it": "uscire; stare insieme",
+   "ex": "Shall we go out tonight?"
+  },
+  {
+   "id": "c10",
+   "en": "sit down",
+   "it": "sedersi",
+   "ex": "Please sit down."
+  }
+ ]
+}

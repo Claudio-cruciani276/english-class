@@ -1,0 +1,437 @@
+{
+ "kind": "song",
+ "week": "2026-11-16",
+ "order": 1,
+ "artist": "Creedence Clearwater Revival",
+ "title": "Have You Ever Seen the Rain?",
+ "title_it": "Have You Ever Seen the Rain?",
+ "goal": "Learn the words first, notice Have you ever and the present perfect continuous, and think about what rain on a sunny day stands for.",
+ "goal_it": "Impara prima le parole, nota Have you ever e il present perfect continuous, e pensa a cosa rappresenta la pioggia in una giornata di sole.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "About the song",
+   "title_it": "Sulla canzone",
+   "en": [
+    "Title: Have You Ever Seen the Rain? Artist: Creedence Clearwater Revival, an American rock band. The song was released in 1970 and it is on their album Pendulum. It is a calm, rhythmic rock song with a simple sound and a question as its title.",
+    "Search for the title and the artist in your own music app. Listen three times this week, each time with a different job:",
+    "Listening 1: catch the words from the next screen. Listening 2: notice the grammar points. Listening 3: think about the contrast the song builds, and what it suggests about how a person can feel."
+   ],
+   "it": [
+    "Titolo: Have You Ever Seen the Rain? Artista: Creedence Clearwater Revival, band rock americana. La canzone è uscita nel 1970 ed è nell'album Pendulum. È una canzone rock calma e ritmata, con un suono semplice e una domanda come titolo.",
+    "Cerca titolo e artista nella tua app di musica. Ascoltala tre volte questa settimana, ogni volta con un compito diverso:",
+    "Ascolto 1: individua le parole della prossima schermata. Ascolto 2: nota i punti di grammatica. Ascolto 3: pensa al contrasto che costruisce la canzone e a cosa suggerisce su come si può sentire una persona."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Words you will hear",
+   "title_it": "Parole che sentirai",
+   "en": [
+    "These words are in the song or very close to its world. Learn them first, then try to catch them while you listen."
+   ],
+   "it": [
+    "Queste parole sono nella canzone o molto vicine al suo mondo. Imparale prima, poi prova a riconoscerle mentre ascolti."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano",
+     "Example"
+    ],
+    "rows": [
+     [
+      "rain",
+      "pioggia",
+      "We stayed in because of the rain."
+     ],
+     [
+      "sunny",
+      "soleggiato",
+      "It was a sunny day, so we went to the beach."
+     ],
+     [
+      "cool",
+      "fresco",
+      "The evening air was cool and pleasant."
+     ],
+     [
+      "to come down",
+      "cadere (di pioggia)",
+      "The rain came down all afternoon."
+     ],
+     [
+      "before",
+      "prima (di)",
+      "I have never been here before."
+     ],
+     [
+      "to want to know",
+      "voler sapere",
+      "I want to know why the train is late."
+     ],
+     [
+      "storm",
+      "temporale",
+      "The storm began just after lunch."
+     ],
+     [
+      "cloud",
+      "nuvola",
+      "There was not a single cloud in the sky."
+     ],
+     [
+      "trouble",
+      "guaio, problema",
+      "He is in trouble with his boss."
+     ],
+     [
+      "mood",
+      "umore",
+      "Her mood changed when she saw the bill."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "mcq",
+   "q": "It was a sunny day, but she felt sad. What does 'sunny' describe?",
+   "q_it": "It was a sunny day, but she felt sad. Cosa descrive 'sunny'?",
+   "options": [
+    "the weather",
+    "her mood",
+    "the room",
+    "the time of day"
+   ],
+   "answer": 0,
+   "why": "'Sunny' describes the weather: bright, with the sun out.",
+   "why_it": "'Sunny' descrive il tempo: luminoso, con il sole."
+  },
+  {
+   "type": "fill",
+   "q": "The rain ___ (come) down all night, so the garden is full of water.",
+   "q_it": "The rain ___ (come) down all night, quindi il giardino è pieno d'acqua.",
+   "answers": [
+    "came",
+    "has been coming",
+    "was coming"
+   ],
+   "hint": "come",
+   "why": "A finished night in the past takes the past simple (came). With the result now, has been coming also works. Was coming describes the scene.",
+   "why_it": "Una notte finita nel passato vuole il past simple (came). Con il risultato adesso va bene anche has been coming. Was coming descrive la scena."
+  },
+  {
+   "type": "mcq",
+   "q": "'I want to know why you left.' In this sentence, 'know' is followed by:",
+   "q_it": "'I want to know why you left.' In questa frase, 'know' è seguito da:",
+   "options": [
+    "an infinitive",
+    "a question word and a clause",
+    "an -ing form",
+    "a noun only"
+   ],
+   "answer": 1,
+   "why": "After 'know' there is 'why you left': a question word plus a clause with normal word order.",
+   "why_it": "Dopo 'know' c'è 'why you left': una parola interrogativa più una frase con l'ordine normale."
+  },
+  {
+   "type": "explain",
+   "title": "Three grammar points to watch for",
+   "title_it": "Tre punti di grammatica da notare",
+   "en": [
+    "1. Present perfect questions with ever: Have you ever + past participle? We ask about experience in a whole life up to now, with no exact time.",
+    "2. Present perfect continuous: have / has been + -ing. It talks about something that has been going on for some time and is still connected with now. It is common in songs, often as 'it's been raining' or 'been raining'.",
+    "3. Indirect questions: I want to know + question word + normal order (subject, then verb). No do / does / did after 'know'. Listen for how the singer asks what he wants to know.",
+    "Listening 2: notice these three points."
+   ],
+   "it": [
+    "1. Domande al present perfect con ever: Have you ever + participio passato? Si chiede dell'esperienza nella vita fino a ora, senza un momento preciso.",
+    "2. Present perfect continuous: have / has been + -ing. Parla di qualcosa che va avanti da un po' ed è ancora collegato con adesso. È comune nelle canzoni, spesso come 'it's been raining' o 'been raining'.",
+    "3. Domande indirette: I want to know + parola interrogativa + ordine normale (soggetto, poi verbo). Niente do / does / did dopo 'know'. Ascolta come il cantante chiede ciò che vuole sapere.",
+    "Ascolto 2: nota questi tre punti."
+   ],
+   "examples": [
+    {
+     "en": "Have you ever seen snow in the mountains?",
+     "it": "Hai mai visto la neve in montagna?"
+    },
+    {
+     "en": "It has been raining since breakfast.",
+     "it": "Piove dalla colazione."
+    },
+    {
+     "en": "I want to know where you are going.",
+     "it": "Voglio sapere dove stai andando."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase è corretta?",
+   "options": [
+    "Have you ever saw a whale?",
+    "Did you ever seen a whale?",
+    "Have you ever seen a whale?",
+    "Do you ever seen a whale?"
+   ],
+   "answer": 2,
+   "why": "Present perfect = have + past participle. 'Seen' is the participle of see; 'saw' is the past simple.",
+   "why_it": "Present perfect = have + participio passato. 'Seen' è il participio di see; 'saw' è il past simple."
+  },
+  {
+   "type": "fill",
+   "q": "It ___ ___ (rain) since six o'clock and the streets are wet.",
+   "q_it": "It ___ ___ (rain) dalle sei e le strade sono bagnate.",
+   "answers": [
+    "has been raining",
+    "'s been raining",
+    "hasn't stopped raining"
+   ],
+   "hint": "have/has been + -ing",
+   "why": "Since six o'clock + still connected with now: present perfect continuous, has been raining.",
+   "why_it": "Since six o'clock + ancora collegato con adesso: present perfect continuous, has been raining."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "I",
+    "want",
+    "to",
+    "know",
+    "where",
+    "you",
+    "have",
+    "been"
+   ],
+   "answers": [
+    "I want to know where you have been",
+    "I want to know where you've been"
+   ],
+   "why": "After 'know' we use a question word and normal order: where + you + have been.",
+   "why_it": "Dopo 'know' si usa una parola interrogativa e l'ordine normale: where + you + have been."
+  },
+  {
+   "type": "mcq",
+   "q": "'Have you ever been to Paris?' and 'Did you go to Paris last year?' Why are the tenses different?",
+   "q_it": "'Have you ever been to Paris?' e 'Did you go to Paris last year?' Perché i tempi sono diversi?",
+   "options": [
+    "The first is about a finished time, the second about experience",
+    "The first is about experience in a whole life, the second about a finished time",
+    "Both ask about the future",
+    "The second is more polite"
+   ],
+   "answer": 1,
+   "why": "Ever = experience up to now, no exact time (present perfect). Last year = finished time (past simple).",
+   "why_it": "Ever = esperienza fino a ora, senza momento preciso (present perfect). Last year = tempo finito (past simple)."
+  },
+  {
+   "type": "explain",
+   "title": "Now listen (listening 1 and 2)",
+   "title_it": "Ora ascolta (ascolto 1 e 2)",
+   "en": [
+    "Now listen to the song two times. First, catch the words from the table. Second, notice the three grammar points.",
+    "Then answer the questions about the meaning. Think about the whole song, not about single words."
+   ],
+   "it": [
+    "Ora ascolta la canzone due volte. Prima individua le parole della tabella. Poi nota i tre punti di grammatica.",
+    "Poi rispondi alle domande sul significato. Pensa a tutta la canzone, non alle singole parole."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "The song puts rain and a sunny day together. What is the most likely reason?",
+   "q_it": "La canzone mette insieme pioggia e giornata di sole. Qual è il motivo più probabile?",
+   "options": [
+    "To show that the weather forecast was wrong",
+    "To suggest that trouble can arrive when everything looks fine",
+    "To say that rain is better than sun",
+    "To describe a holiday that went badly"
+   ],
+   "answer": 1,
+   "why": "The contrast is a picture of a mood, not of real weather: something painful can happen when outside things look good. The forecast and the holiday are not the point.",
+   "why_it": "Il contrasto è un'immagine di un umore, non del tempo vero: qualcosa di doloroso può arrivare quando fuori tutto sembra andare bene. Previsioni e vacanza non sono il punto."
+  },
+  {
+   "type": "mcq",
+   "q": "The singer asks a question instead of making a statement. What does this suggest?",
+   "q_it": "Il cantante fa una domanda invece di fare un'affermazione. Cosa suggerisce?",
+   "options": [
+    "He does not know the answer himself",
+    "He is looking for someone who understands the feeling",
+    "He is angry with the listener",
+    "He wants to change the subject"
+   ],
+   "answer": 1,
+   "why": "A question about experience invites the listener in: the singer hopes someone else has felt the same. He is not angry, and the question is the subject.",
+   "why_it": "Una domanda sull'esperienza invita l'ascoltatore: il cantante spera che qualcun altro abbia provato la stessa cosa. Non è arrabbiato, e la domanda è proprio il tema."
+  },
+  {
+   "type": "mcq",
+   "q": "Listeners have understood this song in different ways. Which reading is best supported by what we can hear in the words and mood?",
+   "q_it": "Gli ascoltatori hanno capito questa canzone in modi diversi. Quale lettura è più sostenuta da parole e atmosfera?",
+   "options": [
+    "A sad feeling or a problem that comes at a moment when things seem good",
+    "A story about a farmer waiting for water",
+    "A weather report set to music",
+    "A joyful celebration after a storm"
+   ],
+   "answer": 0,
+   "why": "The calm mood and the contrast point to a hidden problem or sadness. A farmer story and a weather report are too literal, and the mood is not a joyful celebration.",
+   "why_it": "L'atmosfera calma e il contrasto indicano un problema o una tristezza nascosta. La storia del contadino e il bollettino sono troppo letterali, e l'atmosfera non è di festa."
+  },
+  {
+   "type": "mcq",
+   "q": "Which statement about the song is NOT supported by what you listened to?",
+   "q_it": "Quale affermazione sulla canzone NON è sostenuta da ciò che hai ascoltato?",
+   "options": [
+    "It uses a weather image to talk about feelings",
+    "It asks the listener about experience",
+    "It describes in detail a trip to the sea",
+    "It has a calm, steady rhythm"
+   ],
+   "answer": 2,
+   "why": "There is no trip to the sea; the other three are things you can hear: the image, the question and the steady rhythm.",
+   "why_it": "Non c'è nessun viaggio al mare; le altre tre cose si sentono: l'immagine, la domanda e il ritmo regolare."
+  },
+  {
+   "type": "mcq",
+   "q": "What do the words 'rain' and 'sunny' have in common as images in the song?",
+   "q_it": "Cosa hanno in comune le parole 'rain' e 'sunny' come immagini nella canzone?",
+   "options": [
+    "Both are about summer",
+    "Both stand for a feeling or a situation, not just the weather",
+    "Both show the singer is cold",
+    "Both are about the past"
+   ],
+   "answer": 1,
+   "why": "Both are used as symbols: rain for trouble or sadness, sun for a good moment on the surface. They are not about the season, the temperature or the past.",
+   "why_it": "Entrambe sono simboli: la pioggia per guai o tristezza, il sole per un bel momento in superficie. Non riguardano la stagione, la temperatura o il passato."
+  },
+  {
+   "type": "mcq",
+   "q": "Why does the song feel more powerful if the music is calm and not angry?",
+   "q_it": "Perché la canzone è più forte se la musica è calma e non arrabbiata?",
+   "options": [
+    "Because calm music hides the words",
+    "Because the quiet sound makes the sadness feel real and ordinary, like something that really happens",
+    "Because the singer is tired of singing",
+    "Because angry songs cannot have a question in the title"
+   ],
+   "answer": 1,
+   "why": "A calm sound makes the pain feel familiar and true. The other answers are not connected to the meaning.",
+   "why_it": "Un suono calmo rende il dolore familiare e vero. Le altre risposte non c'entrano con il significato."
+  },
+  {
+   "type": "fill",
+   "q": "___ you ever seen a rainbow after a storm?",
+   "q_it": "___ you ever seen un arcobaleno dopo un temporale?",
+   "answers": [
+    "Have",
+    "have"
+   ],
+   "hint": "have / has",
+   "why": "Experience question with ever: Have + subject + past participle. With you: Have.",
+   "why_it": "Domanda sull'esperienza con ever: Have + soggetto + participio passato. Con you: Have."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "She",
+    "has",
+    "never",
+    "seen",
+    "snow",
+    "before"
+   ],
+   "answers": [
+    "She has never seen snow before",
+    "She's never seen snow before"
+   ],
+   "why": "Present perfect with never: has never + past participle, 'before' at the end.",
+   "why_it": "Present perfect con never: has never + participio passato, 'before' alla fine."
+  },
+  {
+   "type": "explain",
+   "title": "Your task this week",
+   "title_it": "Il tuo compito della settimana",
+   "en": [
+    "Listening 3: listen again and think about the contrast between rain and sun, and about what the song suggests.",
+    "In your notes write four sentences in your own words: (1) Something you have never done, with never (present perfect). (2) One question for a friend with Have you ever...? (3) Something that has been happening for a long time in your life (present perfect continuous, with for or since). (4) A day when everything looked fine but you did not feel good.",
+    "Do not copy the words of the song."
+   ],
+   "it": [
+    "Ascolto 3: riascolta e pensa al contrasto tra pioggia e sole e a cosa suggerisce la canzone.",
+    "Nelle note scrivi quattro frasi con parole tue: (1) Qualcosa che non hai mai fatto, con never (present perfect). (2) Una domanda per un amico con Have you ever...? (3) Qualcosa che succede da tanto tempo nella tua vita (present perfect continuous, con for o since). (4) Un giorno in cui tutto sembrava andare bene ma tu non stavi bene.",
+    "Non copiare le parole della canzone."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "rain",
+   "it": "pioggia",
+   "ex": "We stayed in because of the rain."
+  },
+  {
+   "id": "c2",
+   "en": "sunny",
+   "it": "soleggiato",
+   "ex": "It was a sunny day, so we went out."
+  },
+  {
+   "id": "c3",
+   "en": "cool",
+   "it": "fresco",
+   "ex": "The evening air was cool."
+  },
+  {
+   "id": "c4",
+   "en": "to come down",
+   "it": "cadere (di pioggia)",
+   "ex": "The rain came down all afternoon."
+  },
+  {
+   "id": "c5",
+   "en": "storm",
+   "it": "temporale",
+   "ex": "The storm began after lunch."
+  },
+  {
+   "id": "c6",
+   "en": "trouble",
+   "it": "guaio",
+   "ex": "He is in trouble with his boss."
+  },
+  {
+   "id": "c7",
+   "en": "mood",
+   "it": "umore",
+   "ex": "Her mood changed at once."
+  },
+  {
+   "id": "c8",
+   "en": "Have you ever...?",
+   "it": "Hai mai...?",
+   "ex": "Have you ever seen a whale?"
+  },
+  {
+   "id": "c9",
+   "en": "have / has been + -ing",
+   "it": "è da un po' che... (continuous)",
+   "ex": "It has been raining since six."
+  },
+  {
+   "id": "c10",
+   "en": "I want to know + question word",
+   "it": "voglio sapere...",
+   "ex": "I want to know where you are."
+  }
+ ]
+}

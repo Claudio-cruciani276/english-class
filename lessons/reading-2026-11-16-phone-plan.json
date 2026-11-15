@@ -1,0 +1,450 @@
+{
+ "kind": "reading",
+ "week": "2026-11-16",
+ "order": 2,
+ "situation": "Making plans with a friend",
+ "situation_it": "Fare un piano con un amico",
+ "title": "Reading: Making plans with a friend",
+ "title_it": "Lettura: Fare un piano con un amico",
+ "goal": "Talk about plans, wishes and experiences with going to, would like to, will and the present perfect.",
+ "goal_it": "Parlare di progetti, desideri ed esperienze con going to, would like to, will e il present perfect.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Learn these phrases first. Notice going to, will and would like to: they appear in the email and in the call."
+   ],
+   "it": [
+    "Impara prima queste frasi. Nota going to, will e would like to: compaiono nell'email e nella telefonata."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "Is this a good time?",
+      "È un buon momento (per parlare)?"
+     ],
+     [
+      "I'd love to come.",
+      "Mi piacerebbe tantissimo venire."
+     ],
+     [
+      "I'm going to book the train.",
+      "Ho intenzione di prenotare il treno."
+     ],
+     [
+      "I'll set an alarm.",
+      "Metterò la sveglia."
+     ],
+     [
+      "Have you ever been there?",
+      "Ci sei mai stato?"
+     ],
+     [
+      "Let's meet under the big clock.",
+      "Troviamoci sotto il grande orologio."
+     ],
+     [
+      "Sounds like a plan.",
+      "Mi sembra un buon programma."
+     ],
+     [
+      "Will that suit you? (B2)",
+      "Ti va bene / ti è comodo? (B2)"
+     ],
+     [
+      "to get soaked (B2)",
+      "bagnarsi fino alle ossa (B2)"
+     ],
+     [
+      "Fair enough.",
+      "Giusto, va bene così."
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "An email from a friend",
+   "title_it": "Un'email da un'amica",
+   "en": [
+    "Read the email once for the general idea, then again for the details.",
+    "Subject: Saturday plans (and a confession)",
+    "Hi Ben,",
+    "Thanks for your message! Sorry I haven't replied sooner: the last few days at work have been mad. I've just finished a huge report, and I'd like to do something completely different this weekend. I need some fresh air, a long walk by the sea and a proper rest from my laptop.",
+    "Here's my idea. I'm going to take the train to Brighton on Saturday morning, because I've never been there in winter. My cousin Nell lives there, and she has promised to show me her favourite places. I've seen lots of photos of the pier, but I've never actually walked along it, which is a bit embarrassing, since I've lived in the south for six years.",
+    "Would you like to come? I know you've been to Brighton before, so you could be our guide! I remember you said you went there on a school trip and got completely soaked. If the weather is bad again, we'll just find a café and wait. I'll bring an umbrella this time.",
+    "Now the confession. I've tried to learn to surf three times, once in Cornwall and twice in Wales, and I've fallen off every single time. Nell says she's going to teach me on Sunday morning, but I think the water will be freezing in November. I'd like to try, but I won't promise anything. If it's too cold, I'll just watch from the beach with a hot chocolate.",
+    "Let me know by Thursday, because I need to book the tickets. If you can't make it, I'll understand. I'm going to ring you on Wednesday evening anyway, so we can decide everything then. By the way, bring a warm coat and comfortable shoes: Nell says we're going to walk a lot.",
+    "See you soon,",
+    "Chloe"
+   ],
+   "it": [
+    "Leggi l'email una prima volta per l'idea generale, poi di nuovo per i dettagli.",
+    "Oggetto: Piani per sabato (e una confessione)",
+    "Ciao Ben,",
+    "Grazie del messaggio! Scusa se non ho risposto prima: gli ultimi giorni al lavoro sono stati pazzeschi. Ho appena finito un rapporto enorme e vorrei fare qualcosa di completamente diverso questo fine settimana. Ho bisogno di aria fresca, di una lunga passeggiata in riva al mare e di un vero riposo dal computer.",
+    "Ecco la mia idea. Prenderò il treno per Brighton sabato mattina, perché non ci sono mai stata in inverno. Mia cugina Nell abita lì e ha promesso di farmi vedere i suoi posti preferiti. Ho visto un sacco di foto del molo, ma non ci ho mai camminato sopra, il che è un po' imbarazzante, visto che vivo nel sud da sei anni.",
+    "Ti va di venire? So che sei già stato a Brighton, quindi potresti farci da guida! Ricordo che dicesti di esserci andato in gita scolastica e di esserti bagnato fino alle ossa. Se il tempo sarà di nuovo brutto, troveremo un bar e aspetteremo. Stavolta porterò l'ombrello.",
+    "Ora la confessione. Ho provato a imparare a fare surf tre volte, una in Cornovaglia e due in Galles, e sono caduta dalla tavola ogni singola volta. Nell dice che domenica mattina mi insegnerà, ma penso che l'acqua sarà gelida a novembre. Mi piacerebbe provare, ma non prometto niente. Se fa troppo freddo, starò a guardare dalla spiaggia con una cioccolata calda.",
+    "Fammi sapere entro giovedì, perché devo prenotare i biglietti. Se non puoi venire, capirò. Comunque ti telefonerò mercoledì sera, così decidiamo tutto. A proposito, porta un cappotto caldo e scarpe comode: Nell dice che cammineremo molto.",
+    "A presto,",
+    "Chloe"
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "A phone call",
+   "title_it": "Una telefonata",
+   "en": [
+    "Read the conversation between Ben and Chloe.",
+    "Ben phones Chloe on Wednesday evening to talk about the weekend.",
+    "Ben: Hi Chloe, it's Ben. Is this a good time?",
+    "Chloe: Hi! Yes, I've just got home. How was your day?",
+    "Ben: Busy, but fine. I've read your email, and I'd love to come to Brighton.",
+    "Chloe: Brilliant! I'm going to book the nine-fifteen train. Will that suit you?",
+    "Ben: It's a bit early for a Saturday, but I'll set an alarm. Where are we going to meet?",
+    "Chloe: Let's meet at the station, under the big clock.",
+    "Ben: Sounds like a plan. Have you decided what we're going to do in the evening?",
+    "Chloe: Not yet. Nell would like to take us to a fish and chips place near the pier.",
+    "Ben: Lovely. I haven't had fish and chips for ages.",
+    "Chloe: Then I'll make sure we order a big portion. What about the surfing?",
+    "Ben: I've never tried it, and I think I'd like to watch.",
+    "Chloe: Fair enough! If it's raining, we'll go to the aquarium instead. Have you ever been there?",
+    "Ben: Yes, I have, but a long time ago. I'd like to go again.",
+    "Chloe: Perfect. I'll send you the ticket tonight.",
+    "Ben: Thanks. See you on Saturday!",
+    "Chloe: See you! Don't forget your coat."
+   ],
+   "it": [
+    "Leggi la conversazione tra Ben e Chloe.",
+    "Ben telefona a Chloe mercoledì sera per parlare del fine settimana.",
+    "Ben: Ciao Chloe, sono Ben. È un buon momento?",
+    "Chloe: Ciao! Sì, sono appena arrivata a casa. Com'è andata la giornata?",
+    "Ben: Piena, ma bene. Ho letto la tua email e verrei volentieri a Brighton.",
+    "Chloe: Fantastico! Prenoterò il treno delle nove e quindici. Ti va bene?",
+    "Ben: È un po' presto per un sabato, ma metterò la sveglia. Dove ci incontriamo?",
+    "Chloe: Troviamoci alla stazione, sotto il grande orologio.",
+    "Ben: Mi sembra un buon programma. Hai deciso cosa faremo la sera?",
+    "Chloe: Non ancora. Nell vorrebbe portarci in un posto di fish and chips vicino al molo.",
+    "Ben: Bellissimo. Non mangio fish and chips da una vita.",
+    "Chloe: Allora farò in modo di ordinare una porzione grande. E il surf?",
+    "Ben: Non l'ho mai provato e penso che preferirei guardare.",
+    "Chloe: Giusto! Se piove, andremo invece all'acquario. Ci sei mai stato?",
+    "Ben: Sì, ma tanto tempo fa. Mi piacerebbe tornarci.",
+    "Chloe: Perfetto. Ti manderò il biglietto stasera.",
+    "Ben: Grazie. Ci vediamo sabato!",
+    "Chloe: A sabato! Non dimenticare il cappotto."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Why does Chloe say she wants to do something 'completely different' this weekend?",
+   "q_it": "Perché Chloe dice di voler fare qualcosa di 'completamente diverso' questo fine settimana?",
+   "options": [
+    "Her last holiday was cancelled at short notice",
+    "She has just had a very stressful week at work",
+    "Her cousin has asked her to help with a move",
+    "Her friends have been too busy to see her"
+   ],
+   "answer": 1,
+   "why": "The email says the last days at work have been mad and she has just finished a huge report. The other reasons are not mentioned.",
+   "why_it": "L'email dice che i giorni al lavoro sono stati pazzeschi e che ha appena finito un rapporto enorme. Le altre ragioni non ci sono."
+  },
+  {
+   "type": "mcq",
+   "q": "Why does Chloe say that never walking along the pier is 'a bit embarrassing'?",
+   "q_it": "Perché Chloe dice che non aver mai camminato sul molo è 'un po' imbarazzante'?",
+   "options": [
+    "She has seen many photos of it online",
+    "Her cousin lives very close to it",
+    "Ben has already walked along it twice",
+    "She has lived in the south for several years"
+   ],
+   "answer": 3,
+   "why": "The reason is given with 'since I've lived in the south for six years': she had plenty of time to go. Photos and Nell are not the reason.",
+   "why_it": "Il motivo è 'since I've lived in the south for six years': aveva molto tempo per andarci. Foto e Nell non sono il motivo."
+  },
+  {
+   "type": "mcq",
+   "q": "What does Chloe mean when she writes 'I won't promise anything' about surfing?",
+   "q_it": "Che cosa intende Chloe con 'I won't promise anything' sul surf?",
+   "options": [
+    "She may decide not to try if the water is too cold",
+    "She is sure she will fall off the board again",
+    "She does not want Nell to teach her at all",
+    "She will only try if Ben comes with her"
+   ],
+   "answer": 0,
+   "why": "She adds: if it's too cold, she will watch from the beach. So the promise depends on the temperature.",
+   "why_it": "Aggiunge: se fa troppo freddo guarderà dalla spiaggia. La promessa dipende dalla temperatura."
+  },
+  {
+   "type": "mcq",
+   "q": "Which statement is NOT true according to the email?",
+   "q_it": "Quale affermazione NON è vera secondo l'email?",
+   "options": [
+    "Ben has been to Brighton before",
+    "Chloe has fallen off a surfboard more than once",
+    "Chloe has already booked the train tickets",
+    "Nell lives in Brighton"
+   ],
+   "answer": 2,
+   "why": "She writes: I need to book the tickets, and asks Ben to reply by Thursday. So she has not booked them yet.",
+   "why_it": "Scrive: I need to book the tickets e chiede a Ben di rispondere entro giovedì. Quindi non li ha ancora prenotati."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the main purpose of the email?",
+   "q_it": "Qual è lo scopo principale dell'email?",
+   "options": [
+    "To cancel the weekend plans because of the weather",
+    "To invite Ben on a trip and arrange the details",
+    "To ask Ben to teach her how to surf",
+    "To thank Ben for a recent visit to Brighton"
+   ],
+   "answer": 1,
+   "why": "Chloe asks 'Would you like to come?', gives the plan, and asks for an answer by Thursday.",
+   "why_it": "Chloe chiede 'Would you like to come?', espone il piano e chiede una risposta entro giovedì."
+  },
+  {
+   "type": "mcq",
+   "q": "In the dialogue, why does Ben say 'I'll set an alarm'?",
+   "q_it": "Nel dialogo, perché Ben dice 'I'll set an alarm'?",
+   "options": [
+    "The train is earlier than he would like, but he accepts it",
+    "He often arrives late for trains on Saturdays",
+    "He wants to wake Chloe up before the journey",
+    "He thinks the nine-fifteen train is too late"
+   ],
+   "answer": 0,
+   "why": "He says it is a bit early for a Saturday, but he agrees. The alarm shows he will make the effort.",
+   "why_it": "Dice che è un po' presto per un sabato, ma accetta. La sveglia mostra che si impegnerà."
+  },
+  {
+   "type": "mcq",
+   "q": "What is the plan if it rains?",
+   "q_it": "Qual è il piano se piove?",
+   "options": [
+    "They will wait in a café",
+    "They will go home early by train",
+    "They will visit the aquarium",
+    "They will cancel the whole trip"
+   ],
+   "answer": 2,
+   "why": "In the dialogue Chloe says: If it's raining, we'll go to the aquarium instead. The café idea comes from the email, but it is about bad weather in general.",
+   "why_it": "Nel dialogo Chloe dice: If it's raining, we'll go to the aquarium instead. L'idea del bar viene dall'email."
+  },
+  {
+   "type": "mcq",
+   "q": "Nell is going to teach Chloe to surf on Saturday. (True, False or Not stated?)",
+   "q_it": "Nell insegnerà a Chloe a fare surf sabato. (Vero, falso o non detto?)",
+   "options": [
+    "True",
+    "False",
+    "Not stated"
+   ],
+   "answer": 1,
+   "why": "The email says Sunday morning.",
+   "why_it": "L'email dice domenica mattina."
+  },
+  {
+   "type": "mcq",
+   "q": "Ben has been to the aquarium in Brighton before. (True, False or Not stated?)",
+   "q_it": "Ben è già stato all'acquario di Brighton. (Vero, falso o non detto?)",
+   "options": [
+    "True",
+    "False",
+    "Not stated"
+   ],
+   "answer": 0,
+   "why": "Chloe asks: Have you ever been there? Ben answers: Yes, I have, but a long time ago.",
+   "why_it": "Chloe chiede: Have you ever been there? Ben risponde: Yes, I have, but a long time ago."
+  },
+  {
+   "type": "mcq",
+   "q": "'Ben got completely soaked on his school trip.' What does 'soaked' mean?",
+   "q_it": "'Ben got completely soaked on his school trip.' Che cosa significa 'soaked'?",
+   "options": [
+    "Very tired",
+    "Very late",
+    "Very cold and lost",
+    "Very wet"
+   ],
+   "answer": 3,
+   "why": "Soaked means extremely wet, usually from rain. It is connected to the umbrella in the next sentence.",
+   "why_it": "Soaked significa bagnatissimo, di solito per la pioggia. Si collega all'ombrello nella frase dopo."
+  },
+  {
+   "type": "mcq",
+   "q": "'Will that suit you?' What does Chloe want to know?",
+   "q_it": "'Will that suit you?' Che cosa vuole sapere Chloe?",
+   "options": [
+    "Whether Ben likes the colour of the train",
+    "Whether the train time is convenient for Ben",
+    "Whether Ben has enough money for the ticket",
+    "Whether Ben has been on that train before"
+   ],
+   "answer": 1,
+   "why": "To suit means to be convenient or right for someone.",
+   "why_it": "To suit significa essere comodo o adatto a qualcuno."
+  },
+  {
+   "type": "fill",
+   "q": "I'm going to ___ the nine-fifteen train.",
+   "q_it": "Prenoterò il treno delle nove e quindici.",
+   "answers": [
+    "book"
+   ],
+   "hint": "prenotare",
+   "why": "Going to + base verb shows a plan. Book is the verb for reserving a ticket.",
+   "why_it": "Going to + verbo base esprime un piano. Book è il verbo per prenotare un biglietto."
+  },
+  {
+   "type": "fill",
+   "q": "___ you ever been to the aquarium?",
+   "q_it": "Sei mai stato all'acquario?",
+   "answers": [
+    "Have",
+    "have"
+   ],
+   "hint": "have o has?",
+   "why": "With you we use have: Have you ever been...?",
+   "why_it": "Con you si usa have: Have you ever been...?"
+  },
+  {
+   "type": "fill",
+   "q": "If it rains, we ___ go to the aquarium instead.",
+   "q_it": "Se piove, andremo invece all'acquario.",
+   "answers": [
+    "will",
+    "'ll",
+    "’ll"
+   ],
+   "hint": "decisione sul momento",
+   "why": "We use will for a decision or promise made now.",
+   "why_it": "Usiamo will per una decisione o promessa fatta ora."
+  },
+  {
+   "type": "order",
+   "q": "Ask about experience.",
+   "q_it": "Chiedi di un'esperienza.",
+   "words": [
+    "Have",
+    "you",
+    "ever",
+    "been",
+    "to",
+    "Brighton"
+   ],
+   "answers": [
+    "Have you ever been to Brighton"
+   ],
+   "why": "Have + subject + ever + past participle.",
+   "why_it": "Have + soggetto + ever + participio passato."
+  },
+  {
+   "type": "order",
+   "q": "Ask about a plan.",
+   "q_it": "Chiedi di un piano.",
+   "words": [
+    "Where",
+    "are",
+    "we",
+    "going",
+    "to",
+    "meet"
+   ],
+   "answers": [
+    "Where are we going to meet"
+   ],
+   "why": "Question word + are + we + going to + base verb.",
+   "why_it": "Parola interrogativa + are + we + going to + verbo base."
+  },
+  {
+   "type": "explain",
+   "title": "Where this comes from",
+   "title_it": "Da dove viene questo testo",
+   "en": [
+    "Chloe, Ben and Nell are invented characters, and the text is written from scratch. Brighton is a real seaside town in the south of England, but the plan is only an example. If you want to travel there, check the train times on the National Rail website or with your train company."
+   ],
+   "it": [
+    "Chloe, Ben e Nell sono personaggi inventati e il testo è scritto da zero. Brighton è una vera città di mare nel sud dell'Inghilterra, ma il piano è solo un esempio. Se vuoi andarci, controlla gli orari dei treni sul sito di National Rail o presso la tua compagnia."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "Is this a good time?",
+   "it": "È un buon momento?",
+   "ex": "Hi, is this a good time?"
+  },
+  {
+   "id": "c2",
+   "en": "I'd love to come.",
+   "it": "Mi piacerebbe venire.",
+   "ex": "I'd love to come to your party."
+  },
+  {
+   "id": "c3",
+   "en": "I'm going to book...",
+   "it": "Ho intenzione di prenotare...",
+   "ex": "I'm going to book a table."
+  },
+  {
+   "id": "c4",
+   "en": "I'll set an alarm.",
+   "it": "Metterò la sveglia.",
+   "ex": "I'll set an alarm for six."
+  },
+  {
+   "id": "c5",
+   "en": "Have you ever been there?",
+   "it": "Ci sei mai stato?",
+   "ex": "Have you ever been to Wales?"
+  },
+  {
+   "id": "c6",
+   "en": "Sounds like a plan.",
+   "it": "Mi sembra un buon programma.",
+   "ex": "Meet at eight? Sounds like a plan."
+  },
+  {
+   "id": "c7",
+   "en": "to suit someone",
+   "it": "andare bene a qualcuno",
+   "ex": "Does Friday suit you?"
+  },
+  {
+   "id": "c8",
+   "en": "soaked",
+   "it": "bagnato fradicio",
+   "ex": "I got soaked in the rain."
+  },
+  {
+   "id": "c9",
+   "en": "Fair enough.",
+   "it": "Giusto, va bene.",
+   "ex": "You want to stay at home? Fair enough."
+  },
+  {
+   "id": "c10",
+   "en": "embarrassing",
+   "it": "imbarazzante",
+   "ex": "It was a bit embarrassing."
+  },
+  {
+   "id": "c11",
+   "en": "I won't promise anything.",
+   "it": "Non prometto niente.",
+   "ex": "I'll try, but I won't promise anything."
+  }
+ ]
+}

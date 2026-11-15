@@ -235,8 +235,12 @@ Esempi originali con una scena di stanza (la lampada e' sopra il tavolo, il gatt
 | 2026-11-13 ven | writing | Descrivere casa o quartiere e diario del weekend | there is/are, a lot of / much / many, preposizioni di luogo (between, opposite, next to, at/on/in), past simple del diario, linkers (first, then, after that); due testi modello, checklist, 25 esercizi, compito libero (non corretto dall'app) |
 | 2026-11-14 sab | verifica | Past simple, past continuous, present perfect (scelta del tempo) | 9 esercizi su scelta del tempo (indizi yesterday/last night/while/yet/just, risultato adesso, been/gone, errore da correggere, order con when); poi between/at di luogo, whose, how often, much, some/any, advice; testo su Ben a Edimburgo con 4 domande. 20 punti |
 | 2026-11-15 dom | ripasso | Past simple, past continuous, present perfect (scelta del tempo) | trappole (did + verbo base, no present perfect con tempo finito, been/gone, when/while), preposizioni di luogo, parole interrogative, countable/uncountable, present simple/continuous richiamo; ascolto leggero (6 Minute English, Big City Small World, Notting Hill, Viva la Vida solo ascolto guidato), riflessione scritta. Preparato senza i risultati della verifica: errori ricorrenti da raccogliere in 04_Progressi. 28 esercizi |
+| 2026-11-16 lun | grammatica | Present perfect 2 (esperienze) | ever/never/been to, still/just/already/yet, it's the first time, confronto con il past simple; pronomi soggetto e complemento (here/there/over there); doppia negazione; ripasso a rotazione dei tempi (present continuous, past simple, past continuous, present perfect) in 8 esercizi. 26 esercizi. Nota: la regola del ripasso 6-8 esercizi e' rispettata con 7 |
+| 2026-11-16 lun | reading | biglietti di treno e autobus (mini guida), fare un piano al telefono (email), presentarsi a una festa (post di blog) | settimana 16-22 novembre, standard sezione 8 (testo lungo + dialogo, 16 esercizi). Ricerca web non utilizzabile (solo elenchi di link): testi senza cifre precise, scritto sulle fonti |
+| 2026-11-16 lun | canzoni | Have You Ever Seen the Rain? (Creedence Clearwater Revival), Haven't Met You Yet (Michael Buble) | scelte dall'admin (coppia A); present perfect, ever, yet |
+| 2026-11-16 lun | phrasal verbs | get on, get off, pick up, drop off, set off, look up, look after, wake up, go out, sit down | dieci verbi nuovi |
 
-Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vestiti, dal medico e in farmacia. Canzoni già fatte: Young and Beautiful, Yellow (settimana 2-8 novembre), This Is the Life, Starlight (settimana 9-15 novembre).
+Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vestiti, dal medico e in farmacia, biglietti di treno e autobus, piano al telefono, festa e small talk. Canzoni già fatte: Young and Beautiful, Yellow (settimana 2-8 novembre), This Is the Life, Starlight (settimana 9-15 novembre), Have You Ever Seen the Rain?, Haven't Met You Yet (settimana 16-22 novembre).
 
 ## 6. Note dell'admin e revisione del weekend
 
@@ -266,6 +270,7 @@ Ogni settimana, la domenica notte (quando domani e' lunedi), insieme a reading e
 
 Verbi gia' fatti:
 - Settimana 9 novembre: get up, come back, turn on, turn off, put on, take off, find out, give up, break down, look forward to.
+- Settimana 16 novembre: get on, get off, pick up, drop off, set off, look up, look after, wake up, go out, sit down.
 
 Proposta per le prossime settimane (da rivedere nel weekend, modificabile):
 - 16 novembre: get on, get off, pick up, drop off, set off, look up, look after, wake up, go out, sit down.

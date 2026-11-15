@@ -1,0 +1,642 @@
+{
+ "title": "Present perfect 2 + pronouns + no double negatives",
+ "title_it": "Present perfect 2 (esperienze), pronomi e doppia negazione",
+ "goal": "Talk about experiences up to now with ever, never, just, already, yet and still, use subject and object pronouns, and avoid double negatives.",
+ "goal_it": "Parlare di esperienze fino a ora con ever, never, just, already, yet e still, usare i pronomi soggetto e complemento ed evitare la doppia negazione.",
+ "minutes": 30,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Present perfect 2: experiences",
+   "title_it": "Present perfect 2: le esperienze",
+   "en": [
+    "We use the present perfect for experiences up to now, when the exact time does not matter: I have seen that film. Have you ever been to Scotland? The time is open: it is somewhere in your life so far.",
+    "Ever means 'at any time in your life' and we use it only in questions. Never means 'not at any time' and it goes with a positive verb: I have never eaten oysters. Short answers: Yes, I have. / No, I haven't. / No, I've never eaten them.",
+    "Been to means 'visited and come back': I have been to Paris twice. Compare with the past simple, which needs a finished time: I went to Paris last May."
+   ],
+   "it": [
+    "Usiamo il present perfect per le esperienze fino a oggi, quando il momento preciso non conta: I have seen that film. Il tempo e' aperto: e' un punto qualsiasi della vita fino a ora.",
+    "Ever significa 'mai, in qualsiasi momento della vita' e si usa solo nelle domande. Never significa 'mai' e vuole il verbo positivo: I have never eaten oysters. Risposte brevi: Yes, I have. / No, I haven't. / No, I've never eaten them. Attenzione: 'Yes, I've never eaten' e' sbagliato, perche' never e' gia' una negazione.",
+    "Been to significa 'sono stato e sono tornato': I have been to Paris twice. Con un momento finito si usa invece il past simple: I went to Paris last May."
+   ],
+   "table": {
+    "head": [
+     "Present perfect (experience)",
+     "Past simple (finished time)"
+    ],
+    "rows": [
+     [
+      "Have you ever eaten Thai food?",
+      "Did you eat Thai food yesterday?"
+     ],
+     [
+      "I have never been to London.",
+      "I went to London last year."
+     ],
+     [
+      "I have eaten Thai food three times this week.",
+      "I ate Thai food on Tuesday."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Have you ever met a famous person?",
+     "it": "Hai mai incontrato una persona famosa?"
+    },
+    {
+     "en": "She has never flown in a plane.",
+     "it": "Non ha mai volato in aereo."
+    },
+    {
+     "en": "We have been to Wales twice.",
+     "it": "Siamo stati in Galles due volte."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "still, just, already, yet",
+   "title_it": "still, just, already, yet",
+   "en": [
+    "just = a very short time ago: I've just eaten. already = earlier than expected: She has already left. In a question, already shows surprise: Have you already finished?",
+    "yet = until now, in questions and negatives, at the end of the sentence: Have you called him yet? I haven't cleaned the room yet. still = continuing, usually before the verb; with a negative it goes before haven't / hasn't: He still hasn't called me.",
+    "It's the first time (that) I have ... uses the present perfect: It's the first time I've seen snow. Remember: with yesterday, last night, in 2019 we do NOT use the present perfect."
+   ],
+   "it": [
+    "just = appena: I've just eaten. already = gia', prima del previsto: She has already left. Nelle domande already mostra sorpresa: Have you already finished?",
+    "yet = finora, fino a ora; si usa nelle domande e nelle negative, in fondo alla frase: Have you called him yet? I haven't cleaned the room yet. still = ancora (continua); di solito prima del verbo, e con la negativa prima di haven't / hasn't: He still hasn't called me.",
+    "It's the first time (that) I have ... vuole il present perfect: It's the first time I've seen snow. Ricorda: con yesterday, last night, in 2019 NON si usa il present perfect."
+   ],
+   "table": {
+    "head": [
+     "Word",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "just",
+      "appena",
+      "I've just finished."
+     ],
+     [
+      "already",
+      "gia'",
+      "They have already arrived."
+     ],
+     [
+      "yet",
+      "gia' / ancora (fine frase)",
+      "Have you eaten yet?"
+     ],
+     [
+      "still",
+      "ancora (prima del verbo)",
+      "I still haven't decided."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "I've just met your brother.",
+     "it": "Ho appena conosciuto tuo fratello."
+    },
+    {
+     "en": "It's the first time I've driven on the left.",
+     "it": "E' la prima volta che guido a sinistra."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "Subject and object pronouns",
+   "title_it": "Pronomi soggetto e complemento",
+   "en": [
+    "Subject pronouns come before the verb: I, you, he, she, it, we, you, they. Object pronouns come after a verb or a preposition: me, you, him, her, it, us, you, them.",
+    "I saw them at the station. Give it to her. Yesterday I went to the cinema with you. After a preposition we always use an object pronoun, even when there are two people: Sam went with Ana and me (not 'Ana and I' after with).",
+    "Common mistake: Me and her went to the shop. Say: She and I went to the shop. Use here for 'qui', there for 'li'' and over there for 'laggiu'': The keys are there, on the table."
+   ],
+   "it": [
+    "I pronomi soggetto stanno prima del verbo: I, you, he, she, it, we, you, they. I pronomi complemento stanno dopo un verbo o una preposizione: me, you, him, her, it, us, you, them.",
+    "I saw them at the station. Give it to her. Yesterday I went to the cinema with you. Dopo una preposizione si usa sempre il pronome complemento, anche con due persone: Sam went with Ana and me.",
+    "Errore tipico: Me and her went to the shop. Si dice: She and I went to the shop. Here = qui, there = li', over there = laggiu': The keys are there, on the table."
+   ],
+   "table": {
+    "head": [
+     "Subject",
+     "Object"
+    ],
+    "rows": [
+     [
+      "I",
+      "me"
+     ],
+     [
+      "he / she",
+      "him / her"
+     ],
+     [
+      "we",
+      "us"
+     ],
+     [
+      "they",
+      "them"
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "She called me, but I didn't answer her.",
+     "it": "Mi ha chiamato, ma non le ho risposto."
+    },
+    {
+     "en": "The bus stop is over there. Let's run to it.",
+     "it": "La fermata e' laggiu'. Corriamo verso di essa."
+    }
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "No double negatives",
+   "title_it": "Niente doppia negazione",
+   "en": [
+    "English uses only ONE negative in a clause. With never, nobody, nothing, nowhere the verb stays positive: I never go to the gym (not 'I don't never go'). Nobody called me.",
+    "If the verb is negative (haven't, don't, didn't), use any-words: I haven't seen anybody. She didn't say anything. We can't find it anywhere. These mean the same as: I've seen nobody. She said nothing. We can find it nowhere (this form is less usual).",
+    "Italian says 'non ho visto nessuno' with two negatives. In English that is a mistake: I haven't seen nobody."
+   ],
+   "it": [
+    "In inglese si usa UNA sola negazione per frase. Con never, nobody, nothing, nowhere il verbo resta positivo: I never go to the gym (non 'I don't never go'). Nobody called me.",
+    "Se il verbo e' negativo (haven't, don't, didn't), si usano le parole con any: I haven't seen anybody. She didn't say anything. We can't find it anywhere. Significano come: I've seen nobody. She said nothing.",
+    "In italiano 'non ho visto nessuno' ha due negazioni. In inglese e' un errore: I haven't seen nobody."
+   ],
+   "table": {
+    "head": [
+     "Wrong",
+     "Right"
+    ],
+    "rows": [
+     [
+      "I don't never eat meat.",
+      "I never eat meat."
+     ],
+     [
+      "I haven't seen nobody.",
+      "I haven't seen anybody."
+     ],
+     [
+      "She didn't say nothing.",
+      "She didn't say anything."
+     ]
+    ]
+   },
+   "examples": [
+    {
+     "en": "Nothing happened yesterday.",
+     "it": "Ieri non e' successo niente."
+    },
+    {
+     "en": "He hasn't told anyone yet.",
+     "it": "Non l'ha ancora detto a nessuno."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Have you ___ been to Ireland?",
+   "q_it": "Hai ___ mai stato in Irlanda?",
+   "options": [
+    "never",
+    "yet",
+    "already",
+    "ever"
+   ],
+   "answer": 3,
+   "why": "Ever is used in questions about experience: Have you ever been to...?",
+   "why_it": "Ever si usa nelle domande sulle esperienze."
+  },
+  {
+   "type": "mcq",
+   "q": "Is it correct? 'Yes, I've never eaten sushi.'",
+   "q_it": "E' corretto?",
+   "options": [
+    "No, it should be 'No, I've never eaten sushi'",
+    "Yes, it is correct",
+    "No, it should be 'Yes, I haven't never eaten sushi'",
+    "No, it should be 'Yes, I've ever eaten sushi'"
+   ],
+   "answer": 0,
+   "why": "Never is already a negative, so the short answer starts with No.",
+   "why_it": "Never e' gia' una negazione, quindi la risposta inizia con No."
+  },
+  {
+   "type": "fill",
+   "q": "Maria isn't at home. She ___ (go) to the market and she is still there.",
+   "q_it": "Maria non e' a casa. E' andata al mercato ed e' ancora li'.",
+   "answers": [
+    "has gone",
+    "'s gone"
+   ],
+   "hint": "been or gone",
+   "why": "Gone means she went and is still there. Been means she went and came back.",
+   "why_it": "Gone = e' andata ed e' ancora li'."
+  },
+  {
+   "type": "order",
+   "q": "Order the words: a question about experience.",
+   "q_it": "Riordina.",
+   "words": [
+    "Have",
+    "you",
+    "ever",
+    "visited",
+    "a",
+    "castle",
+    "?"
+   ],
+   "answers": [
+    "Have you ever visited a castle?"
+   ],
+   "why": "Question: have + subject + ever + past participle.",
+   "why_it": "Domanda: have + soggetto + ever + participio passato."
+  },
+  {
+   "type": "fill",
+   "q": "We ___ (eat) pizza three times this week.",
+   "q_it": "Abbiamo mangiato la pizza tre volte questa settimana.",
+   "answers": [
+    "have eaten",
+    "'ve eaten"
+   ],
+   "hint": "present perfect",
+   "why": "This week is not finished, so the present perfect is natural.",
+   "why_it": "This week non e' finita: present perfect."
+  },
+  {
+   "type": "fill",
+   "q": "They ___ (go) to Wales last weekend.",
+   "q_it": "Sono andati in Galles lo scorso weekend.",
+   "answers": [
+    "went"
+   ],
+   "hint": "past simple",
+   "why": "Last weekend is finished: past simple.",
+   "why_it": "Last weekend e' finito: past simple."
+  },
+  {
+   "type": "order",
+   "q": "Order the words.",
+   "q_it": "Riordina.",
+   "words": [
+    "It's",
+    "the",
+    "first",
+    "time",
+    "I've",
+    "flown",
+    "in",
+    "a",
+    "helicopter",
+    "."
+   ],
+   "answers": [
+    "It's the first time I've flown in a helicopter.",
+    "It is the first time I've flown in a helicopter."
+   ],
+   "why": "After 'It's the first time' we use the present perfect.",
+   "why_it": "Dopo 'It's the first time' si usa il present perfect."
+  },
+  {
+   "type": "mcq",
+   "q": "Look! Tom ___ arrived. He's at the door now.",
+   "q_it": "Guarda! Tom e' ___ arrivato.",
+   "options": [
+    "yet",
+    "still",
+    "just",
+    "ever"
+   ],
+   "answer": 2,
+   "why": "Just means a very short time ago.",
+   "why_it": "Just = appena."
+  },
+  {
+   "type": "fill",
+   "q": "Have you finished your homework ___?",
+   "q_it": "Hai finito i compiti?",
+   "answers": [
+    "yet"
+   ],
+   "hint": "yet / still",
+   "why": "In a question, yet goes at the end.",
+   "why_it": "Nelle domande yet va in fondo."
+  },
+  {
+   "type": "mcq",
+   "q": "She ___ hasn't called me. I'm worried.",
+   "q_it": "Lei ___ non mi ha chiamato.",
+   "options": [
+    "just",
+    "still",
+    "ever",
+    "already"
+   ],
+   "answer": 1,
+   "why": "Still before hasn't means it continues: she has not called until now.",
+   "why_it": "Still prima di hasn't = ancora."
+  },
+  {
+   "type": "fill",
+   "q": "I haven't cleaned my room ___.",
+   "q_it": "Non ho ancora pulito la camera.",
+   "answers": [
+    "yet"
+   ],
+   "hint": "yet / already",
+   "why": "In a negative, at the end: yet.",
+   "why_it": "Nella negativa, in fondo: yet."
+  },
+  {
+   "type": "order",
+   "q": "Order the words.",
+   "q_it": "Riordina.",
+   "words": [
+    "We",
+    "have",
+    "already",
+    "booked",
+    "the",
+    "hotel",
+    "."
+   ],
+   "answers": [
+    "We have already booked the hotel."
+   ],
+   "why": "Already goes between have and the past participle.",
+   "why_it": "Already sta tra have e il participio."
+  },
+  {
+   "type": "mcq",
+   "q": "Anna is my friend. I often phone ___.",
+   "q_it": "Anna e' mia amica. Spesso telefono a ___.",
+   "options": [
+    "she",
+    "you",
+    "hers",
+    "her"
+   ],
+   "answer": 3,
+   "why": "After a verb we use the object pronoun: her.",
+   "why_it": "Dopo il verbo: pronome complemento her."
+  },
+  {
+   "type": "fill",
+   "q": "Where are my keys? I can't find ___ anywhere.",
+   "q_it": "Non riesco a trovarle.",
+   "answers": [
+    "them"
+   ],
+   "hint": "object pronoun",
+   "why": "Keys is plural and it is the object: them.",
+   "why_it": "Keys e' plurale e complemento: them."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase e' corretta?",
+   "options": [
+    "Luca and I went to the cinema.",
+    "Luca and me went to the cinema.",
+    "Me and Luca went to the cinema.",
+    "Luca and myself went to the cinema."
+   ],
+   "answer": 0,
+   "why": "As a subject we use I, and it is polite to put the other person first.",
+   "why_it": "Come soggetto si usa I; e' educato nominare prima l'altra persona."
+  },
+  {
+   "type": "mcq",
+   "q": "Which sentence is correct?",
+   "q_it": "Quale frase e' corretta?",
+   "options": [
+    "I don't know nothing about it.",
+    "I don't never know about it.",
+    "I know nothing about it.",
+    "I haven't seen nobody."
+   ],
+   "answer": 2,
+   "why": "Only one negative: know nothing, or don't know anything.",
+   "why_it": "Una sola negazione: know nothing o don't know anything."
+  },
+  {
+   "type": "fill",
+   "q": "I haven't met ___ new today. (anybody / nobody)",
+   "q_it": "Non ho conosciuto nessuno di nuovo oggi.",
+   "answers": [
+    "anybody",
+    "anyone"
+   ],
+   "hint": "any-word",
+   "why": "With a negative verb we use any-: anybody / anyone.",
+   "why_it": "Con il verbo negativo: anybody / anyone."
+  },
+  {
+   "type": "fill",
+   "q": "She ___ (never / watch) horror films.",
+   "q_it": "Non guarda mai film horror.",
+   "answers": [
+    "never watches"
+   ],
+   "hint": "never + positive verb",
+   "why": "Never already makes the sentence negative, so the verb is positive.",
+   "why_it": "Never rende gia' negativa la frase."
+  },
+  {
+   "type": "order",
+   "q": "Order the words.",
+   "q_it": "Riordina.",
+   "words": [
+    "Nobody",
+    "has",
+    "told",
+    "me",
+    "anything",
+    "about",
+    "the",
+    "plan",
+    "."
+   ],
+   "answers": [
+    "Nobody has told me anything about the plan.",
+    "Nobody told me anything about the plan."
+   ],
+   "why": "Nobody is the negative, so told me anything is positive in form.",
+   "why_it": "Nobody e' la negazione."
+  },
+  {
+   "type": "mcq",
+   "q": "Review. Right now my sister ___ a shower, so please wait.",
+   "q_it": "Ripasso. In questo momento mia sorella ___ la doccia.",
+   "options": [
+    "has",
+    "is taking",
+    "takes",
+    "took"
+   ],
+   "answer": 1,
+   "why": "Right now = present continuous.",
+   "why_it": "Right now = present continuous."
+  },
+  {
+   "type": "fill",
+   "q": "Review. I usually get up at seven, but yesterday I ___ (get) up at nine.",
+   "q_it": "Di solito mi alzo alle sette, ma ieri alle nove.",
+   "answers": [
+    "got"
+   ],
+   "hint": "past simple",
+   "why": "Yesterday is a finished time: past simple. (Usually = present simple.)",
+   "why_it": "Yesterday e' un momento finito: past simple. (Usually = present simple.)"
+  },
+  {
+   "type": "mcq",
+   "q": "Review. We ___ dinner when the lights went out.",
+   "q_it": "Ripasso. Stavamo cenando quando se n'e' andata la luce.",
+   "options": [
+    "had",
+    "are having",
+    "have had",
+    "were having"
+   ],
+   "answer": 3,
+   "why": "An action in progress interrupted by a shorter one: past continuous.",
+   "why_it": "Azione in corso interrotta: past continuous."
+  },
+  {
+   "type": "fill",
+   "q": "Review. I ___ (lose) my phone, so I can't call you now.",
+   "q_it": "Ho perso il telefono, quindi non posso chiamarti.",
+   "answers": [
+    "have lost",
+    "'ve lost"
+   ],
+   "hint": "result now",
+   "why": "A past action with a result now: present perfect.",
+   "why_it": "Azione passata con risultato adesso: present perfect."
+  },
+  {
+   "type": "mcq",
+   "q": "Review. Which sentence is correct?",
+   "q_it": "Ripasso. Quale frase e' corretta?",
+   "options": [
+    "I saw him yesterday.",
+    "I have seen him yesterday.",
+    "I was seeing him yesterday.",
+    "I see him yesterday."
+   ],
+   "answer": 0,
+   "why": "Yesterday is a finished time: past simple, not present perfect.",
+   "why_it": "Yesterday = past simple."
+  },
+  {
+   "type": "mcq",
+   "q": "Review. While I ___ the dishes, the phone rang.",
+   "q_it": "Ripasso. Mentre ___ i piatti, ha squillato il telefono.",
+   "options": [
+    "washed",
+    "have washed",
+    "was washing",
+    "wash"
+   ],
+   "answer": 2,
+   "why": "While + a longer action in progress: past continuous.",
+   "why_it": "While + azione in corso: past continuous."
+  },
+  {
+   "type": "order",
+   "q": "Review. Order the words.",
+   "q_it": "Ripasso. Riordina.",
+   "words": [
+    "She",
+    "is",
+    "studying",
+    "now",
+    "because",
+    "she",
+    "has",
+    "an",
+    "exam",
+    "tomorrow",
+    "."
+   ],
+   "answers": [
+    "She is studying now because she has an exam tomorrow."
+   ],
+   "why": "Now = present continuous; has an exam = present simple (state).",
+   "why_it": "Now = present continuous; has = present simple."
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "Have you ever ...?",
+   "it": "Hai mai ...?",
+   "ex": "Have you ever been to London?"
+  },
+  {
+   "id": "c2",
+   "en": "never",
+   "it": "mai (verbo positivo)",
+   "ex": "I have never eaten snails."
+  },
+  {
+   "id": "c3",
+   "en": "been to",
+   "it": "essere stato a",
+   "ex": "We have been to Spain twice."
+  },
+  {
+   "id": "c4",
+   "en": "just",
+   "it": "appena",
+   "ex": "I've just woken up."
+  },
+  {
+   "id": "c5",
+   "en": "already",
+   "it": "gia'",
+   "ex": "She has already left."
+  },
+  {
+   "id": "c6",
+   "en": "yet",
+   "it": "finora, ancora (fine frase)",
+   "ex": "I haven't finished yet."
+  },
+  {
+   "id": "c7",
+   "en": "still",
+   "it": "ancora (continua)",
+   "ex": "He still hasn't replied."
+  },
+  {
+   "id": "c8",
+   "en": "It's the first time I've ...",
+   "it": "E' la prima volta che ...",
+   "ex": "It's the first time I've cooked for ten people."
+  },
+  {
+   "id": "c9",
+   "en": "me / him / her / us / them",
+   "it": "pronomi complemento",
+   "ex": "Give it to them."
+  },
+  {
+   "id": "c10",
+   "en": "nobody / nothing / nowhere",
+   "it": "nessuno / niente / da nessuna parte",
+   "ex": "Nothing happened. I haven't been anywhere."
+  }
+ ]
+}

@@ -126,6 +126,15 @@
     "exercises": 28
   },
   {
+    "id": "2026-11-16",
+    "title": "Present perfect 2 + pronouns + no double negatives",
+    "title_it": "Present perfect 2 (esperienze), pronomi e doppia negazione",
+    "goal": "Talk about experiences up to now with ever, never, just, already, yet and still, use subject and object pronouns, and avoid double negatives.",
+    "goal_it": "Parlare di esperienze fino a ora con ever, never, just, already, yet e still, usare i pronomi soggetto e complemento ed evitare la doppia negazione.",
+    "minutes": 30,
+    "exercises": 26
+  },
+  {
     "id": "phrasal-2026-11-09",
     "kind": "phrasal",
     "week": "2026-11-09",
@@ -134,6 +143,18 @@
     "title_it": "Phrasal verbs della settimana",
     "goal": "Learn ten useful phrasal verbs and see how to use them in different sentences.",
     "goal_it": "Imparare dieci phrasal verbs utili e vedere come usarli in frasi diverse.",
+    "minutes": 20,
+    "exercises": 20
+  },
+  {
+    "id": "phrasal-2026-11-16",
+    "kind": "phrasal",
+    "week": "2026-11-16",
+    "order": 1,
+    "title": "Phrasal verbs of the week",
+    "title_it": "Phrasal verbs della settimana",
+    "goal": "Learn ten more phrasal verbs for travel and daily life and see how to use them in different sentences.",
+    "goal_it": "Imparare altri dieci phrasal verbs per viaggi e vita quotidiana e vedere come usarli in frasi diverse.",
     "minutes": 20,
     "exercises": 20
   },
@@ -210,6 +231,42 @@
     "exercises": 8
   },
   {
+    "id": "reading-2026-11-16-party",
+    "kind": "reading",
+    "week": "2026-11-16",
+    "order": 3,
+    "title": "Reading: Meeting people at a party",
+    "title_it": "Lettura: Conoscere persone a una festa",
+    "goal": "Introduce yourself, make small talk and talk about past experiences at a British party.",
+    "goal_it": "Presentarti, fare due chiacchiere e parlare di esperienze passate a una festa britannica.",
+    "minutes": 25,
+    "exercises": 16
+  },
+  {
+    "id": "reading-2026-11-16-phone-plan",
+    "kind": "reading",
+    "week": "2026-11-16",
+    "order": 2,
+    "title": "Reading: Making plans with a friend",
+    "title_it": "Lettura: Fare un piano con un amico",
+    "goal": "Talk about plans, wishes and experiences with going to, would like to, will and the present perfect.",
+    "goal_it": "Parlare di progetti, desideri ed esperienze con going to, would like to, will e il present perfect.",
+    "minutes": 25,
+    "exercises": 16
+  },
+  {
+    "id": "reading-2026-11-16-trains",
+    "kind": "reading",
+    "week": "2026-11-16",
+    "order": 1,
+    "title": "Reading: Train and bus tickets",
+    "title_it": "Lettura: Biglietti di treno e autobus",
+    "goal": "Understand the main types of British train ticket and buy a ticket politely at the station.",
+    "goal_it": "Capire i principali tipi di biglietto del treno britannico e comprarne uno con gentilezza in stazione.",
+    "minutes": 25,
+    "exercises": 16
+  },
+  {
     "id": "song-2026-11-02-yellow",
     "kind": "song",
     "week": "2026-11-02",
@@ -260,5 +317,31 @@
     "goal_it": "Impara prima le parole, nota il past continuous e going to, e pensa a cosa si prova davvero in una serata fuori.",
     "minutes": 25,
     "exercises": 15
+  },
+  {
+    "id": "song-2026-11-16-have-you-ever-seen-the-rain",
+    "kind": "song",
+    "week": "2026-11-16",
+    "order": 1,
+    "artist": "Creedence Clearwater Revival",
+    "title": "Have You Ever Seen the Rain?",
+    "title_it": "Have You Ever Seen the Rain?",
+    "goal": "Learn the words first, notice Have you ever and the present perfect continuous, and think about what rain on a sunny day stands for.",
+    "goal_it": "Impara prima le parole, nota Have you ever e il present perfect continuous, e pensa a cosa rappresenta la pioggia in una giornata di sole.",
+    "minutes": 25,
+    "exercises": 15
+  },
+  {
+    "id": "song-2026-11-16-havent-met-you-yet",
+    "kind": "song",
+    "week": "2026-11-16",
+    "order": 2,
+    "artist": "Michael Bublé",
+    "title": "Haven't Met You Yet",
+    "title_it": "Haven't Met You Yet",
+    "goal": "Learn the words first, notice haven't ... yet and the way the song talks about the future, and think about the difference between waiting and hoping.",
+    "goal_it": "Impara prima le parole, nota haven't ... yet e il modo in cui la canzone parla del futuro, e pensa alla differenza tra aspettare e sperare.",
+    "minutes": 25,
+    "exercises": 14
   }
 ]

@@ -1,0 +1,446 @@
+{
+ "kind": "reading",
+ "week": "2026-11-16",
+ "order": 1,
+ "situation": "Train and bus tickets",
+ "situation_it": "Biglietti di treno e autobus",
+ "title": "Reading: Train and bus tickets",
+ "title_it": "Lettura: Biglietti di treno e autobus",
+ "goal": "Understand the main types of British train ticket and buy a ticket politely at the station.",
+ "goal_it": "Capire i principali tipi di biglietto del treno britannico e comprarne uno con gentilezza in stazione.",
+ "minutes": 25,
+ "steps": [
+  {
+   "type": "explain",
+   "title": "Key phrases",
+   "title_it": "Frasi chiave",
+   "en": [
+    "Learn these phrases and words first. Some are a little more difficult (B2), so read them carefully."
+   ],
+   "it": [
+    "Impara prima queste frasi e parole. Alcune sono un po' più difficili (B2), quindi leggile con attenzione."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Italiano"
+    ],
+    "rows": [
+     [
+      "a single / a return",
+      "un biglietto di sola andata / di andata e ritorno"
+     ],
+     [
+      "Off-Peak ticket",
+      "biglietto fuori dall'ora di punta (non vale sui treni più affollati)"
+     ],
+     [
+      "Advance ticket",
+      "biglietto in anticipo, valido per un solo treno"
+     ],
+     [
+      "It is only valid on one train.",
+      "Vale solo su un treno."
+     ],
+     [
+      "Railcard",
+      "tessera che dà diritto a uno sconto sulle tariffe"
+     ],
+     [
+      "Which platform does it leave from?",
+      "Da quale binario parte?"
+     ],
+     [
+      "the departures board",
+      "il tabellone delle partenze"
+     ],
+     [
+      "flexible (B2)",
+      "flessibile, che si può cambiare facilmente"
+     ],
+     [
+      "That comes to thirty-one pounds.",
+      "Il totale è di trentuno sterline."
+     ],
+     [
+      "fare (B2)",
+      "tariffa, prezzo del viaggio"
+     ]
+    ]
+   }
+  },
+  {
+   "type": "explain",
+   "title": "A short guide to British tickets",
+   "title_it": "Breve guida ai biglietti britannici",
+   "en": [
+    "Read the guide once for the general idea, then again for the details.",
+    "Buying a train ticket in Britain can feel like solving a puzzle. The same journey can have five different prices, and the cheapest one is not always the best one. Here is a short guide for visitors.",
+    "First, the three main types. An Anytime ticket lets you travel on any train you like on the day printed on it. It is the most flexible, and the most expensive. An Off-Peak ticket is cheaper, but you cannot use it on the busiest trains, usually the ones that arrive in big cities during the morning rush hour. The exact times change from company to company, so always read the small print. An Advance ticket is the cheapest of all. You buy it for one particular train, often weeks before, and if you miss that train the ticket is usually useless. Some companies let you change it for a fee, but you must ask before the train leaves. All of this is true at the time of writing, and rules can change.",
+    "Second, think about who is travelling. Many young people, students and older passengers can buy a Railcard, which gives roughly one third off most fares for a year. If you travel often, the card can pay for itself quickly. However, some discounts do not apply at certain times, so check before you buy.",
+    "Third, think about the shape of your journey. A single takes you one way. A return takes you there and back. Surprisingly, two singles are sometimes cheaper than one return, so look at both options before you pay.",
+    "Fourth, buses and coaches. Long-distance coaches are often cheaper than trains, but they are slower. On a local bus you usually tell the driver where you are going and pay as you get on. Many buses now accept contactless cards, but not all of them, so keep some coins in your pocket.",
+    "Finally, a tip from regular travellers: arrive a few minutes early, look at the departures board for your platform, and keep your ticket until you have left the station. There may be barriers at both ends, and an inspector can ask to see it at any time. If you have a mobile ticket, make sure your phone is charged."
+   ],
+   "it": [
+    "Leggi la guida una prima volta per l'idea generale, poi di nuovo per i dettagli.",
+    "Comprare un biglietto del treno in Gran Bretagna può sembrare risolvere un rompicapo. Lo stesso viaggio può avere cinque prezzi diversi, e il più economico non è sempre il migliore. Ecco una breve guida per i visitatori.",
+    "Prima di tutto, i tre tipi principali. Un biglietto Anytime ti permette di viaggiare su qualsiasi treno nel giorno stampato sul biglietto. È il più flessibile e il più caro. Un biglietto Off-Peak costa meno, ma non si può usare sui treni più affollati, di solito quelli che arrivano nelle grandi città nell'ora di punta del mattino. Gli orari esatti cambiano da compagnia a compagnia, quindi leggi sempre le scritte piccole. Un biglietto Advance è il più economico in assoluto. Lo compri per un treno preciso, spesso settimane prima, e se perdi quel treno di solito il biglietto è inutile. Alcune compagnie permettono di cambiarlo pagando una tariffa, ma devi chiederlo prima che il treno parta. Tutto questo è vero al momento in cui scrivo, e le regole possono cambiare.",
+    "In secondo luogo, pensa a chi viaggia. Molti giovani, studenti e passeggeri anziani possono comprare una Railcard, che dà circa un terzo di sconto sulla maggior parte delle tariffe per un anno. Se viaggi spesso, la tessera può ripagarsi in fretta. Tuttavia alcuni sconti non valgono in certi orari, quindi controlla prima di comprare.",
+    "In terzo luogo, pensa alla forma del tuo viaggio. Un single ti porta in una direzione. Un return ti porta andata e ritorno. Sorprendentemente, due single a volte costano meno di un return, quindi guarda entrambe le opzioni prima di pagare.",
+    "Quarto, autobus e pullman. I pullman a lunga percorrenza spesso costano meno dei treni, ma sono più lenti. Su un autobus locale di solito dici all'autista dove vai e paghi salendo. Molti autobus ora accettano le carte contactless, ma non tutti, quindi tieni qualche moneta in tasca.",
+    "Infine, un consiglio di chi viaggia spesso: arriva qualche minuto prima, guarda il tabellone delle partenze per il tuo binario e tieni il biglietto finché non sei uscito dalla stazione. Ci possono essere tornelli a entrambe le estremità, e un controllore può chiederti di vederlo in qualsiasi momento. Se hai un biglietto sul telefono, assicurati che sia carico."
+   ]
+  },
+  {
+   "type": "explain",
+   "title": "At the ticket office",
+   "title_it": "In biglietteria",
+   "en": [
+    "Read the conversation between Sam and the clerk.",
+    "Sam is at the ticket office of a station. He is going to visit a friend in York.",
+    "Sam: Good morning. I'd like a ticket to York for Saturday, please.",
+    "Clerk: Certainly. Is that a single or a return?",
+    "Sam: A return, please. I'm going to come back on Sunday evening, but I haven't decided which train yet.",
+    "Clerk: In that case, I wouldn't recommend an Advance ticket. It is cheaper, but it is only valid on one particular train.",
+    "Sam: What if I miss it?",
+    "Clerk: Then you would have to buy a new ticket. An Off-Peak return is more flexible. You can use it on any train after nine in the morning.",
+    "Sam: That sounds better. Have you got anything cheaper, though?",
+    "Clerk: Do you have a Railcard?",
+    "Sam: Yes, I've had a 16-25 Railcard since last year. Here it is.",
+    "Clerk: Perfect. That takes a third off the price, so the Off-Peak return comes to thirty-one pounds.",
+    "Sam: Great, I'll take it. Can I pay by card?",
+    "Clerk: Of course. Here is your ticket. You must keep it until the end of your journey.",
+    "Sam: Thank you. Which platform does the nine-thirty train leave from?",
+    "Clerk: Platform six. Saturday trains can be busy, so I'd get there early.",
+    "Sam: I will. Thanks for your help."
+   ],
+   "it": [
+    "Leggi la conversazione tra Sam e l'addetto.",
+    "Sam è alla biglietteria di una stazione. Andrà a trovare un amico a York.",
+    "Sam: Buongiorno. Vorrei un biglietto per York per sabato, per favore.",
+    "Addetto: Certo. Andata o andata e ritorno?",
+    "Sam: Andata e ritorno, per favore. Tornerò domenica sera, ma non ho ancora deciso quale treno.",
+    "Addetto: In tal caso non consiglierei un Advance. Costa meno, ma vale solo su un treno preciso.",
+    "Sam: E se lo perdo?",
+    "Addetto: Allora dovrebbe comprare un nuovo biglietto. Un Off-Peak di andata e ritorno è più flessibile. Lo può usare su qualsiasi treno dopo le nove del mattino.",
+    "Sam: Mi sembra meglio. Ha qualcosa di più economico, però?",
+    "Addetto: Ha una Railcard?",
+    "Sam: Sì, ho una Railcard 16-25 dall'anno scorso. Ecco qui.",
+    "Addetto: Perfetto. Toglie un terzo dal prezzo, quindi l'Off-Peak di andata e ritorno costa trentuno sterline.",
+    "Sam: Ottimo, lo prendo. Posso pagare con la carta?",
+    "Addetto: Certo. Ecco il suo biglietto. Lo deve tenere fino alla fine del viaggio.",
+    "Sam: Grazie. Da quale binario parte il treno delle nove e trenta?",
+    "Addetto: Binario sei. I treni del sabato possono essere affollati, quindi ci andrei presto.",
+    "Sam: Lo farò. Grazie dell'aiuto."
+   ]
+  },
+  {
+   "type": "mcq",
+   "q": "Why does the guide say that the cheapest ticket is not always the best one?",
+   "q_it": "Perché la guida dice che il biglietto più economico non è sempre il migliore?",
+   "options": [
+    "It is only sold during the weeks before Christmas",
+    "It cannot be bought by people with a Railcard",
+    "It is tied to one train, so missing it can mean paying again",
+    "It is valid only on the slowest trains of the day"
+   ],
+   "answer": 2,
+   "why": "Paragraph 2: an Advance ticket is for one particular train and is usually useless if you miss it. The other options are never mentioned.",
+   "why_it": "Paragrafo 2: l'Advance è per un treno preciso ed è di solito inutile se lo perdi. Le altre opzioni non sono nel testo."
+  },
+  {
+   "type": "mcq",
+   "q": "According to the text, what is true about an Off-Peak ticket?",
+   "q_it": "Secondo il testo, che cosa è vero su un biglietto Off-Peak?",
+   "options": [
+    "It costs less than Anytime but not on the busiest trains",
+    "It is the cheapest type, but only for one train",
+    "It can be used on every train, but only after a week",
+    "It is free for passengers who have a Railcard"
+   ],
+   "answer": 0,
+   "why": "Paragraph 2: cheaper, but you cannot use it on the busiest trains. 'Only for one train' describes the Advance ticket (trap).",
+   "why_it": "Paragrafo 2: costa meno ma non vale sui treni più affollati. 'Un solo treno' descrive l'Advance (trappola)."
+  },
+  {
+   "type": "mcq",
+   "q": "The writer says two singles are sometimes cheaper than one return. What does this suggest the reader should do?",
+   "q_it": "L'autore dice che due single a volte costano meno di un return. Che cosa suggerisce al lettore?",
+   "options": [
+    "Always buy two singles for every journey",
+    "Avoid returns when travelling at weekends",
+    "Ask an inspector which ticket is cheaper",
+    "Compare both options before paying"
+   ],
+   "answer": 3,
+   "why": "Paragraph 4 says 'sometimes' and ends with 'look at both options'. It does not say 'always'.",
+   "why_it": "Il paragrafo 4 dice 'sometimes' e finisce con 'look at both options'. Non dice 'always'."
+  },
+  {
+   "type": "mcq",
+   "q": "In the Railcard paragraph, what does 'pay for itself' mean?",
+   "q_it": "Nel paragrafo sulla Railcard, che cosa significa 'pay for itself'?",
+   "options": [
+    "The train company pays the cost of the card",
+    "The savings become bigger than the price of the card",
+    "You get the card free with your first ticket",
+    "The card gives free travel after one year"
+   ],
+   "answer": 1,
+   "why": "If you travel often, the discounts add up and cover the cost of the card. Nothing is said about free travel.",
+   "why_it": "Se viaggi spesso gli sconti si sommano e coprono il costo della tessera. Non si parla di viaggio gratis."
+  },
+  {
+   "type": "mcq",
+   "q": "Which statement is NOT true according to the text?",
+   "q_it": "Quale affermazione NON è vera secondo il testo?",
+   "options": [
+    "Some buses accept contactless payment",
+    "A Railcard can give about a third off most fares",
+    "Coaches are usually faster than trains",
+    "You may need your ticket to leave the station"
+   ],
+   "answer": 2,
+   "why": "Paragraph 5: coaches are often cheaper but slower. The other three statements appear in the text.",
+   "why_it": "Paragrafo 5: i pullman costano meno ma sono più lenti. Le altre tre affermazioni sono nel testo."
+  },
+  {
+   "type": "mcq",
+   "q": "In the dialogue, why does the clerk not recommend an Advance ticket?",
+   "q_it": "Nel dialogo, perché l'addetto non consiglia un Advance?",
+   "options": [
+    "It costs more than an Off-Peak ticket on Saturdays",
+    "Sam has not decided which train he will take back",
+    "It cannot be used together with a Railcard",
+    "It is only sold on the day of travel"
+   ],
+   "answer": 1,
+   "why": "Sam says he hasn't decided which train yet, and the Advance is valid on one train only. The clerk never says it costs more.",
+   "why_it": "Sam dice di non aver ancora deciso il treno e l'Advance vale su un solo treno. L'addetto non dice che costa di più."
+  },
+  {
+   "type": "mcq",
+   "q": "What can we infer about Sam from the dialogue?",
+   "q_it": "Che cosa possiamo dedurre su Sam dal dialogo?",
+   "options": [
+    "He is probably between sixteen and twenty-five years old",
+    "He travels to York every weekend",
+    "He usually buys Advance tickets online",
+    "He is a student at a university in York"
+   ],
+   "answer": 0,
+   "why": "He has a 16-25 Railcard, which is for that age group. The other ideas are not supported by the conversation.",
+   "why_it": "Ha una Railcard 16-25, riservata a quella fascia d'età. Le altre idee non sono nel dialogo."
+  },
+  {
+   "type": "mcq",
+   "q": "Sam will keep his ticket until the end of the journey because the clerk tells him to. (True, False or Not stated?)",
+   "q_it": "Sam terrà il biglietto fino alla fine del viaggio perché l'addetto glielo dice. (Vero, falso o non detto?)",
+   "options": [
+    "True",
+    "False",
+    "Not stated"
+   ],
+   "answer": 0,
+   "why": "The clerk says: You must keep it until the end of your journey.",
+   "why_it": "L'addetto dice: You must keep it until the end of your journey."
+  },
+  {
+   "type": "mcq",
+   "q": "Sam is travelling to York for work. (True, False or Not stated?)",
+   "q_it": "Sam va a York per lavoro. (Vero, falso o non detto?)",
+   "options": [
+    "True",
+    "False",
+    "Not stated"
+   ],
+   "answer": 2,
+   "why": "The dialogue only says he is going to visit a friend. Work is never mentioned (the intro says visit).",
+   "why_it": "Il dialogo dice solo che va a trovare un amico. Il lavoro non è mai nominato."
+  },
+  {
+   "type": "mcq",
+   "q": "'The ticket is only valid on one train.' What does 'valid' mean here?",
+   "q_it": "'The ticket is only valid on one train.' Che cosa significa 'valid'?",
+   "options": [
+    "Cheap enough to buy",
+    "Easy to change",
+    "Printed on paper",
+    "Allowed to be used"
+   ],
+   "answer": 3,
+   "why": "Valid means you are allowed to use the ticket. It is not about price or paper.",
+   "why_it": "Valid significa che puoi usare il biglietto. Non riguarda prezzo o carta."
+  },
+  {
+   "type": "mcq",
+   "q": "'An Anytime ticket is the most flexible.' What does 'flexible' mean here?",
+   "q_it": "'An Anytime ticket is the most flexible.' Che cosa significa 'flexible'?",
+   "options": [
+    "It is the easiest to find",
+    "You can use it in more different ways",
+    "It is the shortest ticket",
+    "It is printed on soft paper"
+   ],
+   "answer": 1,
+   "why": "You can travel on any train that day, so the ticket gives you more freedom.",
+   "why_it": "Puoi viaggiare su qualsiasi treno quel giorno, quindi il biglietto dà più libertà."
+  },
+  {
+   "type": "fill",
+   "q": "I'd like a ___ to York, please. I'm coming back on Sunday.",
+   "q_it": "Vorrei un biglietto di andata e ritorno per York, per favore. Torno domenica.",
+   "answers": [
+    "return",
+    "return ticket"
+   ],
+   "hint": "andata e ritorno",
+   "why": "A return takes you there and back.",
+   "why_it": "Un return porta andata e ritorno."
+  },
+  {
+   "type": "fill",
+   "q": "Which ___ does the nine-thirty train leave from?",
+   "q_it": "Da quale binario parte il treno delle nove e trenta?",
+   "answers": [
+    "platform"
+   ],
+   "hint": "binario",
+   "why": "We say platform for the place where you get on the train.",
+   "why_it": "Si dice platform per il binario."
+  },
+  {
+   "type": "fill",
+   "q": "An Advance ticket is only ___ on one particular train.",
+   "q_it": "Un biglietto Advance vale solo su un treno preciso.",
+   "answers": [
+    "valid"
+   ],
+   "hint": "vale",
+   "why": "Valid on means that you can use the ticket on that train.",
+   "why_it": "Valid on significa che puoi usare il biglietto su quel treno."
+  },
+  {
+   "type": "order",
+   "q": "Put the words in order.",
+   "q_it": "Metti le parole in ordine.",
+   "words": [
+    "Is",
+    "that",
+    "a",
+    "single",
+    "or",
+    "a",
+    "return"
+   ],
+   "answers": [
+    "Is that a single or a return"
+   ],
+   "why": "Is + that + a single or a return: a question with a choice.",
+   "why_it": "Is + that + a single or a return: domanda con una scelta."
+  },
+  {
+   "type": "order",
+   "q": "Make a polite question.",
+   "q_it": "Forma una domanda gentile.",
+   "words": [
+    "Can",
+    "I",
+    "pay",
+    "by",
+    "card"
+   ],
+   "answers": [
+    "Can I pay by card"
+   ],
+   "why": "Can I + base verb asks politely for permission.",
+   "why_it": "Can I + verbo base chiede il permesso con gentilezza."
+  },
+  {
+   "type": "explain",
+   "title": "Where this comes from",
+   "title_it": "Da dove viene questo testo",
+   "en": [
+    "The ideas about ticket types and Railcards come from the general information on the websites of British train companies such as LNER and Avanti West Coast. The text is written in my own words. Prices, times and rules change often, so before you travel always check the official information from National Rail or your train company."
+   ],
+   "it": [
+    "Le idee sui tipi di biglietto e sulle Railcard vengono dalle informazioni generali dei siti delle compagnie ferroviarie britanniche, come LNER e Avanti West Coast. Il testo è scritto con parole mie. Prezzi, orari e regole cambiano spesso, quindi prima di viaggiare controlla sempre le informazioni ufficiali di National Rail o della tua compagnia."
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "en": "a single",
+   "it": "un biglietto di sola andata",
+   "ex": "I'd like a single to Leeds."
+  },
+  {
+   "id": "c2",
+   "en": "a return",
+   "it": "un biglietto di andata e ritorno",
+   "ex": "A return to York, please."
+  },
+  {
+   "id": "c3",
+   "en": "Off-Peak ticket",
+   "it": "biglietto fuori dall'ora di punta",
+   "ex": "An Off-Peak ticket is cheaper."
+  },
+  {
+   "id": "c4",
+   "en": "Advance ticket",
+   "it": "biglietto in anticipo per un solo treno",
+   "ex": "An Advance ticket is only valid on one train."
+  },
+  {
+   "id": "c5",
+   "en": "valid",
+   "it": "valido",
+   "ex": "Is this ticket valid on Sunday?"
+  },
+  {
+   "id": "c6",
+   "en": "Railcard",
+   "it": "tessera sconti ferroviaria",
+   "ex": "She has a Railcard."
+  },
+  {
+   "id": "c7",
+   "en": "platform",
+   "it": "binario",
+   "ex": "Which platform does it leave from?"
+  },
+  {
+   "id": "c8",
+   "en": "departures board",
+   "it": "tabellone delle partenze",
+   "ex": "Look at the departures board."
+  },
+  {
+   "id": "c9",
+   "en": "flexible",
+   "it": "flessibile",
+   "ex": "An Anytime ticket is very flexible."
+  },
+  {
+   "id": "c10",
+   "en": "fare",
+   "it": "tariffa",
+   "ex": "The fare is thirty pounds."
+  },
+  {
+   "id": "c11",
+   "en": "to come to (a price)",
+   "it": "ammontare a",
+   "ex": "That comes to thirty-one pounds."
+  },
+  {
+   "id": "c12",
+   "en": "to miss a train",
+   "it": "perdere un treno",
+   "ex": "If you miss it, you need a new ticket."
+  }
+ ]
+}
