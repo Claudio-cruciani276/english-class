@@ -6,6 +6,7 @@ File di lavoro dell'insegnante (Claude). Lo legge e lo aggiorna ogni notte l'att
 
 - Il piano della settimana (sezione 3) decide gli argomenti. Se manca, usa l'ordine di default della sezione 4 e salta quelli già nel registro (sezione 5).
 - Ogni lezione di grammatica contiene: UN tempo verbale principale + 1 o 2 mini argomenti + un breve blocco di ripasso mirato (errori ricorrenti o argomento della lezione precedente). Almeno per le prime settimane, per recuperare le basi.
+- Regola dell'admin dal 15 novembre: in ogni lezione di grammatica il blocco di ripasso ripropone a rotazione esercizi di TUTTI i tempi verbali già fatti (scelta del tempo), per fissarli. Vale anche nelle settimane successive finché l'admin non dice altro.
 - Tutto quello che è in piano va fatto: se un argomento non entra, lo si sposta con una riga nel registro, non lo si cancella.
 - Dopo aver creato la lezione del giorno, aggiorna anche topics.json (root): la pagina "Argomenti del corso" dell'app, sintetica, raggruppata per tempi verbali, preposizioni, nomi/articoli/quantita', parole interrogative, altri punti di grammatica, phrasal verbs, listening e writing, letture, canzoni. Aggiungi voci brevi (2-5 parole, in inglese e in italiano) con date = giorno della lezione (l'app le mostra solo da quel giorno). Per i reading, le canzoni e i phrasal verbs, una voce per settimana con date = lunedi'.
 - Dopo aver creato la lezione del giorno, aggiungi una riga al registro (sezione 5): data, formato, tempo verbale, mini argomenti, note utili (per esempio "poco spazio per X, riprendere giovedì").
@@ -47,15 +48,30 @@ Lo stesso confronto va anche nel blocco misto della lezione di giovedi (vedi "Co
 - Dom 15: ripasso (parte dagli errori della verifica).
 - Reading della settimana: hotel, shopping per vestiti, dal medico e in farmacia. Canzoni: This Is the Life e Starlight (scelte dall'admin il 9 novembre).
 
-### Settimana 16-22 novembre (bozza di Claude, da rivedere nel weekend)
+### Settimana 16-22 novembre (approvata dall'admin il 15 novembre, con i nuovi argomenti dei suoi quaderni e del libro)
 
-- Lun 16: PRESENT PERFECT 2, cioe' il present perfect per le ESPERIENZE fino a oggi (Have you ever been to...? I've never eaten..., recently, so far, this week, "it's the first time I've..."); la parte 1 era invece il risultato adesso e just/already/yet + a/an e some (Unit 71 del libro).
-- Mar 17: PAST SIMPLE vs PRESENT PERFECT (tempo finito contro periodo non finito) + a/an e the.
-- Mer 18: listening su un viaggio o un'esperienza (present perfect e past simple).
-- Gio 19: PRESENT PERFECT con for/since e ripasso dei tre tempi passati + countable e uncountable 2 (nomi che cambiano significato, advice, information, news, luggage, weather...).
-- Phrasal verbs della settimana 16-22: dieci nuovi (sezione 7). Verifica del sabato: come da regola della sezione 2, con la scelta tra past simple e present perfect al centro.
-- Ven 20: writing, una breve email o diario di una vacanza.
-- Sab 21: verifica da 20 punti. Dom 22: ripasso.
+REGOLA DELLA SETTIMANA (admin, 15 novembre): in ogni lezione di grammatica il blocco di ripasso diventa piu' ampio (6-8 esercizi) e RIPROPONE tutti i tempi verbali gia' fatti (present simple, present continuous, past simple, past continuous, present perfect), a rotazione e sempre con scelta del tempo: nessun tempo resta fuori per piu' di un paio di giorni. Il lunedi' e il martedi' rivedono i due presenti e i due passati, il giovedi' tutti e cinque piu' il present perfect continuous. Lezioni da 30 minuti, 24-26 esercizi.
+
+- Lun 16, grammatica: PRESENT PERFECT 2, cioe' le ESPERIENZE fino a oggi: ever (solo nelle domande), never (con verbo positivo), been to, still / just / already / yet come richiamo dello schema dell'admin (still ancora, just appena, already gia', yet gia'/ancora; vedi sezione 4 "Present perfect 2"), confronto con il past simple (I have eaten Thai food three times this week / I ate Thai food yesterday), "It's the first time I've...". + PRONOMI SOGGETTO E COMPLEMENTO (I/me, you/you, he/him, she/her, it/it, we/us, they/them; sezione 4) + DOPPIA NEGAZIONE (in inglese una sola negazione: I never go, non I don't never go; nobody, nothing, nowhere). Dentro gli esempi: here / there / over there.
+- Mar 17, grammatica: PRESENT PERFECT con FOR e SINCE (duration form: I've known him for ten years, I haven't eaten for two days, from...to, since = momento iniziale, for = durata, How long have you...?; con i verbi di stato si usa il present perfect simple) + PAROLE POSSESSIVE: aggettivi possessivi (my, your, his, her, its, our, their) e pronomi possessivi (mine, yours, his, hers, ours, theirs; senza articolo) + GENITIVO SASSONE (Carlo's car, the dog's leg; per le cose the leg of the table / table leg). Piu' ripasso a rotazione dei tempi.
+- Mer 18, listening: un viaggio e i suoi progetti (per esempio due amici che pianificano un viaggio e raccontano un'esperienza passata): present perfect per le esperienze, past simple per raccontare, going to e would like to per i progetti, will per le decisioni al momento; parole di viaggio. Pronomi e possessivi negli esempi (that's mine, it's yours).
+- Gio 19, grammatica: PRESENT PERFECT CONTINUOUS (have/has been + -ing: attivita' che dura fino a ora o appena finita con risultati visibili, how long / for / since, azioni ripetute; confronto con il present perfect simple: attivita' contro risultato, how long contro how many / how much; sezione 4) + INTENZIONE E DECISIONE: be going to (intenzione), would like to (desiderio), will (scelta spontanea); + verbi di gusto con -ing (love, like, hate, enjoy + verbo in -ing: I love watching TV). Ripasso dei cinque tempi. Schermata di confronto tra i tempi passati e presenti collegati al presente.
+- Ven 20, writing: un'email o un diario di una vacanza (present perfect per le esperienze, past simple per raccontare, going to per i progetti). Schermata "Language boost": i QUANTIFICATORI (no, a little / a few, too much / too many, too + aggettivo; sezione 4) e here / there / over there, poi esercizi di trasformazione e riordino.
+- Sab 21: verifica da 20 punti. Regola della sezione 2: 8-9 esercizi sulla scelta tra TUTTI i tempi fatti (present simple e continuous, past simple e continuous, present perfect simple e continuous; indizi: yesterday, last night, while, ever, never, yet, already, just, since, for, how long, this week, now); poi pronomi e possessivi, going to / would like to / will, quantificatori, 4 di comprensione.
+- Dom 22: ripasso di tutti i tempi (parte dagli errori della verifica) + argomenti della settimana.
+- Reading della settimana: dal piano di default (biglietti di treno e autobus, al telefono per fare un piano con un amico, presentarsi a una festa): usare anche going to, would like to e will nei dialoghi.
+- Phrasal verbs della settimana 16-22: dieci nuovi (sezione 7).
+- Canzoni: coppia da confermare dall'admin (songs-queue.json). Se non ha ancora confermato, e' in coda la coppia proposta da Claude.
+
+### Settimana 23-29 novembre (bozza di Claude, da rivedere nel weekend)
+
+- Lun 23, grammatica: FUTURO: will contro going to (previsioni, promesse, offerte, piani gia' decisi; present continuous per gli appuntamenti) + a / an e the (prima menzione, cosa chiara, tipo contro uno specifico; sezione 4). Ripasso a rotazione di tutti i tempi.
+- Mar 24, grammatica: COMPARATIVI E SUPERLATIVI (-er/-est, more/most, as...as, than) + countable e uncountable 2 (advice, information, news, luggage, weather...; nomi con due significati). Ripasso a rotazione dei tempi.
+- Mer 25, listening: situazione diversa dalle precedenti (per esempio fare un piano per il weekend o un consiglio a un amico); present perfect, past simple e futuro.
+- Gio 26, grammatica: VERBI MODALI (can / can't / could, must / mustn't, have to / don't have to, should) + richiamo di present perfect simple e continuous. Ripasso a rotazione dei tempi.
+- Ven 27, writing: un'email con consigli e progetti (modali, will, going to, tempi passati).
+- Sab 28: verifica da 20 punti con la scelta del tempo al centro (regola della sezione 2). Dom 29: ripasso.
+- Phrasal verbs 23-29 e 30 novembre: come proposta nella sezione 7.
 
 ## 4. Linee guida di contenuto per argomento
 
@@ -80,6 +96,64 @@ Lo stesso confronto va anche nel blocco misto della lezione di giovedi (vedi "Co
 - In inglese britannico, per questi usi si preferisce il present perfect al past simple.
 - Parte 2 (settimana dopo): esperienze fino a ora con ever/never ("Have you ever been to...?"), recently, in the last few days, so far, since..., today/this week/this year; "It's the first time I've...".
 - Esercizi: situazione breve da trasformare in frase con il verbo dato; been o gone; just/already/yet in base alla situazione; domande con ever.
+
+### Present perfect 2: esperienze, still / just / already / yet (quaderno dell'admin, lezione 5, 15 novembre)
+Schema dell'admin (3a colonna del verbo, "aggiornamento"): ever? (mai, solo nelle domande), never + (mai, con verbo positivo), still + ? - (ancora), just + (appena), already + ? (gia'), yet - ? (gia' / ancora, in fondo alla frase).
+- Esperienze: Have you ever been to London? I have never been to London. Have you ever seen the film? Have you ever eaten Thai food? Risposte corrette: Yes, I have. / No, I haven't. / No, I've never eaten it. ATTENZIONE: nel quaderno c'e' "Yes, I've never eaten Thai food", che e' SBAGLIATO (never gia' nega: la risposta giusta e' "No, I've never eaten Thai food"). Non riprodurre l'errore; puo' diventare un esercizio "correggi l'errore".
+- Confronto con il past simple: I have eaten Thai food three times this week (periodo non finito, nessun momento preciso) / I ate Thai food yesterday (momento finito, yesterday chiama il past simple). Es. con been: I have never been to London (esperienza), I went to London last year (momento preciso).
+- still: ancora, di solito PRIMA del verbo, con la negativa prima di hasn't / haven't: I'm still waiting for you. She still hasn't called me.
+- just: appena, poco tempo fa: I've just eaten. I've just done my homework. I've just met Marco.
+- already: gia', prima del previsto: I've already eaten. She has come already! (enfasi). Have you already finished? (sorpresa). Es. dell'admin: Have you already cleaned the kitchen? (probabilmente non lo so, ma penso di si).
+- yet: finora, fino a ora (until now); domande e negative, in fondo: Have you eaten yet? I haven't cleaned the room yet (non ho ancora iniziato l'azione di pulire).
+- Doppia negazione (nota dell'admin): in inglese non si usano mai le doppie negazioni. Con never il verbo resta positivo: I never go to school (non I don't never go). Vale anche per nobody, nothing, nowhere, no one: I haven't seen anybody / I've seen nobody (non I haven't seen nobody).
+- Esercizi: ever o never; been o gone; just / already / yet / still in base alla situazione; domande con ever e risposte brevi; scelta tra past simple e present perfect con indizi (yesterday, last year, this week, ever); correggere l'errore di doppia negazione.
+
+### Pronomi (quaderno dell'admin, "3 lezione", 15 novembre)
+- Soggetto (si usano solo come soggetto, a inizio frase o prima del verbo): I, you, he, she, it, we, you, they.
+- Complemento (dopo il verbo o la preposizione): me, you, him, her, it, us, you, them. Es. Yesterday I went to the cinema with you. Es. I saw them at the station. Give it to her.
+- Esercizi: scegliere soggetto o complemento; sostituire il nome con il pronome giusto; riordinare; correggere (Me and her went... e' un errore tipico).
+
+### Possessivi e genitivo sassone (quaderno dell'admin, 15 novembre)
+- Aggettivi possessivi (davanti a un nome): my, your, his, her, its, our, your, their. Pronomi possessivi (da soli): mine, yours, his, hers, (its: non c'e' il pronome), ours, yours, theirs. I possessivi non vogliono l'articolo (NON the my pen).
+- Esempi dell'admin da usare come modello (non copiarli tali e quali): That is my pen, this is mine. Yesterday I took your bag and I put it next to yours.
+- Genitivo sassone, solo per persone e animali: Carlo's car (la macchina di Carlo), the dog's leg (la zampa del cane). Per le cose: the leg of the table oppure table leg (il nome usato come aggettivo). Aggiungere un cenno al plurale (the girls' room) e ai nomi in -s (James's bike).
+- Errore tipico italiano: la macchina di Carlo = Carlo's car (ordine invertito), non the car of Carlo.
+- Esercizi: scegliere aggettivo o pronome possessivo; completare con il genitivo; trasformare con of o con il genitivo; this / that con i possessivi (This is mine, that is hers).
+- Avverbi di luogo (nota dell'admin): here = qui, there = li', over there = laggiu'. Usarli negli esempi (I put it there; The bus stop is over there).
+
+### Present perfect con for / since e la forma di durata (quaderno dell'admin, lezione 5, 15 novembre)
+- Parola chiave: da / per. Es. dell'admin: sto aspettando da due ore.
+- Schema: from...to = da...a; since = momento iniziale (since Monday, since 2019, since I was ten); for = durata (for two hours, for three days, for ten years).
+- Present perfect simple (duration form 1): I've studied maths for three days. I've known him for ten years. I haven't eaten for two days. How long have you lived here?
+- Verbi di stato (non in forma continua): be, verbi di sentimento (love, like, hate, mind), percezione involontaria (see, notice), attivita' mentale (know, understand), volonta' (want), possesso (have, own): con questi SI USA il present perfect simple (I've known him for ten years, non I've been knowing). Nota di Claude: live, work e study ammettono entrambe le forme (I've lived here / I've been living here for two years); l'elenco dell'admin mette live tra i sentimenti, ma nei compiti l'accettare entrambe e spiegare che la forma continua insiste sulla durata.
+- Con la negativa, di norma present perfect simple: I haven't eaten for two days (si preferisce a I haven't been eating).
+- Esercizi: for o since; completare con il verbo nel present perfect; scrivere la domanda How long...?; trasformare "I started studying English in 2023" in "I have studied English since 2023"; scelta tra past simple e present perfect (I lived in Rome for two years = non vivo piu' li'; I've lived in Rome for two years = ci vivo ancora).
+
+### Present perfect continuous (quaderno dell'admin e Unit 9-10 del libro, 15 novembre)
+- have/has been + verbo in -ing. Duration form 2: I've been studying English for three years. How long have you been living here? She's been playing since she was eight.
+- Usi: (1) attivita' che dura da un certo tempo e continua (how long, for, since); (2) attivita' appena finita o recente con risultati visibili: The ground is wet, it's been raining. My hands are dirty, I've been repairing my bike; (3) azioni ripetute, per sottolineare la durata: They have been going there for years.
+- Si usa spesso con how long, for, since. Nota dell'admin: mai con la forma negativa nella duration form (I haven't been eating for two days e' evitato; si dice I haven't eaten for two days).
+- Present perfect continuous contro present perfect simple (Unit 10): il continuous pensa all'ATTIVITA' (anche non finita: I've been painting my bedroom), il simple pensa al RISULTATO e alla quantita' (I've painted my bedroom, now it's yellow). How long have you been reading that book? (durata, continuous) / How many pages have you read? (quantita', simple). Joe has been eating too much recently (attivita'), Somebody has eaten all the chocolate, the box is empty (risultato).
+- I verbi di stato (know, like, want, have...) non vanno al continuous; eccezione: want e mean (I've been meaning to phone Anna).
+- Esercizi: completare con il verbo nella forma giusta (simple o continuous); scrivere la domanda con how long / how many; trasformare una situazione in una frase con una parola data; scegliere tra i due tempi dato il risultato o la durata; scelta tra tutti i tempi del presente e del passato.
+
+### Intenzione e decisione (quaderno dell'admin, 15 novembre)
+- be going to + verbo: intenzione o progetto gia' deciso. I'm going to buy a house in London. She's going to spend a night in that hotel.
+- would like to / 'd like to + verbo: desiderio, richiesta gentile. I'd like to have some cake.
+- will: scelta o risposta spontanea sul momento. What would you like to eat? I'll have some cake.
+- Piccolo schema di scelta: progetto gia' preso = going to; desiderio = would like to; decisione ora = will. Usare nei dialoghi (listening del mercoledi', reading del telefono) e nella verifica. Ricordare che in canzoni e nel parlato going to diventa gonna.
+
+### Verbi di gusto con -ing (quaderno dell'admin, 15 novembre)
+- love, like, hate, enjoy (e don't mind) + verbo in -ing: I love watching TV. I like playing football. I enjoy cooking. What do you usually do? (come ripasso del present simple con gli avverbi di frequenza).
+
+### Quantificatori (quaderno dell'admin, 15 novembre)
+- some (+), any (? -), no (= not any, piu' forte; I've got no friends; There is no water in the fridge). Con no il verbo e' positivo.
+- Uncountable: a lot of = tanto/a (+), much = tanto/a (? -), a little = poco/a. Countable: a lot of = tanti/e (+), many = tanti/e (? -), a few = pochi/e.
+- I've got some friends (+). Have you got any friends? (?). I haven't got any friends (-). There isn't any bread. Is there any bread in the fridge? Yes, there's some bread on the table. (there is / there are solo come uso, non spiegato.)
+- Per dire che proprio non c'e': I've got no coffee (= non ne ho proprio).
+- too: troppo. Con gli aggettivi solo too (You are too tall). Con i nomi too much (uncountable) e too many (countable): I've got too much money. There are too many cars.
+- Esempi tipo dell'admin: I haven't got much water but I've got a lot of beer. There are a lot of cars, there aren't many cars. Are there many people in the room? I've got a little time. There are a few cars.
+- Esercizi: some / any / no; much / many / a lot of; a little / a few; too / too much / too many; correggere l'errore.
 
 ### Confronto tra i tre tempi (past simple, past continuous, present perfect)
 Una schermata con tabella che risponde alla domanda "quale tempo uso?":
@@ -166,6 +240,8 @@ Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vest
 - 2026-11-07: la verifica del sabato deve confrontare l'uso dei tre tempi (quando si usa uno e non l'altro): regola nella sezione 2. Nuova sezione settimanale con una decina di phrasal verbs e vari esempi per ognuno (sezione 7).
 
 - 2026-11-09: canzoni della settimana 9-15 cambiate dall'admin: This Is the Life (Amy Macdonald) e Starlight (Muse). Quelle della settimana precedente (Young and Beautiful, Yellow) restano nella sezione lezioni passate > Canzoni. In songs-queue.json la settimana 16-22 e' tornata a 'proposed' (Yesterday, Someone Like You) in attesa della scelta dell'admin; l'admin ha chiesto in futuro canzoni utili per i tempi passati.
+
+- 2026-11-15: l'admin ha portato nuovi argomenti dai suoi quaderni e dal libro (Unit 9 e 10): doppia negazione, pronomi soggetto e complemento, possessivi, genitivo sassone, quantificatori (some/any/no, a lot of/much/many, a little/a few, too much/too many), present perfect 2 (ever, never, still, just, already, yet), duration form (for, since, how long), present perfect continuous e confronto con il simple, intenzione e decisione (going to, would like to, will), love/like/hate/enjoy + -ing, here/there. Distribuiti nel piano 16-22 novembre (sezione 3, dettagli nella sezione 4). Richiesta: nella settimana riproporre in ogni lezione esercizi di TUTTI i tempi verbali fatti, per fissarli (blocco di ripasso piu' ampio con scelta del tempo). Canzoni: l'admin vuole confermare personalmente le coppie (ha chiesto proposte): fino alla conferma vale la coppia in coda. Correzioni di Claude agli appunti: "Yes, I've never eaten" e' sbagliato (No, I've never eaten...); live/work ammettono anche il continuous; nella forma negativa della duration form si usa il simple.
 
 ## 7. Phrasal verbs della settimana (nuova sezione dal 9 novembre)
 
