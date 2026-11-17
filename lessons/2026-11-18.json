@@ -1,0 +1,574 @@
+{
+  "title": "Listening: planning a trip",
+  "title_it": "Ascolto: organizzare un viaggio",
+  "goal": "Understand two friends planning a holiday, and notice the present perfect for experiences, the past simple for a story, going to, would like to and will for plans, and possessive pronouns.",
+  "goal_it": "Capire due amici che organizzano una vacanza e notare il present perfect per le esperienze, il past simple per una storia, going to, would like to e will per i progetti e i pronomi possessivi.",
+  "minutes": 25,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Today's situation",
+      "title_it": "La situazione di oggi",
+      "en": [
+        "You will hear two friends, Mia and Tom, planning a holiday abroad. Mia has found a cheap flight. They talk about places they have been to, about something that went wrong on a past trip, and about what they are going to do next.",
+        "Listen for three things: why Mia chose this place, what happened to Tom on his last flight, and who is going to do what. First, learn the words below."
+      ],
+      "it": [
+        "Sentirai due amici, Mia e Tom, che organizzano una vacanza all'estero. Mia ha trovato un volo economico. Parlano dei posti dove sono stati, di qualcosa che e' andato storto in un viaggio passato e di cio' che faranno ora.",
+        "Ascolta tre cose: perche' Mia ha scelto questo posto, cosa e' successo a Tom nell'ultimo volo e chi fara' cosa. Prima impara le parole qui sotto."
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Words you need",
+      "title_it": "Le parole che servono",
+      "en": [
+        "Learn these words before you listen."
+      ],
+      "it": [
+        "Impara queste parole prima di ascoltare."
+      ],
+      "table": {
+        "head": [
+          "English",
+          "Italiano"
+        ],
+        "rows": [
+          [
+            "flight",
+            "volo"
+          ],
+          [
+            "airline",
+            "compagnia aerea"
+          ],
+          [
+            "suitcase",
+            "valigia"
+          ],
+          [
+            "hand luggage",
+            "bagaglio a mano"
+          ],
+          [
+            "to book",
+            "prenotare"
+          ],
+          [
+            "nervous",
+            "agitato, preoccupato"
+          ],
+          [
+            "to lose (lost)",
+            "perdere (perso)"
+          ],
+          [
+            "to get something back",
+            "riavere qualcosa"
+          ],
+          [
+            "somewhere new",
+            "un posto nuovo"
+          ],
+          [
+            "the price goes up",
+            "il prezzo sale"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "title": "Experiences, plans and quick decisions",
+      "title_it": "Esperienze, progetti e decisioni al momento",
+      "en": [
+        "When we plan a trip we mix several tenses. Present perfect for experiences up to now: Have you ever been to Porto? I've never been there. Past simple for a story that is finished: Last year the airline lost my suitcase.",
+        "For the future we choose by meaning. be going to = a plan already decided: We're going to take only hand luggage. would like to / I'd like = a wish: I'd like a small hotel. will = a decision at the moment of speaking: I'll phone her now.",
+        "Notice also the possessive pronouns: The blue bag is mine. Yours is the black one."
+      ],
+      "it": [
+        "Quando si organizza un viaggio si mescolano piu' tempi. Present perfect per le esperienze fino a ora: Have you ever been to Porto? I've never been there. Past simple per una storia finita: Last year the airline lost my suitcase.",
+        "Per il futuro si sceglie in base al significato. be going to = un progetto gia' deciso: We're going to take only hand luggage. would like to / I'd like = un desiderio: I'd like a small hotel. will = una decisione presa sul momento: I'll phone her now.",
+        "Nota anche i pronomi possessivi: The blue bag is mine. Yours is the black one."
+      ],
+      "table": {
+        "head": [
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Experience (present perfect)",
+            "I've never been to Porto."
+          ],
+          [
+            "Finished story (past simple)",
+            "The airline lost my suitcase."
+          ],
+          [
+            "Plan (going to)",
+            "We're going to take hand luggage."
+          ],
+          [
+            "Wish (would like)",
+            "I'd like a small hotel."
+          ],
+          [
+            "Decision now (will)",
+            "I'll book the flights tonight."
+          ],
+          [
+            "Possessive pronoun",
+            "The blue one is mine."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I've already booked the hotel, so we're going to arrive on Friday.",
+          "it": "Ho gia' prenotato l'albergo, quindi arriveremo venerdi'."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "What does 'hand luggage' mean?",
+      "q_it": "Cosa significa 'hand luggage'?",
+      "options": [
+        "a small bag you carry onto the plane",
+        "a large suitcase that goes in the hold",
+        "the bag you buy at the airport",
+        "a bag that holds only your passport"
+      ],
+      "answer": 0,
+      "why": "Hand luggage is the bag you keep with you on the plane.",
+      "why_it": "Hand luggage e' il bagaglio che tieni con te in aereo."
+    },
+    {
+      "type": "mcq",
+      "q": "I've already bought the tickets. We ___ visit my aunt in Leeds in August.",
+      "q_it": "Ho gia' comprato i biglietti. Faremo visita a mia zia a Leeds in agosto.",
+      "options": [
+        "will",
+        "would like",
+        "are going to",
+        "have"
+      ],
+      "answer": 2,
+      "why": "A plan that is already decided: be going to.",
+      "why_it": "Un progetto gia' deciso: be going to."
+    },
+    {
+      "type": "fill",
+      "q": "The phone is ringing. I ___ (answer) it!",
+      "q_it": "Il telefono suona. Rispondo io!",
+      "answers": [
+        "'ll answer",
+        "will answer",
+        "ll answer"
+      ],
+      "hint": "decisione al momento",
+      "why": "A decision made at the moment of speaking: will.",
+      "why_it": "Decisione presa sul momento: will."
+    },
+    {
+      "type": "fill",
+      "q": "Is this my ticket or your ticket? This one is ___.",
+      "q_it": "Questo e' il mio biglietto o il tuo? Questo e' ___.",
+      "answers": [
+        "yours"
+      ],
+      "hint": "pronome, riferito a you",
+      "why": "Pronoun without a noun, for you: yours.",
+      "why_it": "Pronome senza nome, riferito a you: yours."
+    },
+    {
+      "type": "listen",
+      "title": "Listen to the conversation",
+      "title_it": "Ascolta la conversazione",
+      "en": [
+        "Press Listen. You can listen as many times as you like. Try to find out: Why does Mia want Porto? What went wrong on Tom's last flight? Who is going to do what now?"
+      ],
+      "it": [
+        "Premi Ascolta. Puoi riascoltare quante volte vuoi. Cerca di capire: perche' Mia vuole Porto? Cosa e' andato storto nell'ultimo volo di Tom? Chi fara' cosa ora?"
+      ],
+      "showText": false,
+      "script": [
+        {
+          "speaker": "Mia",
+          "text": "Tom, I've just found a really cheap flight to Porto. Have you ever been there?",
+          "it": "Tom, ho appena trovato un volo davvero economico per Porto. Ci sei mai stato?"
+        },
+        {
+          "speaker": "Tom",
+          "text": "No, never. My brother has been twice, and he says the food is amazing. Why Porto?",
+          "it": "No, mai. Mio fratello ci e' stato due volte e dice che il cibo e' fantastico. Perche' Porto?"
+        },
+        {
+          "speaker": "Mia",
+          "text": "We need a holiday in May, and I'd like to see somewhere new. I've already been to Lisbon, and it rained all week.",
+          "it": "Ci serve una vacanza a maggio e mi piacerebbe vedere un posto nuovo. Sono gia' stata a Lisbona e ha piovuto tutta la settimana."
+        },
+        {
+          "speaker": "Tom",
+          "text": "So you want better weather this time! I'm a bit nervous about flying, though. Last year the airline lost my suitcase on the way to Rome.",
+          "it": "Quindi vuoi un tempo migliore questa volta! Pero' sono un po' agitato per il volo. L'anno scorso la compagnia aerea ha perso la mia valigia mentre andavo a Roma."
+        },
+        {
+          "speaker": "Mia",
+          "text": "I remember. You got it back on Friday, didn't you?",
+          "it": "Me lo ricordo. L'hai riavuta venerdi', vero?"
+        },
+        {
+          "speaker": "Tom",
+          "text": "Yes, but I wore the same shirt for four days.",
+          "it": "Si', ma ho portato la stessa camicia per quattro giorni."
+        },
+        {
+          "speaker": "Mia",
+          "text": "This time we're going to take only hand luggage. Then nothing can get lost.",
+          "it": "Questa volta porteremo solo il bagaglio a mano. Cosi' niente si puo' perdere."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Good idea. Is that blue bag yours, or mine?",
+          "it": "Buona idea. Quella borsa blu e' tua o mia?"
+        },
+        {
+          "speaker": "Mia",
+          "text": "The blue one is mine. Yours is the black one by the door.",
+          "it": "La blu e' mia. La tua e' quella nera vicino alla porta."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Right. Where are we going to stay? I'd like a small hotel near the river.",
+          "it": "Giusto. Dove alloggeremo? Mi piacerebbe un piccolo albergo vicino al fiume."
+        },
+        {
+          "speaker": "Mia",
+          "text": "My sister stayed there two years ago. I'll phone her now and ask for a name.",
+          "it": "Mia sorella ha alloggiato li' due anni fa. La chiamo adesso e le chiedo un nome."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Great. And I'll book the flights tonight, before the price goes up.",
+          "it": "Perfetto. E io prenoto i voli stasera, prima che il prezzo salga."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "Why does Tom say 'So you want better weather this time!'?",
+      "q_it": "Perche' Tom dice 'So you want better weather this time!'?",
+      "options": [
+        "He thinks Mia is afraid of flying",
+        "He guesses Mia wants to avoid another rainy trip",
+        "He wants to go to Lisbon instead",
+        "He is complaining about the weather in May"
+      ],
+      "answer": 1,
+      "why": "Mia says it rained all week in Lisbon. Tom understands that she hopes for better weather in Porto.",
+      "why_it": "Mia dice che a Lisbona ha piovuto tutta la settimana. Tom capisce che spera in un tempo migliore a Porto."
+    },
+    {
+      "type": "mcq",
+      "q": "Why is Tom a bit nervous about the trip?",
+      "q_it": "Perche' Tom e' un po' agitato per il viaggio?",
+      "options": [
+        "He has never been abroad",
+        "He is afraid of bad weather",
+        "He does not like Mia's choice of city",
+        "The last time he flew, his suitcase was lost"
+      ],
+      "answer": 3,
+      "why": "He says: last year the airline lost my suitcase. The nervousness is about flying, not about Porto.",
+      "why_it": "Dice: l'anno scorso la compagnia ha perso la mia valigia. L'agitazione riguarda il volo, non Porto."
+    },
+    {
+      "type": "mcq",
+      "q": "What does Tom mean when he says 'I wore the same shirt for four days'?",
+      "q_it": "Cosa intende Tom con 'I wore the same shirt for four days'?",
+      "options": [
+        "He only likes one shirt",
+        "His suitcase arrived late, so he had no other clothes",
+        "His holiday lasted only four days",
+        "He forgot to pack more shirts"
+      ],
+      "answer": 1,
+      "why": "He got the suitcase back on Friday, days after the flight. Until then he had nothing else to wear.",
+      "why_it": "Ha riavuto la valigia venerdi', giorni dopo il volo. Fino ad allora non aveva altro da mettere."
+    },
+    {
+      "type": "mcq",
+      "q": "Which statement is NOT true?",
+      "q_it": "Quale affermazione NON e' vera?",
+      "options": [
+        "Mia has already been to Lisbon.",
+        "Tom's brother has visited Porto twice.",
+        "Tom has already booked the flights.",
+        "Mia's sister stayed in Porto two years ago."
+      ],
+      "answer": 2,
+      "why": "Tom says I'll book the flights tonight: he has not booked them yet. The other three are said in the conversation.",
+      "why_it": "Tom dice I'll book the flights tonight: non li ha ancora prenotati. Le altre tre sono dette nella conversazione."
+    },
+    {
+      "type": "mcq",
+      "q": "Which bag is Tom's?",
+      "q_it": "Quale borsa e' di Tom?",
+      "options": [
+        "the blue one",
+        "both bags",
+        "neither of them",
+        "the black one by the door"
+      ],
+      "answer": 3,
+      "why": "Tom asks about the blue bag and Mia answers: the blue one is mine, yours is the black one.",
+      "why_it": "Tom chiede della borsa blu e Mia risponde: la blu e' mia, la tua e' quella nera."
+    },
+    {
+      "type": "mcq",
+      "q": "Why will Tom book the flights tonight?",
+      "q_it": "Perche' Tom prenotera' i voli stasera?",
+      "options": [
+        "The flight is cheap now and the price may rise",
+        "Mia asked him to book them tonight",
+        "The airline is closing the booking",
+        "He wants to fly tomorrow"
+      ],
+      "answer": 0,
+      "why": "He says: before the price goes up. The flight is cheap now.",
+      "why_it": "Dice: before the price goes up. Il volo ora costa poco."
+    },
+    {
+      "type": "listen",
+      "title": "Listen again with the text",
+      "title_it": "Riascolta con il testo",
+      "en": [
+        "Listen again and read the text. Then answer the last questions."
+      ],
+      "it": [
+        "Riascolta e leggi il testo. Poi rispondi alle ultime domande."
+      ],
+      "showText": true,
+      "script": [
+        {
+          "speaker": "Mia",
+          "text": "Tom, I've just found a really cheap flight to Porto. Have you ever been there?",
+          "it": "Tom, ho appena trovato un volo davvero economico per Porto. Ci sei mai stato?"
+        },
+        {
+          "speaker": "Tom",
+          "text": "No, never. My brother has been twice, and he says the food is amazing. Why Porto?",
+          "it": "No, mai. Mio fratello ci e' stato due volte e dice che il cibo e' fantastico. Perche' Porto?"
+        },
+        {
+          "speaker": "Mia",
+          "text": "We need a holiday in May, and I'd like to see somewhere new. I've already been to Lisbon, and it rained all week.",
+          "it": "Ci serve una vacanza a maggio e mi piacerebbe vedere un posto nuovo. Sono gia' stata a Lisbona e ha piovuto tutta la settimana."
+        },
+        {
+          "speaker": "Tom",
+          "text": "So you want better weather this time! I'm a bit nervous about flying, though. Last year the airline lost my suitcase on the way to Rome.",
+          "it": "Quindi vuoi un tempo migliore questa volta! Pero' sono un po' agitato per il volo. L'anno scorso la compagnia aerea ha perso la mia valigia mentre andavo a Roma."
+        },
+        {
+          "speaker": "Mia",
+          "text": "I remember. You got it back on Friday, didn't you?",
+          "it": "Me lo ricordo. L'hai riavuta venerdi', vero?"
+        },
+        {
+          "speaker": "Tom",
+          "text": "Yes, but I wore the same shirt for four days.",
+          "it": "Si', ma ho portato la stessa camicia per quattro giorni."
+        },
+        {
+          "speaker": "Mia",
+          "text": "This time we're going to take only hand luggage. Then nothing can get lost.",
+          "it": "Questa volta porteremo solo il bagaglio a mano. Cosi' niente si puo' perdere."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Good idea. Is that blue bag yours, or mine?",
+          "it": "Buona idea. Quella borsa blu e' tua o mia?"
+        },
+        {
+          "speaker": "Mia",
+          "text": "The blue one is mine. Yours is the black one by the door.",
+          "it": "La blu e' mia. La tua e' quella nera vicino alla porta."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Right. Where are we going to stay? I'd like a small hotel near the river.",
+          "it": "Giusto. Dove alloggeremo? Mi piacerebbe un piccolo albergo vicino al fiume."
+        },
+        {
+          "speaker": "Mia",
+          "text": "My sister stayed there two years ago. I'll phone her now and ask for a name.",
+          "it": "Mia sorella ha alloggiato li' due anni fa. La chiamo adesso e le chiedo un nome."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Great. And I'll book the flights tonight, before the price goes up.",
+          "it": "Perfetto. E io prenoto i voli stasera, prima che il prezzo salga."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "How many times has Tom's brother been to Porto?",
+      "q_it": "Quante volte e' stato a Porto il fratello di Tom?",
+      "options": [
+        "Once",
+        "Twice",
+        "Three times",
+        "Never"
+      ],
+      "answer": 1,
+      "why": "You hear: My brother has been twice.",
+      "why_it": "Si sente: My brother has been twice.",
+      "audio": "My brother has been twice."
+    },
+    {
+      "type": "mcq",
+      "q": "What are they going to take?",
+      "q_it": "Cosa porteranno?",
+      "options": [
+        "Two big suitcases",
+        "One big suitcase",
+        "A backpack each",
+        "Only hand luggage"
+      ],
+      "answer": 3,
+      "why": "You hear: we're going to take only hand luggage.",
+      "why_it": "Si sente: we're going to take only hand luggage.",
+      "audio": "This time we're going to take only hand luggage."
+    },
+    {
+      "type": "fill",
+      "q": "Type what you hear.",
+      "q_it": "Scrivi cio' che senti.",
+      "answers": [
+        "I've already been to Lisbon",
+        "I have already been to Lisbon"
+      ],
+      "hint": "present perfect",
+      "why": "Present perfect: have already been, an experience up to now.",
+      "why_it": "Present perfect: have already been, un'esperienza fino a ora.",
+      "audio": "I've already been to Lisbon."
+    },
+    {
+      "type": "fill",
+      "q": "Type what you hear.",
+      "q_it": "Scrivi cio' che senti.",
+      "answers": [
+        "Yours is the black one by the door"
+      ],
+      "hint": "possessive pronoun",
+      "why": "Yours is the pronoun for you, with no noun.",
+      "why_it": "Yours e' il pronome per you, senza nome.",
+      "audio": "Yours is the black one by the door."
+    },
+    {
+      "type": "fill",
+      "q": "Type what you hear.",
+      "q_it": "Scrivi cio' che senti.",
+      "answers": [
+        "I'd like a small hotel near the river",
+        "I would like a small hotel near the river"
+      ],
+      "hint": "a wish",
+      "why": "I'd like = I would like, a wish.",
+      "why_it": "I'd like = I would like, un desiderio.",
+      "audio": "I'd like a small hotel near the river."
+    },
+    {
+      "type": "fill",
+      "q": "Type what you hear.",
+      "q_it": "Scrivi cio' che senti.",
+      "answers": [
+        "I'll book the flights tonight",
+        "I will book the flights tonight"
+      ],
+      "hint": "a decision now",
+      "why": "I'll = I will, a decision at the moment of speaking.",
+      "why_it": "I'll = I will, una decisione presa sul momento.",
+      "audio": "I'll book the flights tonight."
+    },
+    {
+      "type": "explain",
+      "title": "Keep listening this week",
+      "title_it": "Continua ad ascoltare questa settimana",
+      "en": [
+        "Choose one short recording at B1 level and listen twice. The first time, listen without help. The second time, read the transcript if there is one.",
+        "BBC Learning English also has the programme 6 Minute English: you can find it in your podcast app."
+      ],
+      "it": [
+        "Scegli una breve registrazione di livello B1 e ascoltala due volte. La prima volta senza aiuti. La seconda leggi la trascrizione, se c'e'.",
+        "Anche BBC Learning English ha il programma 6 Minute English: lo trovi nella tua app di podcast."
+      ],
+      "links": [
+        {
+          "label": "British Council LearnEnglish: B1 listening",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/listening/b1",
+          "note": "short recordings at B1 level with exercises"
+        },
+        {
+          "label": "British Council LearnEnglish: Big City Small World",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/general/audio-series/bcsw",
+          "note": "an audio series about everyday life"
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "flight",
+      "it": "volo",
+      "ex": "The flight to Porto is cheap."
+    },
+    {
+      "id": "c2",
+      "en": "airline",
+      "it": "compagnia aerea",
+      "ex": "The airline lost my suitcase."
+    },
+    {
+      "id": "c3",
+      "en": "hand luggage",
+      "it": "bagaglio a mano",
+      "ex": "We are going to take only hand luggage."
+    },
+    {
+      "id": "c4",
+      "en": "to book",
+      "it": "prenotare",
+      "ex": "I'll book the flights tonight."
+    },
+    {
+      "id": "c5",
+      "en": "nervous",
+      "it": "agitato, preoccupato",
+      "ex": "I'm a bit nervous about flying."
+    },
+    {
+      "id": "c6",
+      "en": "to get something back",
+      "it": "riavere qualcosa",
+      "ex": "I got my suitcase back on Friday."
+    },
+    {
+      "id": "c7",
+      "en": "I'd like to...",
+      "it": "mi piacerebbe...",
+      "ex": "I'd like to see somewhere new."
+    },
+    {
+      "id": "c8",
+      "en": "mine / yours",
+      "it": "mio / tuo (da soli)",
+      "ex": "The blue bag is mine. Yours is the black one."
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "title": "Present perfect with for / since + possessives + Saxon genitive",
+  "title_it": "Present perfect con for e since, possessivi e genitivo sassone",
+  "goal": "Say how long a situation has lasted with for, since and how long, use possessive adjectives and pronouns, and use the Saxon genitive.",
+  "goal_it": "Dire da quanto tempo dura una situazione con for, since e how long, usare aggettivi e pronomi possessivi e il genitivo sassone.",
+  "minutes": 30,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Present perfect with for and since",
+      "title_it": "Present perfect con for e since",
+      "en": [
+        "We use the present perfect to say how long a situation has lasted up to now. It started in the past and it is still true: I have lived in Leeds for two years (and I still live there).",
+        "for + a period of time: for two hours, for three days, for ten years. since + the moment when it started: since Monday, since 2019, since I was ten. The question is How long have you lived here? (never 'how long time').",
+        "Some verbs are not used in the continuous form (be, know, have, like, want, understand). With them we use the present perfect simple: I have known him for ten years. I have had this phone since March."
+      ],
+      "it": [
+        "Usiamo il present perfect per dire da quanto tempo dura una situazione fino a ora. E' iniziata nel passato ed e' ancora vera: I have lived in Leeds for two years (e ci vivo ancora).",
+        "for + un periodo di tempo (per, da): for two hours, for three days, for ten years. since + il momento in cui e' iniziata (da): since Monday, since 2019, since I was ten. La domanda e' How long have you lived here? (mai 'how long time').",
+        "Alcuni verbi non si usano nella forma continua (be, know, have, like, want, understand). Con questi si usa il present perfect simple: I have known him for ten years. I have had this phone since March. Attenzione: in italiano diciamo 'vivo qui da due anni' (presente), ma in inglese NON si dice 'I live here for two years'."
+      ],
+      "table": {
+        "head": [
+          "for (a period)",
+          "since (a starting point)"
+        ],
+        "rows": [
+          [
+            "for two hours",
+            "since two o'clock"
+          ],
+          [
+            "for three days",
+            "since Monday"
+          ],
+          [
+            "for ten years",
+            "since 2016"
+          ],
+          [
+            "for a long time",
+            "since I was a child"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have waited for the bus for twenty minutes.",
+          "it": "Aspetto l'autobus da venti minuti."
+        },
+        {
+          "en": "She has worked here since January.",
+          "it": "Lavora qui da gennaio."
+        },
+        {
+          "en": "We have known them for years.",
+          "it": "Li conosciamo da anni."
+        },
+        {
+          "en": "How long have you had your car?",
+          "it": "Da quanto tempo hai la macchina?"
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Negatives, questions and past or present perfect?",
+      "title_it": "Negative, domande e past simple o present perfect?",
+      "en": [
+        "Negative: I haven't eaten for two days. She hasn't called me since Monday. In the negative we use the simple form (haven't eaten), not the continuous.",
+        "Questions: How long have you known her? How long has he worked here? Short answers: For two years. / Since 2022.",
+        "Compare the two tenses. I lived in Rome for two years = it is finished, I do not live there now. I have lived in Rome for two years = I still live there. With a finished period (from 2018 to 2020, last year) we use the past simple."
+      ],
+      "it": [
+        "Negativa: I haven't eaten for two days. She hasn't called me since Monday. Nella negativa si usa la forma semplice (haven't eaten), non quella continua.",
+        "Domande: How long have you known her? How long has he worked here? Risposte brevi: For two years. / Since 2022.",
+        "Confronta i due tempi. I lived in Rome for two years = e' finito, non vivo piu' li'. I have lived in Rome for two years = ci vivo ancora. Con un periodo finito (from 2018 to 2020, last year) si usa il past simple. Giovedi' vedrai anche la forma continua (have been living)."
+      ],
+      "table": {
+        "head": [
+          "Sentence",
+          "What it means"
+        ],
+        "rows": [
+          [
+            "I lived in Rome for two years.",
+            "I do not live in Rome now."
+          ],
+          [
+            "I have lived in Rome for two years.",
+            "I still live in Rome."
+          ],
+          [
+            "I haven't seen Tom since May.",
+            "The last time was in May."
+          ],
+          [
+            "How long have you been here?",
+            "From the start until now."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "He hasn't phoned me for a week.",
+          "it": "Non mi telefona da una settimana."
+        },
+        {
+          "en": "They lived in Wales from 2015 to 2019.",
+          "it": "Hanno vissuto in Galles dal 2015 al 2019."
+        },
+        {
+          "en": "How long has she had that bag?",
+          "it": "Da quanto tempo ha quella borsa?"
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Possessive adjectives and pronouns",
+      "title_it": "Aggettivi e pronomi possessivi",
+      "en": [
+        "A possessive adjective goes before a noun: my car, your keys, her sister. We never use the with it: the my car is wrong. A possessive pronoun stands alone and replaces the noun: This is my phone and that one is yours.",
+        "Its has no pronoun. Remember: it's means it is (it's late); its means 'of it' (the cat licked its paw)."
+      ],
+      "it": [
+        "L'aggettivo possessivo sta davanti a un nome: my car, your keys, her sister. Non si mette mai the: the my car e' sbagliato. Il pronome possessivo sta da solo e sostituisce il nome: This is my phone and that one is yours.",
+        "Its non ha il pronome. Ricorda: it's significa it is (it's late); its significa 'suo' (the cat licked its paw)."
+      ],
+      "table": {
+        "head": [
+          "Subject",
+          "Adjective (+ noun)",
+          "Pronoun (alone)"
+        ],
+        "rows": [
+          [
+            "I",
+            "my",
+            "mine"
+          ],
+          [
+            "you",
+            "your",
+            "yours"
+          ],
+          [
+            "he",
+            "his",
+            "his"
+          ],
+          [
+            "she",
+            "her",
+            "hers"
+          ],
+          [
+            "it",
+            "its",
+            "-"
+          ],
+          [
+            "we",
+            "our",
+            "ours"
+          ],
+          [
+            "they",
+            "their",
+            "theirs"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Our flat is smaller than theirs.",
+          "it": "Il nostro appartamento e' piu' piccolo del loro."
+        },
+        {
+          "en": "Is this your umbrella? No, mine is red.",
+          "it": "E' tuo questo ombrello? No, il mio e' rosso."
+        },
+        {
+          "en": "I left my coat there and she left hers here.",
+          "it": "Io ho lasciato il mio cappotto li' e lei ha lasciato il suo qui."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "The Saxon genitive: 's",
+      "title_it": "Il genitivo sassone: 's",
+      "en": [
+        "For people and animals we add 's to the owner and the owner comes FIRST: Carlo's car (the car of Carlo), the dog's tail. It is an Italian mistake to say the car of Carlo.",
+        "Plural nouns ending in -s take only an apostrophe: the girls' room. Irregular plurals take 's: the children's toys. With names ending in -s we write James's bike (or James' bike).",
+        "For things we usually do not use 's. We say the leg of the table or the table leg, the door of the car or the car door.",
+        "Whose is it? Whose coat is this? It's Anna's. (Anna's = Anna's coat)."
+      ],
+      "it": [
+        "Per persone e animali si aggiunge 's al possessore e il possessore viene PRIMA: Carlo's car (la macchina di Carlo), the dog's tail. E' un errore italiano dire the car of Carlo.",
+        "I plurali in -s prendono solo l'apostrofo: the girls' room. I plurali irregolari prendono 's: the children's toys. Con i nomi in -s si scrive James's bike (o James' bike).",
+        "Per le cose di solito non si usa 's. Si dice the leg of the table oppure the table leg, the door of the car oppure the car door.",
+        "Whose is it? Whose coat is this? It's Anna's. (Anna's = il cappotto di Anna)."
+      ],
+      "table": {
+        "head": [
+          "Italian pattern",
+          "English"
+        ],
+        "rows": [
+          [
+            "la macchina di Carlo",
+            "Carlo's car"
+          ],
+          [
+            "la stanza delle ragazze",
+            "the girls' room"
+          ],
+          [
+            "i giochi dei bambini",
+            "the children's toys"
+          ],
+          [
+            "la gamba del tavolo",
+            "the table leg"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "My sister's husband is a pilot.",
+          "it": "Il marito di mia sorella e' un pilota."
+        },
+        {
+          "en": "The dog's bowl is under the table.",
+          "it": "La ciotola del cane e' sotto il tavolo."
+        },
+        {
+          "en": "That is Maria's bike, not mine.",
+          "it": "Quella e' la bici di Maria, non la mia."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "I have lived here ___ 2019.",
+      "q_it": "Vivo qui ___ il 2019.",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "during"
+      ],
+      "answer": 1,
+      "why": "2019 is the moment when it started, so we use since.",
+      "why_it": "2019 e' il momento in cui e' iniziato: si usa since."
+    },
+    {
+      "type": "fill",
+      "q": "He has been in Italy ___ three weeks.",
+      "q_it": "E' in Italia da tre settimane.",
+      "answers": [
+        "for"
+      ],
+      "hint": "for o since",
+      "why": "Three weeks is a period of time: for.",
+      "why_it": "Tre settimane e' un periodo di tempo: for."
+    },
+    {
+      "type": "fill",
+      "q": "I ___ (know) Sara for ten years.",
+      "q_it": "Conosco Sara da dieci anni.",
+      "answers": [
+        "have known",
+        "'ve known",
+        "have known"
+      ],
+      "hint": "present perfect",
+      "why": "Know is a state verb: present perfect simple, with for + a period.",
+      "why_it": "Know e' un verbo di stato: present perfect simple, con for + un periodo."
+    },
+    {
+      "type": "mcq",
+      "q": "Marta has lived in Leeds for two years. What does this tell us?",
+      "q_it": "Marta has lived in Leeds for two years. Cosa ci dice?",
+      "options": [
+        "She lived in Leeds, but she has moved away",
+        "She is going to live in Leeds for two years",
+        "She has never lived in Leeds",
+        "She still lives in Leeds"
+      ],
+      "answer": 3,
+      "why": "The present perfect with for means the situation continues until now.",
+      "why_it": "Il present perfect con for significa che la situazione continua fino a ora."
+    },
+    {
+      "type": "fill",
+      "q": "___ have you had this phone?",
+      "q_it": "Da quanto tempo hai questo telefono?",
+      "answers": [
+        "How long",
+        "how long"
+      ],
+      "hint": "domanda sulla durata",
+      "why": "How long asks about duration: How long have you had...?",
+      "why_it": "How long chiede la durata: How long have you had...?"
+    },
+    {
+      "type": "order",
+      "q": "Order the words: a question about duration.",
+      "q_it": "Riordina: una domanda sulla durata.",
+      "words": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "lived",
+        "in",
+        "this",
+        "flat",
+        "?"
+      ],
+      "answers": [
+        "How long have you lived in this flat?"
+      ],
+      "why": "How long + have + subject + past participle.",
+      "why_it": "How long + have + soggetto + participio passato."
+    },
+    {
+      "type": "fill",
+      "q": "I ___ (have) this bike since 2020.",
+      "q_it": "Ho questa bici dal 2020.",
+      "answers": [
+        "have had",
+        "'ve had"
+      ],
+      "hint": "state verb",
+      "why": "Have (own) is a state verb: I have had. Since 2020 = starting point.",
+      "why_it": "Have (possesso) e' un verbo di stato: I have had. Since 2020 = momento iniziale."
+    },
+    {
+      "type": "mcq",
+      "q": "I ___ in Madrid for three years, but now I live in Lisbon.",
+      "q_it": "Ho vissuto a Madrid per tre anni, ma ora vivo a Lisbona.",
+      "options": [
+        "live",
+        "am living",
+        "lived",
+        "have lived"
+      ],
+      "answer": 2,
+      "why": "The period in Madrid is finished: past simple. Have lived would mean I still live there.",
+      "why_it": "Il periodo a Madrid e' finito: past simple. Have lived significherebbe che ci vivo ancora."
+    },
+    {
+      "type": "fill",
+      "q": "She hasn't called me ___ Monday.",
+      "q_it": "Non mi chiama da lunedi'.",
+      "answers": [
+        "since"
+      ],
+      "hint": "for o since",
+      "why": "Monday is a starting point: since.",
+      "why_it": "Lunedi' e' un punto di partenza: since."
+    },
+    {
+      "type": "mcq",
+      "q": "Is this pen yours? No, ___ is in my bag.",
+      "q_it": "E' tua questa penna? No, la mia e' nella borsa.",
+      "options": [
+        "Mine",
+        "My",
+        "Me",
+        "I"
+      ],
+      "answer": 0,
+      "why": "There is no noun after the gap, so we need the pronoun: mine.",
+      "why_it": "Dopo lo spazio non c'e' un nome: serve il pronome mine."
+    },
+    {
+      "type": "mcq",
+      "q": "Sara and Tom love ___ new flat.",
+      "q_it": "Sara e Tom adorano il loro nuovo appartamento.",
+      "options": [
+        "theirs",
+        "them",
+        "their",
+        "they"
+      ],
+      "answer": 2,
+      "why": "Before a noun we use the adjective: their.",
+      "why_it": "Davanti a un nome si usa l'aggettivo: their."
+    },
+    {
+      "type": "fill",
+      "q": "I left my bag at home. Can I use ___? (you)",
+      "q_it": "Ho lasciato la borsa a casa. Posso usare la tua?",
+      "answers": [
+        "yours"
+      ],
+      "hint": "pronome possessivo",
+      "why": "Alone, without a noun: yours.",
+      "why_it": "Da solo, senza nome: yours."
+    },
+    {
+      "type": "fill",
+      "q": "The dog is hungry. ___ bowl is empty.",
+      "q_it": "Il cane ha fame. La sua ciotola e' vuota.",
+      "answers": [
+        "Its",
+        "its"
+      ],
+      "hint": "it",
+      "why": "Possessive adjective of it: its (no apostrophe).",
+      "why_it": "Aggettivo possessivo di it: its (senza apostrofo)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase e' corretta?",
+      "options": [
+        "Mine sister is a doctor.",
+        "My sister is a doctor.",
+        "The my sister is a doctor.",
+        "Me sister is a doctor."
+      ],
+      "answer": 1,
+      "why": "Adjective my before the noun, with no article.",
+      "why_it": "Aggettivo my davanti al nome, senza articolo."
+    },
+    {
+      "type": "fill",
+      "q": "This is the car of Carlo. = This is ___ car.",
+      "q_it": "Questa e' la macchina di Carlo.",
+      "answers": [
+        "Carlo's"
+      ],
+      "hint": "genitivo sassone",
+      "why": "Owner first + 's: Carlo's car.",
+      "why_it": "Prima il possessore + 's: Carlo's car."
+    },
+    {
+      "type": "mcq",
+      "q": "Two girls share a room. How do we say 'la stanza delle ragazze'?",
+      "q_it": "Due ragazze dividono una stanza. Come si dice 'la stanza delle ragazze'?",
+      "options": [
+        "the girl's room",
+        "the room's girls",
+        "the girls room",
+        "the girls' room"
+      ],
+      "answer": 3,
+      "why": "A plural noun in -s takes only the apostrophe: the girls' room.",
+      "why_it": "Un plurale in -s prende solo l'apostrofo: the girls' room."
+    },
+    {
+      "type": "order",
+      "q": "Order the words.",
+      "q_it": "Riordina.",
+      "words": [
+        "That's",
+        "my",
+        "brother's",
+        "new",
+        "bike",
+        "."
+      ],
+      "answers": [
+        "That's my brother's new bike."
+      ],
+      "why": "Possessive adjective + genitive + adjective + noun.",
+      "why_it": "Aggettivo possessivo + genitivo + aggettivo + nome."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase e' corretta?",
+      "options": [
+        "The my father's car is old.",
+        "My father car is old.",
+        "My father's car is old.",
+        "Car of my father is old."
+      ],
+      "answer": 2,
+      "why": "The owner comes first with 's, and no the before my.",
+      "why_it": "Il possessore viene prima con 's e non si mette the davanti a my."
+    },
+    {
+      "type": "order",
+      "q": "Order the words.",
+      "q_it": "Riordina.",
+      "words": [
+        "Whose",
+        "coat",
+        "is",
+        "this",
+        "?"
+      ],
+      "answers": [
+        "Whose coat is this?"
+      ],
+      "why": "Whose + noun + is + this.",
+      "why_it": "Whose + nome + is + this."
+    },
+    {
+      "type": "fill",
+      "q": "This is not my phone. It's ___ (Anna).",
+      "q_it": "Questo non e' il mio telefono. E' di Anna.",
+      "answers": [
+        "Anna's",
+        "annas"
+      ],
+      "hint": "genitivo sassone",
+      "why": "Anna's phone, without repeating the noun.",
+      "why_it": "Il telefono di Anna, senza ripetere il nome."
+    },
+    {
+      "type": "mcq",
+      "q": "Review. Right now we ___ for the bus.",
+      "q_it": "Ripasso. In questo momento stiamo aspettando l'autobus.",
+      "options": [
+        "wait",
+        "are waiting",
+        "waited",
+        "have waited"
+      ],
+      "answer": 1,
+      "why": "Right now: present continuous.",
+      "why_it": "Right now: present continuous."
+    },
+    {
+      "type": "fill",
+      "q": "Review. My brother usually ___ (walk) to work, but today he is taking the bus.",
+      "q_it": "Ripasso. Mio fratello di solito va a piedi al lavoro, ma oggi prende l'autobus.",
+      "answers": [
+        "walks"
+      ],
+      "hint": "present simple",
+      "why": "Usually: habit, present simple, he + -s.",
+      "why_it": "Usually: abitudine, present simple, he + -s."
+    },
+    {
+      "type": "mcq",
+      "q": "Review. Last night we ___ a film when the power went off.",
+      "q_it": "Ripasso. Ieri sera guardavamo un film quando e' saltata la corrente.",
+      "options": [
+        "were watching",
+        "watched",
+        "have watched",
+        "watch"
+      ],
+      "answer": 0,
+      "why": "The film was in progress when the power went off: past continuous.",
+      "why_it": "Il film era in corso quando e' saltata la corrente: past continuous."
+    },
+    {
+      "type": "fill",
+      "q": "Review. We ___ (not / go) to the cinema last Saturday.",
+      "q_it": "Ripasso. Lo scorso sabato non siamo andati al cinema.",
+      "answers": [
+        "didn't go",
+        "did not go"
+      ],
+      "hint": "past simple",
+      "why": "Last Saturday is finished: past simple, did + not + base verb.",
+      "why_it": "Last Saturday e' finito: past simple, did + not + verbo base."
+    },
+    {
+      "type": "mcq",
+      "q": "Review. Have you ever ___ a horse?",
+      "q_it": "Ripasso. Hai mai cavalcato un cavallo?",
+      "options": [
+        "rode",
+        "riding",
+        "ride",
+        "ridden"
+      ],
+      "answer": 3,
+      "why": "Have + past participle: ridden.",
+      "why_it": "Have + participio passato: ridden."
+    },
+    {
+      "type": "order",
+      "q": "Review. Order the words.",
+      "q_it": "Ripasso. Riordina.",
+      "words": [
+        "I",
+        "have",
+        "never",
+        "been",
+        "to",
+        "Spain",
+        "."
+      ],
+      "answers": [
+        "I have never been to Spain.",
+        "I've never been to Spain."
+      ],
+      "why": "Never goes between have and the participle.",
+      "why_it": "Never va tra have e il participio."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "for",
+      "it": "da, per (durata)",
+      "ex": "I have lived here for two years."
+    },
+    {
+      "id": "c2",
+      "en": "since",
+      "it": "da (momento iniziale)",
+      "ex": "She has worked here since 2019."
+    },
+    {
+      "id": "c3",
+      "en": "How long have you...?",
+      "it": "Da quanto tempo...?",
+      "ex": "How long have you known him?"
+    },
+    {
+      "id": "c4",
+      "en": "I have known him for years",
+      "it": "Lo conosco da anni",
+      "ex": "I have known her for ten years."
+    },
+    {
+      "id": "c5",
+      "en": "mine / yours",
+      "it": "il mio / il tuo (da soli)",
+      "ex": "This pen is mine, that one is yours."
+    },
+    {
+      "id": "c6",
+      "en": "hers / ours / theirs",
+      "it": "il suo / il nostro / il loro",
+      "ex": "The red car is ours, the blue one is theirs."
+    },
+    {
+      "id": "c7",
+      "en": "its",
+      "it": "suo (di cosa o animale)",
+      "ex": "The cat licked its paw."
+    },
+    {
+      "id": "c8",
+      "en": "Carlo's car",
+      "it": "la macchina di Carlo",
+      "ex": "This is Carlo's car."
+    },
+    {
+      "id": "c9",
+      "en": "the girls' room",
+      "it": "la stanza delle ragazze",
+      "ex": "The girls' room is upstairs."
+    },
+    {
+      "id": "c10",
+      "en": "the table leg",
+      "it": "la gamba del tavolo",
+      "ex": "The table leg is broken."
+    }
+  ]
+}
