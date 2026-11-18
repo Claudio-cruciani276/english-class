@@ -44,6 +44,11 @@
           "label": "Present perfect with for / since",
           "label_it": "Present perfect con for / since",
           "date": "2026-11-17"
+        },
+        {
+          "label": "Present perfect continuous",
+          "label_it": "Present perfect continuous",
+          "date": "2026-11-19"
         }
       ]
     },
@@ -172,6 +177,16 @@
           "label": "Saxon genitive ('s)",
           "label_it": "Genitivo sassone ('s)",
           "date": "2026-11-17"
+        },
+        {
+          "label": "going to / would like to / will",
+          "label_it": "Intenzione e decisione",
+          "date": "2026-11-19"
+        },
+        {
+          "label": "love / like / hate + -ing",
+          "label_it": "Verbi di gusto + -ing",
+          "date": "2026-11-19"
         }
       ]
     },

@@ -1,0 +1,663 @@
+{
+  "title": "Present perfect continuous + going to, would like to, will + love/like -ing",
+  "title_it": "Present perfect continuous, going to, would like to, will e love/like + -ing",
+  "goal": "Talk about activities that last up to now, say plans, wishes and quick decisions, and use love, like, hate, enjoy with -ing, while keeping all the tenses fresh.",
+  "goal_it": "Parlare di attivita' che durano fino a ora, esprimere progetti, desideri e decisioni al momento, usare love, like, hate, enjoy con -ing e ripassare tutti i tempi.",
+  "minutes": 30,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Present perfect continuous: have been + -ing",
+      "title_it": "Present perfect continuous: have been + -ing",
+      "en": [
+        "We form it with have / has + been + verb + -ing: I have been studying, she has been working. We use it for an activity that started in the past and goes on until now (How long have you been learning English? I have been learning it for three years).",
+        "We also use it for an activity that has just finished when we can see the result now: The ground is wet. It has been raining. My hands are dirty. I have been repairing my bike. And for repeated actions that last a long time: They have been going to that cafe for years.",
+        "We often use how long, for and since. Careful: state verbs (know, like, want, have, be) are not used in the continuous form. We say I have known Sara for ten years, not 'I have been knowing'. In a negative sentence with for / since we prefer the simple form: I haven't eaten for two days."
+      ],
+      "it": [
+        "Si forma con have / has + been + verbo in -ing: I have been studying, she has been working. Lo usiamo per un'attivita' iniziata nel passato che continua fino a ora (How long have you been learning English? I have been learning it for three years).",
+        "Lo usiamo anche per un'attivita' appena finita di cui vediamo il risultato adesso: The ground is wet. It has been raining (il terreno e' bagnato, ha piovuto). My hands are dirty. I have been repairing my bike. E per azioni ripetute che durano da tempo: They have been going to that cafe for years.",
+        "Spesso si usa con how long, for e since. Attenzione: i verbi di stato (know, like, want, have, be) non si usano alla forma continua. Si dice I have known Sara for ten years, non 'I have been knowing'. Nella frase negativa con for / since si preferisce la forma semplice: I haven't eaten for two days."
+      ],
+      "table": {
+        "head": [
+          "Form",
+          "Example"
+        ],
+        "rows": [
+          [
+            "I / you / we / they have been + -ing",
+            "We have been waiting for an hour."
+          ],
+          [
+            "he / she / it has been + -ing",
+            "She has been sleeping since ten."
+          ],
+          [
+            "Question",
+            "How long have you been living here?"
+          ],
+          [
+            "Short form",
+            "I've been working. He's been running."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I have been learning the guitar for six months.",
+          "it": "Sto imparando la chitarra da sei mesi."
+        },
+        {
+          "en": "You look tired. Have you been working all night?",
+          "it": "Sembri stanco. Hai lavorato tutta la notte?"
+        },
+        {
+          "en": "It has been snowing since this morning.",
+          "it": "Nevica da stamattina."
+        },
+        {
+          "en": "Tom has been playing football with his friends, so he is very hot.",
+          "it": "Tom ha giocato a calcio con gli amici, quindi ha molto caldo."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Present perfect continuous or simple?",
+      "title_it": "Present perfect continuous o simple?",
+      "en": [
+        "The continuous thinks about the ACTIVITY (how long it lasts, even if it is not finished). The simple thinks about the RESULT or the quantity (what is done, how many, how much).",
+        "I have been painting my bedroom (the activity, maybe I am not finished). I have painted my bedroom, and now it is yellow (the result). How long have you been reading that book? (duration) / How many pages have you read? (quantity).",
+        "Remember the difference from the past simple: I have lived here for two years (still true) / I lived there for two years (finished, now I live somewhere else)."
+      ],
+      "it": [
+        "Il continuous pensa all'ATTIVITA' (quanto dura, anche se non e' finita). Il simple pensa al RISULTATO o alla quantita' (cosa e' stato fatto, quanti, quanto).",
+        "I have been painting my bedroom (l'attivita', forse non ho finito). I have painted my bedroom, and now it is yellow (il risultato). How long have you been reading that book? (durata) / How many pages have you read? (quantita').",
+        "Ricorda la differenza dal past simple: I have lived here for two years (e' ancora vero) / I lived there for two years (finito, ora vivo altrove)."
+      ],
+      "table": {
+        "head": [
+          "Present perfect continuous (activity)",
+          "Present perfect simple (result, quantity)"
+        ],
+        "rows": [
+          [
+            "How long have you been reading?",
+            "How many pages have you read?"
+          ],
+          [
+            "I've been cooking all afternoon.",
+            "I've cooked three dishes."
+          ],
+          [
+            "She has been writing emails.",
+            "She has written ten emails."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Joe has been eating too much recently.",
+          "it": "Joe ha mangiato troppo di recente."
+        },
+        {
+          "en": "Somebody has eaten all the chocolate. The box is empty.",
+          "it": "Qualcuno ha mangiato tutto il cioccolato. La scatola e' vuota."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Going to, would like to, will",
+      "title_it": "Going to, would like to, will",
+      "en": [
+        "be going to + verb: a plan or intention you have already decided. I'm going to buy a house in London. She is going to spend a night in that hotel.",
+        "would like to ('d like to) + verb: a wish or a polite request. I'd like to have some cake. I'd like to book a table, please.",
+        "will ('ll) + verb: a decision you make at the moment of speaking. What would you like to eat? I'll have some cake. The phone is ringing. I'll answer it.",
+        "Quick rule: plan already made = going to; wish = would like to; decision now = will. In fast speech, going to often sounds like 'gonna' (you hear it in songs)."
+      ],
+      "it": [
+        "be going to + verbo: un progetto o un'intenzione gia' decisa. I'm going to buy a house in London. She is going to spend a night in that hotel.",
+        "would like to ('d like to) + verbo: un desiderio o una richiesta gentile. I'd like to have some cake. I'd like to book a table, please.",
+        "will ('ll) + verbo: una decisione presa nel momento in cui parli. What would you like to eat? I'll have some cake. Il telefono squilla. I'll answer it.",
+        "Regola veloce: progetto gia' deciso = going to; desiderio = would like to; decisione adesso = will. Nel parlato veloce going to suona spesso come 'gonna' (lo senti nelle canzoni)."
+      ],
+      "table": {
+        "head": [
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "going to: plan already made",
+            "We're going to visit my aunt on Sunday."
+          ],
+          [
+            "would like to: wish, polite request",
+            "I'd like to see the menu, please."
+          ],
+          [
+            "will: decision now",
+            "It's cold. I'll close the window."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "I've saved some money, so I'm going to buy a new laptop.",
+          "it": "Ho messo da parte dei soldi, quindi ho intenzione di comprare un portatile nuovo."
+        },
+        {
+          "en": "Would you like to come with us? Yes, I'd love to.",
+          "it": "Ti piacerebbe venire con noi? Si, volentieri."
+        },
+        {
+          "en": "There is no milk. I'll go to the shop.",
+          "it": "Non c'e' latte. Vado io al negozio."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Love, like, hate, enjoy + -ing",
+      "title_it": "Love, like, hate, enjoy + -ing",
+      "en": [
+        "After love, like, hate, enjoy (and don't mind) we use the verb + -ing: I love watching TV. She likes playing football. We enjoy cooking at the weekend. He hates getting up early.",
+        "Do not use the infinitive with to after enjoy: 'I enjoy to swim' is wrong. Say I enjoy swimming.",
+        "These verbs are state verbs, so they are not used in the continuous: I like cooking (not 'I am liking cooking'). Useful question: What do you usually do at the weekend?"
+      ],
+      "it": [
+        "Dopo love, like, hate, enjoy (e don't mind) si usa il verbo in -ing: I love watching TV. She likes playing football. We enjoy cooking at the weekend. He hates getting up early.",
+        "Dopo enjoy non si usa to + infinito: 'I enjoy to swim' e' sbagliato. Si dice I enjoy swimming.",
+        "Sono verbi di stato, quindi non si usano al continuous: I like cooking (non 'I am liking cooking'). Domanda utile: What do you usually do at the weekend?"
+      ],
+      "examples": [
+        {
+          "en": "My brother loves cycling in the mountains.",
+          "it": "A mio fratello piace moltissimo andare in bicicletta in montagna."
+        },
+        {
+          "en": "I don't mind waiting a few minutes.",
+          "it": "Non mi dispiace aspettare qualche minuto."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Which tense? A quick map",
+      "title_it": "Quale tempo? Una mappa veloce",
+      "en": [
+        "Use the time clue and the idea behind the sentence to choose the tense.",
+        "Present simple: habits and facts (usually, every day). Present continuous: happening now or around now (now, at the moment). Past simple: finished action at a definite time (yesterday, last night, in 2019). Past continuous: action in progress in the past (while, when something happened). Present perfect simple: experience or result connected to now (ever, never, just, already, yet, for, since). Present perfect continuous: an activity lasting up to now or just finished (how long, all day, recently)."
+      ],
+      "it": [
+        "Usa l'indizio di tempo e l'idea dietro la frase per scegliere il tempo.",
+        "Present simple: abitudini e fatti (usually, every day). Present continuous: sta succedendo ora o in questo periodo (now, at the moment). Past simple: azione finita in un momento definito (yesterday, last night, in 2019). Past continuous: azione in corso nel passato (while, when e' successo qualcosa). Present perfect simple: esperienza o risultato collegato a ora (ever, never, just, already, yet, for, since). Present perfect continuous: un'attivita' che dura fino a ora o appena finita (how long, all day, recently)."
+      ],
+      "table": {
+        "head": [
+          "Clue",
+          "Tense",
+          "Example"
+        ],
+        "rows": [
+          [
+            "usually, every day",
+            "present simple",
+            "I usually walk to work."
+          ],
+          [
+            "now, at the moment",
+            "present continuous",
+            "I am walking to work now."
+          ],
+          [
+            "yesterday, last night",
+            "past simple",
+            "I walked to work yesterday."
+          ],
+          [
+            "while, when (in progress)",
+            "past continuous",
+            "I was walking when it started to rain."
+          ],
+          [
+            "ever, never, just, already, yet",
+            "present perfect",
+            "I have just walked home."
+          ],
+          [
+            "how long, all day, for, since (activity)",
+            "present perfect continuous",
+            "I have been walking for an hour."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "en": "Yesterday I walked for an hour. Today my legs hurt, so I have been resting all morning.",
+          "it": "Ieri ho camminato per un'ora. Oggi mi fanno male le gambe, quindi mi sono riposato tutta la mattina."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "The ground is wet but the sun is out now. It ___.",
+      "q_it": "Il terreno e' bagnato ma ora c'e' il sole. Ha ___.",
+      "options": [
+        "is raining",
+        "has been raining",
+        "rains",
+        "was raining"
+      ],
+      "answer": 1,
+      "why": "We see a result now (wet ground) of a recent activity: present perfect continuous.",
+      "why_it": "Vediamo un risultato adesso (terreno bagnato) di un'attivita' recente: present perfect continuous."
+    },
+    {
+      "type": "fill",
+      "q": "They ___ (wait) for the bus since eight o'clock.",
+      "q_it": "Aspettano l'autobus dalle otto.",
+      "answers": [
+        "have been waiting",
+        "'ve been waiting"
+      ],
+      "hint": "present perfect continuous",
+      "why": "Since + an activity that is still going on: have been waiting.",
+      "why_it": "Since + un'attivita' ancora in corso: have been waiting."
+    },
+    {
+      "type": "fill",
+      "q": "How long ___ you been learning to drive?",
+      "q_it": "Da quanto tempo impari a guidare?",
+      "answers": [
+        "have"
+      ],
+      "hint": "have o has",
+      "why": "How long + present perfect continuous. With you we use have.",
+      "why_it": "How long + present perfect continuous. Con you si usa have."
+    },
+    {
+      "type": "order",
+      "q": "Order the words: an activity that is still going on.",
+      "q_it": "Riordina le parole.",
+      "words": [
+        "She",
+        "has",
+        "been",
+        "working",
+        "here",
+        "since",
+        "March"
+      ],
+      "answers": [
+        "She has been working here since March"
+      ],
+      "why": "Has been working = activity up to now. Since March gives the starting point.",
+      "why_it": "Has been working = attivita' fino a ora. Since March e' il punto di partenza."
+    },
+    {
+      "type": "fill",
+      "q": "My hands are dirty. I ___ (repair) my bike.",
+      "q_it": "Ho le mani sporche. Ho riparato la bici.",
+      "answers": [
+        "have been repairing",
+        "'ve been repairing"
+      ],
+      "hint": "present perfect continuous",
+      "why": "The activity has just finished and we see the result (dirty hands).",
+      "why_it": "L'attivita' e' appena finita e vediamo il risultato (mani sporche)."
+    },
+    {
+      "type": "mcq",
+      "q": "Which question is correct?",
+      "q_it": "Quale domanda e' corretta?",
+      "options": [
+        "How long are you learning Italian?",
+        "How long do you learn Italian?",
+        "How long have you been learning Italian?",
+        "How long did you been learning Italian?"
+      ],
+      "answer": 2,
+      "why": "For an activity that started in the past and continues now we use how long + have you been + -ing.",
+      "why_it": "Per un'attivita' iniziata nel passato che continua ora si usa how long + have you been + -ing."
+    },
+    {
+      "type": "mcq",
+      "q": "The wall is finished and now it is blue. Which sentence is best?",
+      "q_it": "Il muro e' finito e ora e' blu. Quale frase e' la migliore?",
+      "options": [
+        "I've been painting the wall.",
+        "I've painted the wall.",
+        "I paint the wall.",
+        "I was painting the wall."
+      ],
+      "answer": 1,
+      "why": "We talk about the result (the wall is done): present perfect simple.",
+      "why_it": "Parliamo del risultato (il muro e' finito): present perfect simple."
+    },
+    {
+      "type": "fill",
+      "q": "How many emails ___ you written this morning?",
+      "q_it": "Quante email hai scritto stamattina?",
+      "answers": [
+        "have"
+      ],
+      "hint": "have o has",
+      "why": "How many asks for a quantity, so we use the simple form: have you written.",
+      "why_it": "How many chiede una quantita', quindi si usa la forma semplice: have you written."
+    },
+    {
+      "type": "fill",
+      "q": "She ___ (read) that novel for two weeks and she has not finished it yet.",
+      "q_it": "Legge quel romanzo da due settimane e non l'ha ancora finito.",
+      "answers": [
+        "has been reading",
+        "'s been reading"
+      ],
+      "hint": "present perfect continuous",
+      "why": "The focus is on the activity and its duration (for two weeks).",
+      "why_it": "L'attenzione e' sull'attivita' e sulla sua durata (for two weeks)."
+    },
+    {
+      "type": "fill",
+      "q": "How long ___ in this flat? (you / live)",
+      "q_it": "Da quanto tempo vivi in questo appartamento?",
+      "answers": [
+        "have you been living",
+        "have you lived"
+      ],
+      "hint": "How long have you...",
+      "why": "Live accepts both forms. The continuous stresses the duration.",
+      "why_it": "Live ammette entrambe le forme. Il continuous insiste sulla durata."
+    },
+    {
+      "type": "mcq",
+      "q": "I'm tired. I ___ all day.",
+      "q_it": "Sono stanco. ___ tutto il giorno.",
+      "options": [
+        "have been working",
+        "worked",
+        "am working",
+        "work"
+      ],
+      "answer": 0,
+      "why": "All day up to now and we feel the result (tired): present perfect continuous.",
+      "why_it": "All day fino a ora e sentiamo il risultato (stanco): present perfect continuous."
+    },
+    {
+      "type": "mcq",
+      "q": "I have bought the tickets. We ___ fly to Rome on Friday.",
+      "q_it": "Ho comprato i biglietti. Voliamo a Roma venerdi'.",
+      "options": [
+        "will",
+        "are going to",
+        "would like to",
+        "have been"
+      ],
+      "answer": 1,
+      "why": "The plan is already decided (tickets bought): be going to.",
+      "why_it": "Il progetto e' gia' deciso (biglietti comprati): be going to."
+    },
+    {
+      "type": "mcq",
+      "q": "Waiter: What would you like? You: I think I ___ the soup.",
+      "q_it": "Cameriere: Cosa desidera? Tu: Credo che prendero' la zuppa.",
+      "options": [
+        "am going to have",
+        "would like having",
+        "'ll have",
+        "have been having"
+      ],
+      "answer": 2,
+      "why": "You decide at the moment of speaking: will ('ll).",
+      "why_it": "Decidi nel momento in cui parli: will ('ll)."
+    },
+    {
+      "type": "fill",
+      "q": "I would like ___ (book) a table for two, please.",
+      "q_it": "Vorrei prenotare un tavolo per due, per favore.",
+      "answers": [
+        "to book"
+      ],
+      "hint": "would like + to + verbo",
+      "why": "After would like we use to + infinitive.",
+      "why_it": "Dopo would like si usa to + infinito."
+    },
+    {
+      "type": "order",
+      "q": "Order the words: a plan for tomorrow.",
+      "q_it": "Riordina le parole.",
+      "words": [
+        "We",
+        "are",
+        "going",
+        "to",
+        "visit",
+        "my",
+        "aunt",
+        "tomorrow"
+      ],
+      "answers": [
+        "We are going to visit my aunt tomorrow"
+      ],
+      "why": "Be going to + verb = a plan already decided.",
+      "why_it": "Be going to + verbo = progetto gia' deciso."
+    },
+    {
+      "type": "fill",
+      "q": "The phone is ringing. I ___ answer it!",
+      "q_it": "Il telefono squilla. Rispondo io!",
+      "answers": [
+        "'ll",
+        "will",
+        "I'll"
+      ],
+      "hint": "decisione adesso",
+      "why": "A decision made at the moment of speaking: will ('ll).",
+      "why_it": "Una decisione presa mentre parli: will ('ll)."
+    },
+    {
+      "type": "fill",
+      "q": "My sister loves ___ (cook) for her friends.",
+      "q_it": "Mia sorella adora cucinare per i suoi amici.",
+      "answers": [
+        "cooking"
+      ],
+      "hint": "verbo + -ing",
+      "why": "After love we use the -ing form.",
+      "why_it": "Dopo love si usa la forma in -ing."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase e' corretta?",
+      "options": [
+        "I enjoy to swim.",
+        "I enjoy swim.",
+        "I am enjoying swim.",
+        "I enjoy swimming."
+      ],
+      "answer": 3,
+      "why": "After enjoy we use verb + -ing.",
+      "why_it": "Dopo enjoy si usa verbo + -ing."
+    },
+    {
+      "type": "order",
+      "q": "Order the words.",
+      "q_it": "Riordina le parole.",
+      "words": [
+        "He",
+        "hates",
+        "getting",
+        "up",
+        "early",
+        "on",
+        "Mondays"
+      ],
+      "answers": [
+        "He hates getting up early on Mondays"
+      ],
+      "why": "Hate + verb with -ing.",
+      "why_it": "Hate + verbo in -ing."
+    },
+    {
+      "type": "fill",
+      "q": "Review. Listen! Someone ___ (sing) in the garden.",
+      "q_it": "Ripasso. Ascolta! Qualcuno sta cantando in giardino.",
+      "answers": [
+        "is singing",
+        "'s singing"
+      ],
+      "hint": "present continuous",
+      "why": "Listen! = happening now: present continuous.",
+      "why_it": "Listen! = sta succedendo ora: present continuous."
+    },
+    {
+      "type": "fill",
+      "q": "Review. My brother usually ___ (walk) to work.",
+      "q_it": "Ripasso. Mio fratello di solito va a piedi al lavoro.",
+      "answers": [
+        "walks"
+      ],
+      "hint": "present simple",
+      "why": "Usually = habit: present simple, with -s for he.",
+      "why_it": "Usually = abitudine: present simple, con -s per he."
+    },
+    {
+      "type": "mcq",
+      "q": "Review. We ___ dinner when the lights went out.",
+      "q_it": "Ripasso. Stavamo cenando quando e' saltata la luce.",
+      "options": [
+        "had",
+        "have had",
+        "were having",
+        "have been having"
+      ],
+      "answer": 2,
+      "why": "An action in progress in the past, interrupted by a shorter one: past continuous.",
+      "why_it": "Un'azione in corso nel passato, interrotta da una piu' breve: past continuous."
+    },
+    {
+      "type": "mcq",
+      "q": "Review. Last weekend we ___ to the beach.",
+      "q_it": "Ripasso. Lo scorso weekend siamo andati in spiaggia.",
+      "options": [
+        "have been",
+        "went",
+        "were going",
+        "have been going"
+      ],
+      "answer": 1,
+      "why": "Last weekend is a finished time: past simple.",
+      "why_it": "Last weekend e' un tempo finito: past simple."
+    },
+    {
+      "type": "order",
+      "q": "Review. Order the words.",
+      "q_it": "Ripasso. Riordina le parole.",
+      "words": [
+        "I",
+        "didn't",
+        "go",
+        "out",
+        "last",
+        "night"
+      ],
+      "answers": [
+        "I didn't go out last night"
+      ],
+      "why": "Last night = past simple. Negative: didn't + base verb.",
+      "why_it": "Last night = past simple. Negativa: didn't + verbo base."
+    },
+    {
+      "type": "fill",
+      "q": "Review. I ___ (not / see) Anna since January.",
+      "q_it": "Ripasso. Non vedo Anna da gennaio.",
+      "answers": [
+        "haven't seen",
+        "have not seen"
+      ],
+      "hint": "present perfect",
+      "why": "Since + negative: present perfect simple.",
+      "why_it": "Since + negativa: present perfect simple."
+    },
+    {
+      "type": "fill",
+      "q": "Review. Matt ___ (live) in Turin for six years.",
+      "q_it": "Ripasso. Matt vive a Torino da sei anni.",
+      "answers": [
+        "has lived",
+        "'s lived",
+        "has been living",
+        "'s been living"
+      ],
+      "hint": "for + periodo",
+      "why": "For six years, still true: present perfect (simple or continuous).",
+      "why_it": "For six years, ancora vero: present perfect (simple o continuous)."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "have been + -ing",
+      "it": "forma del present perfect continuous",
+      "ex": "She has been working all day."
+    },
+    {
+      "id": "c2",
+      "en": "How long have you been...?",
+      "it": "Da quanto tempo...?",
+      "ex": "How long have you been waiting?"
+    },
+    {
+      "id": "c3",
+      "en": "all day / recently",
+      "it": "tutto il giorno / di recente",
+      "ex": "I have been studying all day."
+    },
+    {
+      "id": "c4",
+      "en": "activity or result?",
+      "it": "attivita' o risultato?",
+      "ex": "I've been painting. / I've painted it."
+    },
+    {
+      "id": "c5",
+      "en": "be going to",
+      "it": "progetto gia' deciso",
+      "ex": "I'm going to learn Spanish."
+    },
+    {
+      "id": "c6",
+      "en": "would like to",
+      "it": "desiderio, richiesta gentile",
+      "ex": "I'd like to book a table."
+    },
+    {
+      "id": "c7",
+      "en": "will ('ll)",
+      "it": "decisione sul momento",
+      "ex": "I'll have the soup."
+    },
+    {
+      "id": "c8",
+      "en": "enjoy + -ing",
+      "it": "godersi, divertirsi a fare",
+      "ex": "We enjoy walking by the river."
+    },
+    {
+      "id": "c9",
+      "en": "hate + -ing",
+      "it": "odiare fare qualcosa",
+      "ex": "He hates waiting in queues."
+    },
+    {
+      "id": "c10",
+      "en": "gonna",
+      "it": "going to nel parlato veloce",
+      "ex": "I'm gonna call you later."
+    }
+  ]
+}
