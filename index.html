@@ -111,7 +111,7 @@ const T={
  en:{hello:n=>'Hello, '+n,streak:'day streak',xp:'XP',today:"Today's lesson",start:'Start lesson',again:'Do it again',done:'Completed',preview:'Preview',min:'min',
   cardsDue:'Cards to review',noCards:'No cards due today.',review:'Review',cardsN:n=>n+(n===1?' card':' cards'),thisWeek:'This week',everyone:'The class',past:'Earlier lessons',
   nolesson:'No lesson yet. The first one is on its way.',loading:'Loading...',cant:'Cannot reach the lessons yet. Check your connection.',
-  cont:'Continue',check:'Check',correct:'Correct!',notQuite:'Not quite.',answer:'Answer: ',reset:'Reset',finish:'Lesson complete',
+  cont:'Continue',resumed:'Resumed where you left off.',restart:'Start over',check:'Check',correct:'Correct!',notQuite:'Not quite.',answer:'Answer: ',reset:'Reset',finish:'Lesson complete',
   score:(a,b)=>'You scored '+a+' out of '+b,gained:n=>'+'+n+' XP',home:'Back home',
   who:'Who is learning?',name:'Name',pin:'4-digit PIN',enter:'Enter',newNote:'New name? Choose a PIN and your profile is created.',
   wrongPin:'That PIN does not match this name.',badPin:'Use exactly 4 digits.',badName:'Please type a name.',switch:'Switch learner',
@@ -122,7 +122,7 @@ const T={
  it:{hello:n=>'Ciao, '+n,streak:'giorni di fila',xp:'XP',today:'Lezione di oggi',start:'Inizia la lezione',again:'Rifai',done:'Completata',preview:'Anteprima',min:'min',
   cardsDue:'Carte da ripassare',noCards:'Nessuna carta da ripassare oggi.',review:'Ripassa',cardsN:n=>n+(n===1?' carta':' carte'),thisWeek:'Questa settimana',everyone:'La classe',past:'Lezioni precedenti',
   nolesson:'Ancora nessuna lezione. La prima sta arrivando.',loading:'Caricamento...',cant:'Impossibile raggiungere le lezioni. Controlla la connessione.',
-  cont:'Continua',check:'Controlla',correct:'Giusto!',notQuite:'Non proprio.',answer:'Risposta: ',reset:'Azzera',finish:'Lezione completata',
+  cont:'Continua',resumed:'Ripresa da dove eri rimasto.',restart:'Ricomincia',check:'Controlla',correct:'Giusto!',notQuite:'Non proprio.',answer:'Risposta: ',reset:'Azzera',finish:'Lezione completata',
   score:(a,b)=>'Hai fatto '+a+' su '+b,gained:n=>'+'+n+' XP',home:'Torna alla home',
   who:'Chi studia?',name:'Nome',pin:'PIN di 4 cifre',enter:'Entra',newNote:'Nome nuovo? Scegli un PIN e il profilo viene creato.',
   wrongPin:'Il PIN non corrisponde a questo nome.',badPin:'Usa esattamente 4 cifre.',badName:'Scrivi un nome.',switch:'Cambia utente',
@@ -443,6 +443,8 @@ async function startLesson(L){
     if(!r.ok)throw new Error(r.status);
     const full=await r.json();
     S.run={kind:'lesson',lesson:{...L,...full,id:L.id},steps:full.steps||[],i:0,correct:0,total:(full.steps||[]).filter(x=>x.type!=='explain'&&x.type!=='listen').length,st:{},finished:false};
+    const dr=S.prog&&S.prog.drafts&&S.prog.drafts[L.id];
+    if(dr&&dr.i>0&&dr.i<S.run.steps.length){S.run.i=dr.i;S.run.correct=dr.correct||0;S.run.resumed=true;}
     S.view='lesson';render();
   }catch(e){S.cant=true;render();}
 }
@@ -472,12 +474,20 @@ function renderRun(){
   else if(step.type==='order')body=viewOrder(step);
   else if(step.type==='listen')body=viewListen(step);
   else body=h('div',{class:'card'},h('p',null,'Unknown step'),h('button',{class:'primary',onclick:next},t().cont));
+  if(r.resumed)body=h('div',null,h('div',{class:'row small muted',style:'align-items:center;margin-bottom:8px'},h('span',null,t().resumed),h('button',{class:'pill',onclick:()=>{r.i=0;r.correct=0;r.resumed=false;if(S.prog.drafts)delete S.prog.drafts[r.lesson.id];saveProg();renderRun();}},t().restart)),body);
   shell(prog,body);
+}
+function checkpoint(){
+  const r=S.run,p=S.prog;if(!r||r.kind!=='lesson'||!p)return;
+  p.drafts=p.drafts||{};
+  p.drafts[r.lesson.id]={i:r.i,correct:r.correct,at:todayStr()};
+  markDay(p,todayStr());saveProg();
 }
 function next(){
   stopSpeech();
-  const r=S.run;r.i++;r.st={};
+  const r=S.run;r.i++;r.st={};r.resumed=false;
   if(r.i>=r.steps.length){finishLesson();return;}
+  checkpoint();
   renderRun();window.scrollTo(0,0);
 }
 function viewExplain(s){
@@ -610,6 +620,7 @@ function finishLesson(){
   let gain=0;
   if(first){gain=r.correct*10+(r.total>0&&r.correct===r.total?20:0);p.xp=(p.xp||0)+gain;}
   p.done=p.done||{};
+  if(p.drafts)delete p.drafts[L.id];
   const prev=p.done[L.id];
   p.done[L.id]={score:r.correct,total:r.total,best:Math.max(r.correct,prev&&prev.best||0)};
   markDay(p,td);
