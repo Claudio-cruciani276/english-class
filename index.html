@@ -111,7 +111,7 @@ const T={
  en:{hello:n=>'Hello, '+n,streak:'day streak',xp:'XP',today:"Today's lesson",start:'Start lesson',again:'Do it again',done:'Completed',preview:'Preview',min:'min',
   cardsDue:'Cards to review',noCards:'No cards due today.',review:'Review',cardsN:n=>n+(n===1?' card':' cards'),thisWeek:'This week',everyone:'The class',past:'Earlier lessons',
   nolesson:'No lesson yet. The first one is on its way.',loading:'Loading...',cant:'Cannot reach the lessons yet. Check your connection.',
-  cont:'Continue',resumed:'Resumed where you left off.',restart:'Start over',check:'Check',correct:'Correct!',notQuite:'Not quite.',answer:'Answer: ',reset:'Reset',finish:'Lesson complete',
+  catchTitle:'To catch up',catchNote:'Lessons you have not finished yet. Do them whenever you can.',catchAll:'Show all',resumeBtn:'Resume',pauseTitle:'Review week',pauseNote:'No new lessons this week. Use it to catch up on lessons, readings, songs and phrasal verbs you missed, and do the daily quiz.',quizTitle:'Daily quiz',quizNote:'20 random questions from everything we have studied. If you stop halfway, nothing is saved.',quizStart:'Start quiz',quizBuilding:'Preparing the quiz...',quizFail:'Not enough questions yet.',quizName:'Daily quiz',cont:'Continue',resumed:'Resumed where you left off.',restart:'Start over',check:'Check',correct:'Correct!',notQuite:'Not quite.',answer:'Answer: ',reset:'Reset',finish:'Lesson complete',
   score:(a,b)=>'You scored '+a+' out of '+b,gained:n=>'+'+n+' XP',home:'Back home',
   who:'Who is learning?',name:'Name',pin:'4-digit PIN',enter:'Enter',newNote:'New name? Choose a PIN and your profile is created.',
   wrongPin:'That PIN does not match this name.',badPin:'Use exactly 4 digits.',badName:'Please type a name.',switch:'Switch learner',
@@ -122,7 +122,7 @@ const T={
  it:{hello:n=>'Ciao, '+n,streak:'giorni di fila',xp:'XP',today:'Lezione di oggi',start:'Inizia la lezione',again:'Rifai',done:'Completata',preview:'Anteprima',min:'min',
   cardsDue:'Carte da ripassare',noCards:'Nessuna carta da ripassare oggi.',review:'Ripassa',cardsN:n=>n+(n===1?' carta':' carte'),thisWeek:'Questa settimana',everyone:'La classe',past:'Lezioni precedenti',
   nolesson:'Ancora nessuna lezione. La prima sta arrivando.',loading:'Caricamento...',cant:'Impossibile raggiungere le lezioni. Controlla la connessione.',
-  cont:'Continua',resumed:'Ripresa da dove eri rimasto.',restart:'Ricomincia',check:'Controlla',correct:'Giusto!',notQuite:'Non proprio.',answer:'Risposta: ',reset:'Azzera',finish:'Lezione completata',
+  catchTitle:'Da recuperare',catchNote:'Lezioni che non hai ancora finito. Falle quando puoi.',catchAll:'Mostra tutte',resumeBtn:'Riprendi',pauseTitle:'Settimana di ripasso',pauseNote:'Questa settimana non ci sono lezioni nuove. Usala per recuperare lezioni, letture, canzoni e phrasal verbs che ti sono sfuggiti, e fai il quiz del giorno.',quizTitle:'Quiz del giorno',quizNote:'20 domande a caso su tutto quello che abbiamo studiato. Se ti fermi a metà, non viene salvato niente.',quizStart:'Inizia il quiz',quizBuilding:'Preparo il quiz...',quizFail:'Non ci sono ancora abbastanza domande.',quizName:'Quiz del giorno',cont:'Continua',resumed:'Ripresa da dove eri rimasto.',restart:'Ricomincia',check:'Controlla',correct:'Giusto!',notQuite:'Non proprio.',answer:'Risposta: ',reset:'Azzera',finish:'Lezione completata',
   score:(a,b)=>'Hai fatto '+a+' su '+b,gained:n=>'+'+n+' XP',home:'Torna alla home',
   who:'Chi studia?',name:'Nome',pin:'PIN di 4 cifre',enter:'Entra',newNote:'Nome nuovo? Scegli un PIN e il profilo viene creato.',
   wrongPin:'Il PIN non corrisponde a questo nome.',badPin:'Usa esattamente 4 cifre.',badName:'Scrivi un nome.',switch:'Cambia utente',
@@ -279,6 +279,33 @@ function weekReadings(kind){
   const td=todayStr(),ws=addDays(td,-dow(td));
   return S.lessons.filter(l=>l.kind===(kind||'reading')&&(l.week===ws||(PREVIEW&&l.week>ws))).sort((a,b)=>(a.week+(a.order||0))<(b.week+(b.order||0))?-1:1);
 }
+function pauseOn(){const p=S.pause,td=todayStr();return !!(p&&p.from&&p.to&&td>=p.from&&td<=p.to);}
+function catchUp(){
+  const td=todayStr(),ws=addDays(td,-dow(td)),done=(S.prog&&S.prog.done)||{};
+  return S.lessons.filter(l=>l.kind?(l.week<ws):(l.id<td)).filter(l=>!done[l.id])
+    .sort((a,b)=>((b.week||b.id)+(b.order||0))<((a.week||a.id)+(a.order||0))?-1:1);
+}
+function rng(seed){let a=0;for(const c of seed)a=(a*31+c.charCodeAt(0))>>>0;return()=>{a=(a+0x6D2B79F5)>>>0;let t=a;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return((t^t>>>14)>>>0)/4294967296;};}
+async function startQuiz(){
+  const td=todayStr(),n=(S.pause&&S.pause.quizSize)||20;
+  S.quizBusy=true;render();
+  try{
+    if(!S.pool){
+      const src=S.lessons.filter(l=>!l.kind||l.kind==='phrasal').filter(l=>(l.kind?l.week:l.id)<=td).filter(l=>!/^listening/i.test(l.title||''));
+      const all=await Promise.all(src.map(l=>fetch('lessons/'+l.id+'.json').then(r=>r.ok?r.json():null).catch(()=>null)));
+      S.pool=all.map((f,i)=>f?(f.steps||[]).filter(x=>(x.type==='mcq'||x.type==='fill'||x.type==='order')&&!x.audio&&!/\b(dialogue|text|passage|story|conversation|paragraph|email|audio)\b/i.test(x.q||'')):[]).filter(a=>a.length);
+    }
+    const rnd=rng(td+':'+S.me);
+    const pools=S.pool.map(a=>{const c=[...a];for(let i=c.length-1;i>0;i--){const j=Math.floor(rnd()*(i+1));[c[i],c[j]]=[c[j],c[i]];}return c;});
+    for(let i=pools.length-1;i>0;i--){const j=Math.floor(rnd()*(i+1));[pools[i],pools[j]]=[pools[j],pools[i]];}
+    const steps=[];
+    for(let k=0;steps.length<n&&pools.some(a=>a.length>k);k++)for(const a of pools){if(a.length>k&&steps.length<n)steps.push(a[k]);}
+    for(let i=steps.length-1;i>0;i--){const j=Math.floor(rnd()*(i+1));[steps[i],steps[j]]=[steps[j],steps[i]];}
+    if(steps.length<5){S.quizBusy=false;S.quizFail=true;render();return;}
+    S.run={kind:'lesson',quiz:true,lesson:{id:'quiz-'+td,title:t().quizName,title_it:'Quiz del giorno',minutes:15,cards:[]},steps,i:0,correct:0,total:steps.length,st:{},finished:false};
+    S.quizBusy=false;S.view='lesson';render();
+  }catch(e){S.quizBusy=false;S.quizFail=true;render();}
+}
 function todaysLesson(){
   const v=visibleLessons();const td=todayStr();
   return v.find(l=>l.id===td)||[...v].reverse().find(l=>!l.future)||v.find(l=>l.future)||null;
@@ -355,7 +382,16 @@ function homeView(){
       d?h('p',{class:'small muted'},t().score(d.best!=null?d.best:d.score,d.total)):null,
       h('button',{class:'primary',onclick:()=>startLesson(L)},d?t().again:t().start));
   }
-  wrap.append(lc);
+  if(pauseOn()){
+    const qd=p.done&&p.done['quiz-'+td];
+    wrap.append(
+      h('div',{class:'card'},h('span',{class:'label'},t().pauseTitle),h('p',null,t().pauseNote)),
+      h('div',{class:'card'},h('div',{class:'row'},h('span',{class:'label'},t().quizTitle),qd?h('span',{class:'tag good'},t().done):null),
+        h('p',{class:'muted small'},t().quizNote),
+        qd?h('p',{class:'small muted'},t().score(qd.best!=null?qd.best:qd.score,qd.total)):null,
+        S.quizFail?h('p',{class:'err small'},t().quizFail):null,
+        h('button',{class:'primary',disabled:!!S.quizBusy||!S.loadedL,onclick:()=>{S.quizFail=false;startQuiz();}},S.quizBusy?t().quizBuilding:(qd?t().again:t().quizStart))));
+  }else wrap.append(lc);
 
   /* weekly readings and songs */
   [['reading','readingTitle','readingNote'],['phrasal','phrasalTitle','phrasalNote'],['song','songTitle','songNote']].forEach(([kind,tk,nk])=>{
@@ -375,6 +411,20 @@ function homeView(){
           h('button',{class:dn?'pill':'primary',onclick:()=>startLesson(l)},dn?t().again:t().go));
       }))));
   });
+
+  /* catch up */
+  const cu=catchUp();
+  if(cu.length&&S.loadedL){
+    const sub=l=>l.kind==='reading'?t().readingTag:(l.kind==='phrasal'?t().phrasalTag:(l.kind==='song'?t().songTag+(l.artist?': '+l.artist:''):longDate(l.id)));
+    const crow=l=>{const dr=p.drafts&&p.drafts[l.id];return h('li',null,
+      h('div',null,h('div',{style:'font-weight:600'},S.lang==='it'&&l.title_it?l.title_it:l.title),h('div',{class:'small muted'},sub(l))),
+      h('button',{class:'pill',onclick:()=>startLesson(l)},dr?t().resumeBtn:t().start));};
+    wrap.append(h('div',{class:'card'},
+      h('div',{class:'row'},h('span',{class:'label'},t().catchTitle),h('span',{class:'tag gold'},String(cu.length))),
+      h('p',{class:'muted small'},t().catchNote),
+      h('ul',{class:'list'},cu.slice(0,5).map(crow)),
+      cu.length>5?h('details',null,h('summary',{style:'cursor:pointer'},t().catchAll),h('ul',{class:'list',style:'margin-top:6px'},cu.slice(5).map(crow))):null));
+  }
 
   /* cards */
   const due=dueCards();
@@ -397,7 +447,7 @@ function homeView(){
   /* past */
   const ws0=addDays(td,-dow(td));
   const pastReadings=S.lessons.filter(l=>(l.kind==='reading'||l.kind==='song'||l.kind==='phrasal')&&l.week<ws0);
-  const past=visibleLessons().filter(l=>L&&l.id!==L.id).concat(pastReadings)
+  const past=visibleLessons().filter(l=>pauseOn()||(L&&l.id!==L.id)).concat(pastReadings)
     .sort((a,b)=>((b.week||b.id)+(b.order||0))<((a.week||a.id)+(a.order||0))?-1:1);
   if(past.length){
     const typeOf=l=>l.kind==='reading'?'reading':l.kind==='song'?'song':l.kind==='phrasal'?'phrasal'
@@ -478,7 +528,7 @@ function renderRun(){
   shell(prog,body);
 }
 function checkpoint(){
-  const r=S.run,p=S.prog;if(!r||r.kind!=='lesson'||!p)return;
+  const r=S.run,p=S.prog;if(!r||r.kind!=='lesson'||r.quiz||!p)return;
   p.drafts=p.drafts||{};
   p.drafts[r.lesson.id]={i:r.i,correct:r.correct,at:todayStr()};
   markDay(p,todayStr());saveProg();
@@ -618,7 +668,7 @@ function finishLesson(){
   const r=S.run,p=S.prog,L=r.lesson,td=todayStr();
   const first=!(p.done&&p.done[L.id]);
   let gain=0;
-  if(first){gain=r.correct*10+(r.total>0&&r.correct===r.total?20:0);p.xp=(p.xp||0)+gain;}
+  if(first){gain=r.quiz?r.correct*5+(r.total>0&&r.correct===r.total?10:0):r.correct*10+(r.total>0&&r.correct===r.total?20:0);p.xp=(p.xp||0)+gain;}
   p.done=p.done||{};
   if(p.drafts)delete p.drafts[L.id];
   const prev=p.done[L.id];
@@ -684,6 +734,7 @@ async function boot(){
     const list=await r.json();
     S.lessons=list.sort((a,b)=>a.id<b.id?-1:1);S.loadedL=true;
   }catch(e){S.cant=true;}
+  try{const r3=await fetch('pause.json',{cache:'no-store'});if(r3.ok)S.pause=await r3.json();}catch(e){}
   try{const r2=await fetch('topics.json',{cache:'no-store'});if(r2.ok)S.topics=await r2.json();}catch(e){}
   try{S.view=(await autoLogin())?'home':'login';}catch(e){S.view='login';}
   render();

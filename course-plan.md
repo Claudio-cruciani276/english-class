@@ -4,6 +4,8 @@ File di lavoro dell'insegnante (Claude). Lo legge e lo aggiorna ogni notte l'att
 
 ## 1. Regole del piano
 
+- PAUSA (admin, 19 novembre): dal 23 al 29 novembre NON si crea nessun file (vedi sezione 3 e sezione 6). Se domani e' dentro questa pausa, l'attivita' notturna non fa nulla e lo scrive nel riepilogo.
+
 - PRIORITA' (admin, 15 novembre): la sezione 8 (reading piu' lunghi e interessanti, domande di comprensione difficili) PREVALE sulle istruzioni generiche della procedura notturna per i reading, i listening, le canzoni e le verifiche: dove la procedura dice 10-12 battute, 8 esercizi, 15 minuti, vale la sezione 8.
 - Il piano della settimana (sezione 3) decide gli argomenti. Se manca, usa l'ordine di default della sezione 4 e salta quelli già nel registro (sezione 5).
 - Ogni lezione di grammatica contiene: UN tempo verbale principale + 1 o 2 mini argomenti + un breve blocco di ripasso mirato (errori ricorrenti o argomento della lezione precedente). Almeno per le prime settimane, per recuperare le basi.
@@ -70,15 +72,22 @@ REGOLA DELLA SETTIMANA (admin, 15 novembre): in ogni lezione di grammatica il bl
 - Phrasal verbs della settimana 16-22: dieci nuovi (sezione 7).
 - Canzoni: coppia da confermare dall'admin (songs-queue.json). Se non ha ancora confermato, e' in coda la coppia proposta da Claude.
 
-### Settimana 23-29 novembre (bozza di Claude, da rivedere nel weekend)
+### Settimana 23-29 novembre: SETTIMANA DI PAUSA (deciso dall'admin il 19 novembre)
 
-- Lun 23, grammatica: FUTURO: will contro going to (previsioni, promesse, offerte, piani gia' decisi; present continuous per gli appuntamenti) + a / an e the (prima menzione, cosa chiara, tipo contro uno specifico; sezione 4). Ripasso a rotazione di tutti i tempi.
-- Mar 24, grammatica: COMPARATIVI E SUPERLATIVI (-er/-est, more/most, as...as, than) + countable e uncountable 2 (advice, information, news, luggage, weather...; nomi con due significati). Ripasso a rotazione dei tempi.
-- Mer 25, listening: situazione diversa dalle precedenti (per esempio fare un piano per il weekend o un consiglio a un amico); present perfect, past simple e futuro.
-- Gio 26, grammatica: VERBI MODALI (can / can't / could, must / mustn't, have to / don't have to, should) + richiamo di present perfect simple e continuous. Ripasso a rotazione dei tempi.
-- Ven 27, writing: un'email con consigli e progetti (modali, will, going to, tempi passati).
-- Sab 28: verifica da 20 punti con la scelta del tempo al centro (regola della sezione 2). Dom 29: ripasso.
-- Phrasal verbs 23-29 e 30 novembre: come proposta nella sezione 7.
+- NESSUNA lezione nuova, nessun reading, nessuna canzone, nessun phrasal verbs, nessuna voce nuova in topics.json per questi giorni. Le notti da domenica 22 a sabato 28 novembre l'attivita' NON crea file (domani e' dentro la pausa: salta tutti i punti 2, 3, 3b, 3c, 3d e riassumi "pausa").
+- Cosa fa l'app (gia' pronta, configurata da pause.json nella root): ogni giorno un quiz casuale di 20 domande da tutti gli argomenti passati, senza tenere traccia se non si completa; sezione "Da recuperare" con lezioni, reading, canzoni e phrasal verbs non fatti, e il consiglio di recuperarli.
+- Il piano normale riprende lunedi' 30 novembre: la notte di domenica 29 novembre l'attivita' crea lezione, reading, canzoni e phrasal verbs della settimana 30 nov - 6 dic.
+- Il piano gia' scritto per il 23-29 e' stato spostato di una settimana (sezione sotto). Canzoni (songs-queue.json) e phrasal verbs (sezione 7) slittano di una settimana.
+
+### Settimana 30 novembre - 6 dicembre (bozza di Claude, spostata di una settimana per la pausa; da rivedere)
+
+- Lun 30 nov, grammatica: FUTURO: will contro going to (previsioni, promesse, offerte, piani gia' decisi; present continuous per gli appuntamenti) + a / an e the (prima menzione, cosa chiara, tipo contro uno specifico; sezione 4). Ripasso a rotazione di tutti i tempi.
+- Mar 1 dic, grammatica: COMPARATIVI E SUPERLATIVI (-er/-est, more/most, as...as, than) + countable e uncountable 2 (advice, information, news, luggage, weather...; nomi con due significati). Ripasso a rotazione dei tempi.
+- Mer 2 dic, listening: situazione diversa dalle precedenti (per esempio fare un piano per il weekend o un consiglio a un amico); present perfect, past simple e futuro.
+- Gio 3 dic, grammatica: VERBI MODALI (can / can't / could, must / mustn't, have to / don't have to, should) + richiamo di present perfect simple e continuous. Ripasso a rotazione dei tempi.
+- Ven 4 dic, writing: un'email con consigli e progetti (modali, will, going to, tempi passati).
+- Sab 5 dic: verifica da 20 punti con la scelta del tempo al centro (regola della sezione 2). Dom 6 dic: ripasso.
+- Phrasal verbs: come proposta nella sezione 7 (lista del 30 novembre).
 
 ## 4. Linee guida di contenuto per argomento
 
@@ -262,6 +271,8 @@ Reading già fatti: aeroporto, ristorante, indicazioni, hotel, shopping per vest
 
 - 2026-11-15 (sera): l'admin dice che le domande di comprensione sono spesso troppo facili e vuole reading piu' lunghi, complessi e interessanti, con ricerca sul web. Standard nella sezione 8, che prevale sulla procedura generica.
 
+- 2026-11-19: SETTIMANA DI PAUSA 23-29 novembre (priorita' sul piano e sulla procedura notturna): non creare nessun file nuovo per le date dal 23 al 29 novembre (lezioni, reading, canzoni, phrasal verbs, topics, piano). Riprendere il piano lunedi' 30 novembre. Il piano del 23-29 e' stato spostato al 30 nov - 6 dic, canzoni e phrasal verbs slittano di una settimana. Nell'app: quiz casuale giornaliero e sezione "Da recuperare".
+
 ## 7. Phrasal verbs della settimana (nuova sezione dal 9 novembre)
 
 Ogni settimana, la domenica notte (quando domani e' lunedi), insieme a reading e canzoni si crea UN file lessons/phrasal-<lunedi della settimana>.json di tipo kind:"phrasal", che nell'app compare nella sezione "Phrasal verbs della settimana". Modello esatto: lessons/phrasal-2026-11-09.json.
@@ -278,8 +289,9 @@ Verbi gia' fatti:
 
 Proposta per le prossime settimane (da rivedere nel weekend, modificabile):
 - 16 novembre: get on, get off, pick up, drop off, set off, look up, look after, wake up, go out, sit down.
-- 23 novembre: carry on, run out of, throw away, work out, check in, check out, call back, fill in, hurry up, slow down.
-- 30 novembre: take care of, get along with, ask for, look like, get back, get into, put away, cheer up, stand up, move on.
+- 23 novembre: PAUSA, nessun phrasal verb.
+- 30 novembre: carry on, run out of, throw away, work out, check in, check out, call back, fill in, hurry up, slow down.
+- 7 dicembre: take care of, get along with, ask for, look like, get back, get into, put away, cheer up, stand up, move on.
 
 ## 8. Standard di qualita' di reading e domande di comprensione (richiesta dell'admin, 15 novembre)
 
