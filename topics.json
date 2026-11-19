@@ -93,6 +93,16 @@
           "label": "Much / many / a lot of",
           "label_it": "Much / many / a lot of",
           "date": "2026-11-12"
+        },
+        {
+          "label": "no / a little / a few",
+          "label_it": "no / a little / a few",
+          "date": "2026-11-20"
+        },
+        {
+          "label": "too much / too many",
+          "label_it": "too much / too many",
+          "date": "2026-11-20"
         }
       ]
     },
@@ -187,6 +197,16 @@
           "label": "love / like / hate + -ing",
           "label_it": "Verbi di gusto + -ing",
           "date": "2026-11-19"
+        },
+        {
+          "label": "too + adjective",
+          "label_it": "too + aggettivo",
+          "date": "2026-11-20"
+        },
+        {
+          "label": "here / there / over there",
+          "label_it": "here / there / over there",
+          "date": "2026-11-20"
         }
       ]
     },
@@ -246,6 +266,11 @@
           "label": "Listening: planning a trip",
           "label_it": "Ascolto: organizzare un viaggio",
           "date": "2026-11-18"
+        },
+        {
+          "label": "Writing: a holiday email",
+          "label_it": "Scrittura: email di una vacanza",
+          "date": "2026-11-20"
         }
       ]
     },

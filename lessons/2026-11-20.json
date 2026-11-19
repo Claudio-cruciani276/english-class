@@ -1,0 +1,658 @@
+{
+  "title": "Writing: A holiday email",
+  "title_it": "Scrittura: l'email di una vacanza",
+  "goal": "Write a holiday email using the present perfect, the past simple and going to, with no, a little / a few, too much / too many and here / there.",
+  "goal_it": "Scrivere l'email di una vacanza con present perfect, past simple e going to, usando no, a little / a few, too much / too many e here / there.",
+  "minutes": 30,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Today: writing a holiday email",
+      "title_it": "Oggi: scrivere l'email di una vacanza",
+      "en": [
+        "Today you write an email to a friend from a holiday, real or imaginary. You tell what you have done so far, what happened on one special day, and what you are going to do next.",
+        "You use three tenses together: the present perfect for experiences and news, the past simple to tell a finished day, and going to for plans. In the Language boost you also learn no, a little / a few, too much / too many, too + adjective, and here / there / over there."
+      ],
+      "it": [
+        "Oggi scrivi un'email a un amico da una vacanza, vera o immaginaria. Racconti che cosa hai fatto finora, che cosa è successo in un giorno speciale e che cosa farai dopo.",
+        "Usi insieme tre tempi: il present perfect per esperienze e novità, il past simple per raccontare una giornata finita e going to per i progetti. Nel Language boost impari anche no, a little / a few, too much / too many, too + aggettivo e here / there / over there."
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Words for a holiday email",
+      "title_it": "Parole per l'email di una vacanza",
+      "en": [
+        "Learn these ten words and expressions. They are in your flashcards too."
+      ],
+      "it": [
+        "Impara queste dieci parole ed espressioni. Le trovi anche nelle flashcard."
+      ],
+      "table": {
+        "head": [
+          "English",
+          "Italiano"
+        ],
+        "rows": [
+          [
+            "Greetings from...",
+            "Saluti da..."
+          ],
+          [
+            "so far",
+            "finora"
+          ],
+          [
+            "sightseeing",
+            "giro turistico"
+          ],
+          [
+            "souvenir",
+            "souvenir, ricordo"
+          ],
+          [
+            "crowded",
+            "affollato"
+          ],
+          [
+            "queue",
+            "coda, fila"
+          ],
+          [
+            "to book a table",
+            "prenotare un tavolo"
+          ],
+          [
+            "Wish you were here!",
+            "Vorrei che fossi qui!"
+          ],
+          [
+            "Write soon!",
+            "Scrivimi presto!"
+          ],
+          [
+            "Best wishes / Love",
+            "Cordiali saluti / Un abbraccio"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "title": "Model email",
+      "title_it": "Email modello",
+      "en": [
+        "Hi Sara,",
+        "Greetings from Lisbon! I have been here for four days and I have already seen a lot. Yesterday we went up to the castle and took lots of photos. I have never eaten so many custard tarts in my life!",
+        "The only problem is the trams. There are too many tourists and the queue is too long, so we haven't tried the famous yellow tram yet. Tomorrow we are going to visit Sintra, and I'd like to see the palace there. Write soon!",
+        "Love, Anna"
+      ],
+      "it": [
+        "Ciao Sara,",
+        "Saluti da Lisbona! Sono qui da quattro giorni e ho già visto molto. Ieri siamo saliti al castello e abbiamo fatto un sacco di foto. Non ho mai mangiato così tanti pasticcini alla crema in vita mia!",
+        "L'unico problema sono i tram. Ci sono troppi turisti e la coda è troppo lunga, quindi non abbiamo ancora provato il famoso tram giallo. Domani visiteremo Sintra e mi piacerebbe vedere il palazzo. Scrivimi presto!",
+        "Un abbraccio, Anna"
+      ],
+      "examples": [
+        {
+          "en": "I have been here for four days. (present perfect: news up to now)",
+          "it": "Sono qui da quattro giorni. (present perfect: novità fino a ora)"
+        },
+        {
+          "en": "Yesterday we went up to the castle. (past simple: finished day)",
+          "it": "Ieri siamo saliti al castello. (past simple: giorno finito)"
+        },
+        {
+          "en": "Tomorrow we are going to visit Sintra. (going to: plan)",
+          "it": "Domani visiteremo Sintra. (going to: progetto)"
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Language boost 1: quantifiers",
+      "title_it": "Language boost 1: i quantificatori",
+      "en": [
+        "no = not any, but stronger. The verb stays positive: There is no hot water. Use a little with uncountable nouns and a few with countable plural nouns: a little money, a few friends.",
+        "too much (uncountable) and too many (countable) mean more than you want: too much traffic, too many tourists. With an adjective use only too: The room is too small."
+      ],
+      "it": [
+        "no = not any, ma più forte. Il verbo resta positivo: There is no hot water. A little si usa con gli uncountable e a few con i countable plurali: a little money, a few friends.",
+        "Too much (uncountable) e too many (countable) indicano più di quanto si vuole: too much traffic, too many tourists. Con un aggettivo si usa solo too: The room is too small."
+      ],
+      "table": {
+        "head": [
+          "Word",
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "no",
+            "nothing at all (positive verb)",
+            "We have no time."
+          ],
+          [
+            "a little",
+            "a small quantity (uncountable)",
+            "I have a little money."
+          ],
+          [
+            "a few",
+            "a small number (countable plural)",
+            "I have a few photos."
+          ],
+          [
+            "too much",
+            "more than enough (uncountable)",
+            "There is too much noise."
+          ],
+          [
+            "too many",
+            "more than enough (countable plural)",
+            "There are too many cars."
+          ],
+          [
+            "too + adjective",
+            "more than you want",
+            "The tour is too long."
+          ]
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "title": "Language boost 2: here, there, over there",
+      "title_it": "Language boost 2: here, there, over there",
+      "en": [
+        "here = near me. there = not near me, but not very far. over there = far from both of us, you point with your hand.",
+        "Examples: Come here, please. I left my bag there. The station is over there, behind the church."
+      ],
+      "it": [
+        "here = vicino a me. there = non vicino a me, ma non molto lontano. over there = lontano da entrambi, lo indichi con la mano.",
+        "Esempi: Come here, please. I left my bag there. The station is over there, behind the church."
+      ]
+    },
+    {
+      "type": "explain",
+      "title": "Checklist before you write",
+      "title_it": "Controlla prima di scrivere",
+      "en": [
+        "Use this list to check every sentence, then read your text again."
+      ],
+      "it": [
+        "Usa questa lista per controllare ogni frase, poi rileggi il testo."
+      ],
+      "table": {
+        "head": [
+          "Check",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Present perfect: have/has + past participle, no finished time",
+            "I have already seen the castle."
+          ],
+          [
+            "Never with a positive verb, ever only in questions",
+            "I have never been to Rome. Have you ever been there?"
+          ],
+          [
+            "Finished time (yesterday, last night): past simple",
+            "Yesterday we went to the beach."
+          ],
+          [
+            "Past simple negative and question: didn't / did + base verb",
+            "We didn't buy anything. Did you like it?"
+          ],
+          [
+            "Plans: going to + base verb; wishes: would like to",
+            "We are going to take a boat. I'd like to swim."
+          ],
+          [
+            "Too much with uncountable, too many with countable plural",
+            "Too much noise, too many tourists."
+          ],
+          [
+            "Linking words and greetings",
+            "First, then, after that. Hi Sara, Love, Anna"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "mcq",
+      "q": "Hi Sara! I ___ in Lisbon for four days now.",
+      "q_it": "Ciao Sara! Sono a Lisbona da quattro giorni ormai.",
+      "options": [
+        "am",
+        "have been",
+        "was",
+        "have being"
+      ],
+      "answer": 1,
+      "why": "For four days up to now: present perfect (have been). 'Am' ignores the duration, 'was' means it is finished.",
+      "why_it": "For four days fino a ora: present perfect (have been). 'Am' ignora la durata, 'was' indica che è finito."
+    },
+    {
+      "type": "fill",
+      "q": "I have already ___ the castle. (see)",
+      "q_it": "Ho già visto il castello.",
+      "answers": [
+        "seen"
+      ],
+      "hint": "past participle of see",
+      "why": "Already goes with the present perfect: have + seen.",
+      "why_it": "Already va con il present perfect: have + seen."
+    },
+    {
+      "type": "mcq",
+      "q": "We ___ to the beach yesterday.",
+      "q_it": "Ieri siamo andati in spiaggia.",
+      "options": [
+        "have gone",
+        "have been going",
+        "went",
+        "go"
+      ],
+      "answer": 2,
+      "why": "Yesterday is a finished time, so we use the past simple: went.",
+      "why_it": "Yesterday è un tempo finito, quindi past simple: went."
+    },
+    {
+      "type": "fill",
+      "q": "I have never ___ so much fish! (eat)",
+      "q_it": "Non ho mai mangiato così tanto pesce!",
+      "answers": [
+        "eaten"
+      ],
+      "hint": "past participle of eat",
+      "why": "Never goes with the present perfect and a positive verb: have never eaten.",
+      "why_it": "Never va con il present perfect e verbo positivo: have never eaten."
+    },
+    {
+      "type": "fill",
+      "q": "Have you ever ___ a Portuguese custard tart? (try)",
+      "q_it": "Hai mai provato un pasticcino alla crema portoghese?",
+      "answers": [
+        "tried"
+      ],
+      "hint": "past participle of try",
+      "why": "Ever in a question about experience: Have you ever + past participle.",
+      "why_it": "Ever in una domanda sull'esperienza: Have you ever + participio passato."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Metti le parole in ordine.",
+      "words": [
+        "Last",
+        "night",
+        "we",
+        "went",
+        "to",
+        "a",
+        "small",
+        "restaurant"
+      ],
+      "answers": [
+        "Last night we went to a small restaurant"
+      ],
+      "why": "Last night is finished, so the verb is in the past simple: went.",
+      "why_it": "Last night è finito, quindi il verbo è al past simple: went."
+    },
+    {
+      "type": "mcq",
+      "q": "Tomorrow we ___ visit the palace.",
+      "q_it": "Domani visiteremo il palazzo.",
+      "options": [
+        "went to",
+        "have been to",
+        "are going to",
+        "would"
+      ],
+      "answer": 2,
+      "why": "A plan already decided: be going to + base verb.",
+      "why_it": "Un progetto già deciso: be going to + verbo base."
+    },
+    {
+      "type": "fill",
+      "q": "I'd like ___ the old town again. (visit)",
+      "q_it": "Mi piacerebbe visitare di nuovo la città vecchia.",
+      "answers": [
+        "to visit"
+      ],
+      "hint": "would like + to + verb",
+      "why": "Would like is followed by to + base verb.",
+      "why_it": "Would like è seguito da to + verbo base."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Metti le parole in ordine.",
+      "words": [
+        "We",
+        "are",
+        "going",
+        "to",
+        "take",
+        "the",
+        "train",
+        "to",
+        "Sintra"
+      ],
+      "answers": [
+        "We are going to take the train to Sintra"
+      ],
+      "why": "Plan: subject + are going to + base verb.",
+      "why_it": "Progetto: soggetto + are going to + verbo base."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct in an email?",
+      "q_it": "Quale frase è corretta in un'email?",
+      "options": [
+        "I have visited the museum yesterday.",
+        "I visited the museum yesterday.",
+        "I have been visiting the museum yesterday.",
+        "I visit the museum yesterday."
+      ],
+      "answer": 1,
+      "why": "Yesterday needs the past simple. The present perfect cannot be used with a finished time.",
+      "why_it": "Yesterday vuole il past simple. Il present perfect non si usa con un tempo finito."
+    },
+    {
+      "type": "mcq",
+      "q": "There is ___ time, so we must hurry.",
+      "q_it": "Non c'è tempo, quindi dobbiamo sbrigarci.",
+      "options": [
+        "many",
+        "a few",
+        "no",
+        "few"
+      ],
+      "answer": 2,
+      "why": "Time is uncountable. No time means not any time. Many and a few are for countable plural nouns.",
+      "why_it": "Time è uncountable. No time significa nessun tempo. Many e a few sono per i countable plurali."
+    },
+    {
+      "type": "fill",
+      "q": "I've only got ___ money left, so I can't buy a souvenir. (a little / a few)",
+      "q_it": "Mi sono rimasti pochi soldi, quindi non posso comprare un souvenir.",
+      "answers": [
+        "a little"
+      ],
+      "hint": "money is uncountable",
+      "why": "Money is uncountable: a little.",
+      "why_it": "Money è uncountable: a little."
+    },
+    {
+      "type": "fill",
+      "q": "We met ___ nice people on the tour. (a little / a few)",
+      "q_it": "Abbiamo conosciuto alcune persone simpatiche durante il tour.",
+      "answers": [
+        "a few"
+      ],
+      "hint": "people is countable plural",
+      "why": "People is countable plural: a few.",
+      "why_it": "People è countable plurale: a few."
+    },
+    {
+      "type": "mcq",
+      "q": "The hotel is cheap, but the room is ___ small.",
+      "q_it": "L'hotel è economico, ma la camera è troppo piccola.",
+      "options": [
+        "too much",
+        "too many",
+        "much",
+        "too"
+      ],
+      "answer": 3,
+      "why": "Before an adjective we use only too.",
+      "why_it": "Davanti a un aggettivo si usa solo too."
+    },
+    {
+      "type": "fill",
+      "q": "There are ___ tourists in August, so I never go. (too much / too many)",
+      "q_it": "Ad agosto ci sono troppi turisti, quindi non vado mai.",
+      "answers": [
+        "too many"
+      ],
+      "hint": "tourists is countable plural",
+      "why": "Tourists is countable plural: too many.",
+      "why_it": "Tourists è countable plurale: too many."
+    },
+    {
+      "type": "fill",
+      "q": "I ate ___ ice cream and now I feel ill. (too much / too many)",
+      "q_it": "Ho mangiato troppo gelato e ora sto male.",
+      "answers": [
+        "too much"
+      ],
+      "hint": "ice cream is uncountable",
+      "why": "Ice cream is uncountable: too much.",
+      "why_it": "Ice cream è uncountable: too much."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Metti le parole in ordine.",
+      "words": [
+        "There",
+        "is",
+        "no",
+        "hot",
+        "water",
+        "in",
+        "our",
+        "room"
+      ],
+      "answers": [
+        "There is no hot water in our room",
+        "There's no hot water in our room"
+      ],
+      "why": "No + noun with a positive verb: There is no hot water.",
+      "why_it": "No + nome con verbo positivo: There is no hot water."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "I haven't got no time.",
+        "I've got no time.",
+        "I don't have no time.",
+        "I've got not time."
+      ],
+      "answer": 1,
+      "why": "English has only one negative: no with a positive verb. The double negation is a mistake.",
+      "why_it": "In inglese c'è una sola negazione: no con verbo positivo. La doppia negazione è un errore."
+    },
+    {
+      "type": "fill",
+      "q": "Come ___, please. I'm next to the window and I want to show you the view. (here / there)",
+      "q_it": "Vieni qui, per favore. Sono vicino alla finestra e voglio farti vedere il panorama.",
+      "answers": [
+        "here"
+      ],
+      "hint": "near me",
+      "why": "Near the speaker: here.",
+      "why_it": "Vicino a chi parla: here."
+    },
+    {
+      "type": "mcq",
+      "q": "Look at the hill far away, ___. We are going there tomorrow.",
+      "q_it": "Guarda la collina lontana, laggiù. Domani andremo là.",
+      "options": [
+        "at here",
+        "here",
+        "over there",
+        "this"
+      ],
+      "answer": 2,
+      "why": "Far from both speakers and pointing: over there.",
+      "why_it": "Lontano da entrambi e indicando: over there."
+    },
+    {
+      "type": "fill",
+      "q": "The bus stop is ___, on the other side of the road. (here / there / over there)",
+      "q_it": "La fermata dell'autobus è laggiù, dall'altra parte della strada.",
+      "answers": [
+        "over there"
+      ],
+      "hint": "far, you point",
+      "why": "Far away, on the other side: over there.",
+      "why_it": "Lontano, dall'altra parte: over there."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Metti le parole in ordine.",
+      "words": [
+        "The",
+        "museum",
+        "is",
+        "over",
+        "there",
+        "next",
+        "to",
+        "the",
+        "bank"
+      ],
+      "answers": [
+        "The museum is over there next to the bank"
+      ],
+      "why": "Over there goes after the verb be, then the place.",
+      "why_it": "Over there va dopo il verbo be, poi il luogo."
+    },
+    {
+      "type": "fill",
+      "q": "We arrived on Monday. We have been here ___ Monday. (for / since)",
+      "q_it": "Siamo arrivati lunedì. Siamo qui da lunedì.",
+      "answers": [
+        "since"
+      ],
+      "hint": "starting point",
+      "why": "Monday is a starting point: since.",
+      "why_it": "Monday è un punto di partenza: since."
+    },
+    {
+      "type": "fill",
+      "q": "I'm tired because I ___ all day. (walk)",
+      "q_it": "Sono stanco perché ho camminato tutto il giorno.",
+      "answers": [
+        "have been walking",
+        "'ve been walking",
+        "ve been walking"
+      ],
+      "hint": "present perfect continuous",
+      "why": "Activity that lasted until now with a visible result: have been walking.",
+      "why_it": "Attività durata fino a ora con risultato visibile: have been walking."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence has a mistake?",
+      "q_it": "Quale frase contiene un errore?",
+      "options": [
+        "I have been to Paris twice.",
+        "I went there last summer.",
+        "I have never been there in winter.",
+        "I have seen the Eiffel Tower yesterday."
+      ],
+      "answer": 3,
+      "why": "Yesterday is a finished time, so you need the past simple: I saw the Eiffel Tower yesterday.",
+      "why_it": "Yesterday è un tempo finito, serve il past simple: I saw the Eiffel Tower yesterday."
+    },
+    {
+      "type": "mcq",
+      "q": "Choose the best sentence: 'The tickets cost a lot and I can't buy them.'",
+      "q_it": "Scegli la frase migliore.",
+      "options": [
+        "The tickets are too expensive.",
+        "The tickets are too much expensive.",
+        "The tickets are too many expensive.",
+        "The tickets are very much expensive."
+      ],
+      "answer": 0,
+      "why": "Too before an adjective, without much or many.",
+      "why_it": "Too davanti a un aggettivo, senza much né many."
+    },
+    {
+      "type": "explain",
+      "title": "Your writing task",
+      "title_it": "Il tuo compito di scrittura",
+      "en": [
+        "Write an email to a friend from a holiday (real or imaginary) in eight to ten sentences. Include: a greeting, one present perfect with already, never or ever, two past simple sentences about one day, one going to, one would like to, one quantifier (too much, too many, a little, a few or no) and here, there or over there once.",
+        "Write on paper or in your notes app. This app does not correct your text, so read it again with the checklist and check each sentence.",
+        "If you want, share your email with a friend from the class and compare."
+      ],
+      "it": [
+        "Scrivi un'email a un amico da una vacanza (vera o immaginaria) in otto dieci frasi. Includi: un saluto, un present perfect con already, never o ever, due frasi al past simple su una giornata, un going to, un would like to, un quantificatore (too much, too many, a little, a few o no) e here, there o over there una volta.",
+        "Scrivi su carta o nell'app note. L'app non corregge il testo, quindi rileggilo con la checklist e controlla ogni frase.",
+        "Se vuoi, condividi l'email con un compagno del corso e confrontatela."
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "Greetings from...",
+      "it": "Saluti da...",
+      "ex": "Greetings from Lisbon!"
+    },
+    {
+      "id": "c2",
+      "en": "so far",
+      "it": "finora",
+      "ex": "I have seen three museums so far."
+    },
+    {
+      "id": "c3",
+      "en": "sightseeing",
+      "it": "giro turistico",
+      "ex": "We spent the day sightseeing."
+    },
+    {
+      "id": "c4",
+      "en": "souvenir",
+      "it": "souvenir",
+      "ex": "I bought a small souvenir."
+    },
+    {
+      "id": "c5",
+      "en": "crowded",
+      "it": "affollato",
+      "ex": "The beach is too crowded."
+    },
+    {
+      "id": "c6",
+      "en": "queue",
+      "it": "coda",
+      "ex": "There is a long queue at the castle."
+    },
+    {
+      "id": "c7",
+      "en": "Wish you were here!",
+      "it": "Vorrei che fossi qui!",
+      "ex": "The sea is lovely. Wish you were here!"
+    },
+    {
+      "id": "c8",
+      "en": "too many",
+      "it": "troppi",
+      "ex": "There are too many tourists."
+    },
+    {
+      "id": "c9",
+      "en": "a few",
+      "it": "alcuni, pochi",
+      "ex": "We met a few nice people."
+    },
+    {
+      "id": "c10",
+      "en": "over there",
+      "it": "laggiù",
+      "ex": "The hotel is over there."
+    }
+  ]
+}
