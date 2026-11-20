@@ -1,0 +1,710 @@
+{
+  "title": "Weekly check: test 1 (grammar)",
+  "title_it": "Verifica della settimana: test 1 (grammatica)",
+  "goal": "Check everything since 2 November: 30 grammar questions with many tense choices, 8 typical mistakes and 7 reading questions. 45 points.",
+  "goal_it": "Verificare tutto dal 2 novembre: 30 domande di grammatica con molte scelte del tempo, 8 errori tipici e 7 domande di comprensione. 45 punti.",
+  "minutes": 50,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Weekly check: test 1",
+      "title_it": "Verifica della settimana: test 1",
+      "en": [
+        "Well done for all your work since 2 November! This is test 1 of 2: 45 questions, 1 point each. Part A: 30 grammar questions (more than half are about choosing the right tense). Part B: 8 questions where you find the correct sentence (typical mistakes). Part C: 7 questions on two short texts.",
+        "Tomorrow you will do test 2 (vocabulary and phrasal verbs). Work alone, do not use your notes, and read each explanation after your answer. Mistakes are useful: they show what to revise."
+      ],
+      "it": [
+        "Bravi per il lavoro fatto dal 2 novembre! Questo è il test 1 di 2: 45 domande, 1 punto ciascuna. Parte A: 30 domande di grammatica (più della metà sulla scelta del tempo giusto). Parte B: 8 domande in cui si trova la frase corretta (errori tipici). Parte C: 7 domande su due brevi testi.",
+        "Domani farete il test 2 (vocabolario e phrasal verbs). Lavorate da soli, senza appunti, e leggete ogni spiegazione dopo la risposta. Gli errori sono utili: mostrano cosa ripassare."
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "Look! It ___ outside, so take an umbrella.",
+      "q_it": "Guarda! Fuori sta piovendo, quindi prendi un ombrello.",
+      "options": [
+        "rains",
+        "is raining",
+        "rained",
+        "has rained"
+      ],
+      "answer": 1,
+      "why": "Look! means the action is happening now, in front of us: present continuous. Present simple (rains) is for habits and facts, past simple (rained) is finished, present perfect (has rained) links the past to now but is not 'happening now'.",
+      "why_it": "Look! indica un'azione che succede adesso: present continuous. Il present simple (rains) è per abitudini e fatti, il past simple (rained) è finito, il present perfect (has rained) collega passato e presente ma non dice 'sta succedendo ora'."
+    },
+    {
+      "type": "fill",
+      "q": "Anna usually ___ to work, but today she is taking the bus.",
+      "q_it": "Anna di solito va al lavoro a piedi, ma oggi prende l'autobus.",
+      "answers": [
+        "walks"
+      ],
+      "hint": "walk",
+      "why": "Usually shows a habit: present simple (she walks). Today she is taking the bus is the exception happening now: present continuous. We do not use the continuous with usually.",
+      "why_it": "Usually indica un'abitudine: present simple (she walks). Today she is taking the bus è l'eccezione di oggi: present continuous. Con usually non si usa il continuous."
+    },
+    {
+      "type": "mcq",
+      "q": "When I arrived home yesterday, my flatmate ___ dinner.",
+      "q_it": "Quando sono arrivato a casa ieri, il mio coinquilino stava preparando la cena.",
+      "options": [
+        "has cooked",
+        "cooks",
+        "was cooking",
+        "cooked"
+      ],
+      "answer": 2,
+      "why": "Yesterday is a finished time, and the cooking was in progress when I arrived: past continuous (was cooking) for the long action, past simple (arrived) for the short one. Cooked would mean he finished before, and has cooked cannot go with yesterday.",
+      "why_it": "Yesterday è un momento finito e la cena era in preparazione quando sono arrivato: past continuous (was cooking) per l'azione lunga, past simple (arrived) per quella breve. Cooked direbbe che aveva già finito, e has cooked non va con yesterday."
+    },
+    {
+      "type": "mcq",
+      "q": "We ___ TV when the lights went out.",
+      "q_it": "Stavamo guardando la TV quando è saltata la luce.",
+      "options": [
+        "watched",
+        "were watching",
+        "have watched",
+        "watch"
+      ],
+      "answer": 1,
+      "why": "The TV watching was in progress and the lights going out interrupted it: past continuous (were watching) + past simple (went out). Watched would not show that it was in progress.",
+      "why_it": "Guardare la TV era un'azione in corso interrotta dalla luce che salta: past continuous (were watching) + past simple (went out). Watched non mostrerebbe che era in corso."
+    },
+    {
+      "type": "fill",
+      "q": "I ___ Tom since last summer. (not / see)",
+      "q_it": "Non vedo Tom dall'estate scorsa.",
+      "answers": [
+        "haven't seen",
+        "have not seen"
+      ],
+      "hint": "not see",
+      "why": "Since last summer starts a period that continues until now: present perfect (have not seen). The past simple would only say that it happened in the past, without the link to now.",
+      "why_it": "Since last summer indica un periodo che arriva fino a oggi: present perfect (have not seen). Il past simple direbbe solo che è successo nel passato, senza il collegamento con il presente."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "Did you ever go to Scotland?",
+        "Have you ever been to Scotland?",
+        "Are you ever in Scotland?",
+        "Were you ever to Scotland?"
+      ],
+      "answer": 1,
+      "why": "Ever asks about experiences up to now, in your whole life: present perfect (have you ever been to...). Did you ever go is possible only about a finished time, and the other two are wrong forms.",
+      "why_it": "Ever chiede delle esperienze fino a oggi, in tutta la vita: present perfect (have you ever been to...). Did you ever go è possibile solo per un tempo finito, e le altre due sono forme sbagliate."
+    },
+    {
+      "type": "fill",
+      "q": "My cousin ___ in Milan for six years. (live)",
+      "q_it": "Mio cugino vive a Milano da sei anni.",
+      "answers": [
+        "has lived",
+        "has been living"
+      ],
+      "hint": "live",
+      "why": "For six years = a period that started in the past and continues now: present perfect (has lived), or present perfect continuous (has been living). Present simple (lives) is a mistake with for: in English we need a perfect tense.",
+      "why_it": "For six years = un periodo iniziato nel passato che continua ora: present perfect (has lived) o present perfect continuous (has been living). Il present simple (lives) con for è un errore: in inglese serve un tempo perfect."
+    },
+    {
+      "type": "mcq",
+      "q": "I'm tired because I ___ all morning.",
+      "q_it": "Sono stanco perché ho pulito tutta la mattina.",
+      "options": [
+        "cleaned",
+        "was cleaning",
+        "have been cleaning",
+        "clean"
+      ],
+      "answer": 2,
+      "why": "All morning is an activity that lasted until now, and I am tired now (visible result): present perfect continuous (have been cleaning). Was cleaning would put it in the past without a link to now.",
+      "why_it": "All morning è un'attività durata fino a ora e adesso sono stanco (risultato visibile): present perfect continuous (have been cleaning). Was cleaning la lascerebbe nel passato, senza legame con l'adesso."
+    },
+    {
+      "type": "fill",
+      "q": "How long ___ here? (you / wait)",
+      "q_it": "Da quanto tempo aspetti qui?",
+      "answers": [
+        "have you been waiting",
+        "have you waited"
+      ],
+      "hint": "you / wait",
+      "why": "How long ... ? asks about a duration up to now: present perfect continuous (have you been waiting), or present perfect simple (have you waited). Did you wait would ask about a finished period.",
+      "why_it": "How long ... ? chiede una durata fino a ora: present perfect continuous (have you been waiting) o present perfect simple (have you waited). Did you wait chiederebbe di un periodo finito."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "I have seen him yesterday.",
+        "I was seeing him yesterday.",
+        "I see him yesterday.",
+        "I saw him yesterday."
+      ],
+      "answer": 3,
+      "why": "Yesterday is a finished time: past simple (saw). We never use the present perfect with yesterday, last night or other finished times. Was seeing and see do not fit either.",
+      "why_it": "Yesterday è un momento finito: past simple (saw). Il present perfect non si usa mai con yesterday, last night e altri tempi finiti. Anche was seeing e see non vanno bene."
+    },
+    {
+      "type": "fill",
+      "q": "Last weekend we ___ to the seaside. (go)",
+      "q_it": "Lo scorso weekend siamo andati al mare.",
+      "answers": [
+        "went"
+      ],
+      "hint": "go",
+      "why": "Last weekend is a finished time: past simple (went). Have gone and were going do not fit a finished action with a time word.",
+      "why_it": "Last weekend è un momento finito: past simple (went). Have gone e were going non vanno con un'azione finita con un'espressione di tempo."
+    },
+    {
+      "type": "mcq",
+      "q": "Don't worry about the dishes: I ___ them already.",
+      "q_it": "Non preoccuparti dei piatti: li ho già lavati.",
+      "options": [
+        "washed",
+        "was washing",
+        "wash",
+        "have washed"
+      ],
+      "answer": 3,
+      "why": "Already links the action to the present (the dishes are clean now): present perfect (have washed). Past simple (washed) would be used with a finished time like this morning.",
+      "why_it": "Already collega l'azione al presente (i piatti sono puliti adesso): present perfect (have washed). Il past simple (washed) si usa con un tempo finito come this morning."
+    },
+    {
+      "type": "order",
+      "q": "Build the question.",
+      "q_it": "Costruisci la domanda: ha già chiamato?",
+      "words": [
+        "Has",
+        "she",
+        "called",
+        "you",
+        "yet"
+      ],
+      "answers": [
+        "Has she called you yet"
+      ],
+      "why": "Yet in a question about something that may have happened by now: present perfect (has she called). It is not a finished time, so the past simple (did she call) is not the best choice here.",
+      "why_it": "Yet in una domanda su qualcosa che può essere successo fino a ora: present perfect (has she called). Non è un tempo finito, quindi il past simple (did she call) non è la scelta migliore."
+    },
+    {
+      "type": "fill",
+      "q": "Last Friday I ___ to the station when it started to rain. (walk)",
+      "q_it": "Venerdì scorso stavo camminando verso la stazione quando ha iniziato a piovere.",
+      "answers": [
+        "was walking"
+      ],
+      "hint": "walk",
+      "why": "Mini story, part 1. The walking was in progress and the rain interrupted it: past continuous (was walking). Walked would not show that the action was in progress.",
+      "why_it": "Mini storia, parte 1. Camminare era in corso e la pioggia lo ha interrotto: past continuous (was walking). Walked non mostrerebbe che l'azione era in corso."
+    },
+    {
+      "type": "fill",
+      "q": "I ___ an umbrella, so I ran into a café. (not / have)",
+      "q_it": "Non avevo un ombrello, così sono corso in un bar.",
+      "answers": [
+        "didn't have",
+        "did not have"
+      ],
+      "hint": "not have",
+      "why": "Mini story, part 2. It is a finished moment in the story (last Friday): past simple negative (did not have). Not 'was not having': have for possession is a state verb.",
+      "why_it": "Mini storia, parte 2. È un momento finito della storia (venerdì scorso): past simple negativo (did not have). Non 'was not having': have per il possesso è un verbo di stato."
+    },
+    {
+      "type": "fill",
+      "q": "Now I ___ here for an hour and it is still raining. (be)",
+      "q_it": "Ora sono qui da un'ora e sta ancora piovendo.",
+      "answers": [
+        "have been",
+        "'ve been"
+      ],
+      "hint": "be",
+      "why": "Mini story, part 3. For an hour + now: a period that started in the past and continues: present perfect (have been). Was would be a finished time, and am is wrong with for.",
+      "why_it": "Mini storia, parte 3. For an hour + adesso: un periodo iniziato nel passato che continua: present perfect (have been). Was sarebbe un tempo finito, e am con for è sbagliato."
+    },
+    {
+      "type": "mcq",
+      "q": "It's the first time I ___ sushi.",
+      "q_it": "È la prima volta che mangio sushi.",
+      "options": [
+        "have eaten",
+        "ate",
+        "was eating",
+        "eat"
+      ],
+      "answer": 0,
+      "why": "It's the first time + present perfect: an experience up to now. The past simple (ate) is not used after this structure.",
+      "why_it": "It's the first time + present perfect: un'esperienza fino a oggi. Il past simple (ate) non si usa dopo questa struttura."
+    },
+    {
+      "type": "mcq",
+      "q": "We have a meeting ___ Monday morning.",
+      "q_it": "Abbiamo una riunione lunedì mattina.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 1,
+      "why": "We use on with days (on Monday, on Friday morning). In is for months, years and parts of the day, at is for clock times.",
+      "why_it": "Si usa on con i giorni (on Monday, on Friday morning). In è per mesi, anni e parti del giorno, at per le ore."
+    },
+    {
+      "type": "fill",
+      "q": "The lamp is ___ the sofa and the window. (in the middle of the two)",
+      "q_it": "La lampada è tra il divano e la finestra.",
+      "answers": [
+        "between"
+      ],
+      "hint": "between",
+      "why": "Between is used for two things, one on each side of the object.",
+      "why_it": "Between si usa per due cose, una per lato rispetto all'oggetto."
+    },
+    {
+      "type": "fill",
+      "q": "___ bag is this? It's Maria's.",
+      "q_it": "Di chi è questa borsa? È di Maria.",
+      "answers": [
+        "Whose",
+        "whose"
+      ],
+      "hint": "who + possession",
+      "why": "Whose asks about possession (whose bag = the bag of which person).",
+      "why_it": "Whose chiede il possesso (whose bag = la borsa di chi)."
+    },
+    {
+      "type": "mcq",
+      "q": "___ shoes over there are mine.",
+      "q_it": "Quelle scarpe laggiù sono mie.",
+      "options": [
+        "This",
+        "These",
+        "That",
+        "Those"
+      ],
+      "answer": 3,
+      "why": "Over there = far away, and shoes is plural: those. This and that are singular, these is plural but near.",
+      "why_it": "Over there = lontano, e shoes è plurale: those. This e that sono singolari, these è plurale ma vicino."
+    },
+    {
+      "type": "mcq",
+      "q": "We haven't got ___ milk. I'll go to the shop.",
+      "q_it": "Non abbiamo latte. Vado al negozio.",
+      "options": [
+        "some",
+        "any",
+        "no",
+        "a few"
+      ],
+      "answer": 1,
+      "why": "Negative sentence with uncountable milk: any. Some is for positive sentences, no would make a double negation with haven't, a few is for countable nouns.",
+      "why_it": "Frase negativa con milk (uncountable): any. Some è per le frasi positive, no con haven't darebbe una doppia negazione, a few è per i numerabili."
+    },
+    {
+      "type": "fill",
+      "q": "There are too ___ people on the bus.",
+      "q_it": "Ci sono troppe persone sull'autobus.",
+      "answers": [
+        "many"
+      ],
+      "hint": "much / many",
+      "why": "People is countable plural: too many. Too much is for uncountable nouns.",
+      "why_it": "People è plurale numerabile: too many. Too much è per i nomi non numerabili."
+    },
+    {
+      "type": "mcq",
+      "q": "Can I have ___ sugar in my tea, please? Just a bit.",
+      "q_it": "Posso avere un po' di zucchero nel tè? Solo un po'.",
+      "options": [
+        "a few",
+        "many",
+        "a little",
+        "a lot"
+      ],
+      "answer": 2,
+      "why": "Sugar is uncountable and the meaning is a small quantity: a little. A few is for countable nouns, many is not used in positive sentences like this, a lot is the opposite of 'just a bit'.",
+      "why_it": "Sugar è uncountable e il senso è una piccola quantità: a little. A few è per i numerabili, many non si usa così, a lot è il contrario di 'solo un po''."
+    },
+    {
+      "type": "fill",
+      "q": "My brother is very kind. I really like ___.",
+      "q_it": "Mio fratello è molto gentile. Mi piace molto.",
+      "answers": [
+        "him"
+      ],
+      "hint": "he",
+      "why": "After a verb we use the object pronoun: him (not he).",
+      "why_it": "Dopo un verbo si usa il pronome complemento: him (non he)."
+    },
+    {
+      "type": "fill",
+      "q": "This isn't my phone. Is it ___? (you)",
+      "q_it": "Questo non è il mio telefono. È il tuo?",
+      "answers": [
+        "yours"
+      ],
+      "hint": "you",
+      "why": "The possessive pronoun replaces the noun (phone): yours, without an article and without a noun after it.",
+      "why_it": "Il pronome possessivo sostituisce il nome (phone): yours, senza articolo e senza nome dopo."
+    },
+    {
+      "type": "mcq",
+      "q": "Whose bike is that? It's my ___ bike.",
+      "q_it": "Di chi è quella bici? È la bici di mia sorella.",
+      "options": [
+        "sisters",
+        "sisters'",
+        "sister",
+        "sister's"
+      ],
+      "answer": 3,
+      "why": "One sister, so 's: my sister's bike. Sisters' would mean more than one sister, and sister alone shows no possession.",
+      "why_it": "Una sola sorella, quindi 's: my sister's bike. Sisters' indicherebbe più sorelle, e sister da solo non indica il possesso."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "She doesn't know nothing.",
+        "She not knows anything.",
+        "She doesn't know anything.",
+        "She knows nothing anything."
+      ],
+      "answer": 2,
+      "why": "English uses only one negative word: doesn't know anything (or knows nothing). Doesn't know nothing is a double negation.",
+      "why_it": "L'inglese usa una sola parola negativa: doesn't know anything (oppure knows nothing). Doesn't know nothing è una doppia negazione."
+    },
+    {
+      "type": "mcq",
+      "q": "The phone is ringing. I ___ answer it!",
+      "q_it": "Il telefono squilla. Rispondo io!",
+      "options": [
+        "am going to",
+        "will",
+        "would like to",
+        "have been"
+      ],
+      "answer": 1,
+      "why": "A decision made at this moment, on the spot: will. Going to is for a plan made before, would like to expresses a wish.",
+      "why_it": "Una decisione presa in questo momento, sul momento: will. Going to è per un piano fatto prima, would like to esprime un desiderio."
+    },
+    {
+      "type": "fill",
+      "q": "I love ___ for my friends. (cook)",
+      "q_it": "Amo cucinare per i miei amici.",
+      "answers": [
+        "cooking"
+      ],
+      "hint": "cook",
+      "why": "After love, like, hate and enjoy we use the -ing form: cooking.",
+      "why_it": "Dopo love, like, hate ed enjoy si usa la forma in -ing: cooking."
+    },
+    {
+      "type": "explain",
+      "title": "Part B: find the correct sentence",
+      "title_it": "Parte B: trova la frase corretta",
+      "en": [
+        "Now you will see typical mistakes. Choose the sentence without the mistake, or build the correct sentence."
+      ],
+      "it": [
+        "Ora vedrete errori tipici. Scegliete la frase senza errore o costruite la frase corretta."
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "Mistake: 'She didn't went to school yesterday.' Which sentence is correct?",
+      "q_it": "Errore: 'She didn't went to school yesterday.' Quale frase è corretta?",
+      "options": [
+        "She didn't go to school yesterday.",
+        "She not went to school yesterday.",
+        "She didn't gone to school yesterday.",
+        "She doesn't went to school yesterday."
+      ],
+      "answer": 0,
+      "why": "After did / didn't the verb goes in the base form: didn't go. The past is already in did.",
+      "why_it": "Dopo did / didn't il verbo va alla forma base: didn't go. Il passato è già in did."
+    },
+    {
+      "type": "mcq",
+      "q": "Mistake: 'I have seen that film yesterday.' Which sentence is correct?",
+      "q_it": "Errore: 'I have seen that film yesterday.' Quale frase è corretta?",
+      "options": [
+        "I have saw that film yesterday.",
+        "I saw that film yesterday.",
+        "I was seeing that film yesterday.",
+        "I seen that film yesterday."
+      ],
+      "answer": 1,
+      "why": "Yesterday is finished: past simple (saw). We do not use the present perfect with yesterday.",
+      "why_it": "Yesterday è finito: past simple (saw). Il present perfect non si usa con yesterday."
+    },
+    {
+      "type": "mcq",
+      "q": "Mistake: 'I don't know nothing about it.' Which sentence is correct?",
+      "q_it": "Errore: 'I don't know nothing about it.' Quale frase è corretta?",
+      "options": [
+        "I not know anything about it.",
+        "I don't know something about it.",
+        "I don't know anything about it.",
+        "I know don't anything about it."
+      ],
+      "answer": 2,
+      "why": "With don't we use anything, not nothing: only one negation in the sentence.",
+      "why_it": "Con don't si usa anything, non nothing: una sola negazione nella frase."
+    },
+    {
+      "type": "mcq",
+      "q": "Mistake: 'This soup is too delicious. I'd like some more!' Which sentence says what the speaker means?",
+      "q_it": "Errore: 'This soup is too delicious...' Quale frase dice quello che il parlante vuole dire?",
+      "options": [
+        "This soup is very delicious. I'd like some more!",
+        "This soup is too much delicious. I'd like some more!",
+        "This soup is much delicious. I'd like some more!",
+        "This soup it is too delicious. I'd like some more!"
+      ],
+      "answer": 0,
+      "why": "Too means more than we want (a problem). To say that something is really good, we use very. Too delicious would sound like a complaint.",
+      "why_it": "Too significa più di quanto vogliamo (un problema). Per dire che una cosa è davvero buona si usa very. Too delicious suonerebbe come una lamentela."
+    },
+    {
+      "type": "mcq",
+      "q": "Mistake: 'How much people came to the party?' Which question is correct?",
+      "q_it": "Errore: 'How much people came to the party?' Quale domanda è corretta?",
+      "options": [
+        "How much people did come to the party?",
+        "How many people were came to the party?",
+        "How many people came to the party?",
+        "How much people comes to the party?"
+      ],
+      "answer": 2,
+      "why": "People is countable (plural): how many. Past simple question with the subject as the question word: how many people came (no did).",
+      "why_it": "People è numerabile (plurale): how many. Domanda al past simple con il soggetto come parola interrogativa: how many people came (senza did)."
+    },
+    {
+      "type": "order",
+      "q": "Mistake: 'How long time have you lived here?' Build the correct question.",
+      "q_it": "Errore: 'How long time have you lived here?' Costruisci la domanda corretta.",
+      "words": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "lived",
+        "here"
+      ],
+      "answers": [
+        "How long have you lived here"
+      ],
+      "why": "How long is enough: we do not add time. The present perfect (have you lived) is right for a period up to now.",
+      "why_it": "How long basta: non si aggiunge time. Il present perfect (have you lived) è giusto per un periodo fino a ora."
+    },
+    {
+      "type": "mcq",
+      "q": "Mistake: 'I live here since two years.' Which sentence is correct?",
+      "q_it": "Errore: 'I live here since two years.' Quale frase è corretta?",
+      "options": [
+        "I am living here since two years.",
+        "I live here for two years.",
+        "I have lived here for two years.",
+        "I have lived here since two years."
+      ],
+      "answer": 2,
+      "why": "A period up to now needs the present perfect, and two years is a length of time: for (since is for the starting point, for example since 2024).",
+      "why_it": "Un periodo fino a ora vuole il present perfect, e two years è una durata: for (since è per il momento di inizio, per esempio since 2024)."
+    },
+    {
+      "type": "mcq",
+      "q": "Mistake: 'I am agree with you.' Which sentence is correct?",
+      "q_it": "Errore: 'I am agree with you.' Quale frase è corretta?",
+      "options": [
+        "I am agreeing with you.",
+        "I agree with you.",
+        "I am agree to you.",
+        "I do agree to you."
+      ],
+      "answer": 1,
+      "why": "Agree is a verb on its own: I agree with you. We do not use am / is / are before it (as we do not say 'I am think').",
+      "why_it": "Agree è un verbo a sé: I agree with you. Non si usa am / is / are davanti (come non si dice 'I am think')."
+    },
+    {
+      "type": "explain",
+      "title": "Part C: text 1",
+      "title_it": "Parte C: testo 1",
+      "en": [
+        "Read Priya's email, then answer four questions.",
+        "Hi Jess, It has been a busy fortnight! I moved into my new flat on the first of the month, and I still haven't unpacked everything. The flat is on the second floor, above a bakery, so I wake up every morning to the smell of fresh bread. The only problem is the noise: the bakers start work at four, and I was lying awake at that time all last week. Luckily my neighbour, Mr Hall, lent me a pair of earplugs and I have slept much better since then. I'm going to buy curtains at the weekend, unless it rains. Come and visit soon! There are two trains from London every hour, and the journey takes about two hours. Love, Priya"
+      ],
+      "it": [
+        "Leggete l'email di Priya, poi rispondete a quattro domande.",
+        "Ciao Jess, sono state due settimane intense! Mi sono trasferita nel mio nuovo appartamento il primo del mese e non ho ancora disfatto tutto. L'appartamento è al secondo piano, sopra una panetteria, quindi ogni mattina mi sveglio con il profumo del pane fresco. L'unico problema è il rumore: i panettieri iniziano a lavorare alle quattro e la settimana scorsa a quell'ora ero sveglia. Per fortuna il mio vicino, il signor Hall, mi ha prestato dei tappi per le orecchie e da allora dormo molto meglio. Comprerò le tende nel weekend, a meno che non piova. Vieni a trovarmi presto! Ci sono due treni all'ora da Londra e il viaggio dura circa due ore. Un abbraccio, Priya"
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "Why was Priya awake at four o'clock last week?",
+      "q_it": "Perché Priya era sveglia alle quattro la settimana scorsa?",
+      "options": [
+        "She was unpacking her boxes.",
+        "Mr Hall was making noise upstairs.",
+        "The bakers started work below her flat.",
+        "She was worried about a new job."
+      ],
+      "answer": 2,
+      "why": "The text says the bakers start work at four and that the flat is above the bakery. Unpacking and Mr Hall are not given as reasons (Mr Hall actually helped her), and a new job is never mentioned.",
+      "why_it": "Il testo dice che i panettieri iniziano alle quattro e che l'appartamento è sopra la panetteria. Disfare gli scatoloni e il signor Hall non sono motivi indicati (anzi, il signor Hall l'ha aiutata) e un nuovo lavoro non è mai citato."
+    },
+    {
+      "type": "mcq",
+      "q": "Which of these things has Priya NOT done yet?",
+      "q_it": "Quale di queste cose Priya NON ha ancora fatto?",
+      "options": [
+        "Moved into her new flat.",
+        "Put curtains in her windows.",
+        "Spoken with a neighbour.",
+        "Found a way to sleep better."
+      ],
+      "answer": 1,
+      "why": "She is going to buy curtains at the weekend: it is still a plan. She has moved (first of the month), she has talked with Mr Hall, and the earplugs help her sleep better.",
+      "why_it": "Comprerà le tende nel weekend: è ancora un progetto. Si è trasferita (il primo del mese), ha parlato con il signor Hall e i tappi per le orecchie la aiutano a dormire meglio."
+    },
+    {
+      "type": "mcq",
+      "q": "What can we conclude about Mr Hall?",
+      "q_it": "Cosa possiamo concludere sul signor Hall?",
+      "options": [
+        "He works at the bakery.",
+        "He often makes noise at night.",
+        "He plans to move out soon.",
+        "He is a helpful neighbour."
+      ],
+      "answer": 3,
+      "why": "He lent Priya earplugs, so he helped her in a practical way. Nothing in the text says that he works at the bakery, that he is noisy or that he is leaving.",
+      "why_it": "Ha prestato dei tappi a Priya, quindi l'ha aiutata in modo pratico. Nel testo non c'è nulla su un suo lavoro in panetteria, sul rumore che fa o su un trasloco."
+    },
+    {
+      "type": "mcq",
+      "q": "How can Jess get to Priya from London?",
+      "q_it": "Come può Jess raggiungere Priya da Londra?",
+      "options": [
+        "About two hours, with a train every half an hour.",
+        "About two hours, with a train every two hours.",
+        "About one hour, with two trains every hour.",
+        "About half an hour, with a train every hour."
+      ],
+      "answer": 0,
+      "why": "Two trains every hour means one train every thirty minutes, and the journey takes about two hours. The other options mix the numbers.",
+      "why_it": "Due treni all'ora significa un treno ogni trenta minuti, e il viaggio dura circa due ore. Le altre opzioni mescolano i numeri."
+    },
+    {
+      "type": "explain",
+      "title": "Part C: text 2",
+      "title_it": "Parte C: testo 2",
+      "en": [
+        "Read Tom's blog post, then answer three questions.",
+        "I have been running for three years, but I have never run a full marathon. Last Sunday I took part in a half marathon in Leeds. It was raining heavily when we started, and I was wearing the wrong shoes, so my feet were soaked after ten minutes. Many runners gave up at the halfway point. I was very slow in the first kilometres, but I didn't stop, and I finished in two hours and ten minutes. My sister was waiting at the finish line and said she was proud of me. Now I am going to rest for a week, and then I'd like to try a full marathon next year."
+      ],
+      "it": [
+        "Leggete il post di Tom, poi rispondete a tre domande.",
+        "Corro da tre anni, ma non ho mai corso una maratona completa. Domenica scorsa ho partecipato a una mezza maratona a Leeds. Pioveva forte quando siamo partiti e portavo le scarpe sbagliate, quindi dopo dieci minuti avevo i piedi fradici. Molti corridori si sono ritirati a metà percorso. Sono stato molto lento nei primi chilometri, ma non mi sono fermato e ho finito in due ore e dieci minuti. Mia sorella mi aspettava al traguardo e ha detto di essere orgogliosa di me. Ora mi riposerò una settimana e poi mi piacerebbe provare una maratona completa l'anno prossimo."
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "What do we learn about Tom as a runner?",
+      "q_it": "Cosa impariamo di Tom come corridore?",
+      "options": [
+        "He has finished many marathons.",
+        "He has only run in the rain.",
+        "He has not yet run a full marathon.",
+        "He started running last year."
+      ],
+      "answer": 2,
+      "why": "He says: I have been running for three years, but I have never run a full marathon. The other options contradict the text or are not stated.",
+      "why_it": "Dice: corro da tre anni ma non ho mai corso una maratona completa. Le altre opzioni contraddicono il testo o non sono dette."
+    },
+    {
+      "type": "mcq",
+      "q": "Which statement is NOT true?",
+      "q_it": "Quale affermazione NON è vera?",
+      "options": [
+        "Tom finished in two hours and ten minutes.",
+        "Some runners stopped before the end.",
+        "Tom's sister watched him finish.",
+        "Tom was fast in the first kilometres."
+      ],
+      "answer": 3,
+      "why": "Tom says he was very slow in the first kilometres. The other three are in the text: the time, many runners gave up, and his sister was at the finish line.",
+      "why_it": "Tom dice di essere stato molto lento nei primi chilometri. Le altre tre sono nel testo: il tempo, molti corridori si sono ritirati e la sorella era al traguardo."
+    },
+    {
+      "type": "mcq",
+      "q": "What does Tom say about his plans?",
+      "q_it": "Cosa dice Tom dei suoi progetti?",
+      "options": [
+        "He will run a marathon next week after resting.",
+        "He will rest for a week and hopes to run a marathon later.",
+        "He will rest for a year and then run a marathon.",
+        "He will run another half marathon next year."
+      ],
+      "answer": 1,
+      "why": "He is going to rest for a week (plan), and would like to try a full marathon next year (a wish, not a certain plan). The other options change the times or the race.",
+      "why_it": "Si riposerà una settimana (progetto) e vorrebbe provare una maratona completa l'anno prossimo (un desiderio, non un piano certo). Le altre opzioni cambiano i tempi o la gara."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "Yesterday / last night: past simple",
+      "it": "Yesterday / last night: past simple",
+      "ex": "I saw him yesterday."
+    },
+    {
+      "id": "c2",
+      "en": "While / when + action in progress: past continuous",
+      "it": "While / when + azione in corso: past continuous",
+      "ex": "We were watching TV when the lights went out."
+    },
+    {
+      "id": "c3",
+      "en": "Ever, never, yet, already, just: present perfect",
+      "it": "Ever, never, yet, already, just: present perfect",
+      "ex": "Have you ever been to Scotland?"
+    },
+    {
+      "id": "c4",
+      "en": "For + length, since + starting point",
+      "it": "For + durata, since + momento di inizio",
+      "ex": "I have lived here for two years."
+    },
+    {
+      "id": "c5",
+      "en": "How long ... ? : present perfect",
+      "it": "How long ... ? : present perfect",
+      "ex": "How long have you been waiting?"
+    },
+    {
+      "id": "c6",
+      "en": "Only one negative word in English",
+      "it": "In inglese una sola parola negativa",
+      "ex": "I don't know anything."
+    },
+    {
+      "id": "c7",
+      "en": "too many (countable) / too much (uncountable)",
+      "it": "too many (numerabili) / too much (non numerabili)",
+      "ex": "There are too many people."
+    },
+    {
+      "id": "c8",
+      "en": "will for decisions, going to for plans",
+      "it": "will per le decisioni, going to per i piani",
+      "ex": "I'll answer it! / I'm going to rest."
+    }
+  ]
+}

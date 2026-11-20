@@ -271,6 +271,11 @@
           "label": "Writing: a holiday email",
           "label_it": "Scrittura: email di una vacanza",
           "date": "2026-11-20"
+        },
+        {
+          "label": "Weekly check: test 1",
+          "label_it": "Verifica: test 1",
+          "date": "2026-11-21"
         }
       ]
     },

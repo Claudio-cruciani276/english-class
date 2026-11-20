@@ -171,6 +171,15 @@
     "exercises": 26
   },
   {
+    "id": "2026-11-21",
+    "title": "Weekly check: test 1 (grammar)",
+    "title_it": "Verifica della settimana: test 1 (grammatica)",
+    "goal": "Check everything since 2 November: 30 grammar questions with many tense choices, 8 typical mistakes and 7 reading questions. 45 points.",
+    "goal_it": "Verificare tutto dal 2 novembre: 30 domande di grammatica con molte scelte del tempo, 8 errori tipici e 7 domande di comprensione. 45 punti.",
+    "minutes": 50,
+    "exercises": 45
+  },
+  {
     "id": "phrasal-2026-11-09",
     "kind": "phrasal",
     "week": "2026-11-09",
