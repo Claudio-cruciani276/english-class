@@ -1,0 +1,699 @@
+{
+  "title": "Weekly check: test 2 (vocabulary and phrasal verbs)",
+  "title_it": "Verifica della settimana: test 2 (vocabolario e phrasal verbs)",
+  "goal": "Check the words and phrases of the last three weeks and the phrasal verbs of 9 and 16 November: 30 vocabulary questions and 15 phrasal verb questions. 45 points.",
+  "goal_it": "Verificare le parole e le frasi delle ultime tre settimane e i phrasal verbs del 9 e del 16 novembre: 30 domande di vocabolario e 15 sui phrasal verbs. 45 punti.",
+  "minutes": 50,
+  "steps": [
+    {
+      "type": "explain",
+      "title": "Weekly check: test 2",
+      "title_it": "Verifica della settimana: test 2",
+      "en": [
+        "Well done for finishing test 1! This is test 2 of 2: 45 questions, 1 point each. Part A: 30 vocabulary questions (words and phrases from the grammar lessons, the readings, the listening and the songs). Part B: 15 questions on the phrasal verbs of the weeks of 9 and 16 November.",
+        "Work alone, do not use your notes, and read each explanation after your answer. Next week is a rest week: use these results to see which words and verbs to look at again."
+      ],
+      "it": [
+        "Bravi per aver finito il test 1! Questo è il test 2 di 2: 45 domande, 1 punto ciascuna. Parte A: 30 domande di vocabolario (parole e frasi delle lezioni di grammatica, dei reading, del listening e delle canzoni). Parte B: 15 domande sui phrasal verbs delle settimane del 9 e del 16 novembre.",
+        "Lavorate da soli, senza appunti, e leggete ogni spiegazione dopo la risposta. La prossima settimana è di pausa: usate questi risultati per capire quali parole e verbi ripassare."
+      ]
+    },
+    {
+      "type": "mcq",
+      "q": "At the airport you show your ___ at the gate before you get on the plane.",
+      "q_it": "All'aeroporto mostri la tua ___ all'uscita prima di salire sull'aereo.",
+      "options": [
+        "boarding card",
+        "prescription",
+        "menu",
+        "railcard"
+      ],
+      "answer": 0,
+      "why": "The boarding card is the document that lets you onto the plane. A prescription is from a doctor, a menu is in a restaurant and a railcard gives discounts on trains.",
+      "why_it": "La boarding card (carta d'imbarco) ti fa salire sull'aereo. Prescription è la ricetta del medico, menu è al ristorante, railcard dà sconti sui treni."
+    },
+    {
+      "type": "fill",
+      "q": "Excuse me, where is the check-in ___? I need to leave my suitcase.",
+      "q_it": "Scusi, dov'è il banco del check-in? Devo lasciare la valigia.",
+      "answers": [
+        "desk"
+      ],
+      "hint": "d _ _ k",
+      "why": "The check-in desk is where you leave your suitcase and get your boarding card.",
+      "why_it": "Il check-in desk è il banco dove lasci la valigia e ricevi la carta d'imbarco."
+    },
+    {
+      "type": "mcq",
+      "q": "The board says our flight is delayed. What does that mean?",
+      "q_it": "Il tabellone dice che il nostro volo è delayed. Cosa significa?",
+      "options": [
+        "It has already left.",
+        "It will leave later than planned.",
+        "It is cheaper than usual.",
+        "It is full."
+      ],
+      "answer": 1,
+      "why": "Delayed means later than planned. The flight has not left yet, and the word says nothing about the price or the number of passengers.",
+      "why_it": "Delayed significa in ritardo rispetto al previsto. Il volo non è ancora partito e la parola non dice nulla su prezzo o numero di passeggeri."
+    },
+    {
+      "type": "mcq",
+      "q": "You need a ___ from the doctor to get this medicine at the pharmacy.",
+      "q_it": "Ti serve una ___ del medico per avere questa medicina in farmacia.",
+      "options": [
+        "reservation",
+        "size",
+        "prescription",
+        "ticket"
+      ],
+      "answer": 2,
+      "why": "A prescription is the paper from the doctor for the pharmacist. A reservation is for a table or a hotel, a size is for clothes, a ticket is for travel or events.",
+      "why_it": "La prescription è la ricetta del medico per il farmacista. Reservation è per tavolo o hotel, size per i vestiti, ticket per viaggi o eventi."
+    },
+    {
+      "type": "fill",
+      "q": "My throat hurts when I swallow. I have a sore ___.",
+      "q_it": "Mi fa male la gola quando deglutisco. Ho mal di gola.",
+      "answers": [
+        "throat"
+      ],
+      "hint": "t _ _ _ _ t",
+      "why": "A sore throat is the usual way to say mal di gola.",
+      "why_it": "Sore throat è il modo normale per dire mal di gola."
+    },
+    {
+      "type": "mcq",
+      "q": "In British English, we ask for 'the ___' when we want to pay in a restaurant.",
+      "q_it": "In inglese britannico chiediamo 'the ___' quando vogliamo pagare al ristorante.",
+      "options": [
+        "tip",
+        "starter",
+        "menu",
+        "bill"
+      ],
+      "answer": 3,
+      "why": "The bill is the paper with the total. The tip is extra money you leave for the waiter, the starter is the first course, the menu is the list of dishes.",
+      "why_it": "The bill è il conto con il totale. The tip è la mancia, the starter è l'antipasto, the menu è la lista dei piatti."
+    },
+    {
+      "type": "mcq",
+      "q": "Walk ___ for two hundred metres, then turn left at the traffic lights.",
+      "q_it": "Cammina dritto per duecento metri, poi gira a sinistra al semaforo.",
+      "options": [
+        "straight on",
+        "opposite",
+        "next to",
+        "behind"
+      ],
+      "answer": 0,
+      "why": "Straight on means without turning. Opposite, next to and behind say where a place is, not how to walk.",
+      "why_it": "Straight on significa dritto, senza girare. Opposite, next to e behind dicono dove si trova un posto, non come camminare."
+    },
+    {
+      "type": "fill",
+      "q": "Is the bank easy to find? Yes, you can't ___ it. It's on the corner.",
+      "q_it": "La banca è facile da trovare? Sì, non puoi non vederla. È all'angolo.",
+      "answers": [
+        "miss"
+      ],
+      "hint": "m _ _ _",
+      "why": "You can't miss it is a fixed phrase for something very easy to find.",
+      "why_it": "You can't miss it è una frase fissa per qualcosa di facilissimo da trovare."
+    },
+    {
+      "type": "mcq",
+      "q": "A ___ ticket takes you to a place and back again.",
+      "q_it": "Un biglietto ___ ti porta in un posto e di nuovo indietro.",
+      "options": [
+        "single",
+        "return",
+        "valid",
+        "flexible"
+      ],
+      "answer": 1,
+      "why": "A return is there and back. A single is one way only. Valid and flexible are adjectives, not types of ticket.",
+      "why_it": "Return è andata e ritorno. Single è solo andata. Valid e flexible sono aggettivi, non tipi di biglietto."
+    },
+    {
+      "type": "fill",
+      "q": "The train to Leeds leaves from ___ four.",
+      "q_it": "Il treno per Leeds parte dal binario quattro.",
+      "answers": [
+        "platform"
+      ],
+      "hint": "p _ _ _ _ _ _ _",
+      "why": "At a station trains leave from a platform (binario).",
+      "why_it": "In stazione i treni partono da un platform (binario)."
+    },
+    {
+      "type": "mcq",
+      "q": "These jeans are too big. Do you have a ___ size?",
+      "q_it": "Questi jeans sono troppo grandi. Avete una taglia ___?",
+      "options": [
+        "small",
+        "smallest",
+        "smaller",
+        "less"
+      ],
+      "answer": 2,
+      "why": "We compare two sizes with the comparative smaller. Small is not a comparison, smallest compares three or more, and less is not used with size like this.",
+      "why_it": "Per confrontare due taglie si usa il comparativo smaller. Small non è un confronto, smallest è per tre o più, less non si usa così con size."
+    },
+    {
+      "type": "fill",
+      "q": "Excuse me, can I ___ this jacket on? Where is the changing room?",
+      "q_it": "Scusi, posso provare questa giacca? Dov'è il camerino?",
+      "answers": [
+        "try"
+      ],
+      "hint": "t _ _",
+      "why": "Try on is the verb for testing clothes in a shop.",
+      "why_it": "Try on è il verbo per provare i vestiti in un negozio."
+    },
+    {
+      "type": "mcq",
+      "q": "Which word is a piece of furniture for books?",
+      "q_it": "Quale parola è un mobile per i libri?",
+      "options": [
+        "wardrobe",
+        "dishwasher",
+        "cupboard",
+        "bookcase"
+      ],
+      "answer": 3,
+      "why": "A bookcase holds books. A wardrobe is for clothes, a dishwasher is a machine and a cupboard is usually for plates and food.",
+      "why_it": "Il bookcase contiene i libri. Il wardrobe è per i vestiti, il dishwasher è un elettrodomestico e il cupboard di solito è per piatti e cibo."
+    },
+    {
+      "type": "mcq",
+      "q": "Our room is on the third ___, so we take the lift.",
+      "q_it": "La nostra camera è al terzo ___, quindi prendiamo l'ascensore.",
+      "options": [
+        "floor",
+        "wall",
+        "corner",
+        "ceiling"
+      ],
+      "answer": 0,
+      "why": "On the third floor means at the third level of the building. Wall, corner and ceiling are parts of a room.",
+      "why_it": "On the third floor significa al terzo piano. Wall, corner e ceiling sono parti di una stanza."
+    },
+    {
+      "type": "fill",
+      "q": "It was so ___ in the city centre on Saturday. There were people everywhere.",
+      "q_it": "Sabato in centro era così affollato. C'era gente dappertutto.",
+      "answers": [
+        "crowded"
+      ],
+      "hint": "c _ _ _ _ _ _",
+      "why": "Crowded describes a place full of people.",
+      "why_it": "Crowded descrive un posto pieno di gente."
+    },
+    {
+      "type": "fill",
+      "q": "We forgot our umbrellas and got ___ in the rain. Our clothes were wet through.",
+      "q_it": "Abbiamo dimenticato gli ombrelli e ci siamo bagnati fradici sotto la pioggia.",
+      "answers": [
+        "soaked",
+        "soaking wet"
+      ],
+      "hint": "s _ _ _ _ _",
+      "why": "Soaked means extremely wet.",
+      "why_it": "Soaked significa bagnatissimo."
+    },
+    {
+      "type": "fill",
+      "q": "Look at those dark clouds and listen to the wind. A big ___ is coming.",
+      "q_it": "Guarda quelle nuvole scure e senti il vento. Sta arrivando un grosso temporale.",
+      "answers": [
+        "storm"
+      ],
+      "hint": "s _ _ _ _",
+      "why": "A storm is bad weather with strong wind and rain.",
+      "why_it": "Storm è maltempo con vento forte e pioggia."
+    },
+    {
+      "type": "mcq",
+      "q": "After years alone in a new city, she felt very ___.",
+      "q_it": "Dopo anni da sola in una nuova città, si sentiva molto ___.",
+      "options": [
+        "bright",
+        "lonely",
+        "valid",
+        "flexible"
+      ],
+      "answer": 1,
+      "why": "Lonely means sad because you are alone. Bright describes light, valid describes tickets and flexible describes plans or fares.",
+      "why_it": "Lonely significa triste perché si è soli. Bright descrive la luce, valid i biglietti, flexible piani o tariffe."
+    },
+    {
+      "type": "mcq",
+      "q": "What is small talk?",
+      "q_it": "Cos'è lo small talk?",
+      "options": [
+        "A conversation with a small child.",
+        "A short phone call to the doctor.",
+        "Polite conversation about easy topics, such as the weather.",
+        "A talk about a small problem at work."
+      ],
+      "answer": 2,
+      "why": "Small talk is light, polite chat with people we do not know well. It does not depend on age, place or the size of a problem.",
+      "why_it": "Lo small talk è una chiacchierata leggera e cortese con persone che non conosciamo bene. Non dipende dall'età, dal luogo o dalla gravità di un problema."
+    },
+    {
+      "type": "mcq",
+      "q": "A friend says 'Let's meet on Friday at eight.' You reply 'Sounds like a plan.' What do you mean?",
+      "q_it": "Un amico dice di vedervi venerdì alle otto. Rispondi 'Sounds like a plan.' Cosa intendi?",
+      "options": [
+        "I don't understand your idea.",
+        "It looks like it will rain.",
+        "I am not free on Friday.",
+        "I agree. That's a good idea."
+      ],
+      "answer": 3,
+      "why": "Sounds like a plan is a friendly way to accept a suggestion.",
+      "why_it": "Sounds like a plan è un modo amichevole di accettare una proposta."
+    },
+    {
+      "type": "fill",
+      "q": "A: I'm sorry, I can't come on Saturday. B: ___ enough. Maybe next weekend.",
+      "q_it": "A: Mi dispiace, sabato non posso venire. B: Giusto. Magari il weekend prossimo.",
+      "answers": [
+        "fair",
+        "Fair"
+      ],
+      "hint": "f _ _ _",
+      "why": "Fair enough means that is reasonable, I accept it.",
+      "why_it": "Fair enough significa è ragionevole, va bene."
+    },
+    {
+      "type": "mcq",
+      "q": "A ship is...",
+      "q_it": "Una ship è...",
+      "options": [
+        "a big boat that travels on the sea.",
+        "a storm at sea.",
+        "a place to buy tickets.",
+        "a kind of wind."
+      ],
+      "answer": 0,
+      "why": "Ship is a large boat. It is a word from the song Starlight, with starlight and far away.",
+      "why_it": "Ship è una grande nave, parola della canzone Starlight, insieme a starlight e far away."
+    },
+    {
+      "type": "fill",
+      "q": "Soon you will ___ in love with this beautiful city.",
+      "q_it": "Presto ti innamorerai di questa bellissima città.",
+      "answers": [
+        "fall"
+      ],
+      "hint": "f _ _ _",
+      "why": "To fall in love is the fixed phrase (fall, fell, fallen).",
+      "why_it": "Fall in love è l'espressione fissa (fall, fell, fallen)."
+    },
+    {
+      "type": "fill",
+      "q": "The sun was ___ brightly over the sea this morning.",
+      "q_it": "Stamattina il sole splendeva sul mare.",
+      "answers": [
+        "shining"
+      ],
+      "hint": "shine",
+      "why": "To shine is to give light. After was we need the -ing form: was shining.",
+      "why_it": "To shine è emettere luce. Dopo was serve la forma in -ing: was shining."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Chiedi un posto finestrino.",
+      "words": [
+        "Could",
+        "I",
+        "have",
+        "a",
+        "window",
+        "seat",
+        "please"
+      ],
+      "answers": [
+        "Could I have a window seat please"
+      ],
+      "why": "A polite request: Could I have... please. A window seat is next to the window; an aisle seat is next to the corridor.",
+      "why_it": "Richiesta gentile: Could I have... please. Window seat è il posto vicino al finestrino, aisle seat quello corridoio."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Chiedi una taglia più piccola.",
+      "words": [
+        "Do",
+        "you",
+        "have",
+        "this",
+        "shirt",
+        "in",
+        "a",
+        "smaller",
+        "size"
+      ],
+      "answers": [
+        "Do you have this shirt in a smaller size"
+      ],
+      "why": "Do you have this in a smaller size is the shop question for another size of a clothes item.",
+      "why_it": "Do you have this in a smaller size è la domanda da negozio per un'altra taglia."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Dici che forse non vi siete mai conosciuti.",
+      "words": [
+        "I",
+        "don't",
+        "think",
+        "we've",
+        "met",
+        "before"
+      ],
+      "answers": [
+        "I don't think we've met before"
+      ],
+      "why": "I don't think we've met is a polite way to start talking to someone at a party.",
+      "why_it": "I don't think we've met è un modo cortese per iniziare a parlare con qualcuno a una festa."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Ti serve un biglietto di andata e ritorno.",
+      "words": [
+        "I'd",
+        "like",
+        "a",
+        "return",
+        "ticket",
+        "to",
+        "Manchester",
+        "please"
+      ],
+      "answers": [
+        "I'd like a return ticket to Manchester please"
+      ],
+      "why": "I'd like is the polite way to ask for something. A return ticket is there and back.",
+      "why_it": "I'd like è il modo cortese di chiedere qualcosa. Return ticket è andata e ritorno."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Una frase per fare small talk sul tempo.",
+      "words": [
+        "Awful",
+        "weather",
+        "isn't",
+        "it"
+      ],
+      "answers": [
+        "Awful weather isn't it"
+      ],
+      "why": "Awful weather, isn't it? is a typical small talk sentence with a question tag.",
+      "why_it": "Awful weather, isn't it? è una tipica frase di small talk con una question tag."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Indichi dove si trova la farmacia.",
+      "words": [
+        "The",
+        "pharmacy",
+        "is",
+        "next",
+        "to",
+        "the",
+        "bank"
+      ],
+      "answers": [
+        "The pharmacy is next to the bank"
+      ],
+      "why": "Next to means at the side of something, very close to it.",
+      "why_it": "Next to significa accanto, vicinissimo a qualcosa."
+    },
+    {
+      "type": "mcq",
+      "q": "It's freezing outside. ___ your coat before you go out.",
+      "q_it": "Fuori si gela. ___ il cappotto prima di uscire.",
+      "options": [
+        "Take off",
+        "Put on",
+        "Turn off",
+        "Break down"
+      ],
+      "answer": 1,
+      "why": "Put on is to wear something. Take off is the opposite, turn off is for machines and lights, break down is for machines that stop working.",
+      "why_it": "Put on è indossare. Take off è il contrario, turn off è per macchine e luci, break down è per macchine che si guastano."
+    },
+    {
+      "type": "mcq",
+      "q": "The plane ___ ten minutes late because of the fog.",
+      "q_it": "L'aereo è decollato con dieci minuti di ritardo a causa della nebbia.",
+      "options": [
+        "got off",
+        "put on",
+        "took off",
+        "broke down"
+      ],
+      "answer": 2,
+      "why": "Take off also means when a plane leaves the ground. Got off is for leaving a bus or a train, and planes do not break down on the ground in this sentence.",
+      "why_it": "Take off significa anche decollare. Got off è scendere da un bus o treno, mentre broke down significa guastarsi."
+    },
+    {
+      "type": "mcq",
+      "q": "Our car ___ on the motorway, so we waited for the garage.",
+      "q_it": "La nostra macchina si è ___ in autostrada, così abbiamo aspettato il garage.",
+      "options": [
+        "set off",
+        "gave up",
+        "looked after",
+        "broke down"
+      ],
+      "answer": 3,
+      "why": "Break down is when a vehicle stops working. The garage came to help, so something went wrong with the car.",
+      "why_it": "Break down è quando un veicolo smette di funzionare. È arrivato il garage, quindi la macchina aveva un guasto."
+    },
+    {
+      "type": "mcq",
+      "q": "I don't know what 'soaked' means. I'll ___ in my dictionary.",
+      "q_it": "Non so cosa significa 'soaked'. Lo cercherò nel dizionario.",
+      "options": [
+        "look it up",
+        "find it out",
+        "look it after",
+        "pick it up"
+      ],
+      "answer": 0,
+      "why": "Look up is to search for information. Find out cannot be separated and means to discover a fact, so find it out is wrong.",
+      "why_it": "Look up è cercare un'informazione. Find out non si separa e significa scoprire, quindi find it out è sbagliato."
+    },
+    {
+      "type": "mcq",
+      "q": "Who is going to ___ the baby while you are at work?",
+      "q_it": "Chi si occuperà del bambino mentre sei al lavoro?",
+      "options": [
+        "look up",
+        "look after",
+        "wake up",
+        "get off"
+      ],
+      "answer": 1,
+      "why": "Look after means take care of. Wake up would mean stop him sleeping.",
+      "why_it": "Look after significa prendersi cura di. Wake up significherebbe svegliarlo."
+    },
+    {
+      "type": "mcq",
+      "q": "Which sentence is correct?",
+      "q_it": "Quale frase è corretta?",
+      "options": [
+        "I'll pick up you at eight.",
+        "I'll pick at eight you up.",
+        "I'll pick you up at eight.",
+        "I'll up pick you at eight."
+      ],
+      "answer": 2,
+      "why": "Pick up is separable. With a pronoun the pronoun goes in the middle: pick you up. Pick up you is not possible.",
+      "why_it": "Pick up è separabile. Con un pronome, il pronome va in mezzo: pick you up. Pick up you non è possibile."
+    },
+    {
+      "type": "fill",
+      "q": "I usually ___ at six on weekdays, but at the weekend I sleep late.",
+      "q_it": "Di solito mi alzo alle sei nei giorni feriali, ma nel weekend dormo fino a tardi.",
+      "answers": [
+        "get up"
+      ],
+      "hint": "get / up",
+      "why": "Get up is to leave your bed after sleeping. The habit needs the present simple.",
+      "why_it": "Get up è alzarsi dal letto. L'abitudine richiede il present simple."
+    },
+    {
+      "type": "fill",
+      "q": "We ___ at five in the morning to avoid the traffic.",
+      "q_it": "Siamo partiti alle cinque del mattino per evitare il traffico.",
+      "answers": [
+        "set off",
+        "set out"
+      ],
+      "hint": "set / off",
+      "why": "Set off is to start a journey.",
+      "why_it": "Set off è mettersi in viaggio."
+    },
+    {
+      "type": "fill",
+      "q": "I'm really ___ ___ ___ the holiday. Only three days to go!",
+      "q_it": "Non vedo l'ora che arrivi la vacanza. Mancano solo tre giorni!",
+      "answers": [
+        "looking forward to"
+      ],
+      "hint": "look / forward / to",
+      "why": "Look forward to means to be happy about something that will happen. After to we use a noun or an -ing form.",
+      "why_it": "Look forward to significa non vedere l'ora. Dopo to si usa un nome o la forma in -ing."
+    },
+    {
+      "type": "fill",
+      "q": "Don't ___ ! You will pass the exam if you keep studying.",
+      "q_it": "Non arrenderti! Passerai l'esame se continui a studiare.",
+      "answers": [
+        "give up"
+      ],
+      "hint": "give / up",
+      "why": "Give up means stop trying. The imperative uses the base form.",
+      "why_it": "Give up significa smettere di provarci. L'imperativo usa la forma base."
+    },
+    {
+      "type": "fill",
+      "q": "Can you ___ ___ what time the museum opens? Look on the website.",
+      "q_it": "Puoi scoprire a che ora apre il museo? Guarda sul sito.",
+      "answers": [
+        "find out"
+      ],
+      "hint": "find / out",
+      "why": "Find out is to discover a fact or get information.",
+      "why_it": "Find out è scoprire un fatto o ottenere informazioni."
+    },
+    {
+      "type": "fill",
+      "q": "Shall we ___ ___ for dinner tonight? I don't want to cook.",
+      "q_it": "Usciamo a cena stasera? Non ho voglia di cucinare.",
+      "answers": [
+        "go out"
+      ],
+      "hint": "go / out",
+      "why": "Go out is to leave your home to do something social. Shall we + base form.",
+      "why_it": "Go out è uscire di casa per fare qualcosa con altri. Shall we + forma base."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Dici che tuo padre ti ha lasciato alla stazione.",
+      "words": [
+        "Dad",
+        "dropped",
+        "me",
+        "off",
+        "at",
+        "the",
+        "station"
+      ],
+      "answers": [
+        "Dad dropped me off at the station"
+      ],
+      "why": "Drop off is separable: the pronoun me goes in the middle. Past simple of drop: dropped.",
+      "why_it": "Drop off è separabile: il pronome me va in mezzo. Past simple di drop: dropped."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Racconti che siete scesi alla fermata sbagliata.",
+      "words": [
+        "We",
+        "got",
+        "off",
+        "the",
+        "bus",
+        "at",
+        "the",
+        "wrong",
+        "stop"
+      ],
+      "answers": [
+        "We got off the bus at the wrong stop"
+      ],
+      "why": "Get off is for leaving a bus, a train or a plane. Past simple: got off.",
+      "why_it": "Get off si usa per scendere da bus, treno o aereo. Past simple: got off."
+    },
+    {
+      "type": "order",
+      "q": "Put the words in order.",
+      "q_it": "Chiedi di essere svegliato alle sette.",
+      "words": [
+        "Wake",
+        "me",
+        "up",
+        "at",
+        "seven",
+        "please"
+      ],
+      "answers": [
+        "Wake me up at seven please"
+      ],
+      "why": "Wake up is separable and takes the pronoun in the middle: wake me up.",
+      "why_it": "Wake up è separabile e il pronome va in mezzo: wake me up."
+    }
+  ],
+  "cards": [
+    {
+      "id": "c1",
+      "en": "boarding card",
+      "it": "carta d'imbarco",
+      "ex": "Show your boarding card at the gate."
+    },
+    {
+      "id": "c2",
+      "en": "delayed",
+      "it": "in ritardo",
+      "ex": "Our flight is delayed."
+    },
+    {
+      "id": "c3",
+      "en": "prescription",
+      "it": "ricetta medica",
+      "ex": "I need a prescription for this medicine."
+    },
+    {
+      "id": "c4",
+      "en": "bill",
+      "it": "conto",
+      "ex": "Could we have the bill, please?"
+    },
+    {
+      "id": "c5",
+      "en": "return ticket",
+      "it": "biglietto di andata e ritorno",
+      "ex": "A return to Leeds, please."
+    },
+    {
+      "id": "c6",
+      "en": "small talk",
+      "it": "chiacchiere di circostanza",
+      "ex": "We made small talk about the weather."
+    },
+    {
+      "id": "c7",
+      "en": "soaked",
+      "it": "bagnato fradicio",
+      "ex": "I got soaked in the rain."
+    },
+    {
+      "id": "c8",
+      "en": "crowded",
+      "it": "affollato",
+      "ex": "The station was very crowded."
+    }
+  ]
+}

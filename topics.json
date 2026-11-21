@@ -276,6 +276,11 @@
           "label": "Weekly check: test 1",
           "label_it": "Verifica: test 1",
           "date": "2026-11-21"
+        },
+        {
+          "label": "Weekly check: test 2",
+          "label_it": "Verifica: test 2",
+          "date": "2026-11-22"
         }
       ]
     },

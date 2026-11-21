@@ -180,6 +180,15 @@
     "exercises": 45
   },
   {
+    "id": "2026-11-22",
+    "title": "Weekly check: test 2 (vocabulary and phrasal verbs)",
+    "title_it": "Verifica della settimana: test 2 (vocabolario e phrasal verbs)",
+    "goal": "Check the words and phrases of the last three weeks and the phrasal verbs of 9 and 16 November: 30 vocabulary questions and 15 phrasal verb questions. 45 points.",
+    "goal_it": "Verificare le parole e le frasi delle ultime tre settimane e i phrasal verbs del 9 e del 16 novembre: 30 domande di vocabolario e 15 sui phrasal verbs. 45 punti.",
+    "minutes": 50,
+    "exercises": 45
+  },
+  {
     "id": "phrasal-2026-11-09",
     "kind": "phrasal",
     "week": "2026-11-09",
